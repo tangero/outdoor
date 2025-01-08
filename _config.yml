@@ -3,13 +3,13 @@ baseurl: "/outdoor"
 url: "https://tangero.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Outdoor Gear                                   # site's title
-description: "Where your outdoor adventure meets the gear"      # used by search engines
+title: Buitenuitrusting                             # site's title
+description: "Uitrusting voor reizen en avontuur"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Uitrusting voor reizen en avontuur  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
@@ -29,16 +29,8 @@ google_analytics:                                       # Measurement ID, e.g. "
 cookie_consent: false                                   # To respect the usage of cookies
 color_theme: auto                                       # auto, dark or light
 
-# Comments options
-comments:
-  disqus_shortname:                                     # Your discus shortname for comments
-  cusdis_app_id:                                        # Your cusdis data-app-id
-  utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
-    repo:                                               # your public comments repository (e.g. owner/repo)
-    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
-
 # PAGINATION
-paginate: 5
+paginate: 10
 paginate_path: "/blog/page:num"
 
 # PORTFOLIO
