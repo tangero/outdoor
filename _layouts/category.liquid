@@ -11,24 +11,24 @@ layout: page
                 {{ content }}
             </div>
 
-<!-- Seznam článků v rubrice -->
-<p>Rubrika: {{ page.name }} 1 {{ post.categories }} 2 {{ page.path }}</p>
+    <!-- Získání názvu adresáře -->
+    {% assign current_category = page.path | split: '/' | first %}
 
-        {% assign rubrika_clanky = site.posts | where: "categories", page.name %}
-        {% if rubrika_clanky.size > 0 %}
-        <div class="category-groups">
-            <h2>Články v rubrice</h2>
-            <div class="items">
-                {% for post in rubrika_clanky %}
-                    <a href="{{ post.url | relative_url }}" class="category-post-link">
-                        <div class="item">
-                            <p class="meta">{{ post.date | date: site.data.language.str_date_format | default: '%B %-d, %Y' }}</p>
-                            <p class="title">{{ post.title }}</p>
-                        </div>
-                    </a>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
+    <!-- Seznam článků v aktuální kategorii -->
+    {% assign articles = site.posts | where: "categories", current_category %}
+    {% if articles.size > 0 %}
+    <div class="category-articles">
+        <h2>Články v rubrice</h2>
+        <ul>
+            {% for post in articles %}
+            <li>
+                <a href="{{ post.url | relative_url }}">
+                    <h3>{{ post.title }}</h3>
+                    <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
     </div>
+    {% endif %}
 </div>
