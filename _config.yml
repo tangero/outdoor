@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "" # pokud není potřeba podadresář
+baseurl: "/outdoor" # pokud není potřeba podadresář
 url: "http://localhost:4000" # základní URL při lokálním vývoji
 lang: "cs"
 
@@ -10,7 +10,7 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Výbavu na trail, do hor, do přírody? Poradíme!  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
