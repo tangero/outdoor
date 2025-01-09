@@ -18,7 +18,7 @@ layout: page
     {% assign articles = site.posts | where: "categories", current_category %}
     {% if articles.size > 0 %}
     <div class="category-articles">
-        <h2>Články v rubrice</h2>
+        <h2>👇 {{ current_category }} a další zkušenosti </h2>
         <ul>
             {% for post in articles %}
             <li>
