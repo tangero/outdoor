@@ -2,7 +2,7 @@
 layout: post
 title: "Zkušenosti s batohem Gregory Paragon 58"
 categories: "batohy"
-feature-img: "assets/img/feature-img/circuit.jpeg"
+feature-img: "assets/img/feature-img/backpack.jpg"
 ---
 
 # Zkušenosti s batohem Gregory Paragon 58
