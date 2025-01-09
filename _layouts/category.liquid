@@ -12,6 +12,8 @@ layout: page
             </div>
 
 <!-- Seznam článků v rubrice -->
+<p>{{ page.name }}</p>
+
         {% assign rubrika_clanky = site.posts | where: "categories", page.name %}
         {% if rubrika_clanky.size > 0 %}
         <div class="category-groups">
