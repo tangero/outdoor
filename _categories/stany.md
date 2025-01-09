@@ -1,4 +1,3 @@
-Výběr správného stanu pro cesty do přírody je klíčovým faktorem pro úspěšný a pohodlný pobyt v přírodě. Tato studie se zaměří na různé aspekty výběru stanu, od krátkých výletů až po dlouhé expedice, a zohlední rozdílné povětrnostní podmínky.
 ---
 layout: category
 title: "Stany"
