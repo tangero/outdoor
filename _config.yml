@@ -1,10 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: "" # pokud není potřeba podadresář
+url: "http://localhost:4000" # základní URL při lokálním vývoji
+lang: "cs"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
+title: DoPrirody.cz                                     # site's title
+description: "Výbava na outdoor a cesty do přírody"     # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
@@ -23,7 +24,7 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 # Features
 # More in the _data folder for share buttons, author and language
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
-katex: true                                             # Enable if using math markup
+katex: false                                            # Enable if using math markup
 mermaid: default                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
 google_analytics:                                       # Measurement ID, e.g. "G-00000"
 cookie_consent: false                                   # To respect the usage of cookies

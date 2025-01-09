@@ -23,6 +23,24 @@ layout: default
     <div id="main" class="call-out call-out_img">
         <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
     </div>
-    {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
-    {{ _blog | split: " " | join: " "}}
+
+    <div class="rubriky">
+        <h2>Rubriky</h2>
+        <div class="categories">
+            {% for rubrika in site.data.rubriky %}
+            <div class="category">
+                <a href="/{{ rubrika.name }}/">
+                    <img src="{{ rubrika.icon }}" alt="{{ rubrika.title }}">
+                    <span>{{ rubrika.title }}</span>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="blog">
+        <h2>Články</h2>
+        {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
+        {{ _blog | split: " " | join: " "}}
+    </div>
 </div>

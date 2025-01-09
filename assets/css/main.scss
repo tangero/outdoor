@@ -1,4 +1,29 @@
 ---
 ---
 
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.category {
+    text-align: center;
+    width: 120px;
+}
+
+.category img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    border: 2px solid #ddd;
+}
+
+.category span {
+    display: block;
+    margin-top: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
 @import "type-on-strap";

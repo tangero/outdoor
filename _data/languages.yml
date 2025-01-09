@@ -1,0 +1,21 @@
+languages:
+  cs:
+    domain: "cs.example.com"
+    ftp:
+      host: "ftp.example.com"
+      username: "ftpuser"
+      password: "ftppassword"
+  en:
+    domain: "en.example.com"
+    ftp:
+      host: "ftp.example.com"
+      username: "ftpuser"
+      password: "ftppassword"
+
+translations:
+  batohy:
+    cs: "Batohy"
+    en: "Backpacks"
+  stany:
+    cs: "Stany"
+    en: "Tents"
