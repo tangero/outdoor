@@ -9,6 +9,8 @@ feature-img: "assets/img/feature-img/circuit.jpeg"
 
 Gregory Paragon 58 je oblíbený turistický batoh, který získal mnoho pozitivních ohlasů, ale má i své nedostatky. Pojďme se podrobněji podívat na jeho vlastnosti a zkušenosti uživatelů, které jsem pro vás vybral z českých i zahraničních recenzí.
 
+![Gregory Paragon 58](/assets/posts/gregory-paragon-58.jpg)
+
 ## Komfort a nastavitelnost
 
 Jednou z nejvíce vyzdvihovaných vlastností je pohodlí při nošení. Batoh nabízí:
