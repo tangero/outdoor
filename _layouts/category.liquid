@@ -23,8 +23,8 @@ layout: page
             {% for post in articles %}
             <li>
                 <a href="{{ post.url | relative_url }}">
-                    <h3>{{ post.title }}</h3>
-                    <p class="meta">{{ post.date | date: "%-d.%-m.%Y" }}</p>
+                    <h3>{{ post.title }} - {{ post.date | date: "%-d.%-m.%Y" }}</h3>
+                
                 </a>
             </li>
             {% endfor %}
