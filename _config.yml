@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/outdoor" # pokud není potřeba podadresář
+baseurl: "" # pokud není potřeba podadresář
 url: "http://localhost:4000" # základní URL při lokálním vývoji
 lang: "cs"
 
