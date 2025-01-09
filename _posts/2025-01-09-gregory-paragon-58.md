@@ -59,18 +59,4 @@ Ve srovnání s podobnými modely jako Osprey Exos 58 nabízí Paragon 58 robust
 
 ## Závěr
 
-Gregory Paragon 58 je všestranný a pohodlný batoh vhodný pro vícedenní túry. Vyniká nastavitelností, pohodlím a praktickými funkcemi. Jeho hlavními nevýhodami jsou vyšší hmotnost a potenciální problémy s ventilací zad. Celkově jde o kvalitní batoh, který uspokojí většinu turistů hledajících spolehlivé vybavení pro delší výpravy. Je ideální volbou pro ty, kteří preferují robustnější konstrukci a více funkcí před extrémně nízkou hmotností.
-
-Zdroje
-[1] Gregory Paragon 58 Reviews - Trailspace https://www.trailspace.com/gear/gregory/paragon-58/ 
-[2] ProView - Gregory Paragon 58 - The Link - Gear Reviews https://blog.outdoorprolink.com/proview-gregory-paragon-58/
-[3] The Fantastic Gregory Paragon 58: An Unparalleled Review https://lifeinutopia.com/gregory-paragon-58-review
-[4] Cairngorm Treks Review - Gregory Paragon 58 Backpack https://ultralightoutdoorgear.co.uk/blog/cairngorm-treks-review-gregory-paragon-58-backpack-f0b0eb/
-[5] Gregory Paragon 58 Review - This Expansive Adventure https://www.thisexpansiveadventure.com/blog/hiking/best-waterproof-hiking-backpacks/gregory-paragon-58/
-[6] Anyone have experience with Gregory Paragon 58/68L pack? - Reddit https://www.reddit.com/r/CampingGear/comments/f4dsjh/anyone_have_experience_with_gregory_paragon_5868l/
-[7] Gregory 2020 Paragon 58 vs 2020 Hulu 55 : r/CampingGear - Reddit https://www.reddit.com/r/CampingGear/comments/gt5e4e/gregory_2020_paragon_58_vs_2020_hulu_55/
-[8] Gregory Paragon 58 Backpack Review - Switchback Travel https://www.switchbacktravel.com/reviews/gregory-paragon
-[9] Gregory Paragon 58 Vs Osprey Exos 58 - Camp Hike Live California https://camphikelivecalifornia.com/gregory-paragon-58-vs-osprey-exos-58/
-[10] Expert Review: Gregory Paragon 58 Backpack- Men's | Curated.com https://www.curated.com/journal/2132000/expert-review-gregory-paragon-58-backpack-men-s
-[11] Gregory Paragon 58 Review - Feature Rich Backpack For Men https://mountainsforeverybody.com/gregory-paragon-58-review
-[12] Gregory Paragon 68 Review | Tested & Rated - Outdoor Gear Lab https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacks-backpacking/gregory-paragon-68
+Gregory Paragon 58 je všestranný a pohodlný batoh vhodný pro vícedenní túry. Vyniká nastavitelností, pohodlím a praktickými funkcemi. Jeho hlavními nevýhodami jsou vyšší hmotnost a potenciální problémy s ventilací zad, jenže zrovna ta ventilace je silně subjektivní. Celkově jde o kvalitní batoh, který uspokojí většinu turistů hledajících spolehlivé vybavení pro delší výpravy. Je ideální volbou pro ty, kteří preferují robustnější konstrukci a více funkcí před extrémně nízkou hmotností.
