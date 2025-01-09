@@ -12,7 +12,7 @@ layout: page
             </div>
 
 <!-- Seznam článků v rubrice -->
-<p>Rubrika: {{ page.name }}{{ category }}</p>
+<p>Rubrika: {{ page.name }} 1 {{ post.categories }} 2 {{ page.categories }}</p>
 
         {% assign rubrika_clanky = site.posts | where: "categories", page.name %}
         {% if rubrika_clanky.size > 0 %}
