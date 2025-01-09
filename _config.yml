@@ -29,6 +29,14 @@ google_analytics:                                       # Measurement ID, e.g. "
 cookie_consent: false                                   # To respect the usage of cookies
 color_theme: auto                                       # auto, dark or light
 
+collections: 
+  posts:
+    output: true
+    permalink: /item/:title/
+  batohy:
+    output: true
+    permalink: /batohy/:title/
+
 # PAGINATION
 paginate: 10
 paginate_path: "/blog/page:num"
