@@ -1,29 +1,30 @@
 ---
 ---
 
-.categories {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
+        /* Stylování pro sekci rubrik */
+        .categories {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
 
-.category {
-    text-align: center;
-    width: 120px;
-}
+        .category {
+            text-align: center;
+            width: 120px;
+        }
 
-.category img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 50%;
-    border: 2px solid #ddd;
-}
+        /* Odstranění zakulacení obrázků */
+        .category img {
+            max-width: 100%;
+            height: auto;
+            border: none; /* Odstranění rámečku */
+        }
 
-.category span {
-    display: block;
-    margin-top: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
-}
+        .category span {
+            display: block;
+            margin-top: 10px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
 
 @import "type-on-strap";

@@ -1,7 +1,7 @@
 - name: "batohy"
   title: "Batohy"
-  icon: "/assets/icons/batohy.svg"
+  icon: "/assets/icon/backpack.svg"
 
 - name: "stany"
   title: "Stany"
-  icon: "/assets/icons/stany.svg"
+  icon: "/assets/icon/tent.svg"
