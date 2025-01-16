@@ -6,7 +6,9 @@ feature-img: "assets/img/feature-img/backpack.jpg"
 thmubnail: "/assets/posts/osprey-talon-22l.webp"
 ---
 
-Osprey Talon 22 je oblíbený batoh pro jednodenní túry a každodenní použití. Zde je shrnutí názorů uživatelů, včetně výhod a nevýhod:
+Osprey Talon 22 je oblíbený batoh pro jednodenní túry a každodenní použití. Je optimalizovaný do přírody, na cesty po městě se příliš nehodí.
+
+Zde je shrnutí názorů uživatelů, včetně výhod a nevýhod:
 
 ## Výhody
 
