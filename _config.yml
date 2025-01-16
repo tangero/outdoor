@@ -49,7 +49,6 @@ collections:
     permalink: /:collection/:name/
     folder: _categories
 
-
 # BUILD SETTINGS
 sass:
   style: compressed

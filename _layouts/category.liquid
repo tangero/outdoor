@@ -12,7 +12,7 @@ layout: page
             </div>
 
     <!-- Získání názvu adresáře -->
-    {% assign current_category = page.path | split: '/' | first %}
+    {% assign current_category = page.name %}
 
     <!-- Seznam článků v aktuální kategorii -->
     {% assign articles = site.posts | where: "categories", current_category %}

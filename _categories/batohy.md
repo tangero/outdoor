@@ -3,6 +3,7 @@ layout: category
 title: "Batohy"
 description: "Jak vybrat ten správný batoh na vaše cesty."
 name: "batohy"
+permalink: /batohy/
 ---
 
 

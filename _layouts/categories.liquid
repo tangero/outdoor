@@ -5,25 +5,28 @@ layout: page
 <div class="home">
     <div id="categories">
         <section class="bg"></section>
+        
+        <!-- Seznam kategorií jako odkazy -->
         <ul class="category-clouds">
             {% for category in site.categories %}
-                <a href="#{{ category | first | cgi_escape }}" class="category-anchor">
+                {% assign category_name = category | first %}
+                <a href="#{{ category_name | escape }}" class="category-anchor">
                     <li>
-                        {{ category | first }} 
-                        <!-- {{ category | last | size | times: 100 | divided_by: site.tags.size | plus: 50 | divided_by: 100.0 }} -->
-                        <!-- <span class="category-number">{{ category | last | size }}</span> -->
+                        {{ category_name }}
                     </li>
                 </a>
             {% endfor %}
         </ul>
+
+        <!-- Seznam článků v jednotlivých kategoriích -->
         <div class="category-groups">
             {% for category in site.categories %}
+                {% assign group = category | first %}
                 <div class="category-group">
-                    {% capture group %}{{ category | first }}{% endcapture %}
                     <h4 id="{{ group }}" class="title">
                         {{ group }}
                         {% if page.showCounts %}
-                            ({{site.categories[group].size}})
+                            ({{ site.categories[group].size }})
                         {% endif %}
                     </h4>
                     <div class="items">
