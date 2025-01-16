@@ -66,7 +66,7 @@ Pro celodenní výlety hledejte batohy s těmito funkcemi:
 - Odolné zipy a přezky pro časté používání.
 
 #### Jaké konkrétní modely batohů zvážit pro jednodenní túry?
-- Osprey Talon 22: Lehký a flexibilní, vhodný pro sportovní aktivity i turistiku.
+- [Osprey Talon 22](/batohy/osprey-talon-22/): Lehký a flexibilní, vhodný pro sportovní aktivity i turistiku.
 - Deuter Speed Lite 24: Ultralehký s minimalistickým designem, ideální pro rychlé túry.
 - Gregory Maven 35: Dámský batoh s precizní ergonomií a nízkou hmotností.
 - The North Face Banchee 20: Dobře organizovaný, vhodný na kratší celodenní výlety.
@@ -85,9 +85,11 @@ Pro víkendové nebo vícedenní túry jsou důležité tyto vlastnosti:
 #### Jaké konkrétní modely batohů se hodí na vícedenní výpravy?
 - Osprey Exos 48: Lehký batoh s prodyšným zádovým systémem, ideální pro rychlé vícedenní výlety.
 - Deuter Futura Vario 50+10: Vynikající ventilace a pohodlné nošení díky systému Aircomfort.
-- Gregory Paragon 58: Skvělá rovnováha mezi nízkou hmotností a kapacitou, vhodný pro delší výpravy.
-- Patagonia Nine Trails 36L: Flexibilní a odolný batoh, ideální na túry s lehkým nákladem.
-- Lowe Alpine AirZone Trek 45:55: Výborné odvětrávání a stabilita, ideální pro treky v teplém počasí.
+- [Gregory Paragon 58](/batohy/gregory-paragon-58/): Skvělá rovnováha mezi nízkou hmotností a kapacitou, vhodný pro delší výpravy.
+- [Patagonia Nine Trails 36L](/batohy/patagonia-nine-trails-36l/): Flexibilní a odolný batoh, ideální na túry s lehkým nákladem.
+- [Lowe Alpine AirZone Trek 45:55](/batohy/lowe-alpine-airzone-trek-45-55/): Výborné odvětrávání a stabilita, ideální pro treky v teplém počasí.
+
+**Osobní zkušenost:** když vezmete velký batoh, tak ho narvete stejně po okraj, jako narvete menší batoh. Sám chodím i na týdenní tůry v létě se stanem, spacákem a nafukovací karimatkou a nacpu se do 38 litrů. Ale když si vezmu pětapadesátku, tak ji našpalu taky až po strop a jen se s tím na zádech tahám. Ale jasně, nebudete mi to věřit a koupíte si větší. A až se s tím budete tahat, tak si koupíte ještě menší. Nebo mi to uvěříte a koupíte si malý a budete nadávat, že s tím máte problémy a koupíte si větší. Tak jako tak budete mít dva batohy minimálně ... 😎
 
 ### Dlouhé expedice
 

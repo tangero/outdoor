@@ -5,3 +5,9 @@
 - name: "stany"
   title: "Stany"
   icon: "/assets/icon/tent.svg"
+
+- name: "boty"
+  title: "Boty"
+  icon: "/assets/icon/boots.svg"  
+
+## Obrázky beru z   https://www.svgrepo.com/
