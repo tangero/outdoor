@@ -10,4 +10,8 @@
   title: "Boty"
   icon: "/assets/icon/boots.svg"  
 
+- name: "karimatky" 
+  title: "Karimatky"
+  icon: "/assets/icon/matt2.svg"
+
 ## Obrázky beru z   https://www.svgrepo.com/
