@@ -1,14 +1,17 @@
 ---
 layout: page
-title: About
+title: O webu
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Proč web Vybavení do přírody?
 
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Protože často hledám nějaké vybavení na cesty a do přírody. Zjistím si o tom mraky informací a pak je mám v Evernote jako poznámku. A od toho zpřístupnit poznámku ostatním už je pak jen krok. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Není to tady žádné denní zpravodajství z outdooru, ale prostor, kde si sumarizuji, co potřebuju vědět k vybavení do outdooru a kdykoliv se k tomu vrátit. Je to tu bez okecávaček, bez zdržování, přímo na komoru. Občas stručné, ale mělo by vás to naťuknout, pokud potřebujete něco dalšího, co byste asi tak mohli hledat. 
+
+Snad vám web pomůže. 
+
+Patrick Zandl

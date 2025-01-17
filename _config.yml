@@ -46,7 +46,7 @@ paginate_path: "/blog/page:num"
 collections:
   categories:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:name/
     folder: _categories
 
 # BUILD SETTINGS
