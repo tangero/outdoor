@@ -10,6 +10,10 @@ permalink: /batohy/
 
 Výběr správného batohu je opravdu důležitým momentem cest do přírody. Když vás bude tlačit nebo se věci do něj nevejdou, zkazí vám to celou cestu. Ať už plánujete krátký jednodenní výlet nebo několikadenní expedici, kvalitní batoh vám může ušetřit spoustu nepříjemností a zajistit, že si svůj pobyt v přírodě skutečně užijete. Tento článek nabízí kompletní průvodce výběrem ideálního batohu pro vaše potřeby. A jednu věc si řekněme na rovinu: neexistuje univerzální batoh, který dobře obslouží všechny vaše potřeby. Smiřte se s tím, že pokud budete více cestovat, budete potřebovat batohů více. Tři batohy nejsou nic nenormálního, naopak to znamená, že pro každou situaci můžete zvolit vhodný batoh... 
 
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
+
 ## Základní faktory při výběru batohu
 
 ### 1. Účel a délka cesty
