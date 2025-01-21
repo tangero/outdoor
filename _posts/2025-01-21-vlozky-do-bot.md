@@ -2,7 +2,7 @@
 layout: post
 title: "Vložky do bot - aby bylo v botě pohodlně"
 categories: "boty"
-feature-img: "/assets/img/feature-img/backpack.jpg"
+feature-img: "/assets/img/feature-img/vlozky.png"
 thmubnail: "/assets/posts/superfeet-trailblazer.png"
 ---
 
