@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Stratos 36: Batoh pro celodenní túry s důrazem na ventilaci zad"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/product/image/1440/Stratos-36-S21-Charcoal-Grey.png
+thumbnail: https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/p/o/pol_pl_plecak-trekkingowy-meski-osprey-stratos-36-seaweed-matcha-green-76463_2.jpg
 vaha: 1400
 objem: 36
 material: 210D Nylon High Tenacity / 450D Nylon Packcloth
@@ -16,7 +16,7 @@ proti: Vyšší hmotnost než ultralehké modely, boční kapsy méně přístup
 
 Batoh Osprey Stratos 36 je navržen pro náročnější celodenní túry nebo vícedenní přechody s lehkou výbavou. Cílí na turisty, kteří potřebují spolehlivý batoh s dobrou nosností, ale zároveň ocení prodyšnost při delším pohybu v terénu. Jeho hlavní předností je systém **AirSpeed Suspension**, který kombinuje prodyšnou konstrukci s nastavitelným zádovým systémem. Oproti konkurenci (např. Deuter Futura nebo Gregory Zulu) klade větší důraz na odvětrávání zad, což z něj dělá oblíbenou volbu pro letní podmínky.
 
-![Osprey Stratos 24, Osprey Stratos 36, Osprey Stratos 48](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product/image/1440/Stratos-36-S21-Charcoal-Grey.png)
+![Osprey Stratos 24, Osprey Stratos 36, Osprey Stratos 48](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/p/o/pol_pl_plecak-trekkingowy-meski-osprey-stratos-36-seaweed-matcha-green-76463_2.jpg)
 
 #### Klíčové parametry a technologie
 - **Zádový systém AirSpeed Suspension**: Síťovaná konstrukce s mezerou mezi zády a tělem batohu minimalizuje pocení. 

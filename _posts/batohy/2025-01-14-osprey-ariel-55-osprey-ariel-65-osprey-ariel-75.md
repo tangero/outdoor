@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Ariel 65: Kapacitně univerzální batoh pro náročné treky"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: "https://www.osprey.com/product-images/Ariel-65/Ariel-65-22/OS7936_Ariel65_22_Thunderhead_Blue_FRONT.png"
+thumbnail: "https://www.nakaoutdoors.com.ar/img/articulos/2021/02/osprey_ariel_65_6_imagen9.jpg"
 vaha: 1940
 objem: 65
 material: 420D nylon, 210D nylon (spodní část)
@@ -15,7 +15,7 @@ proti: Vyšší hmotnost než ultralehké modely, cena nad průměrem segmentu, 
 ### Osprey Ariel 65: Kapacitně univerzální batoh pro náročné treky
 Batoh Osprey Ariel 65 je určen pro vícedenní treky, kde je potřeba nést větší množství vybavení bez kompromisů v komfortu. Díky objemu 65 litrů a ergonomickému zádovému systému se hodí pro cestovatele, kteří preferují stabilitu a odvětrání i při delším zatížení (15–25 kg). Mezi uživateli je oblíbený pro svou variabilitu – nabízí možnost rozšíření pomocí externích úchytů a přizpůsobení anatomie pomocí nastavitelného zádového panelu. Ostatní modely řady (Ariel 55 a 75) se liší hlavně kapacitou: 55 litrů je vhodné pro kratší expedice nebo lehcejší vybavení, zatímco 75 litrů cílí na specializované expedice s potřebou většího nosného objemu.
 
-![Osprey Ariel 55, Osprey Ariel 65, Osprey Ariel 75](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product-images/Ariel-65/Ariel-65-22/OS7936_Ariel65_22_Thunderhead_Blue_FRONT.png)
+![Osprey Ariel 55, Osprey Ariel 65, Osprey Ariel 75](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.nakaoutdoors.com.ar/img/articulos/2021/02/osprey_ariel_65_6_imagen9.jpg)
 
 ### Klíčové parametry a jejich zhodnocení
 - **Zádový systém Anti-Gravity**: Tkaný panel s prodyšnou síťovinou minimalizuje kontakt se zády a rozkládá váhu na kyčle. Nastavitelná délka zad (S–XL) umožňuje personalizaci.

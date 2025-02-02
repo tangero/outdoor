@@ -3,7 +3,7 @@ layout: post
 title: Osprey Skarab 30 – lehký batoh pro celodenní túry s důrazem na ventilaci
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/cdn/shop/files/Skarab30_DeepTeal_Back_3_4.jpg
+thumbnail: https://img1.outdoor-magazin.com/OD-0419-Rucksack-Osprey-Skarab-30-Skimmer-28-png--169FullWidth-876401ca-1442187.png
 vaha: 1040
 objem: 30
 material: 210D High Tenacity Nylon
@@ -15,7 +15,7 @@ proti: Menší odolnost proti opotřebení než batohy s 500D materiálem, limit
 ### Osprey Skarab 30 – lehký batoh pro celodenní túry s důrazem na ventilaci
 Batohy Osprey Skarab 18, 22 a 30 jsou navrženy pro jednodenní až vícedenní výlety s důrazem na odvětrávání zad a minimální hmotnost. Nejprodávanější Skarab 30 je ideální pro turisty, kteří potřebují univerzální batoh s dostatkem prostoru pro vrstvy oblečení, vybavení a hydrataci. Menší modely (18 a 22 litrů) se hodí pro kratší túry nebo jako doplňkový batoh pro leteckou dopravu. 
 
-![Osprey Skarab 18, Osprey Skarab 22, Osprey Skarab 30](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/files/Skarab30_DeepTeal_Back_3_4.jpg)
+![Osprey Skarab 18, Osprey Skarab 22, Osprey Skarab 30](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://img1.outdoor-magazin.com/OD-0419-Rucksack-Osprey-Skarab-30-Skimmer-28-png--169FullWidth-876401ca-1442187.png)
 
 ### Klíčové parametry a technologie
 - **Zádový systém AirScape**: Třívrstvá konstrukce s pěnovou vložkou a síťovinou zajišťuje odvětrání i při vyšší zátěži. Oproti konkurenci (např. Deuter Speed Lite) je méně strukturovaný, ale lépe odvádí vlhkost.

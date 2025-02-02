@@ -3,7 +3,7 @@ layout: post
 title: Osprey Kyte 36 a 46 – Batohy s nastavitelným zádovým systémem pro vícedenní túry
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/product-images/KYTE-36/KYTE-36-FRONTFULL-MOUNTAINGREY.jpg
+thumbnail: https://www.trekitt.co.uk/images/products/archive/k/ky/kyte_36_s19_side_icelake_green_web.jpg?width=1920&format=webp
 vaha: 1500
 objem: 36
 material: 210D nylonová ripstop, 420HD nylon
@@ -16,7 +16,7 @@ proti: Vyšší hmotnost proti ultraleicht modelům, omezené boční přístupo
 
 Osprey Kyte 36 je nejprodávanější model v řadě, určený pro vícedenní trekking s nosností do 14 kg. Jeho silnou stránkou je kombinace nastavitelného zádového systému Anti-Gravity a logického členění prostoru. Kyte 46 nabízí větší objem pro delší expedice, ale zachovává stejnou konstrukci. Oba batohy jsou optimalizovány pro ženskou anatomii – užší ramenní popruhy a tvarovaný bederní pás. Popularitu si získaly díky ventilaci zad a univerzálnímu využití na středně náročné trasy.
 
-![Osprey Kyte 36, Osprey Kyte 46](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product-images/KYTE-36/KYTE-36-FRONTFULL-MOUNTAINGREY.jpg)
+![Osprey Kyte 36](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.trekitt.co.uk/images/products/archive/k/ky/kyte_36_s19_side_icelake_green_web.jpg?width=1920&format=webp)
 
 ## Klíčové parametry a konstrukce
 - **Zádový systém Anti-Gravity**: Pěnové lamely přiléhají k zádům bez tlakových bodů. Umožňuje nastavení délky torsa (S/M nebo M/L).

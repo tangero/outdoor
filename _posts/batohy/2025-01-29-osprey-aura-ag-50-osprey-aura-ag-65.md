@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Aura AG 65: Pohodlný batoh pro vícedenní treky s adaptivním zádovým systémem"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/product-images/AURA-AG-65/AURA-AG-65-F15-HERO.jpg
+thumbnail: https://www.bfgcdn.com/1500_1500_90/502-3241-0111/osprey-womens-aura-ag-65-trekkingrucksack.jpg
 vaha: 2060
 objem: 65
 material: 210D Nylon High Tenacity, 420HD Nylon Packcloth
@@ -16,7 +16,7 @@ proti: Vyšší hmotnost než konkurence, absence integrovaného deštníku.
 
 Batoh Osprey Aura AG 65 je určen pro turistky a dobrodružky, které vyhledávají pohodlí při dlouhých trecích. Jeho hlavní předností je zádový systém Anti-Gravity (AG), který kombinuje prodyšnou síťovinu s anatomicky tvarovanými pěnovými vložkami. Tento model je nejprodávanější ve své kategorii díky schopnosti rovnoměrně rozložit zátěž i při plném objemu 65 litrů. Osprey Aura AG 50 nabízí stejné technologie, ale s menším objemem (50 l) a nižší hmotností (1930 g), což ocení ti, kdo preferují kratší výpravy nebo minimalistické balení.
 
-![Osprey Aura AG 50, Osprey Aura AG 65](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product-images/AURA-AG-65/AURA-AG-65-F15-HERO.jpg)
+![Osprey Aura AG 50, Osprey Aura AG 65](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bfgcdn.com/1500_1500_90/502-3241-0111/osprey-womens-aura-ag-65-trekkingrucksack.jpg)
 
 ### Klíčové parametry a technologie  
 - **Zádový systém Anti-Gravity**: Páteřová konstrukce z hliníkových tyčí a prodyšná síťovina minimalizují kontakt batohu se zády, což zlepšuje ventilaci.  

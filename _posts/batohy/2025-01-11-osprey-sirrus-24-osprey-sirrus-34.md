@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Osprey Sirrus 24: Pohodlný batoh pro celodenní túry s ventilovaným zádovým systémem
+title: Osprey Sirrus 24 - Pohodlný batoh pro celodenní túry s ventilovaným zádovým systémem
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/cdn/shop/files/s24_sirrus_24_women_web_1.jpg
+thumbnail: https://www.bobssportschalet.com/prodimages/34615-RUSKA_PURPLE-l.jpg
 vaha: 1200
 objem: 24
 material: 210D Nylon High Tenacity
@@ -16,7 +16,7 @@ proti: Vyšší hmotnost než ultralehké modely, chybí boční přístup do hl
 
 Osprey Sirrus 24 je navržen pro celodenní túry a aktivní uživatelky, které preferují organizaci a pohodlí. Díky ventilovanému zádovému systému AirSpeed a nastavitelnému podbradkovému pásku se hodí pro náročnější terény. Sirrus 34 nabízí větší kapacitu (34 l) a prodloužený rám pro lepší stabilitu při vyšší zátěži. Hlavní rozdíly oproti 24l verzi jsou delší popruhy na bederním pásu a dodatečná kapsa na spodní straně batohu.
 
-![Osprey Sirrus 24, Osprey Sirrus 34](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/files/s24_sirrus_24_women_web_1.jpg)
+![Osprey Sirrus 24, Osprey Sirrus 34](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bobssportschalet.com/prodimages/34615-RUSKA_PURPLE-l.jpg)
 
 ### Klíčové parametry a technologie
 - **Zádový systém AirSpeed**: Síťovaná konstrukce s mezerou mezi zády a batohem zajišťuje odvětrávání. Hliníkový rám přenáší váhu na bederní pás.

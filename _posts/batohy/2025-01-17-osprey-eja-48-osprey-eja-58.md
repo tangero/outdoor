@@ -3,7 +3,7 @@ layout: post
 title: Osprey Eja 58 – lehký batoh s variabilním objemem pro vícedenní treky
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/cdn/shop/files/ejapacks58_2023_skyblue_2_360x.jpg
+thumbnail: https://www.outside.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/s/osprey-w-eja-58-rucksack-10004030-deep-teal-0-s22.jpg
 vaha: 1260
 objem: 58
 material: Nylon 100D (hlavní část), 210D High Tenacity Nylon (spodní část)
@@ -16,7 +16,7 @@ proti: Chybí boční přístup k hlavnímu úložnému prostoru, nižší poče
 
 Osprey Eja 58 patří mezi středně velké batohy navržené pro vícedenní túry s důrazem na ergonomii a variabilitu. Primárně cílí na ženy hledající lehkou, ale odolnou konstrukci s propracovaným systémem odvětrávání. Jeho popularita vychází z kombinace nízké váhy (1,26 kg) a kapacity dostatečné pro 3–5denní výpravy v mírném podnebí.
 
-![Osprey Eja 58](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/files/ejapacks58_2023_skyblue_2_360x.jpg)
+![Osprey Eja 58](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.outside.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/s/osprey-w-eja-58-rucksack-10004030-deep-teal-0-s22.jpg)
 
 ### Klíčové parametry a technologie
 

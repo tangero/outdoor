@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Exos 48: Lehký batoh s odvětráním pro vícedenní treky"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: "https://cdn.osprey.com/osp_media/asset/dam/osprey/product/2023/2023-04/EXOS48_23_EXOS_48_LUPINE_BLUE_ANGLE.jpg"
+thumbnail: "https://www.bfgcdn.com/1500_1500_90/503-0624-0211/osprey-exos-48-mountaineering-backpack.jpg"
 vaha: 1040
 objem: 48
 material: "100D nylon (hlavní část), 210D nylon (zesílené partie)"
@@ -18,7 +18,7 @@ Osprey Exos 48 je určen pro turisty, kteří hledají kompromis mezi nízkou va
 
 Exos 58 nabízí stejné technologie, ale s objemem 58 litrů a váhou 1,16 kg. Rozdíl je v delším torzu a širším bederním pásu, což ocení vyšší jedinci nebo ti, kteří potřebují více prostoru pro zimní vybavení. Oba modely sdílejí stejnou konstrukci dna s zesíleným nylonem 210D.
 
-![Osprey Exos 48, Osprey Exos 58](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.osprey.com/osp_media/asset/dam/osprey/product/2023/2023-04/EXOS48_23_EXOS_48_LUPINE_BLUE_ANGLE.jpg)
+![Osprey Exos 48, Osprey Exos 58](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bfgcdn.com/1500_1500_90/503-0624-0211/osprey-exos-48-mountaineering-backpack.jpg)
 
 ### Klíčové parametry a technologie
 

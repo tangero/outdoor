@@ -3,7 +3,7 @@ layout: post
 title: Osprey Talon 33 - Lehký a univerzální batoh pro vícedenní výlety
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/cdn/shop/products/Talon33_Deep_Teal_Back_3-4_1.jpg
+thumbnail: https://www.ldmountaincentre.com/images/osprey-talon-33-p63799-341036_zoom.jpg
 vaha: 1200
 objem: 33
 material: 100D x 150D nylon dobřeřezený
@@ -15,7 +15,7 @@ proti: Menší odolnost v extrémních podmínkách, tenčí popruhy při plném
 ### Osprey Talon 33: Lehký a univerzální batoh pro vícedenní výlety
 Osprey Talon 33 patří mezi nejoblíbenější modely v řadě díky kombinaci nízké hmotnosti a dostatečného objemu pro 2–3 denní túry. Je určen pro turisty, kteří preferují rychlý pohyb v terénu bez zbytečné zátěže. Silnou stránkou je ventilovaný zádový systém AirSpeed, který minimalizuje pocení, a intuitivní organizace vybavení. Oproti konkurenci vyniká propracovaným systémem úchytu holí Stow-on-the-Go a kompaktním designem.
 
-![Osprey Talon 33](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/products/Talon33_Deep_Teal_Back_3-4_1.jpg)
+![Osprey Talon 33](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.ldmountaincentre.com/images/osprey-talon-33-p63799-341036_zoom.jpg)
 
 ### Klíčové parametry a technologie
 - **Zádový systém AirSpeed:** Síťovaná konstrukce s odstupem od zad zajišťuje průvan i při vyšších teplotách. Nosnost batohu je optimalizována pro zátěž do 12 kg.

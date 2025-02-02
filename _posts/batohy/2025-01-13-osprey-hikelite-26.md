@@ -3,7 +3,7 @@ layout: post
 title: Osprey Hikelite 26 – Lehký turistický batoh s odvětrávaným zádovým systémem
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.osprey.com/cdn/shop/products/Hikelite26_Black_1024x1024.jpg
+thumbnail: https://www.bfgcdn.com/1500_1500_90/502-7144-0511/osprey-hikelite-26-wanderrucksack.jpg
 vaha: 790
 objem: 26
 material: 100D nylon s 210D Diamond Jacquard
@@ -16,7 +16,7 @@ proti: Minimální polstrovaní bederního pásu, menší boční kapsy na láhv
 
 Osprey Hikelite 26 patří mezi nejoblíbenější modely pro jednodenní túry a městské cestování díky kombinaci nízké hmotnosti a funkčního designu. Je určen pro turisty, kteří preferují rychlé výpravy bez zbytečné zátěže, ale zároveň potřebují spolehlivé odvětrání zad. Batoh se prosadil zejména u uživatelů hledajících kompromis mezi kapacitou a kompaktností. Ostatní varianty řady Hikelite (např. 18L nebo 30L) se liší především objemem – menší model postrádá boční přístupovou kapsu, větší 30L nabízí rozšířený úložný prostor pro delší výlety.
 
-![Osprey Hikelite 26](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/products/Hikelite26_Black_1024x1024.jpg)
+![Osprey Hikelite 26](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bfgcdn.com/1500_1500_90/502-7144-0511/osprey-hikelite-26-wanderrucksack.jpg)
 
 #### Klíčové parametry a technologie
 - **Zádový systém AirSpeed**: Síťovaná konstrukce s vyklenutým rámem zajišťuje odstup od zad a cirkulaci vzduchu. Systém je nastavitelný v délce 40–50 cm, což vyhovuje většině výšek postavy.
