@@ -15,7 +15,7 @@ proti: "Vyšší hmotnost, limitované externí úchyty, vyšší cena."
 ### Osprey Atmos AG 65: Batoh pro vícedenní treky s efektivní ventilací zad
 Osprey Atmos AG 65 je určen pro turisty, kteří vyžadují komfort a ergonomii při náročných vícedenních výpravách. Jeho hlavní předností je **Anti-Gravity zádový systém**, který kombinuje prodyšnost s rozložením zátěže. Cílovou skupinou jsou zejména turisté preferující delší treky v různých terénech, kde je klíčové minimalizovat pocit zatížení. Oblibu si batoh získal díky vyváženému kompromisu mezi nosností, odvětráním a organizací vybavení.
 
-![Osprey Atmos AG 65](https://www.glacier-national-park-travel-guide.com/wp-content/uploads/2015/03/Osprey-Atmos-65-AG-EX-Pack-.jpg)
+![Osprey Atmos AG 65](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_450,h_450,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/deepseek.jpghttps://www.glacier-national-park-travel-guide.com/wp-content/uploads/2015/03/Osprey-Atmos-65-AG-EX-Pack-.jpg)
 
 ### Klíčové parametry a technologie
 - **Zádový systém Anti-Gravity**: Síťovaná konstrukce s pružnými panely minimalizuje kontakt s tělem a zajišťuje průchod vzduchu. 
