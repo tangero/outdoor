@@ -37,11 +37,11 @@ Osprey Atmos AG 65 je určen pro turisty, kteří vyžadují komfort a ergonomii
 
 ### Srovnání s konkurencí
 
-| Model                | Hmotnost (g) | Ventilace zad | Externí úchyty | Cena (Kč) |
-|----------------------|--------------|---------------|----------------|-----------|
-| Osprey Atmos AG 65   | 2040         | Anti-Gravity  | omezené        | 5 990     |
-| Deuter Aircontact Lite 65+10 | 1890     | Aircomfort    | boční šňůry    | 5 200     |
-| Gregory Baltoro 65    | 2200         | Response A3   | boční kapsy    | 6 100     |
+| Model                          | Hmotnost (g) | Ventilace zad | Externí úchyty | Cena (Kč) |
+|--------------------------------|--------------|---------------|----------------|-----------|
+| Osprey Atmos AG 65             | 2040         | Anti-Gravity  | omezené        | 5 990     |
+| Deuter Aircontact Lite 65\+10   | 1890         | Aircomfort    | boční šňůry    | 5 200     |
+| Gregory Baltoro 65             | 2200         | Response A3   | boční kapsy    | 6 100     |
 
 ### Pro koho je batoh ideální?
 - Pro turisty, kteří absolvují **vícedenní treky** a potřebují univerzální batoh s výbornou ventilací.

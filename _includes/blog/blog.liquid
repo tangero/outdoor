@@ -7,7 +7,7 @@
         {% if post.thumbnail %}
         <div class="post-img">
             <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
-                <img alt="{{ post.title }}" src="{{ post.thumbnail | relative_url }}">
+                <img alt="{{ post.title }}" src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_250,h_250,c_fill,g_auto,f_auto,q_auto/{{ post.thumbnail | absolute_url }}">
             </a>
         </div>
         {% endif %}
