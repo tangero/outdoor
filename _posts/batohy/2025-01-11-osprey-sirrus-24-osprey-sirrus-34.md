@@ -3,7 +3,7 @@ layout: post
 title: Osprey Sirrus 24: Pohodlný batoh pro celodenní túry s ventilovaným zádovým systémem
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/files/s24_sirrus_24_women_web_1.jpg
+thumbnail: https://www.osprey.com/cdn/shop/files/s24_sirrus_24_women_web_1.jpg
 vaha: 1200
 objem: 24
 material: 210D Nylon High Tenacity

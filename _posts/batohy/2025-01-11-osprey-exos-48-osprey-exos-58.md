@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Exos 48: Lehký batoh s odvětráním pro vícedenní treky"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: "https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.osprey.com/osp_media/asset/dam/osprey/product/2023/2023-04/EXOS48_23_EXOS_48_LUPINE_BLUE_ANGLE.jpg"
+thumbnail: "https://cdn.osprey.com/osp_media/asset/dam/osprey/product/2023/2023-04/EXOS48_23_EXOS_48_LUPINE_BLUE_ANGLE.jpg"
 vaha: 1040
 objem: 48
 material: "100D nylon (hlavní část), 210D nylon (zesílené partie)"

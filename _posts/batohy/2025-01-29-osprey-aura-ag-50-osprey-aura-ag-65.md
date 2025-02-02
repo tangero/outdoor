@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Aura AG 65: Pohodlný batoh pro vícedenní treky s adaptivním zádovým systémem"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product-images/AURA-AG-65/AURA-AG-65-F15-HERO.jpg
+thumbnail: https://www.osprey.com/product-images/AURA-AG-65/AURA-AG-65-F15-HERO.jpg
 vaha: 2060
 objem: 65
 material: 210D Nylon High Tenacity, 420HD Nylon Packcloth

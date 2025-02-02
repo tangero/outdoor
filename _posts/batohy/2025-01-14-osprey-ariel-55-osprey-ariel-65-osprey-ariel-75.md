@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Ariel 65: Kapacitně univerzální batoh pro náročné treky"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: "https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product-images/Ariel-65/Ariel-65-22/OS7936_Ariel65_22_Thunderhead_Blue_FRONT.png"
+thumbnail: "https://www.osprey.com/product-images/Ariel-65/Ariel-65-22/OS7936_Ariel65_22_Thunderhead_Blue_FRONT.png"
 vaha: 1940
 objem: 65
 material: 420D nylon, 210D nylon (spodní část)

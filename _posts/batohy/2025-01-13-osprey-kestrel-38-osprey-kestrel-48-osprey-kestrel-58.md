@@ -3,7 +3,7 @@ layout: post
 title: Osprey Kestrel 48 – univerzální batoh pro vícedenní trekking s regulovatelným zádovým systémem
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://i.pinimg.com/originals/1d/33/99/1d3399177b93a4769ae3ee53b8e3f6de.jpg
+thumbnail: https://i.pinimg.com/originals/1d/33/99/1d3399177b93a4769ae3ee53b8e3f6de.jpg
 vaha: 1850
 objem: 48
 material: 210D Nylon High Tenacity, 420HD Nylon Packcloth

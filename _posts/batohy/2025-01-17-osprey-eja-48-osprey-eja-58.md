@@ -3,7 +3,7 @@ layout: post
 title: Osprey Eja 58 – lehký batoh s variabilním objemem pro vícedenní treky
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/files/ejapacks58_2023_skyblue_2_360x.jpg
+thumbnail: https://www.osprey.com/cdn/shop/files/ejapacks58_2023_skyblue_2_360x.jpg
 vaha: 1260
 objem: 58
 material: Nylon 100D (hlavní část), 210D High Tenacity Nylon (spodní část)

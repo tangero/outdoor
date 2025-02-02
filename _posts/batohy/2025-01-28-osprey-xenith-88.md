@@ -3,7 +3,7 @@ layout: post
 title: Osprey Xenith 88 – vysokokapacitní batoh s pokročilou ventilací zádového systému
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product-image/zenith-88/XENITH88_21_ZENITH88_ANTIMATTERGRAY_BLACK.png
+thumbnail: https://www.osprey.com/product-image/zenith-88/XENITH88_21_ZENITH88_ANTIMATTERGRAY_BLACK.png
 vaha: 2470
 objem: 88
 material: 420HD nylon

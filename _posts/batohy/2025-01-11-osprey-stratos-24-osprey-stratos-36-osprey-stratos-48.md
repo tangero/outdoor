@@ -3,7 +3,7 @@ layout: post
 title: "Osprey Stratos 36: Batoh pro celodenní túry s důrazem na ventilaci zad"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product/image/1440/Stratos-36-S21-Charcoal-Grey.png
+thumbnail: https://www.osprey.com/product/image/1440/Stratos-36-S21-Charcoal-Grey.png
 vaha: 1400
 objem: 36
 material: 210D Nylon High Tenacity / 450D Nylon Packcloth

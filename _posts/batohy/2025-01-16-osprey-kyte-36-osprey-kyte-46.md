@@ -3,7 +3,7 @@ layout: post
 title: Osprey Kyte 36 a 46 – Batohy s nastavitelným zádovým systémem pro vícedenní túry
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/product-images/KYTE-36/KYTE-36-FRONTFULL-MOUNTAINGREY.jpg
+thumbnail: https://www.osprey.com/product-images/KYTE-36/KYTE-36-FRONTFULL-MOUNTAINGREY.jpg
 vaha: 1500
 objem: 36
 material: 210D nylonová ripstop, 420HD nylon

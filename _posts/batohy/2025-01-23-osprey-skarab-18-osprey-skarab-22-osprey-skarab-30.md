@@ -3,7 +3,7 @@ layout: post
 title: Osprey Skarab 30 – lehký batoh pro celodenní túry s důrazem na ventilaci
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/files/Skarab30_DeepTeal_Back_3_4.jpg
+thumbnail: https://www.osprey.com/cdn/shop/files/Skarab30_DeepTeal_Back_3_4.jpg
 vaha: 1040
 objem: 30
 material: 210D High Tenacity Nylon

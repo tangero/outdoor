@@ -3,7 +3,7 @@ layout: post
 title: Osprey Hikelite 26 – Lehký turistický batoh s odvětrávaným zádovým systémem
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.osprey.com/cdn/shop/products/Hikelite26_Black_1024x1024.jpg
+thumbnail: https://www.osprey.com/cdn/shop/products/Hikelite26_Black_1024x1024.jpg
 vaha: 790
 objem: 26
 material: 100D nylon s 210D Diamond Jacquard
