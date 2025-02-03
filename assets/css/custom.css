@@ -29,6 +29,12 @@ body {
 }
 
 /* Výpis článků */
+.posts {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
 .post-teaser {
     background: white;
     border-radius: 8px;
@@ -37,9 +43,6 @@ body {
     overflow: hidden;
     transition: transform 0.2s ease;
     padding: 1.5rem;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .post-teaser:hover {
@@ -49,7 +52,6 @@ body {
 .post-teaser-layout {
     display: flex;
     align-items: flex-start;
-    margin-bottom: 2rem;
     flex-wrap: nowrap;
     gap: 1.5rem;
 }
@@ -57,16 +59,13 @@ body {
 .post-title {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.2rem !important;
-    color: var(--primary-color);
+    color: var(--text-color);
     margin: 0 0 1rem 0;
     text-align: left;
 }
 
 .post-image-container {
     flex: 0 0 250px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .post-image-container img {
@@ -80,6 +79,7 @@ body {
 .post-excerpt {
     flex: 1;
     min-width: 0;
+    line-height: 1.6;
 }
 
 /* Kategorie na hlavní stránce */
