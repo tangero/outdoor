@@ -1,7 +1,71 @@
+/* Základní barevné proměnné */
+:root {
+    --primary-color: #2E5A35;
+    --secondary-color: #8B4513;
+    --accent-color: #5F9EA0;
+    --background-color: #F5F5DC;
+    --text-color: #333333;
+}
+
+/* Základní styly */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+}
+
+/* Hlavička */
+.site-header {
+    background-color: var(--primary-color);
+    padding: 2rem 0;
+}
+
+.site-header .header-text {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+/* Výpis článků */
+.post-teaser {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+    overflow: hidden;
+    transition: transform 0.2s ease;
+}
+
+.post-teaser:hover {
+    transform: translateY(-5px);
+}
+
+.post-teaser-layout {
+    padding: 1.5rem;
+    display: flex;
+    gap: 2rem;
+}
+
+.post-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+.post-image-container img {
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+/* Kategorie na hlavní stránce */
 .home-categories {
-    max-width: 850px;  /* nebo jakoukoli jinou hodnotu odpovídající šířce hlavního obsahu */
-    margin: 0 auto;    /* pro horizontální centrování */
-    padding: 2rem 0;   /* pro vertikální odstup */
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .home-categories h2 {
@@ -12,7 +76,7 @@
 .category-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
+    gap: 1.5rem;
     justify-content: center;
 }
 
@@ -93,12 +157,6 @@ article.feature-image .title {
     align-items: center;
 }
 
-.post-image-container img {
-    width: 100%; /* obrázek bude mít šířku 250px */
-    height: auto;
-    display: block;
-}
-
 .post-excerpt {
     flex: 1;
 }
@@ -107,4 +165,17 @@ article.feature-image .title {
 .post-title {
     font-size: 14px !important;
     margin: 0.5rem 0;
+}
+
+/* Tlačítka a odkazy */
+.button {
+    background-color: var(--accent-color);
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+.button:hover {
+    background-color: darken(var(--accent-color), 10%);
 } 

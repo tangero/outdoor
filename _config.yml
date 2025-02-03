@@ -28,7 +28,7 @@ katex: false                                            # Enable if using math m
 mermaid: default                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
 google_analytics:                                       # Measurement ID, e.g. "G-00000"
 cookie_consent: false                                   # To respect the usage of cookies
-color_theme: auto                                       # auto, dark or light
+color_theme: light                                       # auto, dark or light
 
 # Comments options
 comments:
@@ -55,7 +55,9 @@ sass:
   quiet_deps: true
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
-extra_css: ["/assets/css/custom.css"]
+extra_css: 
+  - "/assets/css/custom.css"
+  - "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Open+Sans:wght@400;600&display=swap"
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
