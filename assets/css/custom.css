@@ -1,6 +1,6 @@
 /* Základní barevné proměnné */
 :root {
-    --primary-color: #2E5A35;
+    --primary-color: #F5F5DC;
     --secondary-color: #8B4513;
     --accent-color: #5F9EA0;
     --background-color: #F5F5DC;
@@ -17,15 +17,15 @@ body {
 
 /* Hlavička */
 .site-header {
-    background-color: var(--primary-color);
+    background-color: white !important;
     padding: 2rem 0;
 }
 
 .site-header .header-text {
-    color: white;
+    color: var(--primary-color) !important;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    text-shadow: none;
 }
 
 /* Výpis článků */
@@ -145,7 +145,7 @@ article.feature-image .title {
     display: flex;
     align-items: flex-start;
     margin-bottom: 2rem;
-    width: 400px !important;
+    width: 600px !important;
     flex-wrap: nowrap;
 }
 
@@ -163,7 +163,7 @@ article.feature-image .title {
 
 /* Zmenšení nadpisu pro příspěvky */
 .post-title {
-    font-size: 14px !important;
+    font-size: 0.8rem !important;
     margin: 0.5rem 0;
 }
 
