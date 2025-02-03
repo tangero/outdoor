@@ -105,6 +105,6 @@ article.feature-image .title {
 
 /* Zmenšení nadpisu pro příspěvky */
 .post-title {
-    font-size: 1rem; /* nastavení menší velikosti písma */
+    font-size: 14px; /* nastavení menší velikosti písma */
     margin: 0.5rem 0;
 } 
