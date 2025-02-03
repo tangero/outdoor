@@ -37,7 +37,7 @@ body {
     overflow: hidden;
     transition: transform 0.2s ease;
     padding: 1.5rem;
-    max-width: 600px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
