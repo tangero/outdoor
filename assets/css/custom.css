@@ -81,7 +81,7 @@ article.feature-image .title {
     display: flex;
     align-items: flex-start;
     margin-bottom: 2rem;
-    width: 100%;
+    width: 400px;
     flex-wrap: nowrap;
 }
 
@@ -105,6 +105,6 @@ article.feature-image .title {
 
 /* Zmenšení nadpisu pro příspěvky */
 .post-title {
-    font-size: 1.5rem; /* nastavení menší velikosti písma */
+    font-size: 1rem; /* nastavení menší velikosti písma */
     margin: 0.5rem 0;
 } 
