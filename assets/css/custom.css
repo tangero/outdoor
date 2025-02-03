@@ -101,4 +101,10 @@ article.feature-image .title {
 
 .post-excerpt {
     flex: 1;
+}
+
+/* Zmenšení nadpisu pro příspěvky */
+.post-title {
+    font-size: 1.5rem; /* nastavení menší velikosti písma */
+    margin: 0.5rem 0;
 } 
