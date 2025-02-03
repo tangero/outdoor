@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deuter Guide 40+: univerzální batoh pro vícedenní túry s variabilním zádovým systémem
+title: "Deuter Guide 40+: univerzální batoh pro vícedenní túry s variabilním zádovým systémem"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.deuter.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/3/2/32102200310_gui40_21.jpg

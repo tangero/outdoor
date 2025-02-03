@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Deuter Futura 42 – univerzální turistický batoh s ergonomickým odvětráním
+title: "Deuter Futura 42 – univerzální turistický batoh s ergonomickým odvětráním"
 categories: "batohy"
+model: "Deuter Futura 42"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.deuter.com/media/image/0b/13/0c/40607-9999_Deuter-Futura-42-SL_Black_05.jpg
 vaha: 2030

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deuter AirContact Lite 45 SL: Pohodlný batoh pro vícedenní trekking s variabilním nastavením zádového systému
+title: "Deuter AirContact Lite 45 SL: Pohodlný batoh pro vícedenní trekking s variabilním nastavením zádového systému"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/D/E/DEUT01389_01.jpg

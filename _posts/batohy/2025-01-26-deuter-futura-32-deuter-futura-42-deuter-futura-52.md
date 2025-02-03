@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deuter Futura 42: Prostorný batoh s odvětrávaným zádovým systémem pro vícedenní túry
+title: "Deuter Futura 42: Prostorný batoh s odvětrávaným zádovým systémem pro vícedenní túry"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bhphotovideo.com/images/images1000x1000/deuter_sport_34294_3370_futura_pro_42_backpack_1171759.jpg
