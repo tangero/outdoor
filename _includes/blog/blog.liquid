@@ -18,13 +18,7 @@
                 {% endif %}
             </div>
             <div class="post-excerpt">
-                {% if site.excerpt or site.theme_settings.excerpt %}
-                    {% if site.excerpt == "truncate" %}
-                        <p>{{ post.content | strip_html | truncate: '250' | escape }}</p>
-                    {% else %}
-                        <p>{{ post.excerpt | strip_html | escape }}</p>
-                    {% endif %}
-                {% endif %}
+                <p>{{ post.excerpt | default: post.content | strip_html | truncate: '250' | escape }}</p>
             </div>
         </div>
     </div>

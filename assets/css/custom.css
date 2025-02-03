@@ -81,10 +81,12 @@ article.feature-image .title {
     display: flex;
     align-items: flex-start;
     margin-bottom: 2rem;
+    width: 100%;
+    flex-wrap: nowrap;
 }
 
 .post-image-container {
-    width: 250px; /* fixní šířka pro obrázek a nadpis */
+    flex: 0 0 250px; /* fixní šířka pro obrázek a nadpis */
     margin-right: 1rem;
     display: flex;
     flex-direction: column;
