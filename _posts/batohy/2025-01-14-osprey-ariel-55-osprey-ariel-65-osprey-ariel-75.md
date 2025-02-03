@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Osprey Ariel 65: Kapacitně univerzální batoh pro náročné treky"
+model: "Osprey Ariel 65"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.nakaoutdoors.com.ar/img/articulos/2021/02/osprey_ariel_65_6_imagen9.jpg"

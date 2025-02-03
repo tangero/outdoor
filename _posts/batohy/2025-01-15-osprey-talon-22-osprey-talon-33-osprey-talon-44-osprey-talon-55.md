@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osprey Talon 33 - Lehký a univerzální batoh pro vícedenní výlety
+model: Osprey Talon 33
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.ldmountaincentre.com/images/osprey-talon-33-p63799-341036_zoom.jpg

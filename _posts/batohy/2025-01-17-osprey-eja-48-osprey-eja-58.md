@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osprey Eja 58 – lehký batoh s variabilním objemem pro vícedenní treky
+model: Osprey Eja 58
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.outside.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/s/osprey-w-eja-58-rucksack-10004030-deep-teal-0-s22.jpg

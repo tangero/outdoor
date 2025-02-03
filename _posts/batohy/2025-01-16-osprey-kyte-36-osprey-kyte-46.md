@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osprey Kyte 36 a 46 – Batohy s nastavitelným zádovým systémem pro vícedenní túry
+model: Osprey Kyte 36 a 46
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.trekitt.co.uk/images/products/archive/k/ky/kyte_36_s19_side_icelake_green_web.jpg?width=1920&format=webp

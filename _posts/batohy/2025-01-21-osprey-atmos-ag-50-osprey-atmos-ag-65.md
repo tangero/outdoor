@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Osprey Atmos AG 65: Batoh pro vícedenní treky s efektivní ventilací zad"
+model: "Osprey Atmos AG 65"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.glacier-national-park-travel-guide.com/wp-content/uploads/2015/03/Osprey-Atmos-65-AG-EX-Pack-.jpg"

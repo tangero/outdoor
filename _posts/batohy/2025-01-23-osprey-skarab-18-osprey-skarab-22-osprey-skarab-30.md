@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osprey Skarab 30 – lehký batoh pro celodenní túry s důrazem na ventilaci
+model: Osprey Skarab 30
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://img1.outdoor-magazin.com/OD-0419-Rucksack-Osprey-Skarab-30-Skimmer-28-png--169FullWidth-876401ca-1442187.png

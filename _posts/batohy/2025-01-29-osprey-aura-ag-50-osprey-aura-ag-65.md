@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Osprey Aura AG 65: Pohodlný batoh pro vícedenní treky s adaptivním zádovým systémem"
+model: "Osprey Aura AG 65"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bfgcdn.com/1500_1500_90/502-3241-0111/osprey-womens-aura-ag-65-trekkingrucksack.jpg

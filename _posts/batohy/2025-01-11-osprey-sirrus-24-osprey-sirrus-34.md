@@ -4,6 +4,7 @@ title: Osprey Sirrus 24 - Pohodlný batoh pro celodenní túry s ventilovaným z
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bobssportschalet.com/prodimages/34615-RUSKA_PURPLE-l.jpg
+model: Osprey Sirrus 24
 vaha: 1200
 objem: 24
 material: 210D Nylon High Tenacity

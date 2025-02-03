@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osprey Kestrel 48 – univerzální batoh pro vícedenní trekking s regulovatelným zádovým systémem
+model: Osprey Kestrel 48
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://i.pinimg.com/originals/1d/33/99/1d3399177b93a4769ae3ee53b8e3f6de.jpg

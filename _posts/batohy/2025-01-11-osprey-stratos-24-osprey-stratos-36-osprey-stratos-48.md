@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Osprey Stratos 36: Batoh pro celodenní túry s důrazem na ventilaci zad"
+model: "Osprey Stratos 36"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/p/o/pol_pl_plecak-trekkingowy-meski-osprey-stratos-36-seaweed-matcha-green-76463_2.jpg

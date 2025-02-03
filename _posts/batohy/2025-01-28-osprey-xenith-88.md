@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osprey Xenith 88 – vysokokapacitní batoh s pokročilou ventilací zádového systému
+model: Osprey Xenith 88
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://assets.trailspace.com/assets/9/2/3/9271587/1304168_004_main.jpg

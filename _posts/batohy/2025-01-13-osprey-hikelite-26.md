@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Osprey Hikelite 26 – Lehký turistický batoh s odvětrávaným zádovým systémem
+model: Osprey Hikelite 26
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bfgcdn.com/1500_1500_90/502-7144-0511/osprey-hikelite-26-wanderrucksack.jpg

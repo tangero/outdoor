@@ -4,6 +4,7 @@ title: "Osprey Exos 48: Lehký batoh s odvětráním pro vícedenní treky"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.bfgcdn.com/1500_1500_90/503-0624-0211/osprey-exos-48-mountaineering-backpack.jpg"
+model: Osprey Exos 48
 vaha: 1040
 objem: 48
 material: "100D nylon (hlavní část), 210D nylon (zesílené partie)"
