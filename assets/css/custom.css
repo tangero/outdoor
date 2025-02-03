@@ -36,6 +36,10 @@ body {
     margin-bottom: 2rem;
     overflow: hidden;
     transition: transform 0.2s ease;
+    padding: 1.5rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .post-teaser:hover {
@@ -43,21 +47,39 @@ body {
 }
 
 .post-teaser-layout {
-    padding: 1.5rem;
     display: flex;
-    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 2rem;
+    flex-wrap: nowrap;
+    gap: 1.5rem;
 }
 
 .post-title {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.2rem !important;
     color: var(--primary-color);
-    margin-bottom: 1rem;
+    margin: 0 0 1rem 0;
+    text-align: left;
+}
+
+.post-image-container {
+    flex: 0 0 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .post-image-container img {
     border-radius: 6px;
     object-fit: cover;
+    width: 250px;
+    height: auto;
+    display: block;
+}
+
+.post-excerpt {
+    flex: 1;
+    min-width: 0;
 }
 
 /* Kategorie na hlavní stránce */
@@ -140,33 +162,6 @@ article.feature-image .title {
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
 }
 
-/* Nové styly pro výpis příspěvků na titulní stránce */
-.post-teaser-layout {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 2rem;
-    width: 600px !important;
-    flex-wrap: nowrap;
-}
-
-.post-image-container {
-    flex: 0 0 250px; /* fixní šířka pro obrázek a nadpis */
-    margin-right: 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.post-excerpt {
-    flex: 1;
-}
-
-/* Zmenšení nadpisu pro příspěvky */
-.post-title {
-    font-size: 0.8rem !important;
-    margin: 0.5rem 0;
-}
-
 /* Tlačítka a odkazy */
 .button {
     background-color: var(--accent-color);
@@ -178,4 +173,9 @@ article.feature-image .title {
 
 .button:hover {
     background-color: darken(var(--accent-color), 10%);
+}
+
+/* Zajištění konzistence mezi prohlížeči */
+* {
+    box-sizing: border-box;
 } 
