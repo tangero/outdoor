@@ -13,7 +13,6 @@ pro: Vynikající ventilace zad, ergonomické nastavení zádového systému, od
 proti: Vyšší hmotnost než ultralehké modely, boční kapsy méně přístupné při plném naložení.
 ---
 
-### Osprey Stratos 36: Batoh pro celodenní túry s důrazem na ventilaci zad
 
 Batoh Osprey Stratos 36 je navržen pro náročnější celodenní túry nebo vícedenní přechody s lehkou výbavou. Cílí na turisty, kteří potřebují spolehlivý batoh s dobrou nosností, ale zároveň ocení prodyšnost při delším pohybu v terénu. Jeho hlavní předností je systém **AirSpeed Suspension**, který kombinuje prodyšnou konstrukci s nastavitelným zádovým systémem. Oproti konkurenci (např. Deuter Futura nebo Gregory Zulu) klade větší důraz na odvětrávání zad, což z něj dělá oblíbenou volbu pro letní podmínky.
 

@@ -13,7 +13,6 @@ pro: Nastavitelný zádový systém Anti-Gravity, vynikající ventilace, robust
 proti: Vyšší hmotnost, velký objem limituje použití na krátké treky
 ---
 
-### Osprey Xenith 88 – vysokokapacitní batoh s pokročilou ventilací zádového systému
 
 Osprey Xenith 88 patří do kategorie batohů pro náročné vícedenní expedice a túry s potřebou nosit těžké náklady. Je určen především pro turisty a horolezce, kteří vyžadují maximální pohodlí při nošení 20–30 kg nákladu. Mezi hlavní přednosti patří systém Anti-Gravity, který kombinuje odvětrávanou konstrukci zad s pružnými popruhy pro rovnoměrné rozložení váhy. Popularitu si získal díky univerzálnímu designu a spolehlivosti v extrémních podmínkách.
 

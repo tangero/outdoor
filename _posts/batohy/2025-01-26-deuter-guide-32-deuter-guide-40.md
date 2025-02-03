@@ -13,10 +13,11 @@ pro: "Nastavitelný zádový systém VariFlex, integrovaná pláštěnka, odoln�
 proti: "Váha vyšší než u některých konkurenčních modelů, méně externích úchytů pro lehké vybavení."
 ---
 
+Batoh Deuter Guide 40+ je navržen pro turisty, kteří potřebují spolehlivý nosič pro vícedenní výpravy. Kombinuje robustní konstrukci s ergonomií, díky čemuž je oblíbený u rekreačních i pokročilejších outdoorových nadšenců. Menší varianta Guide 32+ (objem 32 l, váha 1400 g) cílí na jednodenní túry, zatímco Guide 40+ nabízí větší flexibilitu pro přenocování v přírodě.  
+
+
 ![Deuter Guide 32+, Deuter Guide 40+](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.deuter.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/3/2/32102200310_gui40_21.jpg)
 
-### 1. Deuter Guide 40+: univerzální batoh pro vícedenní túry s variabilním zádovým systémem  
-Batoh Deuter Guide 40+ je navržen pro turisty, kteří potřebují spolehlivý nosič pro vícedenní výpravy. Kombinuje robustní konstrukci s ergonomií, díky čemuž je oblíbený u rekreačních i pokročilejších outdoorových nadšenců. Menší varianta Guide 32+ (objem 32 l, váha 1400 g) cílí na jednodenní túry, zatímco Guide 40+ nabízí větší flexibilitu pro přenocování v přírodě.  
 
 ### 2. Klíčové parametry a technologie  
 - **Zádový systém VariFlex:** Umožňuje přesné doladění délky zádové části (±8 cm), což ocení uživatelé s nestandardní postavou. Ventilační kanál Aircomfort zajišťuje odvětrání zad.  

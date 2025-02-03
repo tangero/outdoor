@@ -13,7 +13,6 @@ pro: Lehká konstrukce, ergonomické odvětrávání zad, kompaktní organizace 
 proti: Minimální polstrovaní bederního pásu, menší boční kapsy na láhve, tenčí materiál v základních částech.
 ---
 
-### Osprey Hikelite 26 – Lehký turistický batoh s odvětrávaným zádovým systémem
 
 Osprey Hikelite 26 patří mezi nejoblíbenější modely pro jednodenní túry a městské cestování díky kombinaci nízké hmotnosti a funkčního designu. Je určen pro turisty, kteří preferují rychlé výpravy bez zbytečné zátěže, ale zároveň potřebují spolehlivé odvětrání zad. Batoh se prosadil zejména u uživatelů hledajících kompromis mezi kapacitou a kompaktností. Ostatní varianty řady Hikelite (např. 18L nebo 30L) se liší především objemem – menší model postrádá boční přístupovou kapsu, větší 30L nabízí rozšířený úložný prostor pro delší výlety.
 

@@ -13,7 +13,6 @@ pro: Ergonomický zádový systém Anti-Gravity, výborné odvětrávání zad, 
 proti: Vyšší hmotnost než konkurence, absence integrovaného deštníku.
 ---
 
-### Osprey Aura AG 65: Pohodlný batoh pro vícedenní treky s adaptivním zádovým systémem
 
 Batoh Osprey Aura AG 65 je určen pro turistky a dobrodružky, které vyhledávají pohodlí při dlouhých trecích. Jeho hlavní předností je zádový systém Anti-Gravity (AG), který kombinuje prodyšnou síťovinu s anatomicky tvarovanými pěnovými vložkami. Tento model je nejprodávanější ve své kategorii díky schopnosti rovnoměrně rozložit zátěž i při plném objemu 65 litrů. Osprey Aura AG 50 nabízí stejné technologie, ale s menším objemem (50 l) a nižší hmotností (1930 g), což ocení ti, kdo preferují kratší výpravy nebo minimalistické balení.
 

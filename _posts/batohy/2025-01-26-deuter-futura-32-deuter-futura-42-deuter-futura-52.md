@@ -13,7 +13,6 @@ pro: Ergonomický zádový systém Aircomfort, variabilní úložný prostor, od
 proti: Vyšší váha proti ultralehkým modelům, omezené možnosti úpravy bederního pásu
 ---
 
-## Deuter Futura 42: Batoh s odvětráním pro náročnější vícedenní výpravy
 
 Deuter Futura 42 je určen pro turisty, kteří hledají kompromis mezi nosností, pohodlím a odvětráním zad. Díky objemu 42 litrů poskytuje dostatek prostoru pro 3–5denní túry, přičemž zůstává dostatečně kompaktní pro pohyb v náročnějším terénu. Oblibu si získal zejména díky systému Aircomfort, který minimalizuje pocení zad, a robustní konstrukci odolnému proti abrasi.
 

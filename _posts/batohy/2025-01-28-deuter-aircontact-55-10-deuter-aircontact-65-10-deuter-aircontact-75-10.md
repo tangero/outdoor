@@ -13,10 +13,11 @@ pro: "Odolný materiál, nastavitelný zádový systém, ergonomické nošení t
 proti: "Vyšší hmotnost, omezená ventilace zad, vyšší cena než základní modely"
 ---
 
-![Deuter AirContact 55+10, Deuter AirContact 65+10, Deuter AirContact 75+10](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.sportaktiv-shop.de/bilder/produkte/gross/Deuter-Aircontact-65-10.jpg)
 
-### 1. Deuter AirContact 65+10: Univerzální batoh pro vícedenní treky s variabilním objemem
+
 Batoh Deuter AirContact 65+10 je navržen pro náročné vícedenní expedice, kde je klíčová odolnost a komfort při nošení těžkých nákladů (až 25 kg). Jeho hlavní předností je **nastavitelný zádový systém AirContact**, který se přizpůsobí výšce postavy, a expanzní límec pro zvětšení objemu o 10 litrů. Cílí na turisty, kteří preferují robustní konstrukci a systém úložných prostorů s logickou organizací výbavy.
+
+![Deuter AirContact 55+10, Deuter AirContact 65+10, Deuter AirContact 75+10](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.sportaktiv-shop.de/bilder/produkte/gross/Deuter-Aircontact-65-10.jpg)
 
 ### 2. Klíčové parametry a technologie
 - **Zádový systém:** VariFlex Lite – kombinuje pevnou hliníkovou konstrukci s pěnovými panely pro snížení otřesů. Výška zadní části je nastavitelná v rozsahu 15 cm.

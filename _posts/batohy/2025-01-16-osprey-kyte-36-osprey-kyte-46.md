@@ -13,7 +13,6 @@ pro: Nastavitelný Anti-Gravity zádový systém, integrovaný plášť proti de
 proti: Vyšší hmotnost proti ultraleicht modelům, omezené boční přístupové kapsy.
 ---
 
-# Osprey Kyte 36 a 46 – Batohy s nastavitelným zádovým systémem pro vícedenní túry
 
 Osprey Kyte 36 je nejprodávanější model v řadě, určený pro vícedenní trekking s nosností do 14 kg. Jeho silnou stránkou je kombinace nastavitelného zádového systému Anti-Gravity a logického členění prostoru. Kyte 46 nabízí větší objem pro delší expedice, ale zachovává stejnou konstrukci. Oba batohy jsou optimalizovány pro ženskou anatomii – užší ramenní popruhy a tvarovaný bederní pás. Popularitu si získaly díky ventilaci zad a univerzálnímu využití na středně náročné trasy.
 

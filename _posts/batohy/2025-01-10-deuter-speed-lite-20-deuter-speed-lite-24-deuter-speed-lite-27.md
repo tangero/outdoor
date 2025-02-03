@@ -13,7 +13,6 @@ pro: Lehká konstrukce, ergonomické větrání zad, variabilní úložné možn
 proti: Minimální polstrování bederního pásu, postranní kapsy nepojmou širší lahve.
 ---
 
-## Deuter Speed Lite 24: Lehký batoh pro jednodenní túry s variabilním uložením
 
 Deuter Speed Lite 24 je optimalizován pro rychlé jednodenní túry nebo sportovní aktivity, kde záleží na nízké váze a dostatečné kapacitě. Díky své univerzálnosti a propracovanému zádovému systému je oblíbený mezi turisty, kteří preferují dynamičtější pohyb bez zbytečné zátěže. Oproti konkurenci vyniká kombinací odolnosti a ergonomie, ačkoli některé detaily zůstávají spíše utilitární.
 

@@ -13,7 +13,6 @@ pro: "Vynikající odvětrání zad, nízká váha, ergonomický zádový systé
 proti: "Menší odolnost v porovnání s těžšími modely, omezený počet organizérů, tenčí popruhy při plném zatížení"
 ---
 
-### Osprey Exos 48: Lehký batoh s odvětráním pro vícedenní treky
 
 Osprey Exos 48 je určen pro turisty, kteří hledají kompromis mezi nízkou vahou a dostatečnou kapacitou pro 3–5denní výpravy. Jeho hlavní předností je systém AirSpeed, který kombinuje prodyšnou síťovou konstrukci s nastavitelným zádovým rámem. Díky váze pod 1,1 kg se hodí pro ty, kdo preferují minimalismus bez zbytečných prvků, ale nechtějí slevit z pohodlí při nošení nákladu do 15 kg.
 

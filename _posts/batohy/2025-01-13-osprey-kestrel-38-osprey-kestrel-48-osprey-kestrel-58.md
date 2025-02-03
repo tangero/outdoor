@@ -13,7 +13,6 @@ pro: Ergonomické větrání zad, robustní konstrukce, integrovaný pláštěnk
 proti: Vyšší hmotnost proti ultraleicht batohům, méně kompaktní než konkurence v podobné cenové kategorii
 ---
 
-### Osprey Kestrel 48 – univerzální batoh pro vícedenní trekking s regulovatelným zádovým systémem
 
 Batoh Osprey Kestrel 48 patří mezi středně velké modely určené pro 3–5denní túry v náročnějším terénu. Jeho silnou stránkou je kombinace odolné konstrukce a propracovaného zádového systému AirScape™, který nabízí dostatečné odvětrávání i při plném naložení. Cílovou skupinou jsou turisté, kteří preferují systematickou organizaci vybavení a ocení možnost přizpůsobit batoh délce zad (nastavení torso 40–50 cm).
 

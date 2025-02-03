@@ -13,7 +13,6 @@ pro: Ergonomický zádový systém VariFlex, odvětrávaná konstrukce, variabil
 proti: Vyšší hmotnost než ultralehké modely, absence samostatného přístupu ke spodní části batohu
 ---
 
-### Deuter AirContact Lite 45 SL: Pohodlný batoh pro vícedenní trekking s variabilním nastavením zádového systému
 
 ![Deuter AirContact Lite 45 SL](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/D/E/DEUT01389_01.jpg)
 

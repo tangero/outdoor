@@ -13,7 +13,6 @@ pro: Nastavitelný zádový systém Anti-Gravity, odvětrávání zad, kompaktn�
 proti: Chybí boční přístup k hlavnímu úložnému prostoru, nižší počet externích úchytů než konkurence
 ---
 
-### Osprey Eja 58 – univerzální batoh pro náročnější trekery
 
 Osprey Eja 58 patří mezi středně velké batohy navržené pro vícedenní túry s důrazem na ergonomii a variabilitu. Primárně cílí na ženy hledající lehkou, ale odolnou konstrukci s propracovaným systémem odvětrávání. Jeho popularita vychází z kombinace nízké váhy (1,26 kg) a kapacity dostatečné pro 3–5denní výpravy v mírném podnebí.
 
