@@ -3,7 +3,7 @@ layout: post
 title: "Deuter Guide 40+: univerzální batoh pro vícedenní túry s variabilním zádovým systémem"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.deuter.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/3/2/32102200310_gui40_21.jpg
+thumbnail: https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/g/u/guide40plussl_turquoise.png
 model: "Deuter Guide 40+"
 vaha: 1600
 objem: 40
@@ -16,7 +16,7 @@ proti: "Váha vyšší než u některých konkurenčních modelů, méně extern
 Batoh Deuter Guide 40+ je navržen pro turisty, kteří potřebují spolehlivý nosič pro vícedenní výpravy. Kombinuje robustní konstrukci s ergonomií, díky čemuž je oblíbený u rekreačních i pokročilejších outdoorových nadšenců. Menší varianta Guide 32+ (objem 32 l, váha 1400 g) cílí na jednodenní túry, zatímco Guide 40+ nabízí větší flexibilitu pro přenocování v přírodě.  
 
 
-![Deuter Guide 32+, Deuter Guide 40+](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.deuter.com/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/3/2/32102200310_gui40_21.jpg)
+![Deuter Guide 32+, Deuter Guide 40+](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/g/u/guide40plussl_turquoise.png)
 
 
 ### 2. Klíčové parametry a technologie  
