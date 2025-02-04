@@ -37,11 +37,11 @@ Osprey Hikelite 26 patří mezi nejoblíbenější modely pro jednodenní túry 
 - **Tenčí materiál v základních částech**: Hrozba prodření při kontaktu s ostrými předměty (např. skalní výčnělky).
 
 #### Srovnání s konkurencí
-| Model                | Hmotnost (g) | Zádový systém       | Výhody                         | Nevýhody                      |
-|----------------------|--------------|---------------------|--------------------------------|-------------------------------|
-| **Osprey Hikelite 26** | 790          | AirSpeed (síťovaný) | \+ Ventilace, \+ Stow-on-the-Go | \- Slabý bederní pás          |
-| Deuter Speed Lite 24  | 720          | Vari Flex           | \+ Lehčí, \+ Odolnější dno     | \- Méně kapes                |
-| Gregory Citro 24      | 850          | Vento Mesh          | \+ Polstrovaný bederní pás     | \- Horší přístup do hlavního prostoru |
+| Model                 | Hmotnost (g) | Zádový systém       | Výhody                          | Nevýhody                      |
+|-----------------------|--------------|---------------------|---------------------------------|-------------------------------|
+| **Osprey Hikelite 26**| 790          | AirSpeed (síťovaný) | + Ventilace, + Stow-on-the-Go    | - Slabý bederní pás           |
+| Deuter Speed Lite 24  | 720          | Vari Flex           | + Lehčí, + Odolnější dno         | - Méně kapes                  |
+| Gregory Citro 24      | 850          | Vento Mesh          | + Polstrovaný bederní pás        | - Horší přístup do hlavního prostoru |
 
 #### Pro koho je batoh ideální?
 - Pro turisty preferující jednodenní výlety s nákladem do 8 kg.
