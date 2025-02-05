@@ -7,7 +7,8 @@ lang: "cs"
 title: Vybavení do přírody                              # site's title
 description: "Výbava na outdoor a cesty do přírody"     # used by search engines
 avatar: assets/img/patrick.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 
 # Header and footer text
 header_text: Výbavu na trail, do hor, do přírody? Poradím!  # Change Blog header text
@@ -40,7 +41,7 @@ comments:
 
 # PAGINATION
 paginate: 10
-paginate_path: "/blog/page:num"
+paginate_path: /page:num/
 
 # PORTFOLIO
 collections:
@@ -64,3 +65,31 @@ remote_theme: sylhare/Type-on-Strap                     # If using as a remote_t
 
 # Změna formátu permalinků
 permalink: /:categories/:title/
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]  
