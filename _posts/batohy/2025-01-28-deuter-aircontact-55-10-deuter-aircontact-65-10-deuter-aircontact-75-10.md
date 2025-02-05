@@ -11,6 +11,7 @@ material: "Polyester 600D s PU vrstvou, ripstop"
 sex: "unisex"
 pro: "Odolný materiál, nastavitelný zádový systém, ergonomické nošení těžkých nákladů"
 proti: "Vyšší hmotnost, omezená ventilace zad, vyšší cena než základní modely"
+hodnoceni: 8.5
 ---
 
 

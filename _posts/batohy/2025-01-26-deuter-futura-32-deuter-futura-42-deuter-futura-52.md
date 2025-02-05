@@ -11,6 +11,7 @@ material: Polyester s PU úpravou, nylonové panely
 sex: unisex
 pro: Ergonomický zádový systém Aircomfort, variabilní úložný prostor, odolné komponenty
 proti: Vyšší váha proti ultralehkým modelům, omezené možnosti úpravy bederního pásu
+hodnoceni: 9
 ---
 
 

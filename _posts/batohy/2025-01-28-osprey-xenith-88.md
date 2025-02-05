@@ -11,6 +11,7 @@ material: 420HD nylon
 sex: muži
 pro: Nastavitelný zádový systém Anti-Gravity, vynikající ventilace, robustní konstrukce, integrovaná organizace nákladu
 proti: Vyšší hmotnost, velký objem limituje použití na krátké treky
+hodnoceni: 9
 ---
 
 

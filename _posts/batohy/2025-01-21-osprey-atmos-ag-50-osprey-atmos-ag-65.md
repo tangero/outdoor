@@ -11,6 +11,7 @@ material: Nylon 100D/210D
 sex: unisex
 pro: "Vynikající ventilace zad, pohodlný zádový systém, promyšlená organizace, odolný materiál."
 proti: "Vyšší hmotnost, limitované externí úchyty, vyšší cena."
+hodnoceni: 9
 ---
 
 Osprey Atmos AG 65 je určen pro turisty, kteří vyžadují komfort a ergonomii při náročných vícedenních výpravách. Jeho hlavní předností je **Anti-Gravity zádový systém**, který kombinuje prodyšnost s rozložením zátěže. Cílovou skupinou jsou zejména turisté preferující delší treky v různých terénech, kde je klíčové minimalizovat pocit zatížení. Oblibu si batoh získal díky vyváženému kompromisu mezi nosností, odvětráním a organizací vybavení.

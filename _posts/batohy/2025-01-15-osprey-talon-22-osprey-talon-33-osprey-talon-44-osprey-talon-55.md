@@ -11,6 +11,7 @@ material: 100D x 150D nylon dobřeřezený
 sex: unisex
 pro: Vynikající ventilace zad, nízká hmotnost, ergonomické úložné řešení s bočním přístupem.
 proti: Menší odolnost v extrémních podmínkách, tenčí popruhy při plném zatížení nad 12 kg.
+hodnoceni: 9
 ---
 
 Osprey Talon 33 patří mezi nejoblíbenější modely v řadě díky kombinaci nízké hmotnosti a dostatečného objemu pro 2–3 denní túry. Je určen pro turisty, kteří preferují rychlý pohyb v terénu bez zbytečné zátěže. Silnou stránkou je ventilovaný zádový systém AirSpeed, který minimalizuje pocení, a intuitivní organizace vybavení. Oproti konkurenci vyniká propracovaným systémem úchytu holí Stow-on-the-Go a kompaktním designem.

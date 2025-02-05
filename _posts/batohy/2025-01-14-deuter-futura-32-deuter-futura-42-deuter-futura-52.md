@@ -11,6 +11,7 @@ material: 600D Polyester Ripstop
 sex: unisex
 pro: Ergonomický zádový systém Aircomfort, variabilní úprava délky zad, kvalitní odvětrání, praktické organizační prvky
 proti: Vyšší hmotnost proti ultralehkým modelům, postranní kapsy méně přístupné s plnou hlavní komorou
+hodnoceni: 8.5
 ---
 
 Deuter Futura 42 je středně velký batoh určený pro vícedenní treky v mírném až náročnějším terénu. Díky objemu 42 litrů poskytuje dostatek prostoru pro vybavení na 3–5 dní, aniž by překročil hranici kompaktnosti. Hlavní předností je systém Aircomfort s prodyšnou zádovou konstrukcí, který minimalizuje pocení při delších výstupech. Batoh je oblíbený pro svou univerzálnost – hodí se jak pro letní vysokohorskou turistiku, tak pro nížinné trasy s proměnlivým počasím.

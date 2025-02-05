@@ -11,12 +11,15 @@ material: Ripstop polyester s PU povrstvením
 sex: ženy
 pro: Ergonomický zádový systém VariFlex, odvětrávaná konstrukce, variabilní úložný prostor s rozšiřujícím límcem +10 litrů
 proti: Vyšší hmotnost než ultralehké modely, absence samostatného přístupu ke spodní části batohu
+hodnoceni: 8.5
 ---
 
 
-![Deuter AirContact Lite 45 SL](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/D/E/DEUT01389_01.jpg)
+
 
 Batoh Deuter AirContact Lite 45 SL je určen pro turistky, které hledají spolehlivého parťáka na vícedenní expedice. Jeho silnou stránkou je kombinace odolné konstrukce a ergonomického zádového systému, který minimalizuje únavu při přenášení těžkých nákladů (až 20 kg). Model 50 SL se od 45 SL liší hlavně objemem (50 litrů + rozšíření na 60 litrů) a mírně delšími rozměry, což ocení vyšší uživatelky. Oba batohy využívají ženskou anatomii přizpůsobenou konstrukci pásů a zádového polstrování (tzv. **SlimLine Fit**).
+
+![Deuter AirContact Lite 45 SL](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/D/E/DEUT01389_01.jpg)
 
 #### Klíčové parametry a technologie
 - **Zádový systém VariFlex**: Kombinace prodyšné 3D síťoviny a nastavitelných ramenních popruhů (systém **Vari Quick**) umožňuje přesné doladění podle délky zad (nastavení v rozmezí 38–48 cm u verze 45 SL).

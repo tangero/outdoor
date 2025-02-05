@@ -11,6 +11,7 @@ material: 210D nylonová ripstop, 420HD nylon
 sex: ženy
 pro: Nastavitelný Anti-Gravity zádový systém, integrovaný plášť proti dešti, ergonomické uložení vybavení.
 proti: Vyšší hmotnost proti ultraleicht modelům, omezené boční přístupové kapsy.
+hodnoceni: 9
 ---
 
 

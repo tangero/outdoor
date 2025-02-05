@@ -11,6 +11,7 @@ material: "Polytex Eco, Ripstop"
 sex: "unisex"
 pro: "Nastavitelný zádový systém VariFlex, integrovaná pláštěnka, odolné materiály a logické členění kapes."
 proti: "Váha vyšší než u některých konkurenčních modelů, méně externích úchytů pro lehké vybavení."
+hodnoceni: 8.5
 ---
 
 Batoh Deuter Guide 40+ je navržen pro turisty, kteří potřebují spolehlivý nosič pro vícedenní výpravy. Kombinuje robustní konstrukci s ergonomií, díky čemuž je oblíbený u rekreačních i pokročilejších outdoorových nadšenců. Menší varianta Guide 32+ (objem 32 l, váha 1400 g) cílí na jednodenní túry, zatímco Guide 40+ nabízí větší flexibilitu pro přenocování v přírodě.  

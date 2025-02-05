@@ -11,6 +11,7 @@ material: "100D nylon (hlavní část), 210D nylon (zesílené partie)"
 sex: unisex
 pro: "Vynikající odvětrání zad, nízká váha, ergonomický zádový systém, praktické úložné možnosti"
 proti: "Menší odolnost v porovnání s těžšími modely, omezený počet organizérů, tenčí popruhy při plném zatížení"
+hodnoceni: 8.5
 ---
 
 

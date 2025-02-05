@@ -11,6 +11,7 @@ material: 210D Nylon High Tenacity / 450D Nylon Packcloth
 sex: unisex
 pro: Vynikající ventilace zad, ergonomické nastavení zádového systému, odolný materiál, praktické organizační prvky.
 proti: Vyšší hmotnost než ultralehké modely, boční kapsy méně přístupné při plném naložení.
+hodnoceni: 8.5
 ---
 
 

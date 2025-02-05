@@ -11,6 +11,7 @@ material: 210D Nylon High Tenacity, 420HD Nylon Packcloth
 sex: ženy
 pro: Ergonomický zádový systém Anti-Gravity, výborné odvětrávání zad, variabilní úložný prostor s bočním přístupem.
 proti: Vyšší hmotnost než konkurence, absence integrovaného deštníku.
+hodnoceni: 8.5
 ---
 
 

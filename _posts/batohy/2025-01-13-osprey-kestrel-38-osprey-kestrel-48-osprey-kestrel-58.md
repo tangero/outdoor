@@ -11,6 +11,7 @@ material: 210D Nylon High Tenacity, 420HD Nylon Packcloth
 sex: unisex
 pro: Ergonomické větrání zad, robustní konstrukce, integrovaný pláštěnka, variabilní organizace
 proti: Vyšší hmotnost proti ultraleicht batohům, méně kompaktní než konkurence v podobné cenové kategorii
+hodnoceni: 8.5
 ---
 
 

@@ -11,6 +11,7 @@ material: 420D nylon, 210D nylon (spodní část)
 sex: ženy
 pro: Nastavitelný zádový systém Anti-Gravity, odvětrávání zad, kompatibilita s hydratačním systémem, praktické organizační prvky.
 proti: Vyšší hmotnost než ultralehké modely, cena nad průměrem segmentu, postranní kapsy méně přístupné při plném naložení.
+hodnoceni: 9
 ---
 
 

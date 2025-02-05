@@ -11,6 +11,7 @@ material: Nylon 100D (hlavní část), 210D High Tenacity Nylon (spodní část)
 sex: ženy
 pro: Nastavitelný zádový systém Anti-Gravity, odvětrávání zad, kompaktní design s možností redukce objemu
 proti: Chybí boční přístup k hlavnímu úložnému prostoru, nižší počet externích úchytů než konkurence
+hodnoceni: 8.5
 ---
 
 

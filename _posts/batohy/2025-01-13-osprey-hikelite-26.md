@@ -11,6 +11,7 @@ material: 100D nylon s 210D Diamond Jacquard
 sex: unisex
 pro: Lehká konstrukce, ergonomické odvětrávání zad, kompaktní organizace kapes, univerzální použití pro jednodenní výlety.
 proti: Minimální polstrovaní bederního pásu, menší boční kapsy na láhve, tenčí materiál v základních částech.
+hodnoceni: 8.5
 ---
 
 

@@ -11,6 +11,7 @@ material: 210D High Tenacity Nylon
 sex: unisex
 pro: Lehká konstrukce, ventilovaný zádový systém AirScape, integrovaný pláštěnka, variabilní organizace.
 proti: Menší odolnost proti opotřebení než batohy s 500D materiálem, limitovaná nosnost pro těžké náklady.
+hodnoceni: 8.5
 ---
 
 

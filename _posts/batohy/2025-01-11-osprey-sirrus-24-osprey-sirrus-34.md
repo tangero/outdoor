@@ -11,6 +11,7 @@ material: 210D Nylon High Tenacity
 sex: ženy
 pro: Ergonomický zádový systém AirSpeed, integrovaný pláštěnka, variabilní úložný prostor, odvětrávání zad.
 proti: Vyšší hmotnost než ultralehké modely, chybí boční přístup do hlavního oddílu.
+hodnoceni: 8.5
 ---
 
 Osprey Sirrus 24 je navržen pro celodenní túry a aktivní uživatelky, které preferují organizaci a pohodlí. Díky ventilovanému zádovému systému AirSpeed a nastavitelnému podbradkovému pásku se hodí pro náročnější terény. Sirrus 34 nabízí větší kapacitu (34 l) a prodloužený rám pro lepší stabilitu při vyšší zátěži. Hlavní rozdíly oproti 24l verzi jsou delší popruhy na bederním pásu a dodatečná kapsa na spodní straně batohu.

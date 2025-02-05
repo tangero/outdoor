@@ -11,6 +11,7 @@ material: Polyester s PU povrstvením
 sex: unisex
 pro: Lehká konstrukce, ergonomické větrání zad, variabilní úložné možnosti, odolné materiály.
 proti: Minimální polstrování bederního pásu, postranní kapsy nepojmou širší lahve.
+hodnoceni: 8.5
 ---
 
 

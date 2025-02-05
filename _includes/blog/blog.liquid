@@ -13,7 +13,7 @@
             <div class="post-image-container">
                 {% if post.thumbnail %}
                 <a aria-label="{{ post.title }}" href="{{ post.url | relative_url }}">
-                    <img alt="{{ post.title }}" src="https://res.cloudinary.com/dvwv5cne3/image/fetch/h_200,c_fill,g_auto,f_auto,q_auto/{{ post.thumbnail | absolute_url }}">
+                    <img alt="{{ post.title }}" src="https://res.cloudinary.com/dvwv5cne3/image/fetch/h_200,c_fill,g_auto,f_auto,q_auto/{{ post.thumbnail | absolute_url }}" class="article-image">
                 </a>
                 {% endif %}
             </div>
