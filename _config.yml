@@ -48,7 +48,6 @@ collections:
   categories:
     output: true
     permalink: /:name/
-    folder: _categories
 
 # BUILD SETTINGS
 sass:
@@ -72,7 +71,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-archives
 
 # Other
 markdown: kramdown
@@ -94,9 +92,10 @@ lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/:name/'  
+defaults:
+  -
+    scope:
+      path: ""
+      type: "categories"
+    values:
+      layout: "category"  
