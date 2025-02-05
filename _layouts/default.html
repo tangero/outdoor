@@ -204,5 +204,10 @@ ga('send', 'pageview');
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 
+{% if page.categories and page.categories.size > 0 %}
+  {% assign first_category = page.categories | first %}
+  <span>{{ first_category }}</span>
+{% endif %}
+
 </body>
 </html>
