@@ -3,7 +3,7 @@ layout: post
 title: Lowe Alpine Aeon 27 a Aeon 35 – Lehké a všestranné batohy pro outdoorové aktivity
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: URL obrázku batohu
+thumbnail: https://wilderness-production.imgix.net/2019/03/Aeon-35.jpg
 model: "Lowe Alpine Aeon 27, Aeon 35"
 vaha: 900 (Aeon 27), 1100 (Aeon 35)
 objem: 27 (Aeon 27), 35 (Aeon 35)
@@ -17,7 +17,7 @@ hodnoceni: 8.5
 
 Lowe Alpine Aeon 27 a Aeon 35 jsou batohy navržené pro outdoorové nadšence, kteří hledají lehkou a funkční výbavu pro jednodenní výlety nebo vícedenní expedice. Aeon 27 je ideální pro lehké cestování a krátké túry, zatímco Aeon 35 nabízí větší kapacitu pro delší výpravy. Oba modely jsou oblíbené díky své lehkosti, odolnosti a ergonomickému zádovému systému, který zajišťuje pohodlí i při delším nošení.
 
-![Lowe Alpine Aeon 27, Aeon 35](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/URL obrázku batohu)
+![Lowe Alpine Aeon 27, Aeon 35](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://wilderness-production.imgix.net/2019/03/Aeon-35.jpg)
 
 ## Klíčové parametry a jejich zhodnocení
 

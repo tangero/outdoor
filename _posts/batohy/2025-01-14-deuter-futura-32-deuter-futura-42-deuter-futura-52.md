@@ -4,7 +4,7 @@ title: "Deuter Futura 42 – univerzální turistický batoh s ergonomickým odv
 categories: "batohy"
 model: "Deuter Futura 42"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://www.deuter.com/media/image/0b/13/0c/40607-9999_Deuter-Futura-42-SL_Black_05.jpg
+thumbnail: https://www.bhphotovideo.com/images/images1000x1000/deuter_sport_34294_5510_futura_pro_42_backpack_1171760.jpg
 vaha: 2030
 objem: 42
 material: 600D Polyester Ripstop
@@ -16,7 +16,7 @@ hodnoceni: 8.5
 
 Deuter Futura 42 je středně velký batoh určený pro vícedenní treky v mírném až náročnějším terénu. Díky objemu 42 litrů poskytuje dostatek prostoru pro vybavení na 3–5 dní, aniž by překročil hranici kompaktnosti. Hlavní předností je systém Aircomfort s prodyšnou zádovou konstrukcí, který minimalizuje pocení při delších výstupech. Batoh je oblíbený pro svou univerzálnost – hodí se jak pro letní vysokohorskou turistiku, tak pro nížinné trasy s proměnlivým počasím.
 
-![Deuter Futura 32, Deuter Futura 42, Deuter Futura 52](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.deuter.com/media/image/0b/13/0c/40607-9999_Deuter-Futura-42-SL_Black_05.jpg)
+![Deuter Futura 32, Deuter Futura 42, Deuter Futura 52](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bhphotovideo.com/images/images1000x1000/deuter_sport_34294_5510_futura_pro_42_backpack_1171760.jpg)
 
 ### Klíčové parametry a technologie
 - **Zádový systém Aircomfort**: Třívrstvá konstrukce s prodyšnou mřížkou a nastavitelnými ramenními popruhy. Výška zad lze upravit systémem **VariQuick** (rozsah 40–50 cm).
