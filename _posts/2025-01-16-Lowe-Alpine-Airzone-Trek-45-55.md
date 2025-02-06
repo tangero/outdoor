@@ -3,7 +3,7 @@ layout: post
 title: "Lowe Alpine Airzone Trek 45:55"
 categories: "batohy"
 feature-img: "/assets/img/feature-img/backpack.jpg"
-thmubnail: "/assets/posts/LoweAlpineAirzoneTrek45-55.jpg"
+thumbnail: "/assets/posts/LoweAlpineAirzoneTrek45-55.jpg"
 ---
 
 Batoh Lowe Alpine Airzone Trek 45:55 je oblíbený turistický batoh, který si získal pozornost mnoha outdoorových nadšenců. Pojďme se podívat na jeho charakteristiky, výhody, nevýhody a zkušenosti uživatelů.

@@ -1,3 +1,79 @@
 ---
-layout: home
+layout: default
+title: Home
 ---
+
+{% if page.url == "/" %}
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+
+
+
+        <div class="row" style="margin-top:30px;">
+        <!-- Zde začíná výpis rubrik -->
+        {% for rubrika in site.data.rubriky %}
+        <div class="col-md-3 col-sm-6 text-center">
+        <a href="{{ site.baseurl }}/{{ rubrika.name }}/" class="rubrika-link">
+        <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="{{ rubrika.title }}" class="img-fluid" style="height: 48px;">
+        <p>{{ rubrika.title }}</p>
+        </a>
+        </div>
+        {% endfor %}
+        <!-- Konec výpisu rubrik -->
+        </div>
+    
+<!-- 
+    <div class="section-title">
+        <h2><span>To nejzajímavější</span></h2>
+    </div> -->
+    <div class="row">
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+</section>
+
+{% endif %}
+
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>Nejnovější zkušenosti</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+

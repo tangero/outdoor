@@ -3,7 +3,7 @@ layout: post
 title: "Zkušenosti s batohem Gregory Paragon 58"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thmubnail: "/assets/posts/gregory-paragon-58.jpg"
+thumbnail: "/assets/posts/gregory-paragon-58.jpg"
 ---
 
 Gregory Paragon 58 je oblíbený turistický batoh, který získal mnoho pozitivních ohlasů, ale má i své nedostatky. Pojďme se podrobněji podívat na jeho vlastnosti a zkušenosti uživatelů, které jsem pro vás vybral z českých i zahraničních recenzí.

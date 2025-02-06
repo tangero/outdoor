@@ -3,7 +3,7 @@ layout: post
 title: "Vložky do bot - aby bylo v botě pohodlně"
 categories: "boty"
 feature-img: "/assets/img/feature-img/vlozky.png"
-thmubnail: "/assets/posts/superfeet-trailblazer.png"
+thumbnail: "/assets/posts/superfeet-trailblazer.png"
 ---
 
 Vložky poskytují oporu, kterou potřebujete, aby se vaše klenby neprohýbaly, kotníky neotáčely a zajišťují tlumení nárazů nohou. Tím je noha méně namáhána a lépe vydrží zátěž dlouhého pochodu. Udržují také vaše nohy v jedné linii. Nejsou nezbytné pro všechny, ale pro většinu lidí jsou vysoce užitečné, zejména pro ty, kteří mají ploché nohy a chronické bolesti.

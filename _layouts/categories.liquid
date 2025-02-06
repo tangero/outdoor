@@ -7,19 +7,9 @@ layout: page
         <section class="bg"></section>
         
         <!-- Seznam kategorií jako odkazy -->
-
-        {% for rubrika in site.data.rubriky %}
-        <div class="category-clouds">
-            <a href="{{ site.baseurl }}/{{ rubrika.name }}/">
-                <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="{{ rubrika.title }}">
-                <span>{{ rubrika.title }}</span>
-            </a>
-        </div>kuk
-
         <ul class="category-clouds">
-            {% assign categories = site.categories | sort %}
-            {% for category in categories %}
-                {% assign category_name = category[0] %}
+            {% for category in site.categories %}
+                {% assign category_name = category | first %}
                 <a href="#{{ category_name | escape }}" class="category-anchor">
                     <li>
                         {{ category_name }}
@@ -30,8 +20,8 @@ layout: page
 
         <!-- Seznam článků v jednotlivých kategoriích -->
         <div class="category-groups">
-            {% for category in categories %}
-                {% assign group = category[0] %}
+            {% for category in site.categories %}
+                {% assign group = category | first %}
                 <div class="category-group">
                     <h4 id="{{ group }}" class="title">
                         {{ group }}

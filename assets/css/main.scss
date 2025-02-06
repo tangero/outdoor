@@ -13,3 +13,39 @@
 	"syntax",
     "starsnonscss"
 ;
+
+/* Přidáno pro rubrika-link, aby byl text tučný */
+.rubrika-link {
+	font-weight: bold;
+}
+
+/* End Insert: Custom styles */
+.rubrika-link {
+	font-weight: bold;
+}
+
+/* Styly pro tabulky */
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    border-collapse: collapse;
+    background-color: transparent;
+}
+
+th {
+    background-color: #f8f9fa;
+    border-bottom: 2px solid #dee2e6;
+    padding: 12px;
+    text-align: left;
+    font-weight: 600;
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: top;
+}
+
+tr:hover {
+    background-color: #f8f9fa;
+}
