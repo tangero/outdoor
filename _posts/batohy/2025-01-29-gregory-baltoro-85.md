@@ -3,7 +3,7 @@ layout: post
 title: "Gregory Baltoro 85: Batoh pro náročné expedice s důrazem na komfort a úložný prostor"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: "https://www.gregorypacks.com/dw/image/v2/BDLV_PRD/on/demandware.static/-/Sites-gregory-master/default/dw3d5c1c00/images/hi-res/2022/Baltoro_85_Pro_Charcoal_Red_Front.jpg"
+thumbnail: "https://images.bike24.com/i/mb/56/20/b7/gregory-baltoro-85-pro-backpack-alaska-blue-1-1193636.jpg"
 model: "Gregory Baltoro 85"
 vaha: 2500
 objem: 85
@@ -16,7 +16,7 @@ hodnoceni: 8
 
 Gregory Baltoro 85 je určen pro vícedenní expedice a trekking v náročném terénu. Díky objemu 85 litrů a robustní konstrukci se hodí pro uživatele, kteří potřebují přenášet větší množství vybavení bez kompromisů v komfortu. Oblibu si získal zejména díky systému nastavení zádového rámu, který umožňuje přesné doladění podle anatomických potřeb nositele. Konkurenci předčí v distribuci váhy na bedra, což ocení ti, kdo pravidelně nosí náklad nad 20 kg.
 
-![Gregory Baltoro 85](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/)
+![Gregory Baltoro 85](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://images.bike24.com/i/mb/56/20/b7/gregory-baltoro-85-pro-backpack-alaska-blue-1-1193636.jpg)
 
 2. **Klíčové parametry**  
 Zádový systém **Response A3** kombinuje hliníkový rám s pěnovými panely, které se přizpůsobí pohybům těla. Bederní pás **3D Vent Mesh** minimalizuje pocení a zajišťuje stabilitu i při nerovnoměrném zatížení. Materiál N420D HD nylon odolává abrasi a UV záření, dno batohu je zesílené pro pokládání na drsný povrch. Mezi doplňky patří integrovaný **Rain Cover**, boční kompresní popruhy a přední panel s rychlým přístupem k vybavení.
