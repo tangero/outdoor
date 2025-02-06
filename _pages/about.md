@@ -14,9 +14,6 @@ comments: false
 
 <p>Snažím se, aby byly. Některá data mi hlídají scripty, ale názory a hodnocení vznikají samozřejmě ručně. Může se teoreticky stát, že výrobce uvede nový výrobek pod názvem starého výrobku, jako jeho novou verzi. To by vás mohlo zmást. Ale děje se to výjimečně, nikdo si přeci nenechá ujít vydat to jako novinku. Ale vyplatí se, zkontrolovat si, kdy recenze vyšla. </p>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
 </div>
 
