@@ -1,1 +1,19 @@
- 
+<div class="container">
+    <div class="row">
+        {% for rubrika in site.data.rubriky %}
+        <div class="col-md-3 mb-4">
+            <div class="card h-100">
+                <div class="card-body text-center">
+                    <img src="{{ rubrika.icon }}" class="mb-3" style="height: 48px;" alt="{{ rubrika.title }}">
+                    <h4 class="card-title">{{ rubrika.title }}</h4>
+                    {% assign category = site.categories | where: "name", rubrika.name | first %}
+                    {% if category.description %}
+                    <p class="card-text">{{ category.description }}</p>
+                    {% endif %}
+                    <a href="/{{ rubrika.name }}/" class="btn btn-primary">Zobrazit články</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div> 
