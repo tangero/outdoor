@@ -38,6 +38,7 @@ Deuter Trans Alpine 30 je určen pro turisty a outdoorové nadšence, kteří hl
 - **Chybějící integrovaná pláštěnka:** Oproti konkurenci (např. Vaude Brenta 30) musíte dokoupit zvlášť.
 
 ## Srovnání s konkurencí
+
 | Model               | Objem (l) | Váha (g) | Zádový systém     | Integrovaná pláštěnka | Cena (Kč) |
 |---------------------|-----------|----------|-------------------|-----------------------|-----------|
 | Deuter Trans Alpine 30 | 30        | 1 400    | Aircomfort        | Ne                    | 2 800     |

@@ -38,6 +38,7 @@ Batoh Osprey Aura AG 65 je určen pro turistky a dobrodružky, které vyhledáva
 3. **Chybějící LED reflektor**: Některé batohy konkurence (např. Gregory Maven) jej nabízejí pro zvýšení bezpečnosti za šera.  
 
 ### Srovnání s konkurencí  
+
 | Model                | Objem (l) | Hmotnost (g) | Zádový systém        | Cena (Kč) |  
 |----------------------|-----------|--------------|----------------------|-----------|  
 | **Osprey Aura AG 65**| 65        | 2060         | Anti-Gravity         | 5 990     |  

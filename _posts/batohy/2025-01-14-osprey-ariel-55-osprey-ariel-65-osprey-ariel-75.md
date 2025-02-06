@@ -37,6 +37,7 @@ Batoh Osprey Ariel 65 je určen pro vícedenní treky, kde je potřeba nést vě
 3. **Boční kapsy**: Jsou užší a hůře přístupné, pokud je batoh plně naložen. Láhev o objemu 1 l se do nich vejde těsně.
 
 ### Srovnání s konkurencí
+
 | Parametr          | Osprey Ariel 65 | Deuter Aircontact Lite 65+10 | Gregory Baltoro 65  |
 |-------------------|-----------------|------------------------------|---------------------|
 | Objem (l)         | 65              | 65\+10                       | 65                  |

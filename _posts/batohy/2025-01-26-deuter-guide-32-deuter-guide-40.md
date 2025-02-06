@@ -38,6 +38,7 @@ Batoh Deuter Guide 40+ je navržen pro turisty, kteří potřebují spolehlivý 
 - **Omezené možnosti rozšíření** – chybí postranní kapsy na ledovcové šrouby nebo mačky.  
 
 ### 5. Srovnání s konkurencí  
+
 | Model                | Objem (l) | Váha (g) | Pláštěnka | Ventilace zad | Cena (Kč) |  
 |----------------------|-----------|----------|-----------|---------------|-----------|  
 | Deuter Guide 40+     | 40        | 1600     | \+        | Aircomfort    | 3 500     |  

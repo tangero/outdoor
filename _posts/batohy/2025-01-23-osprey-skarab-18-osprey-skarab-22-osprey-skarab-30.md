@@ -36,6 +36,7 @@ Batohy Osprey Skarab 18, 22 a 30 jsou navrženy pro jednodenní až vícedenní 
 - **Kapsy na bederním pásu**: Jsou mělké (hloubka 5 cm), neudrží větší powerbanka nebo klíče při rychlé chůzi.
 
 ### Srovnání s konkurencí
+
 | Parametr           | Osprey Skarab 30 | Deuter Speed Lite 24 | Gregory Miwok 24     |
 |---------------------|------------------|-----------------------|-----------------------|
 | Objem (l)           | 30               | 24                    | 24                    |

@@ -40,6 +40,7 @@ Varianta **Stratos 24** postrádá spodní přístup k hlavnímu úložnému pro
 - **Horní přístup**: Chybí možnost panelového otevření u verze 36 litrů (pouze shora).
 
 #### Srovnání s konkurencí
+
 | Parametr          | Osprey Stratos 36 | Deuter Futura 34 | Gregory Zulu 40  |
 |-------------------|-------------------|------------------|------------------|
 | Ventilace zad     | Síťovaný rám     | Prolamovaný panel | Síťovaný panel   |

@@ -37,6 +37,7 @@ Deuter Trail 30 je středně velký batoh navržený pro celodenní výlety nebo
 - **Bederní pás**: Chybí integrovaná kapsa na drobnosti, která je standardem u konkurenčních batohů Gregory Maya.
 
 ### Srovnání s konkurencí
+
 | Parametr           | Deuter Trail 30 | Osprey Talon 22 | Gregory Maya 28 |
 |--------------------|-----------------|-----------------|------------------|
 | **Váha (g)**       | 1200            | 900             | 1100             |

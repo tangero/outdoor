@@ -36,6 +36,7 @@ Osprey Kyte 36 je nejprodávanější model v řadě, určený pro vícedenní t
 3. **Cena**: O 15–20 % dražší než přímá konkurence s podobnou výbavou.
 
 ## Srovnání s konkurencí
+
 | Parametr           | Osprey Kyte 36      | Deuter Futura Pro 34 | Gregory Jade 38      |
 |--------------------|---------------------|-----------------------|-----------------------|
 | **Zádový systém**  | Anti-Gravity        | VariQuick             | Response A3           |

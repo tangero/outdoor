@@ -38,6 +38,7 @@ Batoh Deuter AirContact 65+10 je navržen pro náročné vícedenní expedice, k
 - **Cena:** Patří do vyšší cenové kategorie, což může být překážkou pro příležitostné turisty.
 
 ### 5. Srovnání s konkurencí
+
 | Parametr           | Deuter AirContact 65+10 | Osprey Aether AG 70 | Gregory Baltoro 75 |
 |--------------------|-------------------------|---------------------|--------------------|
 | **Hmotnost (g)**   | 2450                    | 2200                | 2500               |

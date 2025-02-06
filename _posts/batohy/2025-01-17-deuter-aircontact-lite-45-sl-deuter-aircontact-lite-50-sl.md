@@ -37,6 +37,7 @@ Batoh Deuter AirContact Lite 45 SL je určen pro turistky, které hledají spole
 2. **Omezený přístup**: Chybí boční zip pro přístup do hlavního prostoru, což komplikuje vyndávání věcí ze spodní části.
 
 #### Srovnání s konkurencí
+
 | Parametr          | Deuter AirContact Lite 45 SL | Osprey Aura AG 50  | Gregory Deva 60     |
 |-------------------|------------------------------|--------------------|---------------------|
 | Objem (l)         | 45 \+ 10                     | 50                 | 60                  |

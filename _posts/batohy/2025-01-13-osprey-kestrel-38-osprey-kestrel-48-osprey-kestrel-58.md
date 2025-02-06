@@ -37,6 +37,7 @@ Batoh Osprey Kestrel 48 patří mezi středně velké modely určené pro 3–5d
 3. **Hydratační systém**: Pouzdro na vodní bladdder je těsnější a hůře se plní než u specializovaných modelů.
 
 #### Srovnání s konkurencí
+
 | Parametr          | Osprey Kestrel 48 | Deuter Futura Pro 42 | Gregory Baltoro 45 |
 |-------------------|-------------------|----------------------|--------------------|
 | Hmotnost (g)      | 1850              | 1750                 | 2100               |

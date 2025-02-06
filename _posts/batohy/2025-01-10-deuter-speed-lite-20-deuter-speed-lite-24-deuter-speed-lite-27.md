@@ -39,13 +39,14 @@ Deuter Speed Lite 24 je optimalizován pro rychlé jednodenní túry nebo sporto
 - **Barevné provedení**: Pouze 2–3 barvy na výběr, což omezuje personalizaci v porovnání s konkurencí (např. Osprey Talon 22 nabízí 6 barev).
 
 ### Srovnání s konkurencí
-| Parametr               | Deuter Speed Lite 24 | Osprey Talon 22       | Vaude Brenta 24       |
-|------------------------|----------------------|-----------------------|-----------------------|
-| **Váha**               | 810 g                | 740 g                 | 850 g                 |
-| **Větrání zad**        | Síťovina Aircomfort  | Panely Mesh Airscape  | Síťované pruhy        |
-| **Organizace**         | 4 kapsy + boční úvazy| 5 kapes + lyž. smyčky | 3 kapsy + mapová kapsa|
-| **Cena**               | 2 300 Kč             | 2 700 Kč              | 2 100 Kč              |
-| **+/-**                | Lepší odolnost materiálu | Lehčí a více barev | Ekologičtější materiály |
+
+| Parametr | Deuter Speed Lite 24 | Osprey Talon 22 | Vaude Brenta 24 |
+|----------|---------------------|-----------------|-----------------|
+| Váha | 810 g | 740 g | 850 g |
+| Větrání zad | Síťovina Aircomfort | Panely Mesh Airscape | Síťované pruhy |
+| Organizace | 4 kapsy + boční úvazy | 5 kapes + lyž. smyčky | 3 kapsy + mapová kapsa |
+| Cena | 2 300 Kč | 2 700 Kč | 2 100 Kč |
+| Výhody/Nevýhody | Lepší odolnost materiálu | Lehčí a více barev | Ekologičtější materiály |
 
 ### Pro koho je batoh ideální?
 - Turisté hledající **lehký batoh pro 4–8 hodinové túry** s nutností nosit vrstvené oblečení, hydrataci a základní vybavení.

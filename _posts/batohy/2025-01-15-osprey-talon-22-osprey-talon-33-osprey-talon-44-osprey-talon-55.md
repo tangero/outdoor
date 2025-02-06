@@ -37,6 +37,7 @@ Osprey Talon 33 patří mezi nejoblíbenější modely v řadě díky kombinaci 
 - **Menší odolnost materiálu:** Oproti modelům z řady Osprey Atmos nebo Aether není nylonová tkanina určena pro extrémní zatížení.
 
 ### Srovnání s konkurencí
+
 | Parametr          | Osprey Talon 33 | Deuter Futura 32 | Gregory Zulu 30 |
 |-------------------|-----------------|------------------|-----------------|
 | Hmotnost (g)      | 1200            | 1350             | 1400            |

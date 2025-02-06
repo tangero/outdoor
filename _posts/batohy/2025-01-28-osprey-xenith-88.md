@@ -37,6 +37,7 @@ Osprey Xenith 88 patří do kategorie batohů pro náročné vícedenní expedic
 - **Cena:** Patří do vyšší cenové kategorie, což může být překážkou pro příležitostné turisty.
 
 ### Srovnání s konkurencí
+
 | Model          | Objem (l) | Váha (g) | Zádový systém        | Cena (Kč) | Výhody/Nevýhody          |
 |----------------|-----------|----------|----------------------|-----------|--------------------------|
 | Osprey Xenith 88| 88        | 2470     | Anti-Gravity         | 7 500     | \+ ventilace, \- váha    |

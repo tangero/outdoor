@@ -35,6 +35,7 @@ Deuter Attack 22 je lehký batoh navržený pro jednodenní až dvoudenní túry
 - **Bokemice bez výplně**: Pro náročnější terén by bokemice profitovaly z dodatečného polstrování.  
 
 ### Srovnání s konkurencí  
+
 | Parametr          | Deuter Attack 22 | Osprey Daylite Plus 20 | Vaude Brenta 24 |  
 |-------------------|------------------|------------------------|-----------------|  
 | **Objem (l)**     | 22               | 20                     | 24              |  

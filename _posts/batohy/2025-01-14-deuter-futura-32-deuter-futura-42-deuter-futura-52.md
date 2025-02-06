@@ -38,6 +38,7 @@ Deuter Futura 42 je středně velký batoh určený pro vícedenní treky v mír
 3. **Cena**: Patří do vyšší cenové kategorie, což může být překážkou pro začátečníky.
 
 ### Srovnání s konkurencí
+
 | Parametr             | Deuter Futura 42 | Osprey Atmos AG 50 | Gregory Baltoro 65 |
 |----------------------|------------------|--------------------|--------------------|
 | Hmotnost (g)         | 2030             | 1950               | 2360               |

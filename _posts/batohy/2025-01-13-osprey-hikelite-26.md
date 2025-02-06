@@ -38,6 +38,7 @@ Osprey Hikelite 26 patří mezi nejoblíbenější modely pro jednodenní túry 
 - **Tenčí materiál v základních částech**: Hrozba prodření při kontaktu s ostrými předměty (např. skalní výčnělky).
 
 #### Srovnání s konkurencí
+
 | Model                 | Hmotnost (g) | Zádový systém       | Výhody                          | Nevýhody                      |
 |-----------------------|--------------|---------------------|---------------------------------|-------------------------------|
 | **Osprey Hikelite 26**| 790          | AirSpeed (síťovaný) | + Ventilace, + Stow-on-the-Go    | - Slabý bederní pás           |

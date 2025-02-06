@@ -36,6 +36,7 @@ Batoh Deuter Giga 28 je navržen pro celodenní výlety a středně náročné t
 3. **Omezená komprese:** Boční stahovací šňůry nejsou tak účinné jako u specializovaných batohů na rychlé túry.
 
 ### Srovnání s konkurencí
+
 | Model                | Objem (l) | Hmotnost (g) | Zádový systém         | Cena (Kč) |
 |----------------------|-----------|--------------|-----------------------|-----------|
 | Deuter Giga 28       | 28        | 1250         | Aircomfort            | 2 500     |
