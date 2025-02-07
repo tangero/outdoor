@@ -2,6 +2,7 @@
 layout: post
 title: "Lowe Alpine Airzone Trek 45:55"
 categories: "batohy"
+objem: 45
 feature-img: "/assets/img/feature-img/backpack.jpg"
 thumbnail: "/assets/posts/LoweAlpineAirzoneTrek45-55.jpg"
 ---

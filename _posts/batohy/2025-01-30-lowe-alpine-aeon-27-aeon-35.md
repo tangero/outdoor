@@ -6,7 +6,7 @@ feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://wilderness-production.imgix.net/2019/03/Aeon-35.jpg
 model: "Lowe Alpine Aeon 27, Aeon 35"
 vaha: 900 (Aeon 27), 1100 (Aeon 35)
-objem: 27 (Aeon 27), 35 (Aeon 35)
+objem: 27
 material: Nylon 100D, TPU laminát
 sex: unisex
 pro: Lehká konstrukce, ergonomický zádový systém, odolné materiály, variabilní úložné možnosti.

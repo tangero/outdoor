@@ -2,6 +2,7 @@
 layout: post
 title: "Zkušenosti s batohem Osprey Talon 22"
 categories: "batohy"
+objem: 22
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "/assets/posts/osprey-talon-22l.webp"
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Zkušenosti s batohem Gregory Paragon 58"
 categories: "batohy"
+objem: 58
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "/assets/posts/gregory-paragon-58.jpg"
 ---

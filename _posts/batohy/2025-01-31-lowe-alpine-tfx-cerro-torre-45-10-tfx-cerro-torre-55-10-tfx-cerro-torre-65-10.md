@@ -6,7 +6,7 @@ feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.nakaoutdoors.com.ar/img/articulos/lowe_alpine_cerro_torre_nd_55_15l_1_imagen2.jpg
 model: "Lowe Alpine TFX Cerro Torre 55+10"
 vaha: 2300
-objem: 55+10
+objem: 55
 material: "Duraflex, 600D Polyester"
 sex: unisex
 pro: "Vynikající zádový systém, odolnost, variabilní objem, ergonomické řešení"

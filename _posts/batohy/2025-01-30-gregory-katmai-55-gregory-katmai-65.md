@@ -6,7 +6,7 @@ feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://images.hardloop.fr/270562-large_default/gregory-katmai-55-trekkingrucksack-herren.jpg"
 model: "Gregory Katmai 55, Gregory Katmai 65"
 vaha: 1550 (55L), 1650 (65L)
-objem: 55, 65
+objem: 55
 material: "210D Nylon Ripstop, 420D Nylon"
 sex: unisex
 pro: "Vynikající zádový systém, odolné materiály, variabilní organizace"

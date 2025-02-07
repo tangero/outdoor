@@ -6,7 +6,7 @@ feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bfgcdn.com/1500_1500_90/505-0625-0211/lowe-alpine-airzone-pro-35-10-sac-a-dos-de-trekking.jpg
 model: "Lowe Alpine AirZone Pro 35, AirZone Pro 45"
 vaha: 1450 (Pro 35), 1550 (Pro 45)
-objem: 35, 45
+objem: 35
 material: "Nylon 600D, Ripstop"
 sex: unisex
 pro: "Vynikající ventilace zad, odolný materiál, ergonomický design, variabilní úložný prostor."

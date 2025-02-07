@@ -6,7 +6,7 @@ feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://images.hardloop.fr/285204-large_default/gregory-maven-55-plecak-trekkingowy-damski.jpg
 model: "Gregory Maven 55, Gregory Maven 65"
 vaha: 1580 (Maven 55), 1700 (Maven 65)
-objem: 55 (Maven 55), 65 (Maven 65)
+objem: 55
 material: "210D High Tenacity Nylon, 420D Nylon"
 sex: "ženy"
 pro: "Vynikající zádový systém, odolné materiály, dobře organizovaný vnitřní prostor."

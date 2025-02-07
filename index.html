@@ -25,23 +25,19 @@ title: Home
         <!-- Konec výpisu rubrik -->
         </div>
     
-<!-- 
+
     <div class="section-title">
-        <h2><span>To nejzajímavější</span></h2>
-    </div> -->
+        <h2><span>Co byste neměli přehlédnout</span></h2>
+    </div> 
+    {% comment %} Begin Featured Posts Section {% endcomment %}
+    {% assign featured_posts = site.posts | where: "featured", true | sort: "date" | reverse %}
     <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
+      {% for post in featured_posts limit:2 %}
+        {% include featuredbox.html %}
+      {% endfor %}
     </div>
+    {% comment %} End Featured Posts Section {% endcomment %}
+
 </section>
 
 {% endif %}
