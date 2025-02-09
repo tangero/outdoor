@@ -13,6 +13,11 @@ Při volbě správné power banky je třeba zohlednit různé faktory včetně k
 
 Pojďme si tedy říct, co je důležité při výběru power banky.
 
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
+
+
 ## 1. Kapacita power banky
 
 Kapacita power banky se udává v mAh (miliampérhodinách) a určuje, kolikrát dokáže nabít připojená zařízení. 
