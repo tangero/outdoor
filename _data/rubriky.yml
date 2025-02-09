@@ -14,4 +14,8 @@
   title: "Karimatky"
   icon: "/assets/icon/matt2.svg"
 
+- name: "powerbanky" 
+  title: "Power banky"
+  icon: "/assets/icon/powerbank.svg"  
+
 ## Obrázky beru z   https://www.svgrepo.com/
