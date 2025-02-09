@@ -126,7 +126,7 @@ Li-Pol baterie:
 
 Pokud plánujete zimní expedici, Li-Pol baterie jsou lepší volbou, protože mají menší ztrátu kapacity v chladu.
 
-##Moje závěrečná doporučení: 
+## Moje závěrečná doporučení: 
 
 1. Nekupujte si power banky noname značek, ale naopak v klidu sáhněte po čínských modelech jako Baseus, Anker, Nitecore či Xiaomi. 
 
