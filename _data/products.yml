@@ -1,0 +1,191 @@
+# Definice produktů pro automatické linkování
+# Každý produkt obsahuje:
+# - name: Hodnota z front matter (pole model) – přesný název produktu
+# - url: Relativní URL na stránku s recenzí nebo detailním popisem produktu
+# - variants: Pole alternativních názvů produktu, je-li nutné
+# - generování probíhá v _plugins/product_linker.rb přes: ruby scripts/generate_products.rb
+- name: "Deuter Speed Lite 24"
+  url: "/batohy/deuter-speed-lite-20-deuter-speed-lite-24-deuter-speed-lite-27"
+  variants:
+    - "Speed Lite 24"
+    - "Deuter Speed Lite"
+
+- name: "Osprey Talon 22"
+  url: "/batohy/osprey-talon-22"
+  variants:
+    - "Talon 22"
+
+- name: "Osprey Atmos AG 65"
+  url: "/batohy/osprey-atmos-ag-50-osprey-atmos-ag-65/"
+  variants:
+    - "Atmos AG 65"
+    - "Osprey Atmos"
+
+- name: "Deuter Futura 32"
+  url: "/batohy/deuter-futura-32-deuter-futura-42-deuter-futura-52/"
+  variants:
+    - "Deuter Futura 32/42/52"
+    - "Deuter Futura"
+
+- name: Deuter AirContact 65+10
+  url: "/batohy/deuter-aircontact-55-10-deuter-aircontact-65-10-deuter-aircontact-75-10/"
+  variants:
+  - Deuter AirContact
+- name: Deuter AirContact Lite 45 SL
+  url: "/batohy/deuter-aircontact-lite-45-sl-deuter-aircontact-lite-50-sl/"
+  variants:
+  - Deuter AirContact Lite
+- name: Deuter Attack 22
+  url: "/batohy/deuter-attack-20-deuter-attack-24/"
+  variants:
+  - Deuter Attack
+- name: Deuter Futura 42
+  url: "/batohy/deuter-futura-32-deuter-futura-42-deuter-futura-52/"
+  variants:
+  - Deuter Futura
+- name: Deuter Giga 28
+  url: "/batohy/deuter-giga-28-deuter-giga-32/"
+  variants:
+  - Deuter Giga
+- name: Deuter Guide 40+
+  url: "/batohy/deuter-guide-32-deuter-guide-40/"
+  variants:
+  - Deuter Guide
+- name: Deuter Speed Lite 24
+  url: "/batohy/deuter-speed-lite-20-deuter-speed-lite-24-deuter-speed-lite-27/"
+  variants:
+  - Deuter Speed Lite
+- name: Deuter Trail 30
+  url: "/batohy/deuter-trail-26-deuter-trail-30-deuter-trail-32/"
+  variants:
+  - Deuter Trail
+- name: Deuter Trans Alpine 30
+  url: "/batohy/deuter-trans-alpine-28-deuter-trans-alpine-30/"
+  variants:
+  - Deuter Trans Alpine
+- name: Gregory Baltoro 85
+  url: "/batohy/gregory-baltoro-85/"
+  variants:
+  - Gregory Baltoro
+- name: Gregory Deva 60
+  url: "/batohy/gregory-deva-60-gregory-deva-70/"
+  variants:
+  - Gregory Deva
+- name: Gregory Focal 58, Gregory Focal 68
+  url: "/batohy/gregory-focal-58-gregory-focal-68/"
+  variants:
+  - Gregory Focal
+- name: Gregory Katmai 55, Gregory Katmai 65
+  url: "/batohy/gregory-katmai-55-gregory-katmai-65/"
+  variants:
+  - Gregory Katmai
+- name: Gregory Maven 55, Gregory Maven 65
+  url: "/batohy/gregory-maven-55-gregory-maven-65/"
+  variants:
+  - Gregory Maven
+- name: Gregory Octal 55
+  url: "/batohy/gregory-octal-55-gregory-octal-65/"
+  variants:
+  - Gregory Octal
+- name: Gregory Stout 45
+  url: "/batohy/gregory-stout-45-gregory-stout-60/"
+  variants:
+  - Gregory Stout
+- name: Lowe Alpine Aeon 27, Aeon 35
+  url: "/batohy/lowe-alpine-aeon-27-aeon-35/"
+  variants:
+  - Lowe Alpine Aeon
+- name: Lowe Alpine AirZone Pro 35, AirZone Pro 45
+  url: "/batohy/lowe-alpine-airzone-pro-35-airzone-pro-45/"
+  variants:
+  - Lowe Alpine AirZone Pro
+- name: Lowe Alpine AirZone Trail 35
+  url: "/batohy/lowe-alpine-airzone-trail-35-airzone-trail-40-airzone-trail-45/"
+  variants:
+  - Lowe Alpine AirZone Trail
+- name: Lowe Alpine Cholatse 50
+  url: "/batohy/lowe-alpine-cholatse-44-cholatse-50-cholatse-55/"
+  variants:
+  - Lowe Alpine Cholatse
+- name: Lowe Alpine Cholatse 50 ND
+  url: "/batohy/lowe-alpine-cholatse-44-nd-cholatse-50-nd-cholatse-55-nd/"
+  variants:
+  - Lowe Alpine Cholatse
+- name: Lowe Alpine Manaslu 60
+  url: "/batohy/lowe-alpine-manaslu-55-manaslu-60-manaslu-65/"
+  variants:
+  - Lowe Alpine Manaslu
+- name: Lowe Alpine TFX Cerro Torre 55
+  url: "/batohy/lowe-alpine-tfx-cerro-torre-45-tfx-cerro-torre-55-tfx-cerro-torre-65/"
+  variants:
+  - Lowe Alpine TFX Cerro Torre
+- name: Lowe Alpine TFX Cerro Torre 55+10
+  url: "/batohy/lowe-alpine-tfx-cerro-torre-45-10-tfx-cerro-torre-55-10-tfx-cerro-torre-65-10/"
+  variants:
+  - Lowe Alpine TFX Cerro Torre
+- name: Osprey Ariel 65
+  url: "/batohy/osprey-ariel-55-osprey-ariel-65-osprey-ariel-75/"
+  variants:
+  - Osprey Ariel
+- name: Osprey Atmos AG 65
+  url: "/batohy/osprey-atmos-ag-50-osprey-atmos-ag-65/"
+  variants:
+  - Osprey Atmos AG
+- name: Osprey Aura AG 65
+  url: "/batohy/osprey-aura-ag-50-osprey-aura-ag-65/"
+  variants:
+  - Osprey Aura AG
+- name: Osprey Eja 58
+  url: "/batohy/osprey-eja-48-osprey-eja-58/"
+  variants:
+  - Osprey Eja
+- name: Osprey Exos 48
+  url: "/batohy/osprey-exos-48-osprey-exos-58/"
+  variants:
+  - Osprey Exos
+- name: Osprey Hikelite 26
+  url: "/batohy/osprey-hikelite-26/"
+  variants:
+  - Osprey Hikelite
+- name: Osprey Kestrel 48
+  url: "/batohy/osprey-kestrel-38-osprey-kestrel-48-osprey-kestrel-58/"
+  variants:
+  - Osprey Kestrel
+- name: Osprey Kyte 36 a 46
+  url: "/batohy/osprey-kyte-36-osprey-kyte-46/"
+  variants:
+  - Osprey Kyte
+- name: Osprey Rook 65
+  url: "/batohy/osprey-rook-65/"
+  variants:
+  - Osprey Rook
+- name: Osprey Sirrus 24
+  url: "/batohy/osprey-sirrus-24-osprey-sirrus-34/"
+  variants:
+  - Osprey Sirrus
+- name: Osprey Skarab 30
+  url: "/batohy/osprey-skarab-18-osprey-skarab-22-osprey-skarab-30/"
+  variants:
+  - Osprey Skarab
+- name: Osprey Stratos 36
+  url: "/batohy/osprey-stratos-24-osprey-stratos-36-osprey-stratos-48/"
+  variants:
+  - Osprey Stratos
+- name: Osprey Talon 33
+  url: "/batohy/osprey-talon-22-osprey-talon-33-osprey-talon-44-osprey-talon-55/"
+  variants:
+  - Osprey Talon
+- name: Osprey Volt 60
+  url: "/batohy/osprey-volt-60/"
+  variants:
+  - Osprey Volt
+- name: Osprey Xenith 88
+  url: "/batohy/osprey-xenith-88/"
+  variants:
+  - Osprey Xenith
+- name: Therm-a-Rest BaseCamp
+  url: "/karimatky/therm-a-rest-basecamp/"
+  variants: []
+- name: Therm-a-Rest NeoAir XLite NXT MAX
+  url: "/karimatky/Therm-a-Rest-NeoAir-XLite-NXT-MAX/"
+  variants: []

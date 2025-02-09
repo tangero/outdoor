@@ -16,5 +16,6 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'kramdown'
     gem 'rouge'
+    gem 'nokogiri'
 end
 gem "ffi", ">= 1.15.0"
