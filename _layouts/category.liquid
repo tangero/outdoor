@@ -1,0 +1,34 @@
+---
+layout: page
+---
+
+<div class="home">
+    <div id="categories">
+        <section class="bg"></section>
+        <!-- Obsah rubriky (z index.md) -->
+
+            <div class="category-content">
+                {{ content }}
+            </div>
+
+    <!-- Získání názvu adresáře -->
+    {% assign current_category = page.name %}
+
+    <!-- Seznam článků v aktuální kategorii -->
+    {% assign articles = site.posts | where: "categories", current_category %}
+    {% if articles.size > 0 %}
+    <div class="category-articles">
+        <h2>👇 {{ current_category }} a další zkušenosti </h2>
+        <ul>
+            {% for post in articles %}
+            <li>
+                <a href="{{ post.url | relative_url }}">
+                    <h3>{{ post.title }} - {{ post.date | date: "%-d.%-m.%Y" }}</h3>
+                
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</div>

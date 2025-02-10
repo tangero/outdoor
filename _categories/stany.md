@@ -10,10 +10,6 @@ Také výběr stanu rozhodne o tom, jak si cestu užijete, zda se vyspíte, zda 
 
 Čili i u stanu platí zásada přiměřenosti: investujte do něj tolik, kolik ho budete potřebovat. Pokud by vám to mělo zničit drahou a dlouho plánovanou expedici, kde do nejbližší civilizace je den pochodu, nevyplatí se šetřit. A pokud se vám zdá, že se vám do stanu nevyplatí na těch pár dní výšlapu investovat, tak si ho raději půjčte...
 
-__Co konkrétně se v tomto článku dozvíte?__ 
-* Obsah
-{:toc}
-
 ### Stany pro krátké výlety
 Pro krátké výlety a víkendové pobyty v přírodě jsou vhodné lehčí a snadno sestavitelné stany. Tyto stany obvykle nabízejí dobrý poměr mezi hmotností, prostorem a ochranou před povětrnostními vlivy.
 

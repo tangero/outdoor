@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require 'yaml'
 require 'set'
+require 'time'
 
 # Inicializace množiny pro unikátní modely
 product_set = Set.new
@@ -53,7 +54,9 @@ File.open("_data/generated_products.yml", "w") do |f|
   f.write("# Automaticky generovaný seznam produktů\n")
   f.write("# Pro každý produkt jsou automaticky generovány variants (text před prvním číslem)\n")
   f.write("# Můžete ručně upravit nebo doplnit další variants\n\n")
+  f.write("# ===== Začátek automaticky generovaných položek (#{Time.now.strftime('%Y-%m-%d %H:%M:%S')}) =====\n")
   f.write(products.to_yaml)
+  f.write("\n# ===== Konec automaticky generovaných položek =====\n")
 end
 
 puts "Seznam produktů byl uložen do _data/generated_products.yml" 
