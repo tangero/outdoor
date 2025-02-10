@@ -21,4 +21,4 @@ end
 gem "ffi", ">= 1.15.0"
 
 # Fix for sass-embedded version issue: pinning to a known working version
-gem 'sass-embedded', '1.82.0'
+gem 'sass-embedded', '1.58.0'
