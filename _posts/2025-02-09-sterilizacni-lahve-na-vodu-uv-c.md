@@ -4,7 +4,7 @@ title: "Lahve na cesty s samočisticí technologií"
 categories: "ostatní"
 thumbnail: https://m.media-amazon.com/images/S/aplus-media-library-service-media/47c6514b-5e20-4bb0-aa6f-6f751aa61223.__CR0,0,800,600_PT0_SX800_V1___.jpg
 image: https://m.media-amazon.com/images/S/aplus-media-library-service-media/47c6514b-5e20-4bb0-aa6f-6f751aa61223.__CR0,0,800,600_PT0_SX800_V1___.jpg
-featured: 
+featured: true
 ---
 
 Častý problém: kde vzít čistou vodu na cestách? Je ten zurčivý potůček opravdu křišťálově čistý? Nebo za zatáčkou, kde nevidíte, do něj vytéká močůvka? Dříve existovaly dvě řešení: filtry a sterilizační tabletky. Obě měly své výhody i nevýhody. Nyní přibyl třetí způsob: samočisticí lahve s UV-C technologií.
