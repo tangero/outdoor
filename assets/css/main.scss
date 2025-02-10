@@ -9,10 +9,9 @@
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax",
-    "starsnonscss"
-;
+@import 
+    "syntax",
+    "starsnonscss";
 
 /* Přidáno pro rubrika-link, aby byl text tučný */
 .rubrika-link {
