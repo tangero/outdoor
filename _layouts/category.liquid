@@ -1,34 +1,38 @@
 ---
-layout: page
+layout: default
 ---
 
-<div class="home">
-    <div id="categories">
-        <section class="bg"></section>
-        <!-- Obsah rubriky (z index.md) -->
-
-            <div class="category-content">
-                {{ content }}
-            </div>
-
-    <!-- Získání názvu adresáře -->
-    {% assign current_category = page.name %}
-
-    <!-- Seznam článků v aktuální kategorii -->
-    {% assign articles = site.posts | where: "categories", current_category %}
-    {% if articles.size > 0 %}
-    <div class="category-articles">
-        <h2>👇 {{ current_category }} a další zkušenosti </h2>
-        <ul>
-            {% for post in articles %}
-            <li>
-                <a href="{{ post.url | relative_url }}">
-                    <h3>{{ post.title }} - {{ post.date | date: "%-d.%-m.%Y" }}</h3>
-                
-                </a>
-            </li>
-            {% endfor %}
-        </ul>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>{{ page.title }}</h1>
+            {{ content }}
+        </div>
     </div>
-    {% endif %}
-</div>
+    
+<hr>
+
+    <div class="row">
+        {% assign category_name = page.name %}
+
+
+        {% for post in site.posts %}
+            {% if post.categories contains category_name %}
+
+
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    {% if post.thumbnail %}
+                    <a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_250,c_fill,g_auto,f_auto,q_auto/{{ post.thumbnail }}" alt="{{ post.title }}" style="max-height: 250px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"></a>
+                    {% endif %}
+                    <div class="card-body">
+                        <a href="{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>
+                        <p class="card-text">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+                        <a href="{{ post.url }}" class="btn btn-primary">Číst více</a>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div> 

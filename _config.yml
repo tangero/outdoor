@@ -3,7 +3,7 @@ name: "Vybavení do přírody"
 title: "Vybavení do přírody"
 description: "Do přírody? Trail, trek? Poradím."
 logo: 'assets/img/vybaveni.webp'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl:
 google_analytics: false
 disqus: false
