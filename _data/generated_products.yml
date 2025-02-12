@@ -2,7 +2,7 @@
 # Pro každý produkt jsou automaticky generovány variants (text před prvním číslem)
 # Můžete ručně upravit nebo doplnit další variants
 
-# ===== Začátek automaticky generovaných položek (2025-02-10 09:32:30) =====
+# ===== Začátek automaticky generovaných položek (2025-02-12 08:45:57) =====
 ---
 - name: Bach Molecule 45L
   url: "/batohy/bach-molecule-45l/"
@@ -211,8 +211,32 @@
 - name: Therm-a-Rest BaseCamp
   url: "/karimatky/therm-a-rest-basecamp/"
   variants: []
+- name: Therm-a-Rest NeoAir Topo Luxe
+  url: "/karimatky/therm-a-rest-neoair-topo-luxe/"
+  variants: []
 - name: Therm-a-Rest NeoAir XLite NXT MAX
   url: "/karimatky/Therm-a-Rest-NeoAir-XLite-NXT-MAX/"
+  variants: []
+- name: Therm-a-Rest NeoAir XTherm NXT
+  url: "/karimatky/therm-a-rest-neoair-xtherm-nxt/"
+  variants: []
+- name: Therm-a-Rest ProLite Apex (Regular)
+  url: "/karimatky/therm-a-rest-prolite-apex/"
+  variants: []
+- name: Therm-a-Rest RidgeRest Classic
+  url: "/karimatky/therm-a-rest-ridgerest-classic/"
+  variants: []
+- name: Therm-a-Rest Trail Lite
+  url: "/karimatky/therm-a-rest-trail-lite/"
+  variants: []
+- name: Therm-a-Rest Trail Pro
+  url: "/karimatky/therm-a-rest-trail-pro/"
+  variants: []
+- name: Therm-a-Rest Venture
+  url: "/karimatky/therm-a-rest-venture/"
+  variants: []
+- name: Therm-a-Rest Z-Lite Sol
+  url: "/karimatky/therm-a-rest-z-lite-sol/"
   variants: []
 
 # ===== Konec automaticky generovaných položek =====

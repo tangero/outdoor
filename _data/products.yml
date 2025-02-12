@@ -5,29 +5,18 @@
 # - variants: Pole alternativních názvů produktu, je-li nutné
 # - generování probíhá v _plugins/product_linker.rb přes: ruby scripts/generate_products.rb
 
-- name: "Deuter Speed Lite 24"
-  url: "/batohy/deuter-speed-lite-20-deuter-speed-lite-24-deuter-speed-lite-27"
+- name: Bach Molecule 45L
+  url: "/batohy/bach-molecule-45l/"
   variants:
-    - "Speed Lite 24"
-    - "Deuter Speed Lite"
-
-- name: "Osprey Talon 22"
-  url: "/batohy/osprey-talon-22"
+  - Bach Molecule
+- name: Black Diamond Creek Transit 30L
+  url: "/batohy/black-diamond-creek-transit-20l-30l/"
   variants:
-    - "Talon 22"
-
-- name: "Osprey Atmos AG 65"
-  url: "/batohy/osprey-atmos-ag-50-osprey-atmos-ag-65/"
+  - Black Diamond Creek Transit
+- name: Black Diamond Infinity 60
+  url: "/batohy/black-diamond-infinity-60l/"
   variants:
-    - "Atmos AG 65"
-    - "Osprey Atmos"
-
-- name: "Deuter Futura 32"
-  url: "/batohy/deuter-futura-32-deuter-futura-42-deuter-futura-52/"
-  variants:
-    - "Deuter Futura 32/42/52"
-    - "Deuter Futura"
-
+  - Black Diamond Infinity
 - name: Deuter AirContact 65+10
   url: "/batohy/deuter-aircontact-55-10-deuter-aircontact-65-10-deuter-aircontact-75-10/"
   variants:
@@ -64,6 +53,10 @@
   url: "/batohy/deuter-trans-alpine-28-deuter-trans-alpine-30/"
   variants:
   - Deuter Trans Alpine
+- name: Gregory Amber 44
+  url: "/batohy/gregory-amber-44-gregory-amber-54/"
+  variants:
+  - Gregory Amber
 - name: Gregory Baltoro 85
   url: "/batohy/gregory-baltoro-85/"
   variants:
@@ -72,10 +65,18 @@
   url: "/batohy/gregory-deva-60-gregory-deva-70/"
   variants:
   - Gregory Deva
+- name: Gregory Facet 55
+  url: "/batohy/gregory-facet-45-gregory-facet-55/"
+  variants:
+  - Gregory Facet
 - name: Gregory Focal 58, Gregory Focal 68
   url: "/batohy/gregory-focal-58-gregory-focal-68/"
   variants:
   - Gregory Focal
+- name: Gregory Jade 63
+  url: "/batohy/gregory-jade-53-gregory-jade-63/"
+  variants:
+  - Gregory Jade
 - name: Gregory Katmai 55, Gregory Katmai 65
   url: "/batohy/gregory-katmai-55-gregory-katmai-65/"
   variants:
@@ -88,10 +89,26 @@
   url: "/batohy/gregory-octal-55-gregory-octal-65/"
   variants:
   - Gregory Octal
+- name: Gregory Optic 48
+  url: "/batohy/gregory-optic-48-gregory-optic-58/"
+  variants:
+  - Gregory Optic
+- name: Gregory Paragon 58
+  url: "/batohy/gregory-paragon-48-gregory-paragon-58/"
+  variants:
+  - Gregory Paragon
 - name: Gregory Stout 45
   url: "/batohy/gregory-stout-45-gregory-stout-60/"
   variants:
   - Gregory Stout
+- name: Gregory Targhee 45, Gregory Targhee 55
+  url: "/batohy/gregory-targhee-45-gregory-targhee-55/"
+  variants:
+  - Gregory Targhee
+- name: Gregory Zulu 55
+  url: "/batohy/gregory-zulu-40-gregory-zulu-55/"
+  variants:
+  - Gregory Zulu
 - name: Lowe Alpine Aeon 27, Aeon 35
   url: "/batohy/lowe-alpine-aeon-27-aeon-35/"
   variants:
@@ -104,6 +121,14 @@
   url: "/batohy/lowe-alpine-airzone-trail-35-airzone-trail-40-airzone-trail-45/"
   variants:
   - Lowe Alpine AirZone Trail
+- name: Lowe Alpine AirZone Trail Camino ND35-40
+  url: "/batohy/lowe-alpine-airzone-trail-nd-35-airzone-trail-nd-40-airzone-trail-nd-45/"
+  variants:
+  - Lowe Alpine AirZone Trail Camino ND
+- name: Lowe Alpine Altus 52:57
+  url: "/batohy/lowe-alpine-altus-52-57/"
+  variants:
+  - Lowe Alpine Altus
 - name: Lowe Alpine Cholatse 50
   url: "/batohy/lowe-alpine-cholatse-44-cholatse-50-cholatse-55/"
   variants:
@@ -187,42 +212,31 @@
 - name: Therm-a-Rest BaseCamp
   url: "/karimatky/therm-a-rest-basecamp/"
   variants: []
+- name: Therm-a-Rest NeoAir Topo Luxe
+  url: "/karimatky/therm-a-rest-neoair-topo-luxe/"
+  variants: []
 - name: Therm-a-Rest NeoAir XLite NXT MAX
   url: "/karimatky/Therm-a-Rest-NeoAir-XLite-NXT-MAX/"
   variants: []
-- name: Bach Molecule 45L
-  url: "/batohy/bach-molecule-45l/"
-  variants:
-  - Bach Molecule
-- name: Black Diamond Creek Transit 30L
-  url: "/batohy/black-diamond-creek-transit-20l-30l/"
-  variants:
-  - Black Diamond Creek Transit
-- name: Black Diamond Infinity 60
-  url: "/batohy/black-diamond-infinity-60l/"
-  variants:
-  - Black Diamond Infinity
-- name: Deuter AirContact 65+10
-  url: "/batohy/deuter-aircontact-55-10-deuter-aircontact-65-10-deuter-aircontact-75-10/"
-  variants:
-  - Deuter AirContact
-- name: Deuter AirContact Lite 45 SL
-  url: "/batohy/deuter-aircontact-lite-45-sl-deuter-aircontact-lite-50-sl/"
-  variants:
-  - Deuter AirContact Lite
-- name: Deuter Attack 22
-  url: "/batohy/deuter-attack-20-deuter-attack-24/"
-  variants:
-  - Deuter Attack
-- name: Deuter Futura 42
-  url: "/batohy/deuter-futura-32-deuter-futura-42-deuter-futura-52/"
-  variants:
-  - Deuter Futura
-- name: Deuter Giga 28
-  url: "/batohy/deuter-giga-28-deuter-giga-32/"
-  variants:
-  - Deuter Giga
-- name: Deuter Guide 40+
-  url: "/batohy/deuter-guide-32-deuter-guide-40/"
-  variants:
-  - Deuter Guide
+- name: Therm-a-Rest NeoAir XTherm NXT
+  url: "/karimatky/therm-a-rest-neoair-xtherm-nxt/"
+  variants: []
+- name: Therm-a-Rest ProLite Apex (Regular)
+  url: "/karimatky/therm-a-rest-prolite-apex/"
+  variants: []
+- name: Therm-a-Rest RidgeRest Classic
+  url: "/karimatky/therm-a-rest-ridgerest-classic/"
+  variants: []
+- name: Therm-a-Rest Trail Lite
+  url: "/karimatky/therm-a-rest-trail-lite/"
+  variants: []
+- name: Therm-a-Rest Trail Pro
+  url: "/karimatky/therm-a-rest-trail-pro/"
+  variants: []
+- name: Therm-a-Rest Venture
+  url: "/karimatky/therm-a-rest-venture/"
+  variants: []
+- name: Therm-a-Rest Z-Lite Sol
+  url: "/karimatky/therm-a-rest-z-lite-sol/"
+  variants: []
+
