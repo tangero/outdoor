@@ -29,8 +29,8 @@ module Jekyll
           # Normalizace URL produktu
           normalized_product_url = product['url'].sub(/index\.html$/, '')
           
-          # Pokud je aktuální stránka stejná jako cílová stránka produktu, přeskoč produkt
-          if normalized_current == normalized_product_url
+          # Pokud je aktuální stránka stejná jako cílová stránka produktu (bez ohledu na koncové lomítko), přeskoč produkt
+          if normalized_current.chomp('/') == normalized_product_url.chomp('/')
             next
           end
           
@@ -39,21 +39,18 @@ module Jekyll
             next
           end
           
-          # Vytvoření pole všech možných názvů produktu
-          names = [product['name']]
-          names += product['variants'] if product['variants']
-          
-          # Seřazení podle délky (nejdelší první)
-          names.sort_by! { |name| -name.length }
-          
-          # Nahrazení názvů odkazy; pokud nastane nahrazení, ukončím zpracování daného produktu
-          names.each do |name|
-            escaped_name = Regexp.escape(name)
-            replacement_count = text.gsub!( /\b#{escaped_name}\b/ ) do |match|
-              "<a href=\"#{product['url']}\">#{match}</a>"
-            end
-            if replacement_count
-              break
+          # Nová logika: Nejprve se pokusím najít celé jméno produktu. Pokud je nalezeno, nahradím pouze toto. Pokud ne, zkusím varianty.
+          full_name = product['name']
+          if text.match(/\b#{Regexp.escape(full_name)}\b/)
+            text.gsub!(/\b#{Regexp.escape(full_name)}\b/, "<a href=\"#{product['url']}\">\0</a>")
+          else
+            if product['variants']
+              product['variants'].sort_by { |n| -n.length }.each do |variant|
+                if text.match(/\b#{Regexp.escape(variant)}\b/)
+                  text.gsub!(/\b#{Regexp.escape(variant)}\b/, "<a href=\"#{product['url']}\">\0</a>")
+                  break
+                end
+              end
             end
           end
         end
