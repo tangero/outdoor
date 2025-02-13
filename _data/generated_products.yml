@@ -2,7 +2,7 @@
 # Pro každý produkt jsou automaticky generovány variants (text před prvním číslem)
 # Můžete ručně upravit nebo doplnit další variants
 
-# ===== Začátek automaticky generovaných položek (2025-02-12 08:45:57) =====
+# ===== Začátek automaticky generovaných položek (2025-02-13 09:12:34) =====
 ---
 - name: Bach Molecule 45L
   url: "/batohy/bach-molecule-45l/"
@@ -108,6 +108,22 @@
   url: "/batohy/gregory-zulu-40-gregory-zulu-55/"
   variants:
   - Gregory Zulu
+- name: Klymit Insulated Static V
+  url: "/karimatky/klymit-insulated-static-v/"
+  variants: []
+- name: Klymit Klymaloft Regular
+  url: "/karimatky/klymit-klymaloft/"
+  variants: []
+- name: Klymit Static V
+  url: "/karimatky/klymit-static-v/"
+  variants: []
+- name: Klymit Static V Luxe
+  url: "/karimatky/klymit-static-v-luxe/"
+  variants: []
+- name: Klymit Static V2
+  url: "/karimatky/klymit-static-v2/"
+  variants:
+  - Klymit Static V
 - name: Lowe Alpine Aeon 27, Aeon 35
   url: "/batohy/lowe-alpine-aeon-27-aeon-35/"
   variants:

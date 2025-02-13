@@ -109,6 +109,22 @@
   url: "/batohy/gregory-zulu-40-gregory-zulu-55/"
   variants:
   - Gregory Zulu
+- name: Klymit Insulated Static V
+  url: "/karimatky/klymit-insulated-static-v/"
+  variants: []
+- name: Klymit Klymaloft Regular
+  url: "/karimatky/klymit-klymaloft/"
+  variants: []
+- name: Klymit Static V
+  url: "/karimatky/klymit-static-v/"
+  variants: []
+- name: Klymit Static V Luxe
+  url: "/karimatky/klymit-static-v-luxe/"
+  variants: []
+- name: Klymit Static V2
+  url: "/karimatky/klymit-static-v2/"
+  variants:
+  - Klymit Static V
 - name: Lowe Alpine Aeon 27, Aeon 35
   url: "/batohy/lowe-alpine-aeon-27-aeon-35/"
   variants:
@@ -214,19 +230,19 @@
   variants: []
 - name: Therm-a-Rest NeoAir Topo Luxe
   url: "/karimatky/therm-a-rest-neoair-topo-luxe/"
-  variants: []
+  variants: [NeoAir Topo]
 - name: Therm-a-Rest NeoAir XLite NXT MAX
   url: "/karimatky/Therm-a-Rest-NeoAir-XLite-NXT-MAX/"
-  variants: []
+  variants: [NeoAir XLite]
 - name: Therm-a-Rest NeoAir XTherm NXT
   url: "/karimatky/therm-a-rest-neoair-xtherm-nxt/"
-  variants: []
+  variants: [NeoAir XTherm]
 - name: Therm-a-Rest ProLite Apex (Regular)
   url: "/karimatky/therm-a-rest-prolite-apex/"
-  variants: []
+  variants: [ProLite Apex]
 - name: Therm-a-Rest RidgeRest Classic
   url: "/karimatky/therm-a-rest-ridgerest-classic/"
-  variants: []
+  variants: [RidgeRest Classic]
 - name: Therm-a-Rest Trail Lite
   url: "/karimatky/therm-a-rest-trail-lite/"
   variants: []
@@ -238,5 +254,6 @@
   variants: []
 - name: Therm-a-Rest Z-Lite Sol
   url: "/karimatky/therm-a-rest-z-lite-sol/"
-  variants: []
+  variants: [Z-Lite Sol]
 
+# ===== Konec automaticky generovaných položek =====
