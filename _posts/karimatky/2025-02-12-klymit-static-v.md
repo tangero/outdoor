@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: Klymit Static V – pohodlná a lehká nafukovací karimatka pro třísezónní použití

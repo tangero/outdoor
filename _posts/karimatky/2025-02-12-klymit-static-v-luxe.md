@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "Klymit Static V Luxe – pohodlná a prostorná karimatka pro maximální komfort"

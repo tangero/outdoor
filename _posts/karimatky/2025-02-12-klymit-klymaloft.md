@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: Klymit Klymaloft – komfortní nafukovací karimatka pro pohodlný spánek v přírodě

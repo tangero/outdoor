@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: Klymit Static V2 – Lehká a pohodlná karimatka s unikátním designem komor

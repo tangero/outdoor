@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: Klymit Insulated Static V – komfortní a odolná karimatka na chladnější podmínky
