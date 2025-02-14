@@ -8,6 +8,8 @@ permalink: /karimatky/
 
 Je to prosté: jak si ustelete, tak se vyspíte. A karimatka je klíčový prvek toho, abyste se vyspali dobře. Dělá měkkost a především izoluje od chladu od země. Čili v létě si s ní tolik hlavu lámat nemusíte, stačí ta rolovací či skládací pěnová karimatka. Ale už na sklonku léta je to jiné. Chlad od země vám bude dělat potíže. No a pokud je vám dvacet let, tak to vcelku nějak zvládnete. Ale s přibývajícím věkem budete chtít při spánku lepší teplotní komfort a pokud si nepořídíte správnou karimatku a správný spacák, tak vás cestování do přírody nebude bavit. Proto moje doporučení: investujte do kvalitní karimatky a spacáku, pokud jezdíte do přírody přes noc. 
 
+> Přehled karimatek najdete [zde](/karimatky/prehled/)
+
 __Co konkrétně se v tomto článku dozvíte?__ 
 * Obsah
 {:toc}
@@ -212,4 +214,7 @@ Výběr správné karimatky závisí na mnoha faktorech, včetně typu výletu, 
 Pokud byste chtěli moje osobní doporučení, tak si pořiďte jednu skládací pěnovou karimatku na letní výlety, kterou můžete používat i k posezení. Pokud nejste cenově tolik citliví, tak investujte dvě tisícovky do kvalitní nafukovací karimatky, kterou můžete použít i během jara a podzimu. Pořiďte si také tyvek fólii, kterou můžete přibalit v případě, že jedete někam, kde byste se báli propíchnutí samonafukovačky. Tyvek ji dobře ochrání, ale samozřejmě je rozumné si spací místo trochu vyčistit. Zimní karimatky si kupujte, až získáte se spaním venku zkušenosti. 
 
 A máte si koupit levnou čínu? No, jsem majitelem několika Naturehike karimatek - koupil jsem ji dětem a pak jsem si ji vozil i já sám na cesty, protože je malá a na letní spaní vcelku dobrá. Jenže pak jsem se jednou probudil a byla vyfouknutá, rozlepená a přede mnou ještě tři dny... Tak to nepotěšilo. Na druhou stranu, byla to jedna z pěti a po osmi letech, pět Term-a-Restů jsem nikdy neměl... 
+
+> Přehled karimatek najdete [zde](/karimatky/prehled/)
+
 

@@ -5,6 +5,20 @@ archive: false
 post_class: post-template
 ---
 
+
+<div class="row" style="margin-top:30px;">
+    <!-- Zde začíná výpis rubrik -->
+    {% for rubrika in site.data.rubriky %}
+    <div class="col-md-2 col-sm-6 text-center">
+    <a href="{{ site.baseurl }}/{{ rubrika.name }}/" class="rubrika-link">
+    <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="{{ rubrika.title }}" class="img-fluid" style="height: 48px;">
+    <p>{{ rubrika.title }}</p>
+    </a>
+    </div>
+    {% endfor %}
+    <!-- Konec výpisu rubrik -->
+    </div>
+
 <!-- Begin Article
 ================================================== -->
 <div class="container">
