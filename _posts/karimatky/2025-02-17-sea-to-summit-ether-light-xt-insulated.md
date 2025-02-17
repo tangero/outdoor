@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "Sea to Summit Ether Light XT Insulated – komfortní a teplá nafukovací karimatka pro náročné cestovatele"
