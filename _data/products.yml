@@ -9,6 +9,14 @@
   url: "/batohy/bach-molecule-45l/"
   variants:
   - Bach Molecule
+- name: Bach Specialist 70L Women
+  url: "/batohy/bach-specialist-70l/"
+  variants:
+  - Bach Specialist
+- name: Black Diamond Cirque 35L
+  url: "/batohy/black-diamond-cirque-35l/"
+  variants:
+  - Black Diamond Cirque
 - name: Black Diamond Creek Transit 30L
   url: "/batohy/black-diamond-creek-transit-20l-30l/"
   variants:
@@ -17,6 +25,14 @@
   url: "/batohy/black-diamond-infinity-60l/"
   variants:
   - Black Diamond Infinity
+- name: Black Diamond Mission 75
+  url: "/batohy/black-diamond-mission-45l-75l/"
+  variants:
+  - Black Diamond Mission
+- name: Black Diamond Speed 30
+  url: "/batohy/black-diamond-speed-22l-30l/"
+  variants:
+  - Black Diamond Speed
 - name: Deuter AirContact 65+10
   url: "/batohy/deuter-aircontact-55-10-deuter-aircontact-65-10-deuter-aircontact-75-10/"
   variants:
@@ -225,24 +241,30 @@
   url: "/batohy/osprey-xenith-88/"
   variants:
   - Osprey Xenith
+- name: Sea to Summit Ether Light XT
+  url: "/karimatky/sea-to-summit-ether-light-xt/"
+  variants: []
+- name: Sea to Summit Ether Light XT Insulated
+  url: "/karimatky/sea-to-summit-ether-light-xt-insulated/"
+  variants: []
 - name: Therm-a-Rest BaseCamp
   url: "/karimatky/therm-a-rest-basecamp/"
   variants: []
 - name: Therm-a-Rest NeoAir Topo Luxe
   url: "/karimatky/therm-a-rest-neoair-topo-luxe/"
-  variants: [NeoAir Topo]
+  variants: []
 - name: Therm-a-Rest NeoAir XLite NXT MAX
   url: "/karimatky/Therm-a-Rest-NeoAir-XLite-NXT-MAX/"
-  variants: [NeoAir XLite]
+  variants: []
 - name: Therm-a-Rest NeoAir XTherm NXT
   url: "/karimatky/therm-a-rest-neoair-xtherm-nxt/"
-  variants: [NeoAir XTherm]
+  variants: []
 - name: Therm-a-Rest ProLite Apex (Regular)
   url: "/karimatky/therm-a-rest-prolite-apex/"
-  variants: [ProLite Apex]
+  variants: []
 - name: Therm-a-Rest RidgeRest Classic
   url: "/karimatky/therm-a-rest-ridgerest-classic/"
-  variants: [RidgeRest Classic]
+  variants: []
 - name: Therm-a-Rest Trail Lite
   url: "/karimatky/therm-a-rest-trail-lite/"
   variants: []
@@ -254,6 +276,7 @@
   variants: []
 - name: Therm-a-Rest Z-Lite Sol
   url: "/karimatky/therm-a-rest-z-lite-sol/"
-  variants: [Z-Lite Sol]
+  variants: []
 
 # ===== Konec automaticky generovaných položek =====
+

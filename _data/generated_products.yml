@@ -2,12 +2,20 @@
 # Pro každý produkt jsou automaticky generovány variants (text před prvním číslem)
 # Můžete ručně upravit nebo doplnit další variants
 
-# ===== Začátek automaticky generovaných položek (2025-02-13 09:12:34) =====
+# ===== Začátek automaticky generovaných položek (2025-02-18 09:50:16) =====
 ---
 - name: Bach Molecule 45L
   url: "/batohy/bach-molecule-45l/"
   variants:
   - Bach Molecule
+- name: Bach Specialist 70L Women
+  url: "/batohy/bach-specialist-70l/"
+  variants:
+  - Bach Specialist
+- name: Black Diamond Cirque 35L
+  url: "/batohy/black-diamond-cirque-35l/"
+  variants:
+  - Black Diamond Cirque
 - name: Black Diamond Creek Transit 30L
   url: "/batohy/black-diamond-creek-transit-20l-30l/"
   variants:
@@ -16,6 +24,14 @@
   url: "/batohy/black-diamond-infinity-60l/"
   variants:
   - Black Diamond Infinity
+- name: Black Diamond Mission 75
+  url: "/batohy/black-diamond-mission-45l-75l/"
+  variants:
+  - Black Diamond Mission
+- name: Black Diamond Speed 30
+  url: "/batohy/black-diamond-speed-22l-30l/"
+  variants:
+  - Black Diamond Speed
 - name: Deuter AirContact 65+10
   url: "/batohy/deuter-aircontact-55-10-deuter-aircontact-65-10-deuter-aircontact-75-10/"
   variants:
@@ -224,6 +240,12 @@
   url: "/batohy/osprey-xenith-88/"
   variants:
   - Osprey Xenith
+- name: Sea to Summit Ether Light XT
+  url: "/karimatky/sea-to-summit-ether-light-xt/"
+  variants: []
+- name: Sea to Summit Ether Light XT Insulated
+  url: "/karimatky/sea-to-summit-ether-light-xt-insulated/"
+  variants: []
 - name: Therm-a-Rest BaseCamp
   url: "/karimatky/therm-a-rest-basecamp/"
   variants: []
