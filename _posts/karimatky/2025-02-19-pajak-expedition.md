@@ -1,8 +1,8 @@
 ---
 layout: post
-title: “Pajak Expedition: Ultralehká a vysoce izolační karimatka pro extrémní podmínky”
-categories: “karimatky”
-model: “Pajak Expedition”
+title: "Pajak Expedition: Ultralehká a vysoce izolační karimatka pro extrémní podmínky"
+categories: karimatky
+model: "Pajak Expedition"
 feature-img:
 thumbnail: https://pajaksport.pl/3572-medium_default/expedition.jpg
 vaha: 685
