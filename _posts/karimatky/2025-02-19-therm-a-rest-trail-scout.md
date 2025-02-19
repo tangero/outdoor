@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "Therm-a-Rest Trail Scout – dostupná samonafukovací karimatka pro nenáročné cestovatele"
