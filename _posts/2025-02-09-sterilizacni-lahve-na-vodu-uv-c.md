@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lahve na cesty s samočisticí technologií"
-categories: "ostatní"
+categories: "ostatni"
 author: martin
 thumbnail: https://m.media-amazon.com/images/S/aplus-media-library-service-media/47c6514b-5e20-4bb0-aa6f-6f751aa61223.__CR0,0,800,600_PT0_SX800_V1___.jpg
 image: https://m.media-amazon.com/images/S/aplus-media-library-service-media/47c6514b-5e20-4bb0-aa6f-6f751aa61223.__CR0,0,800,600_PT0_SX800_V1___.jpg
