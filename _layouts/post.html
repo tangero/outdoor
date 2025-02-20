@@ -19,6 +19,8 @@ post_class: post-template
     <!-- Konec výpisu rubrik -->
     </div>
 
+
+    
 <!-- Begin Article
 ================================================== -->
 <div class="container">
@@ -74,6 +76,17 @@ post_class: post-template
 
             {% endif %}
             <!-- End Featured Image -->
+
+            <div style="border: 1px solid #ccc; padding: 10px; margin: 20px 0; background-color: #f9f9f9;">
+                <p style="font-size: 1.2em; margin: 0;"><span style="font-size: 1.5em;">💡</span> 
+                {% if page.categories == "batohy" %}
+                    <a href="{{ site.baseurl }}/batohy/prehled/">Přehled batohů</a>
+                {% elsif page.categories == "karimatky" %}
+                    <a href="{{ site.baseurl }}/karimatky/prehled/">Přehled karimatek</a>
+                {% endif %}
+                </p>
+            </div>
+
 
             <!-- Post Content -->
             <div class="article-post">
@@ -133,6 +146,12 @@ post_class: post-template
                 </ul>
             </div>
             <!-- End Tags -->
+
+            {% if page.categories == "batohy" %}
+              <p><a href="{{ site.baseurl }}/batohy/prehled/">Přehled batohů</a></p>
+            {% elsif page.categories == "karimatky" %}
+              <p><a href="{{ site.baseurl }}/karimatky/prehled/">Přehled karimatků</a></p>
+            {% endif %}
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
