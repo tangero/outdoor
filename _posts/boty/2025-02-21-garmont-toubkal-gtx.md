@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garmont Toubkal GTX: Spolehlivý parťák pro náročné treky
+title: "Garmont Toubkal GTX: Spolehlivý parťák pro náročné treky"
 categories: boty
 model: Garmont Toubkal GTX
 feature-img: 

@@ -4,13 +4,16 @@
 # - url: Relativní URL na stránku s recenzí nebo detailním popisem produktu
 # - variants: Pole alternativních názvů produktu, je-li nutné
 # - generování probíhá v _plugins/product_linker.rb přes: ruby scripts/generate_products.rb
-
 - name: Bach Molecule 45L
   url: "/batohy/bach-molecule-45l/"
   variants:
   - Bach Molecule
 - name: Bach Specialist 70L Women
   url: "/batohy/bach-specialist-70l/"
+  variants:
+  - Bach Specialist
+- name: Bach Specialist 90L
+  url: "/batohy/bach-specialist-90l/"
   variants:
   - Bach Specialist
 - name: Black Diamond Cirque 35L
@@ -69,6 +72,22 @@
   url: "/batohy/deuter-trans-alpine-28-deuter-trans-alpine-30/"
   variants:
   - Deuter Trans Alpine
+- name: Dynafit Alpine Pro
+  url: "/boty/dynafit-alpine-pro/"
+  variants: []
+- name: Dynafit Speed MTN GTX
+  url: "/boty/dynafit-speed-mtn-gtx/"
+  variants: []
+- name: Dynafit Ultra 100
+  url: "/boty/dynafit-ultra-100/"
+  variants:
+  - Dynafit Ultra
+- name: Garmont Toubkal GTX
+  url: "/boty/garmont-toubkal-gtx/"
+  variants: []
+- name: Garmont Vetta GTX
+  url: "/boty/garmont-vetta-gtx/"
+  variants: []
 - name: Gregory Amber 44
   url: "/batohy/gregory-amber-44-gregory-amber-54/"
   variants:
@@ -81,6 +100,10 @@
   url: "/batohy/gregory-deva-60-gregory-deva-70/"
   variants:
   - Gregory Deva
+- name: Gregory Facet 45
+  url: "/batohy/gregory-facet-45/"
+  variants:
+  - Gregory Facet
 - name: Gregory Facet 55
   url: "/batohy/gregory-facet-45-gregory-facet-55/"
   variants:
@@ -241,6 +264,12 @@
   url: "/batohy/osprey-xenith-88/"
   variants:
   - Osprey Xenith
+- name: Pajak Alpine
+  url: "/karimatky/pajak-alpine/"
+  variants: []
+- name: Pajak Expedition
+  url: "/karimatky/pajak-expedition/"
+  variants: []
 - name: Sea to Summit Ether Light XT
   url: "/karimatky/sea-to-summit-ether-light-xt/"
   variants: []
@@ -271,12 +300,20 @@
 - name: Therm-a-Rest Trail Pro
   url: "/karimatky/therm-a-rest-trail-pro/"
   variants: []
+- name: Therm-a-Rest Trail Scout
+  url: "/karimatky/therm-a-rest-trail-scout/"
+  variants: []
 - name: Therm-a-Rest Venture
   url: "/karimatky/therm-a-rest-venture/"
   variants: []
 - name: Therm-a-Rest Z-Lite Sol
   url: "/karimatky/therm-a-rest-z-lite-sol/"
   variants: []
+- name: Zulu Alex
+  url: "/karimatky/zulu-alex/"
+  variants: []
+- name: Zulu Moonglight Comfort
+  url: "/karimatky/zulu-moonglight/"
+  variants: []
 
 # ===== Konec automaticky generovaných položek =====
-

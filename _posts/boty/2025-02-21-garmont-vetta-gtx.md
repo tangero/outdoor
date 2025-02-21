@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garmont Vetta GTX: Univerzální pohorky pro náročné turisty
+title: "Garmont Vetta GTX: Univerzální pohorky pro náročné turisty"
 categories: boty
 model: Garmont Vetta GTX
 feature-img: 

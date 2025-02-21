@@ -24,13 +24,19 @@ Dir.glob("_posts/**/*.md") do |file|
   content = File.read(file)
   if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
     front_matter = $1
-    data = YAML.load(front_matter)
-    if data && data['model']
-      # Získáme URL z názvu souboru bez datové části
-      category = file.split('/')[1] # Získáme kategorii z cesty (např. "batohy")
-      filename = File.basename(file, '.md').sub(/^\d{4}-\d{2}-\d{2}-/, '') # Odstraníme datovou část
-      url = "/#{category}/#{filename}/"
-      product_set << [data['model'], url]
+    begin
+      # Bezpečnější způsob načítání YAML s povolenými aliasy
+      data = YAML.safe_load(front_matter, permitted_classes: [Time, Date], aliases: true)
+      if data && data['model']
+        # Získáme URL z názvu souboru bez datové části
+        category = file.split('/')[1] # Získáme kategorii z cesty (např. "batohy")
+        filename = File.basename(file, '.md').sub(/^\d{4}-\d{2}-\d{2}-/, '') # Odstraníme datovou část
+        url = "/#{category}/#{filename}/"
+        product_set << [data['model'], url]
+      end
+    rescue => e
+      puts "Chyba při zpracování souboru #{file}: #{e.message}"
+      next
     end
   end
 end
