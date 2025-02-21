@@ -11,7 +11,7 @@ material: Kůže Perwanger, textilní materiál, membrána Gore-Tex Performance 
 urceni: Dlouhé přechody hor, technicky náročné trasy, dlouhé výlety, zimní treking
 pohlavi: mužské
 pro: Výborná stabilita, odolnost a voděodolnost. Pohodlné i při dlouhém nošení v náročném terénu. Skvělý pomer cena/výkon.
-proti: Vyšší hmotnost, tužší podešev může být pro někoho méně komfortní na lehčích trasách. Delší doba "rozšlápnutí".
+proti: Vyšší hmotnost, tužší podešev může být pro někoho méně komfortní na lehčích trasách. Delší doba rozšlápnutí.
 hodnoceni: 8
 ---
 

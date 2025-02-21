@@ -17,7 +17,7 @@ hodnoceni: 8
 
 Dynafit Alpine Pro jsou trailové běžecké boty navržené pro náročné běžce a rychlé horské nadšence, kteří hledají spolehlivého parťáka pro technicky náročné terény a dlouhé vzdálenosti.  Jejich síla tkví v kombinaci nízké váhy, vynikající trakce a citlivého tlumení, které poskytuje dostatečnou ochranu a komfort i při sestupech a traverzech.  Díky tomu si získaly oblibu u běžců, kteří preferují svižné tempo a dynamický pohyb v horách, ať už na trénincích, nebo při závodech.
 
-![Model bot](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.trekkinn.com/f/13636/136367528/dynafit-alpine-pro.jpg)
+![Dynafit Alpine Pro](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.trekkinn.com/f/13636/136367528/dynafit-alpine-pro.jpg)
 
 Představte si, že zdoláváte ostré skalnaté hřebeny, probíháte kamenitými sutěmi a kličkujete mezi kořeny stromů. Přesně pro takové podmínky byly Alpine Pro stvořeny.  Nabízejí skvělou rovnováhu mezi ochranou, stabilitou a flexibilitou, což z nich dělá univerzální volbu pro širokou škálu horských aktivit – od rychlého hikingu, přes skyrunning, až po kratší ultra-traily.
 

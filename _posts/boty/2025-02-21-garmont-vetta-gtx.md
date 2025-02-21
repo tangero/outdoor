@@ -7,9 +7,9 @@ feature-img:
 thumbnail: https://outdoortest.it/wp-content/uploads/2021/11/5834420649223895233_121.jpg
 vaha: 1300
 tvar: střední
-materiál: 1,8 mm semišová kůže, Gore-Tex Extended Comfort
+material: 1,8 mm semišová kůže, Gore-Tex Extended Comfort
 urceni: Technicky náročné trasy, dlouhé výlety, via ferraty
-pohlaví: mužské, ženské
+pohlavi: mužské, ženské
 pro: Vynikající stabilita, odolnost, pohodlí i na dlouhých túrách, precizní šněrování, výborná trakce.
 proti: Vyšší hmotnost, tužší podešev může být pro někoho nepohodlná na lehčím terénu, delší doba rozchození.
 hodnoceni: 8
