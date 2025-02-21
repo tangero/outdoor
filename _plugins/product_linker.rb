@@ -39,15 +39,21 @@ module Jekyll
             next
           end
           
-          # Nová logika: Nejprve se pokusím najít celé jméno produktu. Pokud je nalezeno, nahradím pouze toto. Pokud ne, zkusím varianty.
+          # Nová logika: Nejprve se pokusím najít celé jméno produktu s různými typy uvozovek
           full_name = product['name']
-          if text.match(/\b#{Regexp.escape(full_name)}\b/)
-            text.gsub!(/\b#{Regexp.escape(full_name)}\b/, "<a href=\"#{product['url']}\">\0</a>")
+          escaped_name = Regexp.escape(full_name)
+          # Pattern pro hledání textu s různými typy uvozovek nebo bez nich
+          pattern = /\b(?:"|"|„)?#{escaped_name}(?:"|")?/
+          
+          if text.match(pattern)
+            text.gsub!(pattern, "<a href=\"#{product['url']}\">\\0</a>")
           else
             if product['variants']
               product['variants'].sort_by { |n| -n.length }.each do |variant|
-                if text.match(/\b#{Regexp.escape(variant)}\b/)
-                  text.gsub!(/\b#{Regexp.escape(variant)}\b/, "<a href=\"#{product['url']}\">\0</a>")
+                escaped_variant = Regexp.escape(variant)
+                variant_pattern = /\b(?:"|"|„)?#{escaped_variant}(?:"|")?/
+                if text.match(variant_pattern)
+                  text.gsub!(variant_pattern, "<a href=\"#{product['url']}\">\\0</a>")
                   break
                 end
               end
