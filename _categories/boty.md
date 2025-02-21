@@ -90,75 +90,75 @@ Jak jsem se rozhodl já? Sepsal si pár modelů na papírek, rozhodl se koupit s
 
 1. **Dynafit**
 
-   - **Nízké boty**: "Ultra 100" (navržené pro dlouhé horské běhy).
-   - **Středně vysoké boty**: "Speed MTN GTX" (rychlost a ochrana pro alpské přístupy), "Alpine Pro" (kombinace komfortu a výkonu pro technické trasy).
-   - **Vysoké boty**: "TLT8 Expedition CR" (lehkost a technická výkonnost pro skialpové výpravy).
+   - **Nízké boty**: "Dynafit Ultra 100" (navržené pro dlouhé horské běhy).
+   - **Středně vysoké boty**: "Dynafit Speed MTN GTX" (rychlost a ochrana pro alpské přístupy), "Dynafit Alpine Pro" (kombinace komfortu a výkonu pro technické trasy).
+   - **Vysoké boty**: "Dynafit TLT8 Expedition CR" (lehkost a technická výkonnost pro skialpové výpravy).
 
 2. **Garmont**
 
-   - **Nízké boty**: "Dragontail LT" (vhodné pro technické přístupy a lehké lezení).
-   - **Středně vysoké boty**: "Toubkal GTX" (odolné a komfortní pro vícedenní túry), "Vetta GTX" (lehké a technické boty pro alpské podmínky).
-   - **Vysoké boty**: "Mountain Guide Pro GTX" (robustní konstrukce a kompatibilita s poloautomatickými mačkami).
+   - **Nízké boty**: "Garmont Dragontail LT" (vhodné pro technické přístupy a lehké lezení).
+   - **Středně vysoké boty**: "Garmont Toubkal GTX" (odolné a komfortní pro vícedenní túry), "Garmont Vetta GTX" (lehké a technické boty pro alpské podmínky).
+   - **Vysoké boty**: "Garmont Mountain Guide Pro GTX" (robustní konstrukce a kompatibilita s poloautomatickými mačkami).
 
 3. **Hoka**
 
-   - **Nízké boty**: "Speedgoat 5" (skvělá tlumení a trakce pro trailové běhy).
-   - **Středně vysoké boty**: "Sky Kaha GTX" (pohodlí a podpora pro dlouhé túry), "Anacapa Mid GTX" (prodyšná a lehká obuv pro každodenní turistiku).
-   - **Vysoké boty**: "Sky Arkali" (kombinace stability, trakce a ochrany pro náročné terény).
+   - **Nízké boty**: "Hoka Speedgoat 5" (skvělá tlumení a trakce pro trailové běhy).
+   - **Středně vysoké boty**: "Hoka Sky Kaha GTX" (pohodlí a podpora pro dlouhé túry), "Hoka Anacapa Mid GTX" (prodyšná a lehká obuv pro každodenní turistiku).
+   - **Vysoké boty**: "Hoka Sky Arkali" (kombinace stability, trakce a ochrany pro náročné terény).
 
 4. **Inov8**
 
-   - **Nízké boty**: "Roclite G 275" (přilnavá podešev s grafenem pro všestranný terén).
-   - **Středně vysoké boty**: "Roclite G 345 GTX" (lehká nepromokavá bota pro běžecké a turistické využití), "Trailfly Ultra G 300 Max" (komfort a podpora na dlouhé vzdálenosti).
-   - **Vysoké boty**: "Roclite Pro G 400 GTX" (pevnost a ochrana pro náročné horské trasy).
+   - **Nízké boty**: "Inov8 Roclite G 275" (přilnavá podešev s grafenem pro všestranný terén).
+   - **Středně vysoké boty**: "Inov8 Roclite G 345 GTX" (lehká nepromokavá bota pro běžecké a turistické využití), "Inov8 Trailfly Ultra G 300 Max" (komfort a podpora na dlouhé vzdálenosti).
+   - **Vysoké boty**: "Inov8 Roclite Pro G 400 GTX" (pevnost a ochrana pro náročné horské trasy).
 
 5. **Keen**
 
-   - **Nízké boty**: "Targhee III" (pohodlí a voděodolnost).
-   - **Středně vysoké boty**: "Voyageur" (prodyšné a stabilní), "Circadia Mid" (pro každodenní turistiku).
-   - **Vysoké boty**: "Ridge Flex" (výborná flexibilita a ochrana kotníku).
+   - **Nízké boty**: "Keen Targhee III" (pohodlí a voděodolnost).
+   - **Středně vysoké boty**: "Keen Voyageur" (prodyšné a stabilní), "Keen Circadia Mid" (pro každodenní turistiku).
+   - **Vysoké boty**: "Keen Ridge Flex" (výborná flexibilita a ochrana kotníku).
 
 6. **La Sportiva**
 
-   - **Nízké boty**: "TX2" (lehká obuv pro přístupové trasy).
-   - **Středně vysoké boty**: "Trango Tech" (vysoká technická přesnost), "Boulder X Mid" (odolnost pro skály a lehký terén).
-   - **Vysoké boty**: "Nepal Evo" (izolace a kompatibilita s mačkami).
+   - **Nízké boty**: "La Sportiva TX2" (lehká obuv pro přístupové trasy).
+   - **Středně vysoké boty**: "La Sportiva Trango Tech" (vysoká technická přesnost), "La Sportiva Boulder X Mid" (odolnost pro skály a lehký terén).
+   - **Vysoké boty**: "La Sportiva Nepal Evo" (izolace a kompatibilita s mačkami).
 
 7. **Lowa**
 
-   - **Nízké boty**: "Innox Pro" (prodyšné a lehké).
-   - **Středně vysoké boty**: "Renegade" (pohodlí a odolnost), "Camino GTX" (stabilita a dlouhá životnost).
-   - **Vysoké boty**: "Tibet GTX" (prodloužená ochrana v náročném terénu).
+   - **Nízké boty**: "Lowa Innox Pro" (prodyšné a lehké).
+   - **Středně vysoké boty**: "Lowa Renegade" (pohodlí a odolnost), "Lowa Camino GTX" (stabilita a dlouhá životnost).
+   - **Vysoké boty**: "Lowa Tibet GTX" (prodloužená ochrana v náročném terénu).
 
 8. **Mammut**
 
-   - **Nízké boty**: "Alnasca Knit Low" (lehké a prodyšné, ideální pro přístupové cesty a nenáročné túry).
-   - **Středně vysoké boty**: "Ducan Mid GTX" (stabilita a flexibilita pro různorodý terén), "Kento Guide High GTX" (technický výkon a ochrana na skalnatém povrchu).
-   - **Vysoké boty**: "Nordwand Knit High GTX" (extrémní izolace a kompatibilita s mačkami pro zimní expedice).
+   - **Nízké boty**: "Mammut Alnasca Knit Low" (lehké a prodyšné, ideální pro přístupové cesty a nenáročné túry).
+   - **Středně vysoké boty**: "Mammut Ducan Mid GTX" (stabilita a flexibilita pro různorodý terén), "Mammut Kento Guide High GTX" (technický výkon a ochrana na skalnatém povrchu).
+   - **Vysoké boty**: "Mammut Nordwand Knit High GTX" (extrémní izolace a kompatibilita s mačkami pro zimní expedice).
 
 9. **Merrell**
 
-   - **Nízké boty**: "Moab 3" (skvělé odpružení a trakce).
-   - **Středně vysoké boty**: "Chameleon 8" (flexibilní a odolné), "Thermo Chill" (vhodné pro chladné podmínky).
-   - **Vysoké boty**: "Thermo Rogue" (zimní trekingová bota s vynikající izolací).
+   - **Nízké boty**: "Merrell Moab 3" (skvělé odpružení a trakce).
+   - **Středně vysoké boty**: "Merrell Chameleon 8" (flexibilní a odolné), "Merrell Thermo Chill" (vhodné pro chladné podmínky).
+   - **Vysoké boty**: "Merrell Thermo Rogue" (zimní trekingová bota s vynikající izolací).
 
 10. **Salomon**
 
-   - **Nízké boty**: "Outline" (lehkost a flexibilita pro nenáročné trasy).
-   - **Středně vysoké boty**: "Quest" (výborná stabilita a odolnost), "X Ultra" (vhodné pro technický terén).
-   - **Vysoké boty**: "Alphacross" (vysoká ochrana a přilnavost na náročném povrchu).
+   - **Nízké boty**: "Salomon Outline" (lehkost a flexibilita pro nenáročné trasy).
+   - **Středně vysoké boty**: "Salomon Quest" (výborná stabilita a odolnost), "Salomon X Ultra" (vhodné pro technický terén).
+   - **Vysoké boty**: "Salomon Alphacross" (vysoká ochrana a přilnavost na náročném povrchu).
 
 11. **Scarpa**
 
-   - **Nízké boty**: "Mojito" (pohodlné a stylové pro městské i lehké trasy).
-   - **Středně vysoké boty**: "Kailash" (vhodné pro treking), "Zodiac" (technický výkon pro horské túry).
-   - **Vysoké boty**: "Phantom" (expediční boty s termální izolací).
+   - **Nízké boty**: "Scarpa Mojito" (pohodlné a stylové pro městské i lehké trasy).
+   - **Středně vysoké boty**: "Scarpa Kailash" (vhodné pro treking), "Scarpa Zodiac" (technický výkon pro horské túry).
+   - **Vysoké boty**: "Scarpa Phantom" (expediční boty s termální izolací).
 
 12. **Tecnica**
 
-   - **Nízké boty**: "Plasma S" (pohodlí a přizpůsobivost díky technologii tvarování svršku).
-   - **Středně vysoké boty**: "Forge S" (skvělé pro dlouhé trasy s těžkým batohem, zaměřené na odolnost), "Forge GTX" (kombinace voděodolnosti a pohodlí pro horské túry).
-   - **Vysoké boty**: "Forge Winter GTX" (termální izolace a maximální ochrana v náročných zimních podmínkách).
+   - **Nízké boty**: "Tecnica Plasma S" (pohodlí a přizpůsobivost díky technologii tvarování svršku).
+   - **Středně vysoké boty**: "Tecnica Forge S" (skvělé pro dlouhé trasy s těžkým batohem, zaměřené na odolnost), "Tecnica Forge GTX" (kombinace voděodolnosti a pohodlí pro horské túry).
+   - **Vysoké boty**: "Tecnica Forge Winter GTX" (termální izolace a maximální ochrana v náročných zimních podmínkách).
 
 
 
