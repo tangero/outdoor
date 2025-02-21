@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Dynafit Alpine Pro: Univerzální trailová bestie pro náročné běžce
+title: Dynafit Alpine Pro - Univerzální trailová bestie pro náročné běžce
 categories: boty
 model: Dynafit Alpine Pro
 feature-img: 
-thumbnail: http://trailandultrarunning.com/wp-content/uploads/2017/04/Alpine-Pro-invisible-lacing-853x640.jpg
+thumbnail: "http://trailandultrarunning.com/wp-content/uploads/2017/04/Alpine-Pro-invisible-lacing-853x640.jpg"
 vaha: 300
 tvar: nízké
-pohlaví: unisex
-materiál: syntetické materiály, prodyšná síťovina
+pohlavi: unisex
+material: syntetické materiály, prodyšná síťovina
 urceni: běžecké, dlouhé přechody hor, technicky náročné trasy
 pro: Skvělá trakce, responzivní tlumení, nízká váha, precizní střih, ochrana nohy v náročném terénu.
 proti: Vyšší cena, užší střih nemusí sedět každému, menší míra tlumení pro ultra-dlouhé běhy.

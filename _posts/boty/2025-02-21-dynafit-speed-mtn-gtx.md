@@ -7,7 +7,7 @@ feature-img:
 thumbnail: https://www.bfgcdn.com/1500_1500_90/042-0233/dynafit-speed-mtn-gtx-chaussures-dapproche-detail-2.jpg
 vaha: 390
 tvar: nízké
-materiál: syntetické materiály, membrána Gore-Tex
+material: syntetické materiály, membrána Gore-Tex
 urceni: Rychlý hiking, skyrunning, technicky náročné trasy, krátké výlety
 pro: Lehkost, přilnavost, rychlé šněrování, voděodolnost, prodyšnost.
 proti: Nižší míra stability a podpory kotníku, užší střih nemusí vyhovovat každému.
@@ -17,7 +17,7 @@ hodnoceni: 8
 
 Dynafit Speed MTN GTX jsou boty navržené pro ambiciózní outdoorové nadšence, kteří hledají lehkou, obratnou a spolehlivou obuv pro rychlé přesuny v horském terénu.  Ať už se věnujete speed hikingu, skyrunningu, nebo hledáte lehkou botu na technicky náročnější jednodenní výlety, Speed MTN GTX vám poskytnou potřebnou kombinaci rychlosti, ochrany a pohodlí. Hlavním lákadlem je nízká hmotnost, která v kombinaci s agresivní podešví a precizním střihem umožňuje dynamický pohyb a jistotu i v náročnějším terénu.  Obliba těchto bot pramení z jejich univerzálnosti a spolehlivosti v proměnlivých horských podmínkách – Gore-Tex membrána zaručuje nepromokavost a prodyšnost, zatímco podrážka Pomoca poskytuje vynikající trakci na různých typech povrchů.
 
-![Model bot](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bfgcdn.com/1500_1500_90/042-0233/dynafit-speed-mtn-gtx-chaussures-dapproche-detail-2.jpg)
+![Dynafit Speed MTN GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bfgcdn.com/1500_1500_90/042-0233/dynafit-speed-mtn-gtx-chaussures-dapproche-detail-2.jpg)
 
 
 Dynafit Speed MTN GTX se pyšní řadou promyšlených detailů a technologií, které z nich dělají špičkovou volbu pro rychlé horské aktivity. Klíčovým prvkem je **membrána Gore-Tex Extended Comfort**, která zaručuje 100% voděodolnost a zároveň vysokou prodyšnost. To znamená, že vaše nohy zůstanou v suchu i při intenzivním pohybu a v nepříznivém počasí. Svršek boty je vyroben z **odolné syntetické tkaniny**, která je lehká, ale zároveň dostatečně robustní, aby odolala oděru a nástrahám horského terénu. **Systém rychlého šněrování** umožňuje snadné a rychlé utažení boty, což oceníte zejména při častém zouvání a nazouvání nebo při potřebě rychlé úpravy během aktivity.
