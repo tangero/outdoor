@@ -3,7 +3,7 @@ layout: post
 title: "Bach Specialist 90L: Víceúčelový batoh pro náročné expedice s modulární organizací"
 categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
-thumbnail: https://asset.scott-sports.com/fit-in/2000x2000/3_B/3_BACH_Specialist_85L_women_backpack_front_opening_2081975.jpg
+thumbnail: https://www.vybavenidoprirody.com/assets//posts/bach-specialist-90l-1.jpg
 model: "Bach Specialist 90L"
 vaha: 2640
 objem: 90
@@ -22,7 +22,7 @@ Batoh má tři rozměrové varianty: R: 90l, L: 94l a XL: 96l podle velikosti za
 
 Uváděné parametry platí pro variantu R. 
 
-![Bach Specialist 90L](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://asset.scott-sports.com/fit-in/750x750/297/2970510001.png)
+![Bach Specialist 90L](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.vybavenidoprirody.com/assets/posts/bach-specialist-90l-2.jpg)
 
 2. **Klíčové parametry:**  
    - **Zádový systém:** Variabilní výška ramenních popruhů (nastavení 5–10 cm) s hliníkovým rámem a 3D prodyšnou mřížkou. Systém umožňuje přenášet až 70 % váhy na bederní pás.  
