@@ -90,8 +90,8 @@ Jak jsem se rozhodl já? Sepsal si pár modelů na papírek, rozhodl se koupit s
 
 1. **Dynafit**
 
-   - **Nízké boty**: "Dynafit Ultra 100" (navržené pro dlouhé horské běhy).
-   - **Středně vysoké boty**: "Dynafit Speed MTN GTX" (rychlost a ochrana pro alpské přístupy), "Dynafit Alpine Pro" (kombinace komfortu a výkonu pro technické trasy).
+   - **Nízké boty**: Dynafit Ultra 100 (navržené pro dlouhé horské běhy). Dynafit Speed MTN GTX (rychlost a ochrana pro alpské přístupy). Dynafit Alpine Pro (kombinace komfortu a výkonu pro technické trasy).
+   - **Středně vysoké boty**: momentálně nenabízí
    - **Vysoké boty**: momentálně nenabízí
 
 2. **Garmont**

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Garmont Dragontail LT: Nízká trekovka pro technický terén a lehký trekking
+title: Garmont Dragontail LT - Nízká trekovka pro technický terén a lehký trekking
 categories: boty
 model: Garmont Dragontail LT
 feature-img: 
 thumbnail: https://schuhfreak.de/hpeciai/9e626751f1f143d19c010d68101e98fd/eng_pl_Garmont-Dragontail-LT-000272-25293_1.jpg
 vaha: 475
 tvar: nízké
-materiál: 1,8 mm semišová kůže, Eco-PU stélka
+material: 1,8 mm semišová kůže, Eco-PU stélka
 urceni: technicky náročné trasy, lehký trekking, via ferraty, nástupy pod skály, bouldering
-pohlaví: mužské, ženské (specifické dámské modely)
+pohlavi: mužské, ženské (specifické dámské modely)
 pro: Výborná trakce, precizní šněrování až do špičky, odolnost, stabilita v náročném terénu, pohodlí i při delších túrách.
 proti: Vyšší tuhost může být pro někoho méně komfortní na jednoduchých cestách, užší střih nemusí sedět každému, vyšší cena.
 hodnoceni: 8
