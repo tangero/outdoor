@@ -92,7 +92,7 @@ Jak jsem se rozhodl já? Sepsal si pár modelů na papírek, rozhodl se koupit s
 
    - **Nízké boty**: "Dynafit Ultra 100" (navržené pro dlouhé horské běhy).
    - **Středně vysoké boty**: "Dynafit Speed MTN GTX" (rychlost a ochrana pro alpské přístupy), "Dynafit Alpine Pro" (kombinace komfortu a výkonu pro technické trasy).
-   - **Vysoké boty**: "Dynafit TLT8 Expedition CR" (lehkost a technická výkonnost pro skialpové výpravy).
+   - **Vysoké boty**: momentálně nenabízí
 
 2. **Garmont**
 
