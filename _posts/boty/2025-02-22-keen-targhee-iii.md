@@ -20,6 +20,8 @@ Keen Targhee III jsou oblíbenou volbou mezi outdoorovými nadšenci a cestovate
 
 Díky voděodolné, ale prodyšné membráně KEEN.DRY, ochraně prstů a robustní konstrukci se Targhee III staly synonymem pro spolehlivost v proměnlivých podmínkách.  Ať už se chystáte na procházku lesem, výšlap na kopec, nebo delší trek s batohem, Targhee III vám poskytnou potřebnou oporu a ochranu a to vše, aniž byste museli obětovat pohodlí.
 
+Pozor, tento model má ještě svou Mid variantu, která je vyšší a má větší podporu kotníku. A je samozřejmě těžší.
+
 ![Keen Targhee III](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://images.nittanyweb.com/scs/images/products/21/original/keen_men_s_targhee_iii_waterproof_wide_1018597_p122397.jpg)
 
 ### Klíčové parametry a technologie

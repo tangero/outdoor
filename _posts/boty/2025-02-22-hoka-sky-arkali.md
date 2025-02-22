@@ -4,7 +4,7 @@ title: Hoka Sky Arkali - Revoluční hybrid pro náročný terén
 categories: boty
 model: Hoka Sky Arkali
 feature-img: 
-thumbnail: https://cdna.lystit.com/1200/630/tr/photos/backcountry/bfb588c1/hoka-one-one-DragonflyAqua-Haze-Sky-Arkali-Hiking-Shoe.jpeg
+thumbnail: https://www.sportgardena.com/media/image/fe/99/57/Hoka-Arkali-Black-Cyan-Citrus-Lateral.jpg
 vaha: 432
 tvar: vysoké
 material: MATRYX® textilie, EVA pěna, Vibram® Megagrip podešev
