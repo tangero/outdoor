@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hoka Sky Kaha GTX: Nečekaně lehký tank pro dlouhé treky
+title: Hoka Sky Kaha GTX - Nečekaně lehký tank pro dlouhé treky
 categories: boty
 model: Hoka Sky Kaha GTX
 feature-img: 
