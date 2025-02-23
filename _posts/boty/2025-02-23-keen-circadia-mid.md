@@ -4,7 +4,7 @@ title: Keen Circadia Mid - Univerzální pohorky pro každodenní dobrodružstv�
 categories: boty
 model: Keen Circadia Mid
 feature-img: 
-thumbnail: https://www.rei.com/media/0176ebed-b89c-4546-aac7-85f34b22f5da.jpg?size=1075
+thumbnail: https://www.rei.com/media/0176ebed-b89c-4546-aac7-85f34b22f5da.jpg
 vaha: 914
 tvar: střední
 material: Kůže, syntetika, KEEN.DRY membrána
@@ -18,7 +18,7 @@ hodnoceni: 8
 Keen Circadia Mid jsou skvělou volbou pro turisty a outdoorové nadšence, kteří hledají univerzální, pohodlnou a spolehlivou obuv pro širokou škálu aktivit. Jejich hlavní předností je kombinace komfortu, voděodolnosti a odolnosti, díky čemuž se hodí jak na jednodenní výlety, tak i na delší trek s lehčím batohem. Popularita tohoto modelu pramení z osvědčené kvality značky Keen, která klade důraz na pohodlí a funkčnost, a zároveň z příznivé ceny v porovnání s konkurenčními modely.
 
 Boty Keen Circadia Mid WP vynikají především svou všestranností. Díky voděodolné membráně a robustní konstrukci zvládnou různorodé podmínky, od lehkých dešťových přeháněk po blátivé stezky.  Typický Keen střih s prostornou špičkou zaručuje pohodlí i po celodenním nošení, a to i pro osoby se širšími chodidly.  To, spolu s kvalitní podrážkou s dobrou trakcí, dělá z Circadia Mid ideálního společníka pro nenáročné až středně náročné túry v rozmanitém terénu.
-![Keen Circadia Mid](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdna.lystit.com/photos/sierratradingpost/ddbe6365/keen-TOASTED-COCONUTNORTH-ATLANTIC-Circadia-Mid-Hiking-Shoes.jpeg)
+![Keen Circadia Mid](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.nencinisport.it/images/format-def/background-def/end/articoli_varianti_foto/keen_circadia_mid_wp_w_525560_zoom_20221122160344.png)
 
 ### Klíčové parametry a jejich zhodnocení
 
