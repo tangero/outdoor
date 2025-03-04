@@ -12,7 +12,7 @@ Boty a ponožky v nich jsou na cesty jedním z klíčových aspektů vašeho doj
 
 Společně se na základní aspekty výběru bot podíváme. Řada dnešních bot umí být hodně univerzálních, takže se nebojte, pokud vás nečeká himalájský extrém, nebo nebudete příliš šetřit, tak pokud vám bota renomovaného výrobce sedne, odvede dobrou práci. 
 
-> 🥾 Celkový [přehled všech recenzovaných bot najdetezde](/boty/prehled).
+> 🥾 Celkový [přehled všech recenzovaných bot najdete zde](/boty/prehled).
 
 __Co konkrétně se v tomto článku dozvíte?__ 
 * Obsah
@@ -196,4 +196,4 @@ Jak jsem se rozhodl já? Sepsal si pár modelů na papírek, rozhodl se koupit s
 
 Výběr správných bot je investicí, která se vrátí v podobě pohodlí, bezpečí a jistoti při chůzi v přírodě. Nepodceňujte fázi zkoušení a přizpůsobte výběr svým potřebám a plánovaným aktivitám. Kupte si boty ve speciálce a rozhodně ne bez vyzkoušení přes internet. A raději déle zkoušejte, vyhraďte si na to čas a nechte si poradit od odborného prodavače. Já vím, že se dají boty koupit o pár stovek levněji, jenže až po dvou dnech v horách zjistíte, že vás někde tlačí, tak si výpravu neužijete a těch pár korun za zkažený zážitek nestojí... 
 
-> 🥾 Celkový [přehled všech recenzovaných bot najdetezde](/boty/prehled).
+> 🥾 Celkový [přehled všech recenzovaných bot najdete zde](/boty/prehled).
