@@ -4,7 +4,7 @@ title: Lowa Camino GTX - Spolehlivý parťák pro náročné treky
 categories: boty
 model: "Lowa Camino GTX"
 feature-img: 
-thumbnail: https://www.campingwithstyle.co.uk/wp-content/uploads/2019/11/Lowa-Camino-GTX-Men-High-Rise-Hiking-Boots--768x432.jpg
+thumbnail: https://shop.hardloop.fr/345613/lowa-camino-gtx-chaussures-homme.jpg
 vaha: 1550
 tvar: vysoké
 material: Nubuková kůže, GORE-TEX membrána
