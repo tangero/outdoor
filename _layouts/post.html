@@ -55,7 +55,11 @@ post_class: post-template
                 {% endif %}
 
                 <!-- Post Title -->
+                {% if page.categories contains "ostatni" %}
+                <h1 class="posttitle">{{ page.title }}</h1>
+                {% else %}
                 <h1 class="posttitle">Zkušenosti s {{ page.title }}</h1>
+                {% endif %}
 
             </div>
 
