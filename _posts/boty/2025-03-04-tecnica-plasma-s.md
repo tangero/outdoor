@@ -22,7 +22,7 @@ Silnou stránkou modelu Plasma S je kromě individuálního přizpůsobení tak�
 
 POZOR: Tento model má i vyšší verzi s označením Mid, která má vyšší podporu kotníku.
 
-![Tecnica Plasma S](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.rei.com/media/28bc274e-60c5-4c03-90b6-355484e349b6?size=784x588)
+![Tecnica Plasma S](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://media.s-bol.com/r9DQJqvrpXYw/1200x726.jpg)
 
 
 ### **Klíčové Parametry a Technologie**
