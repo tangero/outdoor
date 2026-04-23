@@ -111,6 +111,25 @@ def fetch_url(url: str) -> Optional[str]:
         return None
 
 
+# Klíčová slova pro automatickou detekci kategorie z obsahu
+CATEGORY_KEYWORDS = {
+    "batohy": ["backpack", "batoh", "pack", "rucksack", "batůžek", "batohy", "duffel", "daypack"],
+    "boty": ["shoe", "boot", "bota", "footwear", "trail running", "trekking", "sandal", "teniska", "boty", "gtx"],
+    "karimatky": ["sleeping pad", "mat", "karimatka", "mattress", "nafukovací", "karimatky", "self-inflating"],
+    "stany": ["tent", "stan", "shelter", "bivak", "tarp", "stany", "ultrashelter"],
+    "powerbanky": ["power bank", "powerbank", "solar charger", "nabíječka", "powerbanky", "solární"],
+}
+
+
+def detect_category(title: str, url: str, snippet: str = "") -> str:
+    """Detekuje kategorii podle klíčových slov v titulku, URL nebo snippetu."""
+    text = f"{title} {url} {snippet}".lower()
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if any(kw in text for kw in keywords):
+            return category
+    return ""
+
+
 def item_hash(title: str, url: str, snippet: str = "") -> str:
     """Vytvoří hash pro identifikaci položky."""
     content = f"{title.strip()}|{url.strip()}|{snippet.strip()[:200]}"
@@ -329,7 +348,8 @@ def generate_draft(item: dict[str, str], source: dict[str, Any], dry_run: bool =
     filename = f"{today}-{slug}.md"
     filepath = os.path.join(DRAFTS_DIR, filename)
 
-    category = source.get("category", "ostatni")
+    detected = detect_category(item["title"], item["url"], item.get("snippet", ""))
+    category = detected if detected else source.get("category", "ostatni")
     source_name = source.get("name", "Neznámý zdroj")
     now_iso = datetime.now(timezone.utc).isoformat()
 

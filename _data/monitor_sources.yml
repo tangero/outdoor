@@ -1,196 +1,197 @@
-# Sledovaní výrobci outdoorového vybavení podle značek v repozitáři
+# Sledované outdoorové značky z repozitáře
 #
-# Strategie:
-#   exa    - Exa.ai API vyhledávání (vyžaduje EXA_API_KEY v GitHub Secrets)
+# Strategie exa: Exa.ai vyhledává novinky na webech výrobců.
+# Kategorie se určuje AUTOMATICKY podle obsahu (titulku, URL, textu).
+# Konfigurační "category" slouží jen jako fallback, když detekce selže.
 #
-# Tip: Pokud vám docházejí kredity na Exa.ai, snižte exa_num_results na 1-2
-# nebo sledujte jen vybrané značky.
+# Tip: Pokud vám docházejí Exa kredity, snižte exa_num_results nebo
+# zakomentujte méně zajímavé značky.
 
-# =========================== BATOHY ===========================
-
-- name: "Bach"
-  category: "batohy"
-  strategy: "exa"
-  exa_query: "Bach new backpack product launch"
-  exa_domains: ["bachpacks.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Black Diamond"
-  category: "batohy"
-  strategy: "exa"
-  exa_query: "Black Diamond new backpack product launch"
-  exa_domains: ["blackdiamondequipment.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Deuter"
-  category: "batohy"
-  strategy: "exa"
-  exa_query: "Deuter new backpack product launch"
-  exa_domains: ["deuter.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Gregory"
-  category: "batohy"
-  strategy: "exa"
-  exa_query: "Gregory new backpack product launch"
-  exa_domains: ["gregorypacks.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Lowe Alpine"
-  category: "batohy"
-  strategy: "exa"
-  exa_query: "Lowe Alpine new backpack product launch"
-  exa_domains: ["lowealpine.com"]
-  exa_type: "fast"
-  exa_num_results: 3
+# ========================== BATOHY / VÝBAVA ==========================
 
 - name: "Osprey"
   category: "batohy"
   strategy: "exa"
-  exa_query: "Osprey new backpack product launch"
+  exa_query: "Osprey new gear product launch 2025"
   exa_domains: ["osprey.com", "ospreyeurope.com"]
   exa_type: "fast"
-  exa_num_results: 3
+  exa_num_results: 5
 
-# ============================ BOTY ============================
-
-- name: "Dynafit"
-  category: "boty"
+- name: "Gregory"
+  category: "batohy"
   strategy: "exa"
-  exa_query: "Dynafit new hiking shoe boot product launch"
-  exa_domains: ["dynafit.com"]
+  exa_query: "Gregory new gear product launch 2025"
+  exa_domains: ["gregorypacks.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Deuter"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Deuter new gear product launch 2025"
+  exa_domains: ["deuter.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Lowe Alpine"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Lowe Alpine new gear product launch 2025"
+  exa_domains: ["lowealpine.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Black Diamond"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Black Diamond new gear product launch 2025"
+  exa_domains: ["blackdiamondequipment.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Bach"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Bach new gear product launch 2025"
+  exa_domains: ["bachpacks.com"]
   exa_type: "fast"
   exa_num_results: 3
 
-- name: "Garmont"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "Garmont new hiking shoe boot product launch"
-  exa_domains: ["garmont.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Hoka"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "Hoka new hiking shoe boot product launch"
-  exa_domains: ["hoka.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Inov-8"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "Inov-8 new hiking shoe boot product launch"
-  exa_domains: ["inov-8.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Keen"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "Keen new hiking shoe boot product launch"
-  exa_domains: ["keenfootwear.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "La Sportiva"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "La Sportiva new hiking shoe boot product launch"
-  exa_domains: ["lasportiva.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Lowa"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "Lowa new hiking shoe boot product launch"
-  exa_domains: ["lowa.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Mammut"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "Mammut new hiking shoe boot product launch"
-  exa_domains: ["mammut.com"]
-  exa_type: "fast"
-  exa_num_results: 3
-
-- name: "Merrell"
-  category: "boty"
-  strategy: "exa"
-  exa_query: "Merrell new hiking shoe boot product launch"
-  exa_domains: ["merrell.com"]
-  exa_type: "fast"
-  exa_num_results: 3
+# ============================ BOTY / OBUV ============================
 
 - name: "Salomon"
   category: "boty"
   strategy: "exa"
-  exa_query: "Salomon new hiking shoe boot product launch"
+  exa_query: "Salomon new gear product launch 2025"
   exa_domains: ["salomon.com"]
   exa_type: "fast"
-  exa_num_results: 3
+  exa_num_results: 5
+
+- name: "La Sportiva"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "La Sportiva new gear product launch 2025"
+  exa_domains: ["lasportiva.com"]
+  exa_type: "fast"
+  exa_num_results: 5
 
 - name: "Scarpa"
   category: "boty"
   strategy: "exa"
-  exa_query: "Scarpa new hiking shoe boot product launch"
+  exa_query: "Scarpa new gear product launch 2025"
   exa_domains: ["scarpa.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Mammut"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Mammut new gear product launch 2025"
+  exa_domains: ["mammut.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Lowa"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Lowa new gear product launch 2025"
+  exa_domains: ["lowa.com"]
   exa_type: "fast"
   exa_num_results: 3
 
 - name: "Tecnica"
   category: "boty"
   strategy: "exa"
-  exa_query: "Tecnica new hiking shoe boot product launch"
+  exa_query: "Tecnica new gear product launch 2025"
   exa_domains: ["tecnica.com"]
   exa_type: "fast"
   exa_num_results: 3
 
-# ========================== KARIMATKY =========================
-
-- name: "Klymit"
-  category: "karimatky"
+- name: "Garmont"
+  category: "boty"
   strategy: "exa"
-  exa_query: "Klymit new sleeping pad mattress product launch"
-  exa_domains: ["klymit.com"]
+  exa_query: "Garmont new gear product launch 2025"
+  exa_domains: ["garmont.com"]
   exa_type: "fast"
   exa_num_results: 3
 
-- name: "Pajak"
-  category: "karimatky"
+- name: "Dynafit"
+  category: "boty"
   strategy: "exa"
-  exa_query: "Pajak new sleeping pad mattress product launch"
-  exa_domains: ["pajak.com"]
+  exa_query: "Dynafit new gear product launch 2025"
+  exa_domains: ["dynafit.com"]
   exa_type: "fast"
   exa_num_results: 3
 
-- name: "Sea to Summit"
-  category: "karimatky"
+- name: "Keen"
+  category: "boty"
   strategy: "exa"
-  exa_query: "Sea to Summit new sleeping pad mattress product launch"
-  exa_domains: ["seatosummit.com"]
+  exa_query: "Keen new gear product launch 2025"
+  exa_domains: ["keenfootwear.com"]
   exa_type: "fast"
   exa_num_results: 3
+
+- name: "Hoka"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Hoka new gear product launch 2025"
+  exa_domains: ["hoka.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Merrell"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Merrell new gear product launch 2025"
+  exa_domains: ["merrell.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Inov-8"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Inov-8 new gear product launch 2025"
+  exa_domains: ["inov-8.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+# ========================= KARIMATKY / SPANÍ =========================
 
 - name: "Therm-a-Rest"
   category: "karimatky"
   strategy: "exa"
-  exa_query: "Therm-a-Rest new sleeping pad mattress product launch"
+  exa_query: "Therm-a-Rest new gear product launch 2025"
   exa_domains: ["thermarest.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Sea to Summit"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Sea to Summit new gear product launch 2025"
+  exa_domains: ["seatosummit.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Klymit"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Klymit new gear product launch 2025"
+  exa_domains: ["klymit.com"]
+  exa_type: "fast"
+  exa_num_results: 5
+
+- name: "Pajak"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Pajak new gear product launch 2025"
+  exa_domains: ["pajak.com"]
   exa_type: "fast"
   exa_num_results: 3
 
 - name: "Zulu"
   category: "karimatky"
   strategy: "exa"
-  exa_query: "Zulu new sleeping pad mattress product launch"
+  exa_query: "Zulu new gear product launch 2025"
   exa_type: "fast"
   exa_num_results: 3
