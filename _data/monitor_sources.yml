@@ -1,0 +1,73 @@
+# Konfigurace sledovaných zdrojů outdoorových výrobců
+#
+# Podporované strategie:
+#   rss      - čte RSS/Atom feed (potřebuje rss_url)
+#   sitemap  - čte XML sitemapu (potřebuje sitemap_url)
+#   scrape   - scrapuje HTML stránku (potřebuje list_url + selektory)
+#
+# Pro každý zdroj se automaticky generují drafty do _drafts/ při detekci novinky.
+#
+# Jak najít RSS výrobce:
+#   1. Zkuste [doména]/feed/ nebo [doména]/blog/feed/
+#   2. Pro Shopify weby: [doména]/blogs/news.atom
+#   3. Podívejte se do <head> stránky na <link rel="alternate" type="application/rss+xml">
+#   4. Použijte online nástroj jako https://www.rssground.com/find-rss-feed.html
+
+# --- Fungující RSS příklady ---
+
+- name: "Zpacks News"
+  category: "batohy"
+  strategy: "rss"
+  rss_url: "https://zpacks.com/blogs/news.atom"
+  # Zpacks vyrábí ultralehké batohy a vybavení, často přidávají nové produkty
+
+- name: "Patagonia Blog"
+  category: "ostatni"
+  strategy: "rss"
+  rss_url: "https://www.patagonia.com/blog/feed/"
+  # Patagonia blog - příběhy, nové produkty, environmentální aktivity
+
+- name: "Arc'teryx Blog"
+  category: "ostatni"
+  strategy: "rss"
+  rss_url: "https://blog.arcteryx.com/feed/"
+  # Arc'teryx blog - novinky o vybavení a outdoor aktivitách
+
+# --- Exa.ai strategie (vyžaduje EXA_API_KEY v GitHub Secrets) ---
+# Ideální pro weby bez RSS feedu. Exa.ai vyhledává na webu pomocí AI.
+#
+# - name: "Osprey novinky"
+#   category: "batohy"
+#   strategy: "exa"
+#   exa_query: "Osprey new backpack product launch 2025"
+#   exa_domains: ["osprey.com", "ospreyeurope.com"]
+#   exa_type: "auto"
+#   exa_num_results: 10
+#   exa_after: "2025-01-01"
+#
+# - name: "Therm-a-Rest nové karimatky"
+#   category: "karimatky"
+#   strategy: "exa"
+#   exa_query: "Therm-a-Rest new sleeping pad mattress 2025"
+#   exa_domains: ["thermarest.com"]
+#   exa_type: "auto"
+#   exa_num_results: 10
+#
+# --- Příklady scraping zdrojů (vyžadují doladění selektorů pro konkrétní web) ---
+#
+# - name: "Therm-a-Rest New"
+#   category: "karimatky"
+#   strategy: "scrape"
+#   list_url: "https://www.thermarest.com/gear.html"
+#   base_url: "https://www.thermarest.com"
+#   item_selector: ".product-item"
+#   title_selector: ".product-name"
+#   link_selector: "a"
+#   link_attr: "href"
+#   description_selector: ".product-description"
+#   thumbnail_selector: ".product-image img"
+#
+# - name: "Lowe Alpine Sitemap"
+#   category: "batohy"
+#   strategy: "sitemap"
+#   sitemap_url: "https://www.lowealpine.com/sitemap.xml"

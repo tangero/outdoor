@@ -1,0 +1,58 @@
+name: Monitor Manufacturer Websites
+
+on:
+  schedule:
+    # 8:00 a 20:00 UTC každý den
+    - cron: '0 8,20 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Spustit v dry-run módu (nezapíše nic)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml requests beautifulsoup4 feedparser python-slugify
+
+      - name: Run monitor
+        env:
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" == "true" ]; then
+            python scripts/monitor.py --dry-run --verbose
+          else
+            python scripts/monitor.py --verbose
+          fi
+
+      - name: Commit and push new drafts
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _drafts/ _data/monitor_state.json
+          if git diff --cached --quiet; then
+            echo "Žádné nové drafty k commitu."
+          else
+            git commit -m "Auto: nové drafty z monitoringu výrobců ($(date +%Y-%m-%d %H:%M))"
+            git push
+          fi

@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "last_run": "2026-04-23T18:48:07.776280+00:00",
+  "sources": {
+    "zpacks-news": {
+      "last_check": "2026-04-23T18:48:07.145642+00:00",
+      "items": [
+        {
+          "url": "https://zpacks.com/blogs/news/hiking-southward-adventures-from-floridas-panhandle-to-big-cypress",
+          "hash": "dbc07a9aa9aea5d7",
+          "detected_at": "2026-04-23T18:48:07.145564+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/jp-pct-fkt-sobo",
+          "hash": "182d88e72fa5a5c5",
+          "detected_at": "2026-04-23T18:48:07.145577+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/kristian-morgan-appalachian-trail-sobo-fkt",
+          "hash": "07e00ef64c8edd5b",
+          "detected_at": "2026-04-23T18:48:07.145581+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/icelandic-traverse-fkt",
+          "hash": "bfc2492666c8e181",
+          "detected_at": "2026-04-23T18:48:07.145583+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/the-mental-game-of-long-distance-hiking",
+          "hash": "8ae15e6e5c907377",
+          "detected_at": "2026-04-23T18:48:07.145585+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/4-tips-to-keep-snakes-away-from-your-tent",
+          "hash": "6b55ecb43e713ffb",
+          "detected_at": "2026-04-23T18:48:07.145587+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/hiker-profile-zelzin-aketzalli",
+          "hash": "c502f01b9674242e",
+          "detected_at": "2026-04-23T18:48:07.145589+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/hiker-profile-nimblewil-nomad",
+          "hash": "2ac4c8d69368e7ec",
+          "detected_at": "2026-04-23T18:48:07.145591+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/hiker-profile-nacho-pellejero",
+          "hash": "9b76d5bc02c8a341",
+          "detected_at": "2026-04-23T18:48:07.145593+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/expert-tips-for-taking-your-kids-camping-and-hiking",
+          "hash": "f8f8992db79046c9",
+          "detected_at": "2026-04-23T18:48:07.145595+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/hiking-and-happiness-in-the-digital-world",
+          "hash": "e23b3f2924f997b6",
+          "detected_at": "2026-04-23T18:48:07.145598+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/best-stakes-for-your-thru-hike",
+          "hash": "27cd9d1ab85de0ca",
+          "detected_at": "2026-04-23T18:48:07.145601+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/hiker-hunger-appalachian-trail-edition",
+          "hash": "b5aa1d03ed4257ea",
+          "detected_at": "2026-04-23T18:48:07.145603+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/6-knots-for-the-backcountry",
+          "hash": "ecb15b0f59538029",
+          "detected_at": "2026-04-23T18:48:07.145605+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/everything-you-need-to-know-about-bear-canisters",
+          "hash": "5eb7ffa5a41a46a3",
+          "detected_at": "2026-04-23T18:48:07.145607+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/campfire-cocktails",
+          "hash": "d51c99bc4f62e1ea",
+          "detected_at": "2026-04-23T18:48:07.145610+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/the-ultimate-guide-for-taking-care-of-your-big-three",
+          "hash": "409f30a1dbef897d",
+          "detected_at": "2026-04-23T18:48:07.145612+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/frame-packs-vs-frameless-packs",
+          "hash": "9eafe6ef508c6e50",
+          "detected_at": "2026-04-23T18:48:07.145614+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/why-you-should-think-about-a-sobo-hike",
+          "hash": "4218a2270500604f",
+          "detected_at": "2026-04-23T18:48:07.145616+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/carrying-camera-gear-on-a-hike",
+          "hash": "ebdbed31950d5d7a",
+          "detected_at": "2026-04-23T18:48:07.145618+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/five-tips-for-avoiding-condensation-with-a-single-wall-shelter",
+          "hash": "c83825710daee85d",
+          "detected_at": "2026-04-23T18:48:07.145620+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/what-zpacks-tent-is-right-for-me",
+          "hash": "664a2a34814a16b6",
+          "detected_at": "2026-04-23T18:48:07.145622+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/hiker-profile-nil-hoppenot",
+          "hash": "7ce5621b61f173e9",
+          "detected_at": "2026-04-23T18:48:07.145624+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/which-camera-should-i-take-on-my-thru-hike",
+          "hash": "273ee42847ba7d86",
+          "detected_at": "2026-04-23T18:48:07.145626+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/cook-vs-no-cook",
+          "hash": "4b15506bdd916cde",
+          "detected_at": "2026-04-23T18:48:07.145629+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/hiker-profile-chris-smead",
+          "hash": "a02ccb9b09f93319",
+          "detected_at": "2026-04-23T18:48:07.145631+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/12-easily-forgotten-pieces-of-gear-for-a-thru-hike",
+          "hash": "18e66395c22f65d9",
+          "detected_at": "2026-04-23T18:48:07.145633+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/which-way-should-you-hike-the-appalachian-trail",
+          "hash": "761d2869925febdd",
+          "detected_at": "2026-04-23T18:48:07.145636+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/the-importance-of-a-low-base-weight",
+          "hash": "47b572278b49ff78",
+          "detected_at": "2026-04-23T18:48:07.145638+00:00"
+        },
+        {
+          "url": "https://zpacks.com/blogs/news/triple-crown",
+          "hash": "4694a97b0c79078d",
+          "detected_at": "2026-04-23T18:48:07.145640+00:00"
+        }
+      ]
+    },
+    "patagonia-blog": {
+      "last_check": "2026-04-23T18:48:07.687006+00:00",
+      "items": [
+        {
+          "url": "https://www.patagonia.com/stories/planet/activism/our-everyday-life-is-a-form-of-protest/story-174379.html",
+          "hash": "bc4dcbdd30577017",
+          "detected_at": "2026-04-23T18:48:07.686961+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/sports/fly-fishing/how-to-raise-a-fly-child/story-173623.html",
+          "hash": "3cda6c8e71e1cc4f",
+          "detected_at": "2026-04-23T18:48:07.686974+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/guides/sport/what-to-wear-skiing/story-173474.html",
+          "hash": "7e04370c2a2704b5",
+          "detected_at": "2026-04-23T18:48:07.686977+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/planet/activism/the-everglades-of-the-west/story-173384.html",
+          "hash": "de193fde8bb39b2f",
+          "detected_at": "2026-04-23T18:48:07.686980+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/guides/care-repair/how-to-sew-a-button/story-173214.html",
+          "hash": "a064e0394db08e84",
+          "detected_at": "2026-04-23T18:48:07.686983+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/culture/reimagining-aquaculture/story-172447.html",
+          "hash": "4d5746202c6dc018",
+          "detected_at": "2026-04-23T18:48:07.686985+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/sports/whats-your-5-to-9/story-172383.html",
+          "hash": "f0048d64e6c4aa3c",
+          "detected_at": "2026-04-23T18:48:07.686994+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/guides/product/what-is-upf/story-171271.html",
+          "hash": "323d81912349b209",
+          "detected_at": "2026-04-23T18:48:07.686997+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/planet/activism/alligator-paradise/story-168164.html",
+          "hash": "1a263b4d61b7f0d1",
+          "detected_at": "2026-04-23T18:48:07.686999+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/guides/care-repair/how-to-wash-merino-wool/story-168066.html",
+          "hash": "de886b51e7b65001",
+          "detected_at": "2026-04-23T18:48:07.687001+00:00"
+        },
+        {
+          "url": "https://www.patagonia.com/stories/guides/care-repair/how-to-remove-pilling-from-clothes/story-167962.html",
+          "hash": "10c81c7cb7ed4d8f",
+          "detected_at": "2026-04-23T18:48:07.687003+00:00"
+        }
+      ]
+    },
+    "arc-teryx-blog": {
+      "last_check": "2026-04-23T18:48:07.776277+00:00",
+      "items": [
+        {
+          "url": "https://blog.arcteryx.com/stories/in-search-of-the-perfect-run/",
+          "hash": "2b9b550441ec084a",
+          "detected_at": "2026-04-23T18:48:07.776236+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/the-shape-of-time/",
+          "hash": "7be6a743cc881da7",
+          "detected_at": "2026-04-23T18:48:07.776247+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/in-conversation-with-out-in-the-wild/",
+          "hash": "322f5f96ca3e36b3",
+          "detected_at": "2026-04-23T18:48:07.776251+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/between-days/",
+          "hash": "0aa2e56adfda90be",
+          "detected_at": "2026-04-23T18:48:07.776255+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/in-conversation-with-routes-to-rootz/",
+          "hash": "487ead43b821da6c",
+          "detected_at": "2026-04-23T18:48:07.776258+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/in-conversation-with-kickback/",
+          "hash": "0ca45aec6e9a1447",
+          "detected_at": "2026-04-23T18:48:07.776262+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/stepping-out/",
+          "hash": "dada35bd72c7f411",
+          "detected_at": "2026-04-23T18:48:07.776265+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/heart-to-heart/",
+          "hash": "1d916f9bf96563b7",
+          "detected_at": "2026-04-23T18:48:07.776268+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/gear/all-in-countdown-chamonix/",
+          "hash": "04e40a201e23359a",
+          "detected_at": "2026-04-23T18:48:07.776271+00:00"
+        },
+        {
+          "url": "https://blog.arcteryx.com/stories/iikaiksimatsapaop/",
+          "hash": "a929eb1467807298",
+          "detected_at": "2026-04-23T18:48:07.776275+00:00"
+        }
+      ]
+    }
+  }
+}
