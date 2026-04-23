@@ -102,8 +102,8 @@
 - name: "Tecnica"
   category: "boty"
   strategy: "exa"
-  exa_query: "Tecnica new gear product launch 2025"
-  exa_domains: ["tecnica.com"]
+  exa_query: "Tecnica new hiking boot shoe product launch 2025"
+  exa_domains: ["blizzard-tecnica.com"]
   exa_type: "fast"
   exa_num_results: 3
 
@@ -184,8 +184,8 @@
 - name: "Pajak"
   category: "karimatky"
   strategy: "exa"
-  exa_query: "Pajak new gear product launch 2025"
-  exa_domains: ["pajak.com"]
+  exa_query: "Pajak new sleeping bag down jacket product launch 2025"
+  exa_domains: ["pajaksport.com"]
   exa_type: "fast"
   exa_num_results: 3
 
