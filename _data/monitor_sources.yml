@@ -1,73 +1,196 @@
-# Konfigurace sledovaných zdrojů outdoorových výrobců
+# Sledovaní výrobci outdoorového vybavení podle značek v repozitáři
 #
-# Podporované strategie:
-#   rss      - čte RSS/Atom feed (potřebuje rss_url)
-#   sitemap  - čte XML sitemapu (potřebuje sitemap_url)
-#   scrape   - scrapuje HTML stránku (potřebuje list_url + selektory)
+# Strategie:
+#   exa    - Exa.ai API vyhledávání (vyžaduje EXA_API_KEY v GitHub Secrets)
 #
-# Pro každý zdroj se automaticky generují drafty do _drafts/ při detekci novinky.
-#
-# Jak najít RSS výrobce:
-#   1. Zkuste [doména]/feed/ nebo [doména]/blog/feed/
-#   2. Pro Shopify weby: [doména]/blogs/news.atom
-#   3. Podívejte se do <head> stránky na <link rel="alternate" type="application/rss+xml">
-#   4. Použijte online nástroj jako https://www.rssground.com/find-rss-feed.html
+# Tip: Pokud vám docházejí kredity na Exa.ai, snižte exa_num_results na 1-2
+# nebo sledujte jen vybrané značky.
 
-# --- Fungující RSS příklady ---
+# =========================== BATOHY ===========================
 
-- name: "Zpacks News"
+- name: "Bach"
   category: "batohy"
-  strategy: "rss"
-  rss_url: "https://zpacks.com/blogs/news.atom"
-  # Zpacks vyrábí ultralehké batohy a vybavení, často přidávají nové produkty
+  strategy: "exa"
+  exa_query: "Bach new backpack product launch"
+  exa_domains: ["bachpacks.com"]
+  exa_type: "fast"
+  exa_num_results: 3
 
-- name: "Patagonia Blog"
-  category: "ostatni"
-  strategy: "rss"
-  rss_url: "https://www.patagonia.com/blog/feed/"
-  # Patagonia blog - příběhy, nové produkty, environmentální aktivity
+- name: "Black Diamond"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Black Diamond new backpack product launch"
+  exa_domains: ["blackdiamondequipment.com"]
+  exa_type: "fast"
+  exa_num_results: 3
 
-- name: "Arc'teryx Blog"
-  category: "ostatni"
-  strategy: "rss"
-  rss_url: "https://blog.arcteryx.com/feed/"
-  # Arc'teryx blog - novinky o vybavení a outdoor aktivitách
+- name: "Deuter"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Deuter new backpack product launch"
+  exa_domains: ["deuter.com"]
+  exa_type: "fast"
+  exa_num_results: 3
 
-# --- Exa.ai strategie (vyžaduje EXA_API_KEY v GitHub Secrets) ---
-# Ideální pro weby bez RSS feedu. Exa.ai vyhledává na webu pomocí AI.
-#
-# - name: "Osprey novinky"
-#   category: "batohy"
-#   strategy: "exa"
-#   exa_query: "Osprey new backpack product launch 2025"
-#   exa_domains: ["osprey.com", "ospreyeurope.com"]
-#   exa_type: "auto"
-#   exa_num_results: 10
-#   exa_after: "2025-01-01"
-#
-# - name: "Therm-a-Rest nové karimatky"
-#   category: "karimatky"
-#   strategy: "exa"
-#   exa_query: "Therm-a-Rest new sleeping pad mattress 2025"
-#   exa_domains: ["thermarest.com"]
-#   exa_type: "auto"
-#   exa_num_results: 10
-#
-# --- Příklady scraping zdrojů (vyžadují doladění selektorů pro konkrétní web) ---
-#
-# - name: "Therm-a-Rest New"
-#   category: "karimatky"
-#   strategy: "scrape"
-#   list_url: "https://www.thermarest.com/gear.html"
-#   base_url: "https://www.thermarest.com"
-#   item_selector: ".product-item"
-#   title_selector: ".product-name"
-#   link_selector: "a"
-#   link_attr: "href"
-#   description_selector: ".product-description"
-#   thumbnail_selector: ".product-image img"
-#
-# - name: "Lowe Alpine Sitemap"
-#   category: "batohy"
-#   strategy: "sitemap"
-#   sitemap_url: "https://www.lowealpine.com/sitemap.xml"
+- name: "Gregory"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Gregory new backpack product launch"
+  exa_domains: ["gregorypacks.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Lowe Alpine"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Lowe Alpine new backpack product launch"
+  exa_domains: ["lowealpine.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Osprey"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Osprey new backpack product launch"
+  exa_domains: ["osprey.com", "ospreyeurope.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+# ============================ BOTY ============================
+
+- name: "Dynafit"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Dynafit new hiking shoe boot product launch"
+  exa_domains: ["dynafit.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Garmont"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Garmont new hiking shoe boot product launch"
+  exa_domains: ["garmont.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Hoka"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Hoka new hiking shoe boot product launch"
+  exa_domains: ["hoka.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Inov-8"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Inov-8 new hiking shoe boot product launch"
+  exa_domains: ["inov-8.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Keen"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Keen new hiking shoe boot product launch"
+  exa_domains: ["keenfootwear.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "La Sportiva"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "La Sportiva new hiking shoe boot product launch"
+  exa_domains: ["lasportiva.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Lowa"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Lowa new hiking shoe boot product launch"
+  exa_domains: ["lowa.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Mammut"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Mammut new hiking shoe boot product launch"
+  exa_domains: ["mammut.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Merrell"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Merrell new hiking shoe boot product launch"
+  exa_domains: ["merrell.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Salomon"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Salomon new hiking shoe boot product launch"
+  exa_domains: ["salomon.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Scarpa"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Scarpa new hiking shoe boot product launch"
+  exa_domains: ["scarpa.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Tecnica"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Tecnica new hiking shoe boot product launch"
+  exa_domains: ["tecnica.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+# ========================== KARIMATKY =========================
+
+- name: "Klymit"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Klymit new sleeping pad mattress product launch"
+  exa_domains: ["klymit.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Pajak"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Pajak new sleeping pad mattress product launch"
+  exa_domains: ["pajak.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Sea to Summit"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Sea to Summit new sleeping pad mattress product launch"
+  exa_domains: ["seatosummit.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Therm-a-Rest"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Therm-a-Rest new sleeping pad mattress product launch"
+  exa_domains: ["thermarest.com"]
+  exa_type: "fast"
+  exa_num_results: 3
+
+- name: "Zulu"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Zulu new sleeping pad mattress product launch"
+  exa_type: "fast"
+  exa_num_results: 3

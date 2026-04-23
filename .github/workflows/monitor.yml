@@ -2,8 +2,8 @@ name: Monitor Manufacturer Websites
 
 on:
   schedule:
-    # 8:00 a 20:00 UTC každý den
-    - cron: '0 8,20 * * *'
+    # 9:00 UTC každý den (šetří Exa kredity)
+    - cron: '0 9 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
