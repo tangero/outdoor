@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'Novinka: deuter Aircontact Pro 65+10 SL | Trekking backpack'
+categories: batohy
+source_url: https://www.deuter.com/us-en/shop/backpacks/p2683465-backpacking-packs-aircontact-pro-65-10-sl
+source_name: Deuter
+scraped_at: '2026-04-23T19:05:44.089622+00:00'
+featured: false
+---
+
+Toto je automaticky vygenerovaný návrh článku z webu **Deuter**.
+
+## Detaily novinky
+
+**Zdroj:** [deuter Aircontact Pro 65+10 SL | Trekking backpack](https://www.deuter.com/us-en/shop/backpacks/p2683465-backpacking-packs-aircontact-pro-65-10-sl)
+**Detekováno:** 2026-04-23T19:05:44.089622+00:00
+
+---
+
+*Vygenerováno automaticky. Před publikací zkontrolujte fakta, doplňte parametry (model, objem, vaha, ...) a přepište obsah do finální podoby.*
