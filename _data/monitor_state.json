@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-05-15T11:21:00.307438+00:00",
+  "last_run": "2026-05-16T10:15:00.196377+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,7 +273,7 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-05-15T11:20:49.815665+00:00",
+      "last_check": "2026-05-16T10:14:50.680148+00:00",
       "items": [
         {
           "url": "https://www.osprey.com/featured/shop-by-collections/new-farpoint-fairview",
@@ -343,7 +343,7 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-05-15T11:20:50.214876+00:00",
+      "last_check": "2026-05-16T10:14:51.057762+00:00",
       "items": [
         {
           "url": "https://gregorypacks.com/",
@@ -418,11 +418,36 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-05-15T11:20:50.621000+00:00",
+      "last_check": "2026-05-16T10:14:51.452877+00:00",
       "items": [
         {
           "url": "https://www.deuter.com/ca-en/backpacks/futura",
           "hash": "b51edee89ecfff4a",
+          "detected_at": "2026-05-15T11:20:50.620974+00:00"
+        },
+        {
+          "url": "https://www.deuter.com/us-en/backpacks/gravity",
+          "hash": "2fca772b2d196e8f",
+          "detected_at": "2026-05-15T11:20:50.620974+00:00"
+        },
+        {
+          "url": "https://www.deuter.com/us-en/backpacks/freerider",
+          "hash": "a29c3f1da09f2242",
+          "detected_at": "2026-05-15T11:20:50.620974+00:00"
+        },
+        {
+          "url": "https://www.deuter.com/us-en/backpacks/trail",
+          "hash": "c9a1b3ba815500d6",
+          "detected_at": "2026-05-15T11:20:50.620974+00:00"
+        },
+        {
+          "url": "https://www.deuter.com/us-en/shop/backpacks/p1400829-trail-running-backpack-traick-9-sl",
+          "hash": "3ba620f23c7031a4",
+          "detected_at": "2026-05-15T11:20:50.620974+00:00"
+        },
+        {
+          "url": "https://www.deuter.com/us-en/shop/backpacks/p2683465-backpacking-packs-aircontact-pro-65-10-sl",
+          "hash": "aee2b33ba8a7c449",
           "detected_at": "2026-05-15T11:20:50.620974+00:00"
         },
         {
@@ -431,33 +456,8 @@
           "detected_at": "2026-05-09T10:04:47.511007+00:00"
         },
         {
-          "url": "https://www.deuter.com/us-en/backpacks/gravity",
-          "hash": "2fca772b2d196e8f",
-          "detected_at": "2026-05-09T10:04:47.511007+00:00"
-        },
-        {
-          "url": "https://www.deuter.com/us-en/backpacks/freerider",
-          "hash": "a29c3f1da09f2242",
-          "detected_at": "2026-05-09T10:04:47.511007+00:00"
-        },
-        {
-          "url": "https://www.deuter.com/us-en/backpacks/trail",
-          "hash": "c9a1b3ba815500d6",
-          "detected_at": "2026-05-09T10:04:47.511007+00:00"
-        },
-        {
-          "url": "https://www.deuter.com/us-en/shop/backpacks/p1400829-trail-running-backpack-traick-9-sl",
-          "hash": "3ba620f23c7031a4",
-          "detected_at": "2026-05-09T10:04:47.511007+00:00"
-        },
-        {
           "url": "https://www.deuter.com/us-en/backpacks/Aircontact-Ultra",
           "hash": "ea400ca945fb6872",
-          "detected_at": "2026-05-09T10:04:47.511007+00:00"
-        },
-        {
-          "url": "https://www.deuter.com/us-en/shop/backpacks/p2683465-backpacking-packs-aircontact-pro-65-10-sl",
-          "hash": "aee2b33ba8a7c449",
           "detected_at": "2026-05-09T10:04:47.511007+00:00"
         },
         {
@@ -513,7 +513,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-05-15T11:20:51.070803+00:00",
+      "last_check": "2026-05-16T10:14:51.807530+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/lowe-alpine-sirac-65l-trekking-pack",
@@ -663,7 +663,7 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-05-15T11:20:51.577551+00:00",
+      "last_check": "2026-05-16T10:14:52.187735+00:00",
       "items": [
         {
           "url": "https://blackdiamondequipment.com/products/traverse-compactor-ski-poles",
@@ -673,7 +673,22 @@
         {
           "url": "https://blackdiamondequipment.com/products/mens-first-light-1-0-stretch-vest",
           "hash": "9ebeaa689a9c5dfb",
-          "detected_at": "2026-05-12T11:21:06.268280+00:00"
+          "detected_at": "2026-05-15T11:20:51.577533+00:00"
+        },
+        {
+          "url": "https://blackdiamondequipment.com/products/viper-ice-tool",
+          "hash": "2bb1882d64f06244",
+          "detected_at": "2026-05-15T11:20:51.577533+00:00"
+        },
+        {
+          "url": "https://blackdiamondequipment.com/blogs/news/the-hydra-ice-tool",
+          "hash": "61d5524f86d027a1",
+          "detected_at": "2026-05-15T11:20:51.577533+00:00"
+        },
+        {
+          "url": "https://blackdiamondequipment.com/blogs/stories/introducing-the-new-impulse-ti",
+          "hash": "cfc530de47b9d096",
+          "detected_at": "2026-05-15T11:20:51.577533+00:00"
         },
         {
           "url": "https://blackdiamondequipment.com/products/cirque-ultra-25",
@@ -681,23 +696,8 @@
           "detected_at": "2026-05-12T11:21:06.268280+00:00"
         },
         {
-          "url": "https://blackdiamondequipment.com/products/viper-ice-tool",
-          "hash": "2bb1882d64f06244",
-          "detected_at": "2026-05-12T11:21:06.268280+00:00"
-        },
-        {
-          "url": "https://blackdiamondequipment.com/blogs/news/the-hydra-ice-tool",
-          "hash": "61d5524f86d027a1",
-          "detected_at": "2026-05-12T11:21:06.268280+00:00"
-        },
-        {
           "url": "https://blackdiamondequipment.com/products/wired-hexentric-1",
           "hash": "d687076aa7280aa1",
-          "detected_at": "2026-05-12T11:21:06.268280+00:00"
-        },
-        {
-          "url": "https://blackdiamondequipment.com/blogs/stories/introducing-the-new-impulse-ti",
-          "hash": "cfc530de47b9d096",
           "detected_at": "2026-05-12T11:21:06.268280+00:00"
         },
         {
@@ -763,7 +763,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-05-15T11:20:53.409833+00:00",
+      "last_check": "2026-05-16T10:14:53.626841+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -783,7 +783,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-05-15T11:20:53.828489+00:00",
+      "last_check": "2026-05-16T10:14:54.008819+00:00",
       "items": [
         {
           "url": "https://www.salomon.com/en-gb/sg/a/the-new-ultra-running-range-by-francois-dhaene",
@@ -918,7 +918,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-05-15T11:20:54.196818+00:00",
+      "last_check": "2026-05-16T10:14:54.364983+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/shoes-trail-running-akasha-ii-man-zfrs066",
@@ -998,11 +998,31 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-05-15T11:20:54.569284+00:00",
+      "last_check": "2026-05-16T10:14:54.739088+00:00",
       "items": [
         {
           "url": "https://us.scarpa.com/products/moraine-mid-wp-mens-f25",
           "hash": "059594ff04a3472f",
+          "detected_at": "2026-05-15T11:20:54.569264+00:00"
+        },
+        {
+          "url": "https://us.scarpa.com/products/zodiac-tech-gtx-womens-f25",
+          "hash": "f45b019bebe077e1",
+          "detected_at": "2026-05-15T11:20:54.569264+00:00"
+        },
+        {
+          "url": "https://us.scarpa.com/ribelle-ice-coming-soon",
+          "hash": "49e72ca9315e2be2",
+          "detected_at": "2026-05-15T11:20:54.569264+00:00"
+        },
+        {
+          "url": "https://us.scarpa.com/products/ribelle-run-2-mens-f25",
+          "hash": "cc521743ad8c63e6",
+          "detected_at": "2026-05-15T11:20:54.569264+00:00"
+        },
+        {
+          "url": "https://us.scarpa.com/f1-lt-women-s-coming-this-september",
+          "hash": "48428719f8e930fe",
           "detected_at": "2026-05-15T11:20:54.569264+00:00"
         },
         {
@@ -1011,23 +1031,8 @@
           "detected_at": "2026-05-14T11:13:26.213790+00:00"
         },
         {
-          "url": "https://us.scarpa.com/products/zodiac-tech-gtx-womens-f25",
-          "hash": "f45b019bebe077e1",
-          "detected_at": "2026-05-14T11:13:26.213790+00:00"
-        },
-        {
-          "url": "https://us.scarpa.com/ribelle-ice-coming-soon",
-          "hash": "49e72ca9315e2be2",
-          "detected_at": "2026-05-14T11:13:26.213790+00:00"
-        },
-        {
           "url": "https://us.scarpa.com/products/spin-planet-mens-f25",
           "hash": "1279d1c42b8e7675",
-          "detected_at": "2026-05-14T11:13:26.213790+00:00"
-        },
-        {
-          "url": "https://us.scarpa.com/products/ribelle-run-2-mens-f25",
-          "hash": "cc521743ad8c63e6",
           "detected_at": "2026-05-14T11:13:26.213790+00:00"
         },
         {
@@ -1038,11 +1043,6 @@
         {
           "url": "https://us.scarpa.com/products/spin-planet-men-s",
           "hash": "5a0ad93c868c87b7",
-          "detected_at": "2026-05-12T11:21:10.438753+00:00"
-        },
-        {
-          "url": "https://us.scarpa.com/f1-lt-women-s-coming-this-september",
-          "hash": "48428719f8e930fe",
           "detected_at": "2026-05-12T11:21:10.438753+00:00"
         },
         {
@@ -1153,7 +1153,7 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-05-15T11:20:55.029551+00:00",
+      "last_check": "2026-05-16T10:14:55.132462+00:00",
       "items": [
         {
           "url": "https://pr.mammut.com/mammut-hiking-kollektion-herbstwinter-2025-ein-neues-kapitel-unter-freiem-himmel-beginnt",
@@ -1263,7 +1263,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-05-15T11:20:55.383809+00:00",
+      "last_check": "2026-05-16T10:14:55.657694+00:00",
       "items": [
         {
           "url": "https://lowa.com/experience-lowa/press",
@@ -1328,7 +1328,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-05-15T11:20:55.797601+00:00",
+      "last_check": "2026-05-16T10:14:56.059064+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/women/shoes/forge/forge-hike-mid-gtx-ws",
@@ -1438,7 +1438,7 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-05-15T11:20:56.209979+00:00",
+      "last_check": "2026-05-16T10:14:56.445487+00:00",
       "items": [
         {
           "url": "https://uk.garmont.com/product/26651206/dragontail-tech-gtx-r-",
@@ -1463,7 +1463,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-05-15T11:20:56.649343+00:00",
+      "last_check": "2026-05-16T10:14:56.841128+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/en-us/seven-summits_-binding-08-0000049575",
@@ -1491,6 +1491,11 @@
           "detected_at": "2026-05-08T10:24:20.718415+00:00"
         },
         {
+          "url": "https://www.dynafit.com/transalper-collection",
+          "hash": "22f293ef137cfaed",
+          "detected_at": "2026-05-08T10:24:20.718415+00:00"
+        },
+        {
           "url": "https://www.dynafit.com/en-us/blacklight-carbon-pro-binding-08-0000049584",
           "hash": "2c07f19fbc5e6dd6",
           "detected_at": "2026-05-08T10:24:20.717851+00:00"
@@ -1499,11 +1504,6 @@
           "url": "https://www.dynafit.com/en-us/mezzalama-boot-08-0000061942",
           "hash": "02f3404e00f1674e",
           "detected_at": "2026-05-08T10:24:20.717237+00:00"
-        },
-        {
-          "url": "https://www.dynafit.com/transalper-collection",
-          "hash": "22f293ef137cfaed",
-          "detected_at": "2026-05-02T09:57:41.867498+00:00"
         },
         {
           "url": "https://www.dynafit.com/equipment/new-in",
@@ -1533,7 +1533,7 @@
       ]
     },
     "keen": {
-      "last_check": "2026-05-15T11:20:57.032915+00:00",
+      "last_check": "2026-05-16T10:14:57.212542+00:00",
       "items": [
         {
           "url": "https://www.keenfootwear.com/pages/keen-made",
@@ -1638,7 +1638,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-05-15T11:20:57.440814+00:00",
+      "last_check": "2026-05-16T10:14:57.584873+00:00",
       "items": [
         {
           "url": "https://www.hoka.com/en/ph/mens-trail/kaha-3-gtx/197634761886.html",
@@ -1693,7 +1693,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-05-15T11:20:57.904005+00:00",
+      "last_check": "2026-05-16T10:14:57.982629+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/womens-new-arrivals/",
@@ -1778,7 +1778,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-05-15T11:20:58.289788+00:00",
+      "last_check": "2026-05-16T10:14:58.321400+00:00",
       "items": [
         {
           "url": "http://www.inov-8.com/graphene",
@@ -1828,7 +1828,7 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-05-15T11:20:58.719403+00:00",
+      "last_check": "2026-05-16T10:14:58.704449+00:00",
       "items": [
         {
           "url": "https://www.thermarest.com/en-eu/products/trail-pro-max-sleeping-pad",
@@ -1983,7 +1983,7 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-05-15T11:20:59.097286+00:00",
+      "last_check": "2026-05-16T10:14:59.077946+00:00",
       "items": [
         {
           "url": "https://seatosummit.com/collections/new-product/ultralight%20backpacking",
@@ -1991,28 +1991,28 @@
           "detected_at": "2026-05-15T11:20:59.097259+00:00"
         },
         {
-          "url": "https://seatosummit.com/products/ultralight-xr-insulated-air-sleeping-pad",
-          "hash": "e9126b092d62227f",
-          "detected_at": "2026-05-14T11:13:31.183985+00:00"
-        },
-        {
           "url": "https://seatosummit.com/products/telos-evo-tent",
           "hash": "370233de74fb3953",
-          "detected_at": "2026-05-14T11:13:31.183985+00:00"
+          "detected_at": "2026-05-15T11:20:59.097259+00:00"
         },
         {
           "url": "https://seatosummit.com/collections/new-product",
           "hash": "39c7b11c9de57b7f",
-          "detected_at": "2026-05-14T11:13:31.183985+00:00"
+          "detected_at": "2026-05-15T11:20:59.097259+00:00"
         },
         {
           "url": "https://seatosummit.com/en-ca/collections/new-product/ultralight%20backpacking",
           "hash": "579c247774c23c04",
-          "detected_at": "2026-05-14T11:13:31.183985+00:00"
+          "detected_at": "2026-05-15T11:20:59.097259+00:00"
         },
         {
           "url": "https://seatosummit.com/blogs/product-guides/introducing-passage-tableware-stronger-light-and-more-functional",
           "hash": "1dc75f76ab1b4afd",
+          "detected_at": "2026-05-15T11:20:59.097259+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/ultralight-xr-insulated-air-sleeping-pad",
+          "hash": "e9126b092d62227f",
           "detected_at": "2026-05-14T11:13:31.183985+00:00"
         },
         {
@@ -2103,7 +2103,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-05-15T11:20:59.479043+00:00",
+      "last_check": "2026-05-16T10:14:59.451999+00:00",
       "items": [
         {
           "url": "https://klymit.com/products/klymaloft-summit-sleeping-pads",
@@ -2238,7 +2238,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-05-15T11:20:59.838326+00:00",
+      "last_check": "2026-05-16T10:14:59.809455+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/blog/71/pajak-eskimo-2-in-1-down-jacket",
@@ -2253,6 +2253,11 @@
         {
           "url": "https://pajaksport.com/en/content/49-40-years-of-pajak.html",
           "hash": "9b1660e8b6f2547d",
+          "detected_at": "2026-05-14T11:13:31.904695+00:00"
+        },
+        {
+          "url": "https://pajaksport.com/en/equipment/sleeping-bags/16-radical/",
+          "hash": "4c9d825c368964d5",
           "detected_at": "2026-05-14T11:13:31.904695+00:00"
         },
         {
@@ -2278,11 +2283,6 @@
         {
           "url": "https://pajaksport.com/en/equipment/sleeping-bags/86-winter-sleeping-bags/",
           "hash": "9c786e786d1b04d8",
-          "detected_at": "2026-05-06T11:07:20.983277+00:00"
-        },
-        {
-          "url": "https://pajaksport.com/en/equipment/sleeping-bags/16-radical/",
-          "hash": "4c9d825c368964d5",
           "detected_at": "2026-05-06T11:07:20.983277+00:00"
         },
         {
@@ -2333,7 +2333,7 @@
       ]
     },
     "zulu": {
-      "last_check": "2026-05-15T11:21:00.307416+00:00",
+      "last_check": "2026-05-16T10:15:00.196355+00:00",
       "items": [
         {
           "url": "http://aopa.org/news-and-media/all-news/2025/july/17/lightspeed-zulu-4-debuts",
