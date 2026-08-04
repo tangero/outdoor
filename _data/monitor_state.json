@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-08-03T12:21:15.044630+00:00",
+  "last_run": "2026-08-04T11:21:52.225330+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,7 +273,7 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-08-03T12:21:02.655791+00:00",
+      "last_check": "2026-08-04T11:21:41.278064+00:00",
       "items": [
         {
           "url": "https://www.osprey.com/gb/osprey-archeon-40-travel-pack-s24",
@@ -448,7 +448,7 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-08-03T12:21:03.135853+00:00",
+      "last_check": "2026-08-04T11:21:41.714177+00:00",
       "items": [
         {
           "url": "https://eu.gregorypacks.com/uk-en/-alpaca-gear-pod-10--slate-blue/149401-E264.html",
@@ -638,7 +638,7 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-08-03T12:21:03.704428+00:00",
+      "last_check": "2026-08-04T11:21:42.185355+00:00",
       "items": [
         {
           "url": "https://www.deuter.com/ie-en/freerider-pro-30-10-sl/4046051179759",
@@ -833,7 +833,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-08-03T12:21:04.164643+00:00",
+      "last_check": "2026-08-04T11:21:42.672809+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/eu/lowe-alpine-airzone-trail-35l-hiking-pack",
@@ -868,6 +868,11 @@
         {
           "url": "https://lowealpine.com/uk/lowe-alpine-edge-22-aw20",
           "hash": "7abb58986dacac70",
+          "detected_at": "2026-07-28T11:15:39.921571+00:00"
+        },
+        {
+          "url": "https://lowealpine.com/uk/lowe-alpine-escape-trek-60-70",
+          "hash": "118d7c14cb22fe16",
           "detected_at": "2026-07-28T11:15:39.921571+00:00"
         },
         {
@@ -996,11 +1001,6 @@
           "detected_at": "2026-05-01T10:22:28.664743+00:00"
         },
         {
-          "url": "https://lowealpine.com/uk/lowe-alpine-escape-trek-60-70",
-          "hash": "118d7c14cb22fe16",
-          "detected_at": "2026-05-01T10:22:28.664743+00:00"
-        },
-        {
           "url": "http://lowealpine.com/our-story",
           "hash": "380c42304233893c",
           "detected_at": "2026-04-28T11:05:14.986928+00:00"
@@ -1023,7 +1023,7 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-08-03T12:21:04.665040+00:00",
+      "last_check": "2026-08-04T11:21:43.135060+00:00",
       "items": [
         {
           "url": "https://blackdiamondequipment.com/products/9-6-bipattern-dry-rope",
@@ -1253,7 +1253,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-08-03T12:21:06.206465+00:00",
+      "last_check": "2026-08-04T11:21:44.479955+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -1273,7 +1273,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-08-03T12:21:06.753613+00:00",
+      "last_check": "2026-08-04T11:21:44.977479+00:00",
       "items": [
         {
           "url": "https://www.salomon.com/en-us/sg/a/dawn-to-dusk-courtney-dauwalter-running-collection",
@@ -1558,7 +1558,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-08-03T12:21:07.254583+00:00",
+      "last_check": "2026-08-04T11:21:45.484601+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/blog/post/la-sportiva-presents-miura-xx-the-climbing-shoe-signed-by-adam-ondra",
@@ -1708,7 +1708,7 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-08-03T12:21:07.832631+00:00",
+      "last_check": "2026-08-04T11:21:45.900821+00:00",
       "items": [
         {
           "url": "https://us.scarpa.com/products/alien-50",
@@ -1741,6 +1741,11 @@
           "detected_at": "2026-07-31T11:28:10.876091+00:00"
         },
         {
+          "url": "https://us.scarpa.com/products/zodiac-tech-gtx-womens-f25",
+          "hash": "f45b019bebe077e1",
+          "detected_at": "2026-07-31T11:28:10.876091+00:00"
+        },
+        {
           "url": "https://us.scarpa.com/products/crux-2-mens",
           "hash": "55a15bb887f405cf",
           "detected_at": "2026-07-27T12:21:34.988070+00:00"
@@ -1748,11 +1753,6 @@
         {
           "url": "https://us.scarpa.com/products/golden-gate-lt-mens",
           "hash": "c4667d4e33ded387",
-          "detected_at": "2026-07-21T11:06:51.833575+00:00"
-        },
-        {
-          "url": "https://us.scarpa.com/products/zodiac-tech-gtx-womens-f25",
-          "hash": "f45b019bebe077e1",
           "detected_at": "2026-07-21T11:06:51.833575+00:00"
         },
         {
@@ -1978,7 +1978,7 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-08-03T12:21:08.593296+00:00",
+      "last_check": "2026-08-04T11:21:46.309883+00:00",
       "items": [
         {
           "url": "https://pr.mammut.com/mammut-x-nigel-cabourn-a-designers-tribute-to-mountaineering-heritage",
@@ -2143,7 +2143,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-08-03T12:21:09.328788+00:00",
+      "last_check": "2026-08-04T11:21:46.805773+00:00",
       "items": [
         {
           "url": "https://us.lowa.com/blogs/news/lowas-2025-2026-ice-climbing-season",
@@ -2161,6 +2161,11 @@
           "detected_at": "2026-08-02T10:40:08.138759+00:00"
         },
         {
+          "url": "https://us.lowa.com/products/zephyr-mk2-gtx-mid-coyote-op-new-gtx",
+          "hash": "b7ae812bce5f2148",
+          "detected_at": "2026-08-02T10:40:08.138759+00:00"
+        },
+        {
           "url": "https://us.lowa.com/products/zephyr-gtx-mid-tf-black-black-new-gtx",
           "hash": "24dbe3bc6cd130b1",
           "detected_at": "2026-07-26T10:43:27.751138+00:00"
@@ -2174,11 +2179,6 @@
           "url": "https://lowa.com/en/lady-light-evo-gtx-ws",
           "hash": "66f45ce574e813ab",
           "detected_at": "2026-07-26T10:43:27.751138+00:00"
-        },
-        {
-          "url": "https://us.lowa.com/products/zephyr-mk2-gtx-mid-coyote-op-new-gtx",
-          "hash": "b7ae812bce5f2148",
-          "detected_at": "2026-07-25T10:25:52.682218+00:00"
         },
         {
           "url": "https://us.lowa.com/products/renegade-evo-gtx-lo-navy-stone",
@@ -2283,7 +2283,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-08-03T12:21:09.981924+00:00",
+      "last_check": "2026-08-04T11:21:47.293688+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/men/shoes/spark/spark-s-mid-gtx-2",
@@ -2423,7 +2423,7 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-08-03T12:21:10.410532+00:00",
+      "last_check": "2026-08-04T11:21:47.784263+00:00",
       "items": [
         {
           "url": "https://eu.garmont.com/product/35703268/pinnacle-evo-gtx-r-",
@@ -2498,7 +2498,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-08-03T12:21:10.841476+00:00",
+      "last_check": "2026-08-04T11:21:48.237582+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/ridge-95-ski-set-08-0000049720",
@@ -2598,7 +2598,7 @@
       ]
     },
     "keen": {
-      "last_check": "2026-08-03T12:21:11.362956+00:00",
+      "last_check": "2026-08-04T11:21:48.703207+00:00",
       "items": [
         {
           "url": "https://www.keenfootwear.com/blogs/keen-blog/keen-bellows-flex-what-if-work-felt-3x-easier",
@@ -2623,6 +2623,11 @@
         {
           "url": "https://www.keenfootwear.com/blogs/keen-blog/behind-the-collab-targhee-x-hikerkind",
           "hash": "f6814380821353fa",
+          "detected_at": "2026-07-28T11:15:46.176517+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/blogs/keen-blog/targhee-goes-full-circle",
+          "hash": "fd6e049799c5474b",
           "detected_at": "2026-07-28T11:15:46.176517+00:00"
         },
         {
@@ -2673,11 +2678,6 @@
         {
           "url": "https://www.keenfootwear.com/products/mens-seek-safari-black",
           "hash": "5182e77cc392b674",
-          "detected_at": "2026-05-19T12:10:28.956390+00:00"
-        },
-        {
-          "url": "https://www.keenfootwear.com/blogs/keen-blog/targhee-goes-full-circle",
-          "hash": "fd6e049799c5474b",
           "detected_at": "2026-05-19T12:10:28.956390+00:00"
         },
         {
@@ -2743,7 +2743,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-08-03T12:21:11.816606+00:00",
+      "last_check": "2026-08-04T11:21:49.165920+00:00",
       "items": [
         {
           "url": "https://www.hoka.com/en/gb/cielo-x1.html",
@@ -2768,6 +2768,11 @@
         {
           "url": "https://au.hoka.com/blog/introducing-the-bondi-9",
           "hash": "fb274de45e6562ab",
+          "detected_at": "2026-08-01T10:39:18.567493+00:00"
+        },
+        {
+          "url": "https://www.hoka.com/en/us/blog-post/?id=benefits-of-super-shoes",
+          "hash": "5cd67b18e38233eb",
           "detected_at": "2026-08-01T10:39:18.567493+00:00"
         },
         {
@@ -2798,11 +2803,6 @@
         {
           "url": "https://www.hoka.com/en/gb/rincon-3.html",
           "hash": "2fd8bdfdd4df3b4c",
-          "detected_at": "2026-05-23T10:25:48.990838+00:00"
-        },
-        {
-          "url": "https://www.hoka.com/en/us/blog-post/?id=benefits-of-super-shoes",
-          "hash": "5cd67b18e38233eb",
           "detected_at": "2026-05-23T10:25:48.990838+00:00"
         },
         {
@@ -2853,7 +2853,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-08-03T12:21:12.259087+00:00",
+      "last_check": "2026-08-04T11:21:49.625095+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/merrell-expands-skyrunner-world-series-partnership-with-us-national-series-launch-agility-peak-6/",
@@ -2998,7 +2998,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-08-03T12:21:12.602546+00:00",
+      "last_check": "2026-08-04T11:21:49.911127+00:00",
       "items": [
         {
           "url": "https://www.inov-8.com/blog/english-fell-running-championship/",
@@ -3113,7 +3113,7 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-08-03T12:21:13.078465+00:00",
+      "last_check": "2026-08-04T11:21:50.314988+00:00",
       "items": [
         {
           "url": "https://www.thermarest.com/search?cgid=sleeping-pad-accessories",
@@ -3323,7 +3323,7 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-08-03T12:21:13.579130+00:00",
+      "last_check": "2026-08-04T11:21:50.832650+00:00",
       "items": [
         {
           "url": "https://seatosummit.com/blogs/adventure-tips/finding-comfort-when-you-re-a-long-way-from-home-ether-light-xr-and-pursuit-self-inflating-mats",
@@ -3503,7 +3503,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-08-03T12:21:13.994941+00:00",
+      "last_check": "2026-08-04T11:21:51.307850+00:00",
       "items": [
         {
           "url": "https://klymit.com/products/sojourn-stretch-20-sleeping-bags",
@@ -3668,7 +3668,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-08-03T12:21:14.477651+00:00",
+      "last_check": "2026-08-04T11:21:51.742529+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/equipment/10-sleepingbags/",
@@ -3823,7 +3823,7 @@
       ]
     },
     "zulu": {
-      "last_check": "2026-08-03T12:21:15.044610+00:00",
+      "last_check": "2026-08-04T11:21:52.225307+00:00",
       "items": [
         {
           "url": "https://www.linkedin.com/posts/zulu-origin_zuluorigins-med1-tacticalmed-activity-7404612391860318208-lwJs",
