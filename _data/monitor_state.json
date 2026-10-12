@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-11T15:20:11.704639+00:00",
+  "last_run": "2026-10-12T18:36:29.985990+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,7 +273,7 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-10-11T15:20:01.353733+00:00",
+      "last_check": "2026-10-12T18:36:20.219449+00:00",
       "items": [
         {
           "url": "https://www.osprey.com/gb/daylite-plus-ltd-f25",
@@ -301,14 +301,14 @@
           "detected_at": "2026-10-09T15:49:32.380241+00:00"
         },
         {
+          "url": "https://www.osprey.com/gb/daylite-sling-ltd-f25",
+          "hash": "42bd5d01312bf407",
+          "detected_at": "2026-10-09T15:49:32.380241+00:00"
+        },
+        {
           "url": "https://www.osprey.com/dk_en/soelden-25-f25",
           "hash": "ee34f7e7723a5da3",
           "detected_at": "2026-10-08T16:07:52.931015+00:00"
-        },
-        {
-          "url": "https://www.osprey.com/gb/daylite-sling-ltd-f25",
-          "hash": "42bd5d01312bf407",
-          "detected_at": "2026-10-08T16:07:52.930694+00:00"
         },
         {
           "url": "https://www.osprey.com/eu/osprey-arcane-earth-hip-bag-f25",
@@ -548,11 +548,36 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-10-11T15:20:01.816664+00:00",
+      "last_check": "2026-10-12T18:36:20.697930+00:00",
       "items": [
+        {
+          "url": "https://eu.gregorypacks.com/uk-en/-paragon-60-md-lg-rc--cascade-green/153030-8884.html?cgid=collections_paragon-maven",
+          "hash": "53ba1485cae04ca0",
+          "detected_at": "2026-10-12T18:36:20.697901+00:00"
+        },
         {
           "url": "https://eu.gregorypacks.com/uk-en/-signal-16--onyx-black/157860-0581.html",
           "hash": "85c2a90ab05315e8",
+          "detected_at": "2026-10-11T15:20:01.816648+00:00"
+        },
+        {
+          "url": "https://eu.gregorypacks.com/uk-en/-alpaca-gear-box-25--1-pc---slate-blue/160268-E264.html",
+          "hash": "90797f9f424b4544",
+          "detected_at": "2026-10-11T15:20:01.816648+00:00"
+        },
+        {
+          "url": "https://eu.gregorypacks.com/uk-en/-rhune-belt-bag--carbon-black/150946-6404.html",
+          "hash": "042e89baa1610107",
+          "detected_at": "2026-10-11T15:20:01.816648+00:00"
+        },
+        {
+          "url": "https://eu.gregorypacks.com/uk-en/-alpaca-wheeled-duffle-100--obsidian-black/155037-0413.html?cgid=collection_alpaca",
+          "hash": "3ae1ff178c0c602e",
+          "detected_at": "2026-10-11T15:20:01.816648+00:00"
+        },
+        {
+          "url": "https://eu.gregorypacks.com/uk-en/-quadro-pro-28-71cm--optic-black/150954-9974.html",
+          "hash": "1a403e9a128cbc0d",
           "detected_at": "2026-10-11T15:20:01.816648+00:00"
         },
         {
@@ -563,26 +588,6 @@
         {
           "url": "https://eu.gregorypacks.com/uk-en/-alpaca-gear-pod-5--mirage-tan/149400-A269.html",
           "hash": "d09fa54958e84675",
-          "detected_at": "2026-10-07T16:05:51.419000+00:00"
-        },
-        {
-          "url": "https://eu.gregorypacks.com/uk-en/-alpaca-gear-box-25--1-pc---slate-blue/160268-E264.html",
-          "hash": "90797f9f424b4544",
-          "detected_at": "2026-10-07T16:05:51.419000+00:00"
-        },
-        {
-          "url": "https://eu.gregorypacks.com/uk-en/-rhune-belt-bag--carbon-black/150946-6404.html",
-          "hash": "042e89baa1610107",
-          "detected_at": "2026-10-07T16:05:51.419000+00:00"
-        },
-        {
-          "url": "https://eu.gregorypacks.com/uk-en/-alpaca-wheeled-duffle-100--obsidian-black/155037-0413.html?cgid=collection_alpaca",
-          "hash": "3ae1ff178c0c602e",
-          "detected_at": "2026-10-07T16:05:51.419000+00:00"
-        },
-        {
-          "url": "https://eu.gregorypacks.com/uk-en/-quadro-pro-28-71cm--optic-black/150954-9974.html",
-          "hash": "1a403e9a128cbc0d",
           "detected_at": "2026-10-07T16:05:51.419000+00:00"
         },
         {
@@ -818,7 +823,7 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-10-11T15:20:02.267779+00:00",
+      "last_check": "2026-10-12T18:36:21.142265+00:00",
       "items": [
         {
           "url": "https://www.deuter.com/ee-en/ascender-7/4046051159119",
@@ -1128,7 +1133,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-10-11T15:20:02.634475+00:00",
+      "last_check": "2026-10-12T18:36:21.571830+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/uk/lowe-alpine-edge-18-aw20",
@@ -1178,7 +1183,7 @@
         {
           "url": "https://lowealpine.com/uk/lowe-alpine-airzone-ultra-26l-hiking-pack",
           "hash": "a7a9c05db8b47ab6",
-          "detected_at": "2026-09-23T14:04:45.115228+00:00"
+          "detected_at": "2026-10-04T14:37:31.478793+00:00"
         },
         {
           "url": "https://lowealpine.com/uk/lowe-alpine-airzone-trail-35l-hiking-pack",
@@ -1358,7 +1363,7 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-10-11T15:20:03.093876+00:00",
+      "last_check": "2026-10-12T18:36:21.982694+00:00",
       "items": [
         {
           "url": "https://blackdiamondequipment.com/products/stinger-crampons",
@@ -1638,7 +1643,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-10-11T15:20:03.290460+00:00",
+      "last_check": "2026-10-12T18:36:22.197283+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -1658,7 +1663,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-10-11T15:20:03.784332+00:00",
+      "last_check": "2026-10-12T18:36:22.687168+00:00",
       "items": [
         {
           "url": "https://www.salomon.com/en-us/product/addikt-pro-76-and-mi12-li8584/L47891700+",
@@ -2033,7 +2038,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-10-11T15:20:04.383530+00:00",
+      "last_check": "2026-10-12T18:36:23.126495+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/shoes-climbing-skwama-man-zfcs051",
@@ -2203,7 +2208,7 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-10-11T15:20:05.146986+00:00",
+      "last_check": "2026-10-12T18:36:23.642426+00:00",
       "items": [
         {
           "url": "https://us.scarpa.com/products/furia-air-f25",
@@ -2518,7 +2523,7 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-10-11T15:20:05.593276+00:00",
+      "last_check": "2026-10-12T18:36:24.211192+00:00",
       "items": [
         {
           "url": "https://pr.mammut.com/assos-x-mammut-a-game-changing-collaboration-for-cyclists-and-mountain-enthusiasts",
@@ -2693,7 +2698,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-10-11T15:20:06.061201+00:00",
+      "last_check": "2026-10-12T18:36:24.652230+00:00",
       "items": [
         {
           "url": "https://lowa.com/en/renegade-evo-gtx-lo",
@@ -2721,13 +2726,13 @@
           "detected_at": "2026-10-09T15:49:36.935954+00:00"
         },
         {
-          "url": "https://us.lowa.com/products/malta-gtx-mid-ws-denim",
-          "hash": "9d0e106d54866219",
-          "detected_at": "2026-10-02T15:23:51.450691+00:00"
-        },
-        {
           "url": "https://us.lowa.com/products/lowa-zicon-r-gtx-lo-black",
           "hash": "ec8ced2f274f9b08",
+          "detected_at": "2026-10-09T15:49:36.935954+00:00"
+        },
+        {
+          "url": "https://us.lowa.com/products/malta-gtx-mid-ws-denim",
+          "hash": "9d0e106d54866219",
           "detected_at": "2026-10-02T15:23:51.450691+00:00"
         },
         {
@@ -2903,7 +2908,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-10-11T15:20:06.572475+00:00",
+      "last_check": "2026-10-12T18:36:25.124728+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/spark",
@@ -2918,6 +2923,11 @@
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/men/shoes/forge/forge-hike-gtx-ms",
           "hash": "2fdd8467bff92238",
+          "detected_at": "2026-10-09T15:49:37.481277+00:00"
+        },
+        {
+          "url": "https://www.blizzard-tecnica.com/global/en/collection/men/shoes/spark/spark-s-mid-gtx-2",
+          "hash": "369b5dd95b25e7f7",
           "detected_at": "2026-10-09T15:49:37.481277+00:00"
         },
         {
@@ -2954,11 +2964,6 @@
           "url": "https://www.blizzard-tecnica.com/us/en/new-magma-2",
           "hash": "ed0a0ddf79bcfc48",
           "detected_at": "2026-08-13T10:03:28.635685+00:00"
-        },
-        {
-          "url": "https://www.blizzard-tecnica.com/global/en/collection/men/shoes/spark/spark-s-mid-gtx-2",
-          "hash": "369b5dd95b25e7f7",
-          "detected_at": "2026-06-17T12:50:49.439420+00:00"
         },
         {
           "url": "https://draft.blizzard-tecnica.com/global/en/collection/men/shoes/spark/spark-speed-s-gtx",
@@ -3058,7 +3063,7 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-10-11T15:20:07.014031+00:00",
+      "last_check": "2026-10-12T18:36:25.555058+00:00",
       "items": [
         {
           "url": "https://eu.garmont.com/product/40955171/dragontail-mnt-evo-gtx-r-",
@@ -3238,7 +3243,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-10-11T15:20:07.516864+00:00",
+      "last_check": "2026-10-12T18:36:26.072232+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/blacklight-carbon-pro-binding-interview",
@@ -3363,7 +3368,7 @@
       ]
     },
     "keen": {
-      "last_check": "2026-10-11T15:20:08.045493+00:00",
+      "last_check": "2026-10-12T18:36:26.519422+00:00",
       "items": [
         {
           "url": "https://www.keenfootwear.com/products/mens-newport-retro-gramicci-hemp",
@@ -3553,7 +3558,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-10-11T15:20:08.521633+00:00",
+      "last_check": "2026-10-12T18:36:26.976921+00:00",
       "items": [
         {
           "url": "https://vn.hoka.com/en/blogs/product-deep-dive/stability-running-shoes-strength-in-balance",
@@ -3571,14 +3576,14 @@
           "detected_at": "2026-09-25T14:25:46.233489+00:00"
         },
         {
+          "url": "https://nz.hoka.com/blog/cielo-x1-30-launch",
+          "hash": "7c7c1e4849421816",
+          "detected_at": "2026-09-25T14:25:46.233489+00:00"
+        },
+        {
           "url": "https://au.hoka.com/blog/cielo-x1-30-launch",
           "hash": "1583ee1a64d9e0b5",
           "detected_at": "2026-09-23T14:04:51.525422+00:00"
-        },
-        {
-          "url": "https://nz.hoka.com/blog/cielo-x1-30-launch",
-          "hash": "7c7c1e4849421816",
-          "detected_at": "2026-09-21T15:40:33.831394+00:00"
         },
         {
           "url": "https://nz.hoka.com/blog/introducing-the-bondi-9",
@@ -3723,7 +3728,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-10-11T15:20:08.958715+00:00",
+      "last_check": "2026-10-12T18:36:27.390246+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/merrell-and-pam-come-together-for-a-collaboration-inspired-by-amphibian-life/",
@@ -3883,7 +3888,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-10-11T15:20:09.283178+00:00",
+      "last_check": "2026-10-12T18:36:27.727463+00:00",
       "items": [
         {
           "url": "https://www.inov-8.com/blog/english-fell-running-championship/",
@@ -3998,7 +4003,7 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-10-11T15:20:09.685800+00:00",
+      "last_check": "2026-10-12T18:36:28.145836+00:00",
       "items": [
         {
           "url": "https://www.thermarest.com/sleeping-pads/fast-and-light/z-lite-sol-sleeping-pad/11523.html",
@@ -4213,7 +4218,7 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-10-11T15:20:10.144718+00:00",
+      "last_check": "2026-10-12T18:36:28.558412+00:00",
       "items": [
         {
           "url": "https://seatosummit.com/products/reactor-sleeping-bag-liner",
@@ -4221,28 +4226,28 @@
           "detected_at": "2026-10-11T15:20:10.144702+00:00"
         },
         {
-          "url": "https://seatosummit.com/products/frontier-ultralight-collapsible-pot",
-          "hash": "dda93f44feebb4e2",
-          "detected_at": "2026-10-10T15:03:14.906792+00:00"
-        },
-        {
           "url": "https://seatosummit.com/products/sentinel-tent",
           "hash": "1790f9ed7337a164",
-          "detected_at": "2026-10-10T15:03:14.906792+00:00"
+          "detected_at": "2026-10-11T15:20:10.144702+00:00"
         },
         {
           "url": "https://seatosummit.com/blogs/behind-the-brand/field-tested-in-the-kimberley-behind-the-design-with-sea-to-summit-s-tim-miller",
           "hash": "edf25e734df45330",
-          "detected_at": "2026-10-10T15:03:14.906792+00:00"
+          "detected_at": "2026-10-11T15:20:10.144702+00:00"
         },
         {
           "url": "https://seatosummit.com/blogs/adventure-tips/finding-comfort-when-you-re-a-long-way-from-home-ether-light-xr-and-pursuit-self-inflating-mats",
           "hash": "65877d1f691c48ce",
-          "detected_at": "2026-10-10T15:03:14.906792+00:00"
+          "detected_at": "2026-10-11T15:20:10.144702+00:00"
         },
         {
           "url": "https://seatosummit.com/products/xlite-collapsible-2l-pot-kettle-pan-set",
           "hash": "3b1248a88fc05b92",
+          "detected_at": "2026-10-11T15:20:10.144702+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/frontier-ultralight-collapsible-pot",
+          "hash": "dda93f44feebb4e2",
           "detected_at": "2026-10-10T15:03:14.906792+00:00"
         },
         {
@@ -4428,7 +4433,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-10-11T15:20:10.596165+00:00",
+      "last_check": "2026-10-12T18:36:28.994039+00:00",
       "items": [
         {
           "url": "https://klymit.com/blogs/klymit-blog/klymit-gear-featured-on-fox-13-outdoor-gift-ideas",
@@ -4613,7 +4618,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-10-11T15:20:11.182503+00:00",
+      "last_check": "2026-10-12T18:36:29.502249+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/214-1626-everest-2.html",
@@ -4808,7 +4813,7 @@
       ]
     },
     "zulu": {
-      "last_check": "2026-10-11T15:20:11.704620+00:00",
+      "last_check": "2026-10-12T18:36:29.985967+00:00",
       "items": [
         {
           "url": "https://thebikedads.com/press-release-prevelo-new-zulu-one-zulu-two/",
