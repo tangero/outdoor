@@ -37,10 +37,11 @@ except ImportError:
         return re.sub(r"[-\s]+", "-", text).strip("-")
 
 MIN_SOURCES = 2
+FIX_ROUNDS = 2
 MAX_SOURCES = 6
 SOURCE_CHARS = 12000
 RETRY_AFTER_DAYS = 14
-EST_COST_PER_REVIEW = 0.45  # USD, horní odhad pro rozpočtovou pojistku
+EST_COST_PER_REVIEW = 0.45  # USD, horní odhad: psaní ~0,11 + až 2 opravy po ~0,10 + kontroly
 
 SKIP_DOMAINS = ("youtube.com", "youtu.be", "facebook.com", "instagram.com", "pinterest.",
                 "tiktok.com", "x.com", "twitter.com", "amazon.", "ebay.", "aliexpress.")
@@ -77,7 +78,8 @@ Pravidla:
   „Pro koho je ideální?“, „Kdo by měl zvážit jinou variantu?“, „Závěrečné zhodnocení“.
   Obrázek do textu nevkládej.
 - Ve srovnání s konkurencí používej přednostně produkty z tabulky už recenzovaných
-  (stejný název modelu, aby se automaticky prolinkovaly). Jejich parametry ber z tabulky.
+  (stejný název modelu, aby se automaticky prolinkovaly). O srovnávaných produktech uváděj
+  jen to, co stojí v tabulce (parametry, pro, proti), nic dalšího jim nepřisuzuj.
 - Titulek ve tvaru „<Model>: <krátký výstižný podtitulek>“.
 - pro / proti: jedna věta s výčtem 3–5 bodů oddělených čárkou.
 
@@ -425,37 +427,54 @@ def process(c: dict, reviews: list[dict], dry_run: bool) -> str:
         return "chybí obrázek"
 
     draft = write_review(c, sources, reviews)
-    problems = [p for p in check_review(draft, sources, reviews, c["rubrika"]) if p["zavaznost"] == "vysoka"]
-    if problems:
-        log(f"   Kontrola: {len(problems)} závažných problémů, opravuji.")
-        for p in problems:
-            log(f"     - {p['tvrzeni'][:80]}: {p['problem'][:120]}", verbose_only=True)
-        draft = fix_review(c, draft, problems, sources, reviews)
+    for round_no in range(FIX_ROUNDS + 1):
         problems = [p for p in check_review(draft, sources, reviews, c["rubrika"]) if p["zavaznost"] == "vysoka"]
-        if problems:
-            c["status"] = "neproslo_kontrolou"
-            c["problemy"] = problems[:5]
-            return f"neprošlo kontrolou faktů ({len(problems)} problémů)"
+        if not problems:
+            break
+        log(f"   Kontrola: {len(problems)} závažných problémů.")
+        for p in problems:
+            log(f"     - {p['tvrzeni'][:100]}: {p['problem'][:160]}")
+        if round_no < FIX_ROUNDS:
+            draft = fix_review(c, draft, problems, sources, reviews)
+    if problems:
+        c["status"] = "neproslo_kontrolou"
+        c["problemy"] = problems[:5]
+        if dry_run:
+            save_dry_run(c, draft, image, "NEPROSLO")
+        return f"neprošlo kontrolou faktů ({len(problems)} problémů)"
 
     errors = validate(c, draft)
     if errors:
         c["status"] = "neplatna_data"
         c["problemy"] = errors
+        if dry_run:
+            save_dry_run(c, draft, image, "NEPLATNE")
         return "; ".join(errors)
 
-    path, content, url = build_post(c, draft, image)
     if dry_run:
-        out_dir = os.environ.get("AUTOMAT_DRY_RUN_DIR", os.path.join(lib.AUTOMAT_DIR, "nanecisto"))
-        os.makedirs(out_dir, exist_ok=True)
-        path = os.path.join(out_dir, os.path.basename(path))
-    else:
-        append_product(draft["model"].strip() or c["model"], url)
+        return f"hotovo (nanečisto) → {save_dry_run(c, draft, image, 'OK')}"
+    path, content, url = build_post(c, draft, image)
+    append_product(draft["model"].strip() or c["model"], url)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         f.write(content)
-    c["status"] = "napsano" if not dry_run else c["status"]
+    c["status"] = "napsano"
     c["soubor"] = path
     return f"hotovo → {path}"
+
+
+def save_dry_run(c: dict, draft: dict, image: str, label: str) -> str:
+    """V režimu nanečisto uloží recenzi (i neúspěšnou) do _automat/nanecisto/ k posouzení."""
+    _, content, _ = build_post(c, draft, image)
+    if c.get("problemy"):
+        content += "\n<!-- Problémy z kontroly:\n" + "\n".join(
+            f"- {p['tvrzeni']}: {p['problem']}" if isinstance(p, dict) else f"- {p}" for p in c["problemy"]) + "\n-->\n"
+    out_dir = os.environ.get("AUTOMAT_DRY_RUN_DIR", os.path.join(lib.AUTOMAT_DIR, "nanecisto"))
+    os.makedirs(out_dir, exist_ok=True)
+    path = os.path.join(out_dir, f"{label}-{slugify(c['model'])}.md")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+    return path
 
 
 def main():
