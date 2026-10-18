@@ -216,14 +216,30 @@ def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
     return picked
 
 
-def research(c: dict) -> list[dict]:
-    """Vrátí podklady: [{url, title, text, druh: vyrobce|nezavisly}]."""
+MD_IMAGE_RE = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
+
+
+def page_images(markdown: str) -> list[str]:
+    """Obrázky produktu z markdownu stránky (bez log, ikon a SVG)."""
+    out = []
+    for url in MD_IMAGE_RE.findall(markdown):
+        low = url.lower()
+        if any(x in low for x in (".svg", "logo", "icon", "sprite", "badge", "flag", "payment")):
+            continue
+        if re.search(r"\.(jpe?g|png|webp)(\?|$)", low) or "/image" in low:
+            out.append(url)
+    return out
+
+
+def research(c: dict) -> tuple[list[dict], list[str]]:
+    """Vrátí (podklady [{url, title, text, druh: vyrobce|nezavisly}], obrázky ze stránky výrobce)."""
     model, brand = c["model"], c["brand"]
     maker = domain(c["url"])
     sources = []
 
     page = lib.fetch_pages([c["url"]], max_chars=SOURCE_CHARS).get(c["url"])
     maker_text = (page or {}).get("text", "")
+    images = page_images(maker_text)
     extra = []
     data = c.get("data") or {}
     if data.get("grams"):
@@ -264,7 +280,7 @@ def research(c: dict) -> list[dict]:
             if len(independent) >= MAX_SOURCES:
                 break
     log(f"   Podklady: výrobce {len(sources)}, nezávislé {len(independent)}")
-    return sources + independent
+    return sources + independent, images
 
 
 def peers_table(reviews: list[dict], rubrika: str) -> str:
@@ -330,20 +346,21 @@ def fix_review(c: dict, draft: dict, problems: list[dict], sources: list[dict], 
     return lib.claude_json(lib.MODEL_WRITER, system, user, writer_schema(rubrika), "recenze-oprava")
 
 
-def find_image(c: dict) -> str:
+def find_image(c: dict, page_imgs: list[str]) -> str:
     if c.get("thumbnail"):
         url = c["thumbnail"]
         return "https:" + url if url.startswith("//") else url
+    fallback = page_imgs[0] if page_imgs else ""
     if lib.requests is None:
-        return ""
+        return fallback
     try:
         html = lib.requests.get(c["url"], headers={"User-Agent": lib.USER_AGENT}, timeout=20).text
     except Exception:
-        return ""
+        return fallback
     m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', html, flags=re.I) \
         or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', html, flags=re.I)
     if not m:
-        return ""
+        return fallback
     url = m.group(1)
     return "https:" + url if url.startswith("//") else url
 
@@ -417,11 +434,11 @@ def validate(c: dict, draft: dict) -> list[str]:
 def process(c: dict, reviews: list[dict], dry_run: bool) -> str:
     log(f"\n✍️  {c['model']} ({c['rubrika']}, {c['brand']})")
     c["pokus_at"] = lib.now_iso()
-    sources = research(c)
+    sources, page_imgs = research(c)
     if len([s for s in sources if s["druh"] == "nezavisly"]) < MIN_SOURCES:
         c["status"] = "malo_zdroju"
         return "málo nezávislých zdrojů"
-    image = find_image(c)
+    image = find_image(c, page_imgs)
     if not image:
         c["status"] = "chybi_obrazek"
         return "chybí obrázek"
