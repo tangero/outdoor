@@ -92,7 +92,10 @@ def main():
     lib.VERBOSE = args.verbose
 
     queue = lib.load_json(lib.QUEUE_PATH, {"version": 1, "items": []})
-    pending = [c for c in queue["items"] if c.get("status") == "novy"][: args.limit]
+    pending = [c for c in queue["items"] if c.get("status") == "novy"]
+    # Čerstvé nálezy monitoru před převzatými starými drafty.
+    pending.sort(key=lambda c: c.get("strategy") == "drafts-import")
+    pending = pending[: args.limit]
     log(f"🧹 Ke třídění: {len(pending)} kandidátů.")
     if not pending:
         return
