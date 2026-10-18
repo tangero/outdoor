@@ -1,0 +1,6 @@
+pyyaml
+requests
+beautifulsoup4
+feedparser
+python-slugify
+anthropic

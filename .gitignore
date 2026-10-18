@@ -36,3 +36,9 @@ test/*
 /type-on-strap*/*
 /.venv
 /assets/downloaded
+
+# Lokální prostředí a klíče
+.wrangler/
+.env.local
+_automat/nanecisto/
+__pycache__/

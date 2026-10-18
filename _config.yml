@@ -74,7 +74,7 @@ adsense-data-ad-slot: "5234235139"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, README.md, CLAUDE.md, Gemfile, Gemfile.lock, scripts, download_images.py, docker-compose.yml, Terminal, site, .venv, .wrangler]
 
 # Defaults
 defaults:
