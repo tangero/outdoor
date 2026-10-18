@@ -347,10 +347,13 @@ def fix_review(c: dict, draft: dict, problems: list[dict], sources: list[dict], 
 
 
 def find_image(c: dict, page_imgs: list[str]) -> str:
-    if c.get("thumbnail"):
-        url = c["thumbnail"]
-        return "https:" + url if url.startswith("//") else url
+    url = c.get("thumbnail") or find_image_on_page(c, page_imgs) or lib.exa_image(c["url"])
+    return "https:" + url if url.startswith("//") else url
+
+
+def find_image_on_page(c: dict, page_imgs: list[str]) -> str:
     fallback = page_imgs[0] if page_imgs else ""
+    log(f"   Obrázky ze stránky výrobce: {len(page_imgs)}", verbose_only=True)
     if lib.requests is None:
         return fallback
     try:

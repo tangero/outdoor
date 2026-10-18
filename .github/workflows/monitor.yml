@@ -21,6 +21,10 @@ on:
         description: 'Počet recenzí (režim recenze/test)'
         required: false
         default: '2'
+      id:
+        description: 'ID kandidáta (volitelné, režim test)'
+        required: false
+        default: ''
 
 concurrency:
   group: automat
@@ -113,7 +117,9 @@ jobs:
       # ----------------------------- test ------------------------------
       - name: Recenze nanečisto
         if: env.REZIM == 'test'
-        run: python scripts/recenze.py --pocet "$POCET" --dry-run --verbose
+        run: python scripts/recenze.py --pocet "$POCET" ${KANDIDAT:+--id "$KANDIDAT"} --dry-run --verbose
+        env:
+          KANDIDAT: ${{ github.event.inputs.id }}
 
       - name: Výstupy testu
         if: always() && env.REZIM == 'test'

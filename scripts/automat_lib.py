@@ -109,6 +109,13 @@ def _tinyfish_fetch(urls: list[str]) -> dict[str, dict[str, str]]:
     return out
 
 
+def exa_image(url: str) -> str:
+    """Hlavní obrázek stránky podle Exa (pole `image`), nebo prázdný řetězec."""
+    for page in _exa_contents([url]).values():
+        return page.get("image", "")
+    return ""
+
+
 def _exa_contents(urls: list[str]) -> dict[str, dict[str, str]]:
     key = os.environ.get("EXA_API_KEY")
     if not key or requests is None or not urls:
@@ -129,7 +136,7 @@ def _exa_contents(urls: list[str]) -> dict[str, dict[str, str]]:
     for r in data.get("results", []):
         if r.get("text"):
             out[r.get("url", "")] = {"url": r.get("url", ""), "title": r.get("title") or "",
-                                     "text": r["text"], "via": "exa"}
+                                     "text": r["text"], "via": "exa", "image": r.get("image") or ""}
     return out
 
 
