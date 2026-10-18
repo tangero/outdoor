@@ -1,25 +1,49 @@
-name: Monitor Manufacturer Websites
+name: Automat recenzí
+
+# Jeden workflow pro celý automat (ručně spustitelný i z jiné větve):
+#   denně      – monitoring výrobců + třídění kandidátů → commit _automat/ do master
+#   út a pá    – napsání recenzí → PR s články, stav fronty → commit do master
+#   ručně      – režim monitor / recenze / test (test nic necommituje, výstupy dá jako artefakt)
 
 on:
   schedule:
-    # 9:00 UTC každý den (šetří Exa kredity)
-    - cron: '0 9 * * *'
+    - cron: '0 9 * * *'     # monitoring + třídění
+    - cron: '0 6 * * 2,5'   # recenze
   workflow_dispatch:
     inputs:
-      dry_run:
-        description: 'Spustit v dry-run módu (nezapíše nic)'
-        required: false
-        default: 'false'
+      rezim:
+        description: 'Co spustit'
+        required: true
+        default: 'monitor'
         type: choice
-        options:
-          - 'true'
-          - 'false'
+        options: ['monitor', 'recenze', 'test']
+      pocet:
+        description: 'Počet recenzí (režim recenze/test)'
+        required: false
+        default: '2'
+      id:
+        description: 'ID kandidáta (volitelné, režim test)'
+        required: false
+        default: ''
+
+concurrency:
+  group: automat
+  cancel-in-progress: false
 
 jobs:
-  monitor:
+  automat:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     permissions:
       contents: write
+      pull-requests: write
+    env:
+      EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+      TINYFISH_API_KEY: ${{ secrets.TINYFISH_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GH_TOKEN: ${{ github.token }}
+      REZIM: ${{ github.event.inputs.rezim || (github.event.schedule == '0 6 * * 2,5' && 'recenze') || 'monitor' }}
+      POCET: ${{ github.event.inputs.pocet || '2' }}
 
     steps:
       - name: Checkout repository
@@ -31,28 +55,77 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install pyyaml requests beautifulsoup4 feedparser python-slugify
+        run: pip install -r scripts/requirements.txt
 
-      - name: Run monitor
-        env:
-          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
-        run: |
-          if [ "${{ github.event.inputs.dry_run }}" == "true" ]; then
-            python scripts/monitor.py --dry-run --verbose
-          else
-            python scripts/monitor.py --verbose
-          fi
-
-      - name: Commit and push new drafts
-        if: github.event.inputs.dry_run != 'true'
+      - name: Git identity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _drafts/ _data/monitor_state.json
+
+      # ---------------------------- monitor ----------------------------
+      - name: Monitoring výrobců
+        if: env.REZIM == 'monitor' || env.REZIM == 'test'
+        run: python scripts/monitor.py --verbose
+
+      - name: Třídění kandidátů
+        if: env.REZIM == 'monitor' || env.REZIM == 'test'
+        run: python scripts/trideni.py --verbose
+
+      - name: Commit stavu
+        if: env.REZIM == 'monitor'
+        run: |
+          git add _automat/
           if git diff --cached --quiet; then
-            echo "Žádné nové drafty k commitu."
+            echo "Beze změn."
           else
-            git commit -m "Auto: nové drafty z monitoringu výrobců ($(date +%Y-%m-%d %H:%M))"
+            git commit -m "Auto: monitoring výrobců ($(date -u '+%Y-%m-%d %H:%M'))"
+            git pull --rebase
             git push
           fi
+
+      # ---------------------------- recenze ----------------------------
+      - name: Psaní recenzí
+        if: env.REZIM == 'recenze'
+        run: python scripts/recenze.py --pocet "$POCET" --verbose
+
+      - name: PR s recenzemi a commit stavu
+        if: env.REZIM == 'recenze'
+        run: |
+          STAMP=$(date -u '+%Y-%m-%d-%H%M')
+          if [ -n "$(git status --porcelain _posts _data/products.yml)" ]; then
+            BRANCH="recenze/$STAMP"
+            git checkout -b "$BRANCH"
+            git add _posts _data/products.yml
+            git commit -m "Recenze: nové články ($STAMP)"
+            git push -u origin "$BRANCH"
+            TITLES=$(git diff --name-only HEAD~1 -- _posts | sed 's|^|- |')
+            gh pr create --base master --head "$BRANCH" \
+              --title "Nové recenze $STAMP" \
+              --body "$(printf 'Automaticky napsané recenze:\n\n%s\n\nPo kontrole sloučit; Cloudflare Pages web nasadí sám.' "$TITLES")" \
+              || echo "::warning::PR se nepodařilo založit (zapněte Settings → Actions → Allow GitHub Actions to create pull requests). Větev $BRANCH je pushnutá."
+            git checkout -
+          else
+            echo "Žádná nová recenze."
+          fi
+          git add _automat/
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto: stav fronty po recenzích ($STAMP)"
+            git pull --rebase
+            git push
+          fi
+
+      # ----------------------------- test ------------------------------
+      - name: Recenze nanečisto
+        if: env.REZIM == 'test'
+        run: python scripts/recenze.py --pocet "$POCET" ${KANDIDAT:+--id "$KANDIDAT"} --dry-run --verbose
+        env:
+          KANDIDAT: ${{ github.event.inputs.id }}
+
+      - name: Výstupy testu
+        if: always() && env.REZIM == 'test'
+        uses: actions/upload-artifact@v4
+        with:
+          name: automat-test
+          path: |
+            _automat/
+          if-no-files-found: warn

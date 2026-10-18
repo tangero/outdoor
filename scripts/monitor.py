@@ -1,27 +1,32 @@
 #!/usr/bin/env python3
 """
 Automatický monitoring webů výrobců outdoorového vybavení.
-Detekuje nové produkty a blogové příspěvky, generuje Jekyll drafty.
+Detekuje nové produkty a zapisuje je jako kandidáty na recenzi do
+_automat/kandidati.json (třídí je scripts/trideni.py, píše scripts/recenze.py).
 
 Použití:
     python scripts/monitor.py              # Normální běh
     python scripts/monitor.py --dry-run    # Simulace bez zápisu souborů
     python scripts/monitor.py --verbose    # Podrobný výstup
+    python scripts/monitor.py --only Keen  # Jen vybraný zdroj (podle name)
 """
 
 import argparse
 import hashlib
-import json
 import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from typing import Any, Optional
 from urllib.parse import urljoin, urlparse
 from xml.etree import ElementTree as ET
 
 import yaml
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import automat_lib as lib  # noqa: E402
+from automat_lib import log  # noqa: E402
 
 # Volitelné importy - ošetříme, pokud nejsou nainstalovány
 try:
@@ -48,51 +53,24 @@ except ImportError:
         return text.strip('-')
 
 
-# Konfigurace
-USER_AGENT = "VybaveniDoPrirodyBot/1.0 (+https://github.com/patrickzandl/outdoor)"
-REQUEST_TIMEOUT = 15
 RATE_LIMIT_SECONDS = 1.5
-SOURCES_PATH = os.path.join("_data", "monitor_sources.yml")
-STATE_PATH = os.path.join("_data", "monitor_state.json")
-DRAFTS_DIR = "_drafts"
-
-
-def log(msg: str, verbose_only: bool = False):
-    """Vytiskne zprávu na stderr."""
-    if verbose_only and not VERBOSE:
-        return
-    print(msg, file=sys.stderr)
+SHOPIFY_MAX_PAGES = 8          # 8 × 250 produktů
+SHOPIFY_DEFAULT_MAX_AGE = 45   # dní
+EXA_DEFAULT_LOOKBACK = 30      # dní, když zdroj ještě nemá last_check
+STATE_ITEMS_PER_SOURCE = 2000
+QUEUE_MAX_ITEMS = 3000
 
 
 def load_sources() -> list[dict[str, Any]]:
     """Načte konfiguraci zdrojů z YAML."""
-    if not os.path.exists(SOURCES_PATH):
-        log(f"❌ Soubor {SOURCES_PATH} neexistuje.")
+    if not os.path.exists(lib.SOURCES_PATH):
+        log(f"❌ Soubor {lib.SOURCES_PATH} neexistuje.")
         return []
-    with open(SOURCES_PATH, "r", encoding="utf-8") as f:
+    with open(lib.SOURCES_PATH, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
     if not data:
         return []
-    # Filtrovat komentáře a None hodnoty
     return [item for item in data if isinstance(item, dict)]
-
-
-def load_state() -> dict[str, Any]:
-    """Načte persistovaný stav."""
-    if not os.path.exists(STATE_PATH):
-        return {"version": 1, "last_run": None, "sources": {}}
-    with open(STATE_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
-def save_state(state: dict[str, Any], dry_run: bool = False):
-    """Uloží persistovaný stav."""
-    if dry_run:
-        log("[DRY-RUN] Stav by se uložil do " + STATE_PATH)
-        return
-    os.makedirs(os.path.dirname(STATE_PATH), exist_ok=True)
-    with open(STATE_PATH, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
 
 
 def fetch_url(url: str) -> Optional[str]:
@@ -101,8 +79,8 @@ def fetch_url(url: str) -> Optional[str]:
         log("⚠️  Modul 'requests' není nainstalován. Přeskočeno.")
         return None
     try:
-        headers = {"User-Agent": USER_AGENT}
-        resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+        headers = {"User-Agent": lib.USER_AGENT}
+        resp = requests.get(url, headers=headers, timeout=lib.REQUEST_TIMEOUT)
         resp.raise_for_status()
         time.sleep(RATE_LIMIT_SECONDS)
         return resp.text
@@ -111,32 +89,32 @@ def fetch_url(url: str) -> Optional[str]:
         return None
 
 
-# Klíčová slova pro automatickou detekci kategorie z obsahu
+# Klíčová slova pro odhad rubriky (jen nápověda pro třídění; rozhoduje scripts/trideni.py)
 CATEGORY_KEYWORDS = {
-    "batohy": ["backpack", "batoh", "pack", "rucksack", "batůžek", "batohy", "duffel", "daypack"],
-    "boty": ["shoe", "boot", "bota", "footwear", "trail running", "trekking", "sandal", "teniska", "boty", "gtx"],
-    "karimatky": ["sleeping pad", "mat", "karimatka", "mattress", "nafukovací", "karimatky", "self-inflating"],
-    "stany": ["tent", "stan", "shelter", "bivak", "tarp", "stany", "ultrashelter"],
-    "powerbanky": ["power bank", "powerbank", "solar charger", "nabíječka", "powerbanky", "solární"],
+    "batohy": ["backpack", "batoh", "rucksack", "daypack", "hiking pack", "trekking pack"],
+    "boty": ["shoe", "boot", "footwear", "sandal", "trail running", "approach"],
+    "karimatky": ["sleeping pad", "sleeping mat", "karimatka", "mattress", "self-inflating", "air pad"],
+    "stany": ["tent", "shelter", "bivy", "tarp"],
+    "powerbanky": ["power bank", "powerbank", "solar charger"],
 }
 
 
-def detect_category(title: str, url: str, snippet: str = "") -> str:
-    """Detekuje kategorii podle klíčových slov v titulku, URL nebo snippetu."""
-    text = f"{title} {url} {snippet}".lower()
+def detect_category(*texts: str) -> str:
+    """Odhadne rubriku podle klíčových slov."""
+    text = " ".join(texts).lower()
     for category, keywords in CATEGORY_KEYWORDS.items():
-        if any(kw in text for kw in keywords):
+        if any(re.search(r"\b" + re.escape(kw), text) for kw in keywords):
             return category
     return ""
 
 
-def item_hash(title: str, url: str, snippet: str = "") -> str:
+def item_hash(title: str, url: str) -> str:
     """Vytvoří hash pro identifikaci položky."""
-    content = f"{title.strip()}|{url.strip()}|{snippet.strip()[:200]}"
+    content = f"{title.strip()}|{url.strip()}"
     return hashlib.sha256(content.encode("utf-8")).hexdigest()[:16]
 
 
-def parse_rss(source: dict[str, Any]) -> list[dict[str, str]]:
+def parse_rss(source: dict[str, Any], since: datetime) -> list[dict[str, Any]]:
     """Parsuje RSS/Atom feed a vrací seznam položek."""
     if not HAS_FEEDPARSER:
         log("⚠️  Modul 'feedparser' není nainstalován. Přeskočeno.")
@@ -146,7 +124,7 @@ def parse_rss(source: dict[str, Any]) -> list[dict[str, str]]:
         return []
     log(f"📡 RSS: {url}", verbose_only=True)
     try:
-        parsed = feedparser.parse(url, agent=USER_AGENT, request_headers={"User-Agent": USER_AGENT})
+        parsed = feedparser.parse(url, agent=lib.USER_AGENT, request_headers={"User-Agent": lib.USER_AGENT})
         items = []
         for entry in parsed.entries:
             title = entry.get("title", "")
@@ -154,7 +132,6 @@ def parse_rss(source: dict[str, Any]) -> list[dict[str, str]]:
             summary = entry.get("summary", "") or entry.get("description", "")
             if not title or not link:
                 continue
-            # Zkusíme najít obrázek
             thumbnail = ""
             if "media_thumbnail" in entry and entry.media_thumbnail:
                 thumbnail = entry.media_thumbnail[0].get("url", "")
@@ -166,7 +143,7 @@ def parse_rss(source: dict[str, Any]) -> list[dict[str, str]]:
             items.append({
                 "title": title.strip(),
                 "url": link.strip(),
-                "snippet": summary.strip(),
+                "snippet": lib.strip_html(summary)[:1500],
                 "thumbnail": thumbnail,
             })
         return items
@@ -175,44 +152,108 @@ def parse_rss(source: dict[str, Any]) -> list[dict[str, str]]:
         return []
 
 
-def parse_sitemap(source: dict[str, Any]) -> list[dict[str, str]]:
-    """Parsuje XML sitemapu a vrací seznam URL s recentními změnami."""
+def parse_sitemap(source: dict[str, Any], since: datetime) -> list[dict[str, Any]]:
+    """Parsuje XML sitemapu; vrací URL odpovídající `url_pattern` se změnou po `since`."""
     url = source.get("sitemap_url", "")
     if not url:
         return []
+    pattern = re.compile(source.get("url_pattern", "."))
     log(f"🗺️  Sitemap: {url}", verbose_only=True)
     content = fetch_url(url)
     if not content:
         return []
     try:
         root = ET.fromstring(content.encode("utf-8"))
-        # XML namespace handling
         ns = {"ns": "http://www.sitemaps.org/schemas/sitemap/0.9"}
         items = []
         for elem in root.findall(".//ns:url", ns) or root.findall(".//url"):
-            loc = elem.find("ns:loc", ns) or elem.find("loc")
-            lastmod = elem.find("ns:lastmod", ns) or elem.find("lastmod")
-            if loc is not None and loc.text:
-                url_text = loc.text.strip()
-                lastmod_text = lastmod.text.strip() if lastmod is not None and lastmod.text else ""
-                # Pro sitemap detekujeme nové URL nebo recentní lastmod
-                # Název odvodíme z URL
-                title = os.path.basename(urlparse(url_text).path).replace("-", " ").replace("_", " ").title()
-                items.append({
-                    "title": title,
-                    "url": url_text,
-                    "snippet": f"Last modified: {lastmod_text}" if lastmod_text else "",
-                    "thumbnail": "",
-                    "lastmod": lastmod_text,
-                })
+            loc = elem.find("ns:loc", ns)
+            if loc is None:
+                loc = elem.find("loc")
+            lastmod = elem.find("ns:lastmod", ns)
+            if lastmod is None:
+                lastmod = elem.find("lastmod")
+            if loc is None or not loc.text or not pattern.search(loc.text):
+                continue
+            url_text = loc.text.strip()
+            lastmod_text = lastmod.text.strip() if lastmod is not None and lastmod.text else ""
+            if lastmod_text:
+                try:
+                    if datetime.fromisoformat(lastmod_text.replace("Z", "+00:00")) < since:
+                        continue
+                except ValueError:
+                    pass
+            title = os.path.basename(urlparse(url_text).path.rstrip("/")).replace("-", " ").replace("_", " ").title()
+            items.append({"title": title, "url": url_text, "snippet": "", "thumbnail": "",
+                          "published_at": lastmod_text})
         return items
     except Exception as e:
         log(f"⚠️  Chyba při parsování sitemap {url}: {e}")
         return []
 
 
-def parse_exa(source: dict[str, Any]) -> list[dict[str, str]]:
-    """Použije Exa.ai API pro vyhledávání a extrakci obsahu."""
+def parse_shopify(source: dict[str, Any], since: datetime) -> list[dict[str, Any]]:
+    """Projde veřejný Shopify katalog a vrátí produkty publikované po `since`."""
+    if not HAS_REQUESTS:
+        log("⚠️  Modul 'requests' není nainstalován. Přeskočeno.")
+        return []
+    base = source.get("shop_url", "").rstrip("/")
+    if not base:
+        return []
+    # Okno podle published_at nezávisí na posledním běhu; duplicity odfiltruje stav.
+    max_age = int(source.get("max_age_days", SHOPIFY_DEFAULT_MAX_AGE))
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age)
+    log(f"🛍️  Shopify: {base} (od {cutoff.date()})", verbose_only=True)
+
+    items: dict[str, dict[str, Any]] = {}
+    for page in range(1, SHOPIFY_MAX_PAGES + 1):
+        try:
+            resp = requests.get(f"{base}/products.json", params={"limit": 250, "page": page},
+                                headers={"User-Agent": lib.USER_AGENT}, timeout=30)
+            resp.raise_for_status()
+            products = resp.json().get("products", [])
+        except Exception as e:
+            log(f"⚠️  Shopify {base} strana {page}: {e}")
+            break
+        if not products:
+            break
+        for p in products:
+            handle = p.get("handle")
+            published = p.get("published_at") or p.get("created_at") or ""
+            if not handle or not published or handle in items:
+                continue
+            try:
+                published_dt = datetime.fromisoformat(published)
+            except ValueError:
+                continue
+            if published_dt < cutoff:
+                continue
+            variants = p.get("variants") or []
+            grams = sorted({v.get("grams") for v in variants if v.get("grams")})
+            prices = sorted({float(v["price"]) for v in variants if v.get("price")})
+            images = p.get("images") or []
+            items[handle] = {
+                "title": (p.get("title") or "").strip(),
+                "url": f"{base}/products/{handle}",
+                "snippet": lib.strip_html(p.get("body_html") or "")[:1500],
+                "thumbnail": images[0].get("src", "") if images else "",
+                "published_at": published,
+                "data": {
+                    "vendor": p.get("vendor") or "",
+                    "product_type": p.get("product_type") or "",
+                    "tags": (p.get("tags") or [])[:30] if isinstance(p.get("tags"), list)
+                            else str(p.get("tags") or "").split(", ")[:30],
+                    "grams": grams[:5],
+                    "price_range": [prices[0], prices[-1]] if prices else [],
+                    "variants": len(variants),
+                },
+            }
+        time.sleep(RATE_LIMIT_SECONDS)
+    return list(items.values())
+
+
+def parse_exa(source: dict[str, Any], since: datetime) -> list[dict[str, Any]]:
+    """Exa.ai vyhledávání na doménách výrobce, jen stránky publikované po `since`."""
     api_key = os.environ.get("EXA_API_KEY")
     if not api_key:
         log("⚠️  EXA_API_KEY není nastaveno. Přeskočeno.")
@@ -222,31 +263,21 @@ def parse_exa(source: dict[str, Any]) -> list[dict[str, str]]:
         return []
 
     query = source.get("exa_query", source.get("name", ""))
-    domains = source.get("exa_domains", [])
-    num_results = source.get("exa_num_results", 10)
-    after = source.get("exa_after")
-    search_type = source.get("exa_type", "auto")
-
-    log(f"🤖 Exa.ai: {query}", verbose_only=True)
-
     payload: dict[str, Any] = {
         "query": query,
-        "type": search_type,
-        "numResults": num_results,
-        "contents": {
-            "text": {"maxCharacters": 2000}
-        }
+        "type": source.get("exa_type", "fast"),
+        "numResults": source.get("exa_num_results", 5),
+        "startPublishedDate": since.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+        "contents": {"text": {"maxCharacters": 1500}},
     }
-    if domains:
-        payload["includeDomains"] = domains
-    if after:
-        payload["startPublishedDate"] = after
+    if source.get("exa_domains"):
+        payload["includeDomains"] = source["exa_domains"]
 
-    headers = {"x-api-key": api_key, "Content-Type": "application/json"}
+    log(f"🤖 Exa.ai: {query} (od {since.date()})", verbose_only=True)
     try:
         resp = requests.post(
             "https://api.exa.ai/search",
-            headers=headers,
+            headers={"x-api-key": api_key, "Content-Type": "application/json"},
             json=payload,
             timeout=30,
         )
@@ -258,24 +289,44 @@ def parse_exa(source: dict[str, Any]) -> list[dict[str, str]]:
 
     items = []
     for result in data.get("results", []):
-        title = result.get("title", "")
-        url = result.get("url", "")
-        snippet = ""
-        contents = result.get("contents", {})
-        if isinstance(contents, dict):
-            snippet = contents.get("text", "")[:800]
+        title = (result.get("title") or "").strip()
+        url = (result.get("url") or "").strip()
         if not title or not url:
             continue
         items.append({
-            "title": title.strip(),
-            "url": url.strip(),
-            "snippet": snippet.strip(),
-            "thumbnail": "",
+            "title": title,
+            "url": url,
+            "snippet": (result.get("text") or "").strip()[:1500],
+            "thumbnail": result.get("image") or "",
+            "published_at": result.get("publishedDate") or "",
         })
     return items
 
 
-def parse_scrape(source: dict[str, Any]) -> list[dict[str, str]]:
+MD_LINK_RE = re.compile(r"\[([^\]]{3,200})\]\((https?://[^)\s]+)\)")
+
+
+def parse_tinyfish(source: dict[str, Any], since: datetime) -> list[dict[str, Any]]:
+    """Stáhne stránku s novinkami přes TinyFish a vrátí produktové odkazy (`product_url_pattern`)."""
+    list_url = source.get("list_url", "")
+    if not list_url:
+        return []
+    pattern = re.compile(source.get("product_url_pattern", "/products?/"))
+    log(f"🐟 TinyFish: {list_url}", verbose_only=True)
+    page = lib.fetch_pages([list_url], max_chars=200000).get(list_url)
+    if not page:
+        return []
+    items: dict[str, dict[str, Any]] = {}
+    for text, url in MD_LINK_RE.findall(page["text"]):
+        url = url.split("#")[0]
+        text = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", text).strip()
+        if not pattern.search(url) or url in items or len(text) < 3:
+            continue
+        items[url] = {"title": text, "url": url, "snippet": "", "thumbnail": ""}
+    return list(items.values())
+
+
+def parse_scrape(source: dict[str, Any], since: datetime) -> list[dict[str, Any]]:
     """Scrapuje HTML stránku pomocí CSS selektorů."""
     if not HAS_REQUESTS:
         log("⚠️  Modul 'requests' není nainstalován. Přeskočeno.")
@@ -301,26 +352,21 @@ def parse_scrape(source: dict[str, Any]) -> list[dict[str, str]]:
     soup = BeautifulSoup(html, "html.parser")
     items = []
     for elem in soup.select(item_sel):
-        # Titulek
         title_node = elem.select_one(title_sel) if title_sel else elem
         title = title_node.get_text(strip=True) if title_node else ""
 
-        # Odkaz
         link = ""
         if link_sel:
             link_node = elem.select_one(link_sel)
             if link_node:
-                raw_link = link_node.get(link_attr, "")
-                link = urljoin(base_url or list_url, raw_link)
+                link = urljoin(base_url or list_url, link_node.get(link_attr, ""))
 
-        # Popis
         snippet = ""
         if desc_sel:
             desc_node = elem.select_one(desc_sel)
             if desc_node:
                 snippet = desc_node.get_text(strip=True)
 
-        # Thumbnail
         thumbnail = ""
         if thumb_sel:
             thumb_node = elem.select_one(thumb_sel)
@@ -332,208 +378,136 @@ def parse_scrape(source: dict[str, Any]) -> list[dict[str, str]]:
                 thumbnail = urljoin(base_url or list_url, thumbnail)
 
         if title and link:
-            items.append({
-                "title": title,
-                "url": link,
-                "snippet": snippet,
-                "thumbnail": thumbnail,
-            })
+            items.append({"title": title, "url": link, "snippet": snippet, "thumbnail": thumbnail})
     return items
 
 
-def generate_draft(item: dict[str, str], source: dict[str, Any], dry_run: bool = False) -> Optional[str]:
-    """Vygeneruje Jekyll draft a vrací cestu k souboru."""
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    slug = slugify(item["title"])[:50]
-    filename = f"{today}-{slug}.md"
-    filepath = os.path.join(DRAFTS_DIR, filename)
+PARSERS = {
+    "rss": parse_rss,
+    "sitemap": parse_sitemap,
+    "shopify": parse_shopify,
+    "exa": parse_exa,
+    "tinyfish": parse_tinyfish,
+    "scrape": parse_scrape,
+}
 
-    detected = detect_category(item["title"], item["url"], item.get("snippet", ""))
-    category = detected if detected else source.get("category", "ostatni")
-    source_name = source.get("name", "Neznámý zdroj")
-    now_iso = datetime.now(timezone.utc).isoformat()
 
-    # Front matter
-    fm = {
-        "layout": "post",
-        "title": f"Novinka: {item['title']}",
-        "categories": category,
-        "source_url": item["url"],
-        "source_name": source_name,
-        "scraped_at": now_iso,
-        "featured": False,
+def title_key(brand: str, title: str) -> str:
+    """Klíč pro sloučení barevných variant: značka + název bez části za „|“."""
+    base = title.split("|")[0]
+    return f"{brand}|" + re.sub(r"\W+", " ", base).strip().lower()
+
+
+def make_candidate(item: dict[str, Any], source: dict[str, Any]) -> dict[str, Any]:
+    data = item.get("data", {})
+    hint = detect_category(item["title"], item["url"], data.get("product_type", ""),
+                           " ".join(data.get("tags", []))) or source.get("category", "")
+    return {
+        "id": item_hash(item["title"], item["url"]),
+        "url": item["url"],
+        "title": item["title"],
+        "brand": source.get("name", ""),
+        "strategy": source.get("strategy", ""),
+        "category_hint": hint,
+        "snippet": item.get("snippet", ""),
+        "thumbnail": item.get("thumbnail", ""),
+        "published_at": item.get("published_at", ""),
+        "detected_at": lib.now_iso(),
+        "data": data,
+        "status": "novy",
     }
-    if item.get("thumbnail"):
-        fm["thumbnail"] = item["thumbnail"]
-
-    # Sestavení obsahu
-    lines = ["---"]
-    lines.append(yaml.dump(fm, allow_unicode=True, sort_keys=False).strip())
-    lines.append("---")
-    lines.append("")
-    lines.append(f"Toto je automaticky vygenerovaný návrh článku z webu **{source_name}**.")
-    lines.append("")
-    lines.append("## Detaily novinky")
-    lines.append("")
-    lines.append(f"**Zdroj:** [{item['title']}]({item['url']})")
-    lines.append(f"**Detekováno:** {now_iso}")
-    lines.append("")
-    if item.get("snippet"):
-        lines.append("## Shrnutí")
-        lines.append("")
-        # Odstranit HTML tagy ze snippetu
-        snippet_clean = re.sub(r'<[^>]+>', '', item["snippet"])
-        lines.append(snippet_clean)
-        lines.append("")
-    lines.append("---")
-    lines.append("")
-    lines.append("*Vygenerováno automaticky. Před publikací zkontrolujte fakta, doplňte parametry (model, objem, vaha, ...) a přepište obsah do finální podoby.*")
-    lines.append("")
-
-    content = "\n".join(lines)
-
-    if dry_run:
-        log(f"[DRY-RUN] Draft by se vytvořil: {filepath}")
-        log(content[:300] + "\n...")
-        return filepath
-
-    os.makedirs(DRAFTS_DIR, exist_ok=True)
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(content)
-    return filepath
 
 
-def process_source(source: dict[str, Any], state: dict[str, Any], dry_run: bool = False) -> list[str]:
-    """Zpracuje jeden zdroj a vrátí seznam cest k novým draftům."""
+def process_source(source: dict[str, Any], state: dict[str, Any], queue: dict[str, Any],
+                   init_only: bool = False) -> int:
+    """Zpracuje jeden zdroj, nové položky přidá do fronty. Vrací počet nových."""
     source_id = slugify(source.get("name", "unknown"))
     strategy = source.get("strategy", "rss")
+    parser = PARSERS.get(strategy)
+    if not parser:
+        log(f"⚠️  Neznámá strategie: {strategy}")
+        return 0
     log(f"\n🔍 Zpracovávám: {source.get('name')} ({strategy})")
 
-    # Načtení položek podle strategie
-    if strategy == "rss":
-        items = parse_rss(source)
-    elif strategy == "sitemap":
-        items = parse_sitemap(source)
-    elif strategy == "exa":
-        items = parse_exa(source)
-    elif strategy == "scrape":
-        items = parse_scrape(source)
+    source_state = state.setdefault("sources", {}).get(source_id, {"items": []})
+    last_check = source_state.get("last_check")
+    if last_check:
+        since = datetime.fromisoformat(last_check) - timedelta(days=2)
     else:
-        log(f"⚠️  Neznámá strategie: {strategy}")
-        return []
+        since = datetime.now(timezone.utc) - timedelta(days=EXA_DEFAULT_LOOKBACK)
 
+    items = parser(source, since)
     log(f"   Nalezeno {len(items)} položek.", verbose_only=True)
 
-    # Načtení historie tohoto zdroje
-    source_state = state.get("sources", {}).get(source_id, {"items": []})
-    known_hashes = {it["hash"] for it in source_state.get("items", [])}
     known_urls = {it["url"] for it in source_state.get("items", [])}
-
-    new_drafts = []
-    new_items_state = []
-
+    queued_urls = {c["url"] for c in queue["items"]}
+    queued_keys = {title_key(c["brand"], c["title"]) for c in queue["items"]}
+    new_state_items = []
+    new_count = 0
     for item in items:
-        h = item_hash(item["title"], item["url"], item.get("snippet", ""))
-        # Novinka = neznámý hash nebo neznámá URL
-        if h in known_hashes or item["url"] in known_urls:
-            new_items_state.append({"url": item["url"], "hash": h, "detected_at": source_state.get("items", [])[0].get("detected_at") if source_state.get("items") else datetime.now(timezone.utc).isoformat()})
+        if item["url"] in known_urls:
             continue
+        new_state_items.append({"url": item["url"], "hash": item_hash(item["title"], item["url"]),
+                                "detected_at": lib.now_iso()})
+        key = title_key(source.get("name", ""), item["title"])
+        if init_only or item["url"] in queued_urls or key in queued_keys:
+            continue
+        log(f"   ✨ Novinka: {item['title'][:70]}")
+        queue["items"].append(make_candidate(item, source))
+        queued_urls.add(item["url"])
+        queued_keys.add(key)
+        new_count += 1
 
-        log(f"   ✨ Novinka: {item['title'][:60]}...")
-        draft_path = generate_draft(item, source, dry_run=dry_run)
-        if draft_path:
-            new_drafts.append(draft_path)
-        new_items_state.append({
-            "url": item["url"],
-            "hash": h,
-            "detected_at": datetime.now(timezone.utc).isoformat(),
-        })
-
-    # Aktualizace stavu - sloučit staré a nové, omezit na posledních 500 položek
-    existing_items = {it["url"]: it for it in source_state.get("items", [])}
-    for it in new_items_state:
-        existing_items[it["url"]] = it
-    final_items = sorted(existing_items.values(), key=lambda x: x.get("detected_at", ""), reverse=True)[:500]
-
-    state.setdefault("sources", {})[source_id] = {
-        "last_check": datetime.now(timezone.utc).isoformat(),
-        "items": final_items,
+    all_items = new_state_items + source_state.get("items", [])
+    state["sources"][source_id] = {
+        "last_check": lib.now_iso(),
+        "items": all_items[:STATE_ITEMS_PER_SOURCE],
     }
-
-    return new_drafts
+    return new_count
 
 
 def main():
     parser = argparse.ArgumentParser(description="Monitor webů výrobců outdoor vybavení")
     parser.add_argument("--dry-run", action="store_true", help="Simulace bez zápisu")
     parser.add_argument("--verbose", action="store_true", help="Podrobný výstup")
-    parser.add_argument("--init-state", action="store_true", help="Pouze inicializuje stav bez generování draftů (vhodné při prvním spuštění)")
+    parser.add_argument("--init-state", action="store_true",
+                        help="Pouze uloží současné položky do stavu, kandidáty negeneruje")
+    parser.add_argument("--only", help="Zpracovat jen zdroj s tímto name")
     args = parser.parse_args()
 
-    global VERBOSE
-    VERBOSE = args.verbose
+    lib.VERBOSE = args.verbose
 
     log("🚀 Spouštím monitoring výrobců...")
     if args.dry_run:
         log("🏷️  DRY-RUN mód: nic se nezapíše.")
-    if args.init_state:
-        log("🗃️  INIT-STATE mód: ukládám stav, ale negeneruji drafty.")
 
     sources = load_sources()
+    if args.only:
+        sources = [s for s in sources if s.get("name") == args.only]
     if not sources:
         log("❌ Nejsou nakonfigurovány žádné zdroje.")
         sys.exit(1)
-
     log(f"📋 Načteno {len(sources)} zdrojů.")
 
-    state = load_state()
-    all_new_drafts = []
+    state = lib.load_json(lib.STATE_PATH, {"version": 1, "last_run": None, "sources": {}})
+    queue = lib.load_json(lib.QUEUE_PATH, {"version": 1, "items": []})
 
+    total_new = 0
     for source in sources:
-        if args.init_state:
-            # Inicializace stavu bez generování draftů
-            source_id = slugify(source.get("name", "unknown"))
-            strategy = source.get("strategy", "rss")
-            log(f"\n🔍 Inicializuji: {source.get('name')} ({strategy})")
-            if strategy == "rss":
-                items = parse_rss(source)
-            elif strategy == "sitemap":
-                items = parse_sitemap(source)
-            elif strategy == "exa":
-                items = parse_exa(source)
-            elif strategy == "scrape":
-                items = parse_scrape(source)
-            else:
-                log(f"⚠️  Neznámá strategie: {strategy}")
-                continue
-            log(f"   Nalezeno {len(items)} položek (uloženo do stavu).")
-            source_state = state.setdefault("sources", {}).get(source_id, {"items": []})
-            existing = {it["url"] for it in source_state.get("items", [])}
-            new_items = []
-            for item in items:
-                h = item_hash(item["title"], item["url"], item.get("snippet", ""))
-                if item["url"] not in existing:
-                    new_items.append({"url": item["url"], "hash": h, "detected_at": datetime.now(timezone.utc).isoformat()})
-            # Sloučit a uložit
-            all_items = source_state.get("items", []) + new_items
-            state["sources"][source_id] = {
-                "last_check": datetime.now(timezone.utc).isoformat(),
-                "items": all_items[:500],
-            }
-        else:
-            drafts = process_source(source, state, dry_run=args.dry_run)
-            all_new_drafts.extend(drafts)
+        total_new += process_source(source, state, queue, init_only=args.init_state)
 
-    state["last_run"] = datetime.now(timezone.utc).isoformat()
-    save_state(state, dry_run=args.dry_run)
+    state["last_run"] = lib.now_iso()
+    queue["items"] = queue["items"][-QUEUE_MAX_ITEMS:]
+
+    if args.dry_run:
+        for c in queue["items"][-total_new:] if total_new else []:
+            log(f"[DRY-RUN] {c['brand']}: {c['title'][:60]} ({c['category_hint'] or '?'}) {c['url']}")
+    else:
+        lib.save_json(lib.STATE_PATH, state)
+        lib.save_json(lib.QUEUE_PATH, queue)
 
     log("\n" + "=" * 50)
-    log(f"🏁 Hotovo. Detekováno {len(all_new_drafts)} novinek.")
-    if all_new_drafts:
-        for d in all_new_drafts:
-            log(f"   📝 {d}")
-    else:
-        log("   Žádné nové položky.")
+    log(f"🏁 Hotovo. Nových kandidátů: {total_new}.")
     log("=" * 50)
 
 

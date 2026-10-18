@@ -1,0 +1,145 @@
+# Sledovaní výrobci outdoorového vybavení (čte scripts/monitor.py).
+#
+# Strategie:
+#   shopify  – veřejný katalog /products.json; „nové“ = published_at v posledních
+#              `max_age_days` dnech (výchozí 45). Zdarma, má hmotnost i cenu.
+#   tinyfish – TinyFish Fetch stáhne stránku s novinkami (`list_url`), nové jsou
+#              produktové odkazy, které ještě nejsou ve stavu. Zdarma do 1000 URL/den.
+#   exa      – Exa.ai vyhledávání na doménách výrobce, jen stránky publikované od
+#              posledního běhu (startPublishedDate). Stojí kredity.
+#   rss / sitemap / scrape – viz scripts/monitor.py.
+#
+# `category` je jen nápověda; rubriku určuje až třídění kandidátů.
+
+# ============================ SHOPIFY ============================
+
+- name: "Black Diamond"
+  category: "batohy"
+  strategy: "shopify"
+  shop_url: "https://www.blackdiamondequipment.com"
+
+- name: "Garmont"
+  category: "boty"
+  strategy: "shopify"
+  shop_url: "https://www.garmont.com"
+
+- name: "Keen"
+  category: "boty"
+  strategy: "shopify"
+  shop_url: "https://www.keenfootwear.com"
+
+- name: "Scarpa"
+  category: "boty"
+  strategy: "shopify"
+  shop_url: "https://www.scarpa.com"
+
+- name: "Sea to Summit"
+  category: "karimatky"
+  strategy: "shopify"
+  shop_url: "https://seatosummit.com"   # varianta s www. neodpovídá
+
+- name: "Therm-a-Rest"
+  category: "karimatky"
+  strategy: "shopify"
+  shop_url: "https://www.thermarest.com"
+
+# ============================== EXA ==============================
+
+- name: "Osprey"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Osprey new backpack"
+  exa_domains: ["osprey.com", "ospreyeurope.com"]
+
+- name: "Gregory"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Gregory new backpack"
+  exa_domains: ["gregorypacks.com"]
+
+- name: "Deuter"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Deuter new backpack"
+  exa_domains: ["deuter.com"]
+
+- name: "Lowe Alpine"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Lowe Alpine new pack"
+  exa_domains: ["lowealpine.com"]
+
+- name: "Bach"
+  category: "batohy"
+  strategy: "exa"
+  exa_query: "Bach new backpack"
+  exa_domains: ["bachpacks.com"]
+
+- name: "Salomon"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Salomon new hiking or trail running shoe"
+  exa_domains: ["salomon.com"]
+
+- name: "La Sportiva"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "La Sportiva new mountain shoe"
+  exa_domains: ["lasportiva.com"]
+
+- name: "Mammut"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Mammut new hiking shoe or backpack"
+  exa_domains: ["mammut.com"]
+
+- name: "Lowa"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Lowa new hiking boot"
+  exa_domains: ["lowa.com"]
+
+- name: "Tecnica"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Tecnica new hiking shoe"
+  exa_domains: ["blizzard-tecnica.com"]
+
+- name: "Dynafit"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Dynafit new trail shoe or backpack"
+  exa_domains: ["dynafit.com"]
+
+- name: "Hoka"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Hoka new hiking or trail shoe"
+  exa_domains: ["hoka.com"]
+
+- name: "Merrell"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Merrell new hiking shoe"
+  exa_domains: ["merrell.com"]
+
+- name: "Inov-8"
+  category: "boty"
+  strategy: "exa"
+  exa_query: "Inov-8 new trail shoe"
+  exa_domains: ["inov-8.com"]
+
+- name: "Klymit"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Klymit new sleeping pad"
+  exa_domains: ["klymit.com"]
+
+- name: "Pajak"
+  category: "karimatky"
+  strategy: "exa"
+  exa_query: "Pajak new product"
+  exa_domains: ["pajaksport.com"]
+
+# Zulu: bez domény vracel cizí produkty (helma Lightspeed Zulu, kolo Prevelo).
+# Před zapnutím doplnit doménu výrobce.
