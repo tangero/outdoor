@@ -69,6 +69,11 @@ Pravidla:
 - Nepiš vymyšlené osobní zážitky („nosil jsem“, „na našem testu“). Zkušenosti testerů
   z podkladů můžeš převyprávět („testeři oceňují…“, „v dlouhodobém testu se ukázalo…“).
 - Nezmiňuj, že text vznikl automaticky nebo z rešerše, a neodkazuj na „podklady“.
+- Nepiš, jak hodnocení vzniklo, a nezmiňuj interní věci webu (tabulku recenzovaných
+  produktů, rubriku, kalibraci hodnocení). Zdůvodnění hodnocení patří jen do pole
+  zduvodneni_hodnoceni, ne do textu.
+- Pohlaví (sex/pohlavi) urči podle toho, jaké verze výrobce nabízí (viz varianty
+  v katalogu a podklady), ne podle jedné konkrétní varianty v URL.
 - Piš česky, přirozeně, věcně a srozumitelně pro turistu, který vybírá vybavení. Bez
   marketingových superlativů, bez anglicismů, kde existuje český výraz. Jednotky metrické
   (g, l, cm, °C).
@@ -96,7 +101,8 @@ SYSTEM_CHECK = """Kontroluješ fakta v recenzi outdoorového vybavení proti pod
 Projdi každé konkrétní tvrzení v recenzi (čísla, materiály, technologie, vlastnosti, ohlasy
 testů, srovnání) a ověř, že má oporu v podkladech nebo v tabulce už recenzovaných produktů.
 Za problém považuj: tvrzení bez opory, číslo odlišné od zdroje, vymyšlenou osobní zkušenost
-autora, zmínku o automatickém vzniku textu. Obecné rady k výběru vybavení problém nejsou.
+autora, zmínku o automatickém vzniku textu, zmínku o tom, jak vzniklo hodnocení, nebo
+o interních věcech webu (tabulka recenzovaných produktů, rubrika) – to vše je „vysoka“. Obecné rady k výběru vybavení problém nejsou.
 Závažnost „vysoka“ = chybné nebo vymyšlené faktum o produktu; „nizka“ = nepřesná formulace.
 """
 
@@ -182,6 +188,13 @@ def mentions_model(text: str, model: str, brand: str) -> bool:
     return sum(1 for t in tokens if t in low) >= max(1, len(tokens) - 1)
 
 
+def variant_titles(queue: dict, c: dict) -> list[str]:
+    """Názvy všech položek fronty se stejným modelem (pánské/dámské verze apod.)."""
+    key = re.sub(r"[^a-z0-9]+", " ", (c.get("model") or "").lower()).strip()
+    return sorted({x["title"] for x in queue["items"]
+                   if key and re.sub(r"[^a-z0-9]+", " ", (x.get("model") or "").lower()).strip() == key})
+
+
 def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
     """Seřazení kandidáti; prvních `count` střídá rubriky, za nimi zbytek jako náhradníci."""
     now = datetime.now(timezone.utc)
@@ -228,7 +241,7 @@ def page_images(markdown: str) -> list[str]:
     return out
 
 
-def research(c: dict) -> tuple[list[dict], list[str]]:
+def research(c: dict, variants: list[str] | None = None) -> tuple[list[dict], list[str]]:
     """Vrátí (podklady [{url, title, text, druh: vyrobce|nezavisly}], obrázky ze stránky výrobce)."""
     model, brand = c["model"], c["brand"]
     maker = domain(c["url"])
@@ -243,6 +256,8 @@ def research(c: dict) -> tuple[list[dict], list[str]]:
         extra.append(f"Hmotnost podle e-shopu výrobce (gramy, varianty): {data['grams']}")
     if data.get("price_range"):
         extra.append(f"Cena v e-shopu výrobce: {data['price_range']}")
+    if variants:
+        extra.append("Varianty produktu v katalogu výrobce: " + "; ".join(variants[:12]))
     if c.get("snippet") and c["snippet"] not in maker_text:
         extra.append("Popis z katalogu výrobce: " + c["snippet"])
     if maker_text or extra:
@@ -431,10 +446,10 @@ def validate(c: dict, draft: dict) -> list[str]:
     return errors
 
 
-def process(c: dict, reviews: list[dict], dry_run: bool) -> str:
+def process(c: dict, reviews: list[dict], dry_run: bool, variants: list[str] | None = None) -> str:
     log(f"\n✍️  {c['model']} ({c['rubrika']}, {c['brand']})")
     c["pokus_at"] = lib.now_iso()
-    sources, page_imgs = research(c)
+    sources, page_imgs = research(c, variants)
     if len([s for s in sources if s["druh"] == "nezavisly"]) < MIN_SOURCES:
         c["status"] = "malo_zdroju"
         return "málo nezávislých zdrojů"
@@ -521,7 +536,7 @@ def main():
             break
         status_before = c.get("status")
         try:
-            msg = process(c, reviews, args.dry_run)
+            msg = process(c, reviews, args.dry_run, variant_titles(queue, c))
         except lib.BudgetExceeded as e:
             log(f"⛔ {e}")
             break
