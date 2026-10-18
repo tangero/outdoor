@@ -69,9 +69,10 @@ Pravidla:
 - Nepiš vymyšlené osobní zážitky („nosil jsem“, „na našem testu“). Zkušenosti testerů
   z podkladů můžeš převyprávět („testeři oceňují…“, „v dlouhodobém testu se ukázalo…“).
 - Nezmiňuj, že text vznikl automaticky nebo z rešerše, a neodkazuj na „podklady“.
-- Nepiš, jak hodnocení vzniklo, a nezmiňuj interní věci webu (tabulku recenzovaných
-  produktů, rubriku, kalibraci hodnocení). Zdůvodnění hodnocení patří jen do pole
-  zduvodneni_hodnoceni, ne do textu.
+- Nezmiňuj interní věci webu: tabulku recenzovaných produktů, rubriku, hodnoticí
+  rubriku ani kalibraci hodnocení. Čtenáři můžeš hodnocení v závěru krátce zdůvodnit
+  vlastnostmi produktu, ale nepiš procenta, váhy kritérií ani srovnání se známkami jiných
+  recenzí.
 - Pohlaví (sex/pohlavi) urči podle toho, jaké verze výrobce nabízí (viz varianty
   v katalogu a podklady), ne podle jedné konkrétní varianty v URL.
 - Piš česky, přirozeně, věcně a srozumitelně pro turistu, který vybírá vybavení. Bez
@@ -101,8 +102,9 @@ SYSTEM_CHECK = """Kontroluješ fakta v recenzi outdoorového vybavení proti pod
 Projdi každé konkrétní tvrzení v recenzi (čísla, materiály, technologie, vlastnosti, ohlasy
 testů, srovnání) a ověř, že má oporu v podkladech nebo v tabulce už recenzovaných produktů.
 Za problém považuj: tvrzení bez opory, číslo odlišné od zdroje, vymyšlenou osobní zkušenost
-autora, zmínku o automatickém vzniku textu, zmínku o tom, jak vzniklo hodnocení, nebo
-o interních věcech webu (tabulka recenzovaných produktů, rubrika) – to vše je „vysoka“. Obecné rady k výběru vybavení problém nejsou.
+autora, zmínku o automatickém vzniku textu nebo o interních věcech webu (tabulka
+recenzovaných produktů, hodnoticí rubrika, váhy kritérií) – to vše je „vysoka“.
+Krátké zdůvodnění hodnocení vlastnostmi produktu („hodnocení snižuje hmotnost“) problém není. Obecné rady k výběru vybavení problém nejsou.
 Závažnost „vysoka“ = chybné nebo vymyšlené faktum o produktu; „nizka“ = nepřesná formulace.
 """
 
@@ -337,8 +339,12 @@ def write_review(c: dict, sources: list[dict], reviews: list[dict]) -> dict:
     return lib.claude_json(lib.MODEL_WRITER, system, user, writer_schema(rubrika), "recenze-psani")
 
 
+PUBLISHED_FIELDS = ("title", "model", "parametry", "pro", "proti", "hodnoceni", "telo")
+
+
 def check_review(draft: dict, sources: list[dict], reviews: list[dict], rubrika: str) -> list[dict]:
-    user = (f"Recenze ke kontrole:\n<recenze>\n{json.dumps(draft, ensure_ascii=False, indent=1)}\n</recenze>\n\n"
+    published = {k: draft[k] for k in PUBLISHED_FIELDS}
+    user = (f"Recenze ke kontrole:\n<recenze>\n{json.dumps(published, ensure_ascii=False, indent=1)}\n</recenze>\n\n"
             f"Už recenzované produkty:\n<recenzovane>\n{peers_table(reviews, rubrika)}\n</recenzovane>\n\n"
             f"Podklady:\n{format_sources(sources)}")
     result = lib.claude_json(lib.MODEL_TRIAGE, SYSTEM_CHECK, user, CHECK_SCHEMA, "recenze-kontrola", effort="high")
