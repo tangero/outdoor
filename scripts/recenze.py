@@ -190,9 +190,8 @@ def mentions_model(text: str, model: str, brand: str) -> bool:
 
 def variant_titles(queue: dict, c: dict) -> list[str]:
     """Názvy všech položek fronty se stejným modelem (pánské/dámské verze apod.)."""
-    key = re.sub(r"[^a-z0-9]+", " ", (c.get("model") or "").lower()).strip()
-    return sorted({x["title"] for x in queue["items"]
-                   if key and re.sub(r"[^a-z0-9]+", " ", (x.get("model") or "").lower()).strip() == key})
+    key = lib.model_key(c.get("model") or "")
+    return sorted({x["title"] for x in queue["items"] if key and lib.model_key(x.get("model") or "") == key})
 
 
 def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
@@ -449,6 +448,11 @@ def validate(c: dict, draft: dict) -> list[str]:
 def process(c: dict, reviews: list[dict], dry_run: bool, variants: list[str] | None = None) -> str:
     log(f"\n✍️  {c['model']} ({c['rubrika']}, {c['brand']})")
     c["pokus_at"] = lib.now_iso()
+    existing = {lib.model_key(str(r["fm"].get("model", ""))): r["path"] for r in reviews}
+    if lib.model_key(c["model"]) in existing:
+        c["status"] = "duplicitni"
+        c["duplicita"] = existing[lib.model_key(c["model"])]
+        return f"už recenzováno ({c['duplicita']})"
     sources, page_imgs = research(c, variants)
     if len([s for s in sources if s["druh"] == "nezavisly"]) < MIN_SOURCES:
         c["status"] = "malo_zdroju"

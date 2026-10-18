@@ -341,3 +341,19 @@ def exa_search(query: str, num_results: int = 6, exclude_domains: Optional[list[
         return []
     return [{"title": r.get("title") or "", "url": r.get("url") or "", "text": r.get("text") or ""}
             for r in resp.json().get("results", []) if r.get("url")]
+
+
+MODEL_SYNONYMS = [
+    (r"\bwaterproof\b", "wp"), (r"\bgore tex\b", "gtx"), (r"\bgoretex\b", "gtx"),
+    (r"\bmid cut\b", "mid"), (r"\bultralight\b", "ul"),
+]
+MODEL_NOISE = {"men", "mens", "women", "womens", "s", "w", "m", "the", "unisex", "shoe", "shoes",
+               "boot", "boots", "backpack", "pack", "pad", "sleeping"}
+
+
+def model_key(model: str) -> str:
+    """Normalizovaný klíč modelu pro hledání duplicit (WP = Waterproof, bez pohlaví a druhu)."""
+    text = re.sub(r"[^a-z0-9]+", " ", (model or "").lower()).strip()
+    for pattern, repl in MODEL_SYNONYMS:
+        text = re.sub(pattern, repl, text)
+    return " ".join(sorted(w for w in text.split() if w not in MODEL_NOISE))

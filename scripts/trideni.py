@@ -39,6 +39,8 @@ Pro každého kandidáta urči:
   mají stejný model. Když produkt nemá jasný název, nech prázdné a relevantni=false.
 - priorita 1–5: 5 = nový nebo významný model, o který budou mít čtenáři zájem,
   1 = okrajový produkt. Městské a lifestyle produkty max. 2.
+- uz_recenzovano: true, pokud jde o stejný produkt jako některý z už recenzovaných modelů
+  (i pod mírně jiným názvem, např. „WP“ × „Waterproof“, jiná velikost téže řady batohu).
 - duvod: krátce česky, proč.
 """
 
@@ -55,9 +57,10 @@ SCHEMA = {
                     "rubrika": {"type": "string", "enum": ["batohy", "boty", "karimatky", "zadna"]},
                     "model": {"type": "string"},
                     "priorita": {"type": "integer"},
+                    "uz_recenzovano": {"type": "boolean"},
                     "duvod": {"type": "string"},
                 },
-                "required": ["id", "relevantni", "rubrika", "model", "priorita", "duvod"],
+                "required": ["id", "relevantni", "rubrika", "model", "priorita", "uz_recenzovano", "duvod"],
                 "additionalProperties": False,
             },
         }
@@ -68,7 +71,7 @@ SCHEMA = {
 
 
 def norm(model: str) -> str:
-    return re.sub(r"[^a-z0-9]+", " ", model.lower()).strip()
+    return lib.model_key(model)
 
 
 def describe(c: dict) -> str:
@@ -100,14 +103,16 @@ def main():
     if not pending:
         return
 
-    existing = {norm(str(r["fm"].get("model", ""))): r["path"] for r in lib.load_reviews() if r["fm"].get("model")}
+    reviews = [r for r in lib.load_reviews() if r["fm"].get("model")]
+    existing = {norm(str(r["fm"]["model"])): r["path"] for r in reviews}
+    reviewed_list = "Už recenzované modely na webu:\n" + "\n".join(sorted({str(r["fm"]["model"]) for r in reviews}))
     claimed = {norm(c["model"]) for c in queue["items"]
                if c.get("model") and c.get("status") in ("vhodny", "napsano")}
     by_id = {c["id"]: c for c in pending}
 
     for i in range(0, len(pending), BATCH_SIZE):
         batch = pending[i:i + BATCH_SIZE]
-        user = "Roztřiď tyto kandidáty:\n\n" + "\n\n".join(describe(c) for c in batch)
+        user = reviewed_list + "\n\nRoztřiď tyto kandidáty:\n\n" + "\n\n".join(describe(c) for c in batch)
         try:
             result = lib.claude_json(lib.MODEL_TRIAGE, SYSTEM, user, SCHEMA, "trideni", effort="low")
         except lib.BudgetExceeded as e:
@@ -123,9 +128,9 @@ def main():
             key = norm(model)
             if not r["relevantni"] or r["rubrika"] == "zadna" or not model:
                 c["status"] = "zamitnuty"
-            elif key in existing:
+            elif key in existing or r["uz_recenzovano"]:
                 c["status"] = "duplicitni"
-                c["duplicita"] = existing[key]
+                c["duplicita"] = existing.get(key, "podle třídění")
             elif key in claimed:
                 c["status"] = "duplicitni"
             else:
