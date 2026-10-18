@@ -183,6 +183,7 @@ def mentions_model(text: str, model: str, brand: str) -> bool:
 
 
 def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
+    """Seřazení kandidáti; prvních `count` střídá rubriky, za nimi zbytek jako náhradníci."""
     now = datetime.now(timezone.utc)
     ready = []
     for c in queue["items"]:
@@ -208,11 +209,7 @@ def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
         if c["rubrika"] not in seen:
             picked.append(c)
             seen.add(c["rubrika"])
-    for c in ready:
-        if len(picked) >= count:
-            break
-        if c not in picked:
-            picked.append(c)
+    picked += [c for c in ready if c not in picked]
     return picked
 
 
@@ -510,10 +507,15 @@ def main():
     queue = lib.load_json(lib.QUEUE_PATH, {"version": 1, "items": []})
     reviews = lib.load_reviews()
     picked = pick_candidates(queue, args.pocet, args.id)
-    log(f"📝 Vybráno {len(picked)} kandidátů, letos týden utraceno {lib.spent_this_week():.2f} USD.")
+    log(f"📝 Připraveno {len(picked)} kandidátů, tento týden utraceno {lib.spent_this_week():.2f} USD.")
 
     results = []
+    written = 0
+    attempts = 0
     for c in picked:
+        if written >= args.pocet or attempts >= args.pocet * 4:
+            break
+        attempts += 1
         if lib.spent_this_week() + EST_COST_PER_REVIEW > lib.WEEKLY_LIMIT_USD:
             log(f"⛔ Další recenze by překročila týdenní limit {lib.WEEKLY_LIMIT_USD} USD.")
             break
@@ -530,6 +532,8 @@ def main():
         if args.dry_run and c.get("status") != "chyba":
             c["status"] = status_before
         log(f"   → {msg}")
+        if msg.startswith("hotovo"):
+            written += 1
         results.append(f"- {c['model']} ({c['rubrika']}): {msg}")
 
     if not args.dry_run:
