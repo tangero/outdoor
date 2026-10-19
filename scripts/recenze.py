@@ -432,11 +432,11 @@ def og_image(page_url: str) -> str:
     if lib.requests is None:
         return ""
     try:
-        html = lib.requests.get(page_url, headers={"User-Agent": lib.USER_AGENT}, timeout=20).text
+        page = lib.requests.get(page_url, headers={"User-Agent": lib.USER_AGENT}, timeout=20).text
     except Exception:
         return ""
-    m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', html, flags=re.I) \
-        or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', html, flags=re.I)
+    m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', page, flags=re.I) \
+        or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', page, flags=re.I)
     return html.unescape(m.group(1)) if m else ""
 
 
