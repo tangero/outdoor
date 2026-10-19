@@ -317,3 +317,9 @@
   variants: []
 
 # ===== Konec automaticky generovaných položek =====
+- name: Scarpa Ribelle Run 2 GTX
+  url: "/boty/scarpa-ribelle-run-2-gtx/"
+  variants:
+  - Scarpa Ribelle Run
+- name: Scarpa Moraine Mid Pro GTX
+  url: "/boty/scarpa-moraine-mid-pro-gtx/"
