@@ -3,6 +3,7 @@
 # Strategie:
 #   shopify  – veřejný katalog /products.json; „nové“ = published_at v posledních
 #              `max_age_days` dnech (výchozí 45). Zdarma, má hmotnost i cenu.
+#              `exclude_title` (regex) vyřadí výprodeje apod. podle názvu.
 #   tinyfish – TinyFish Fetch stáhne stránku s novinkami (`list_url`), nové jsou
 #              produktové odkazy, které ještě nejsou ve stavu. Zdarma do 1000 URL/den.
 #   exa      – Exa.ai vyhledávání na doménách výrobce, jen stránky publikované od
@@ -42,6 +43,33 @@
   category: "karimatky"
   strategy: "shopify"
   shop_url: "https://www.thermarest.com"
+
+- name: "Big Agnes"
+  category: "karimatky"
+  strategy: "shopify"
+  shop_url: "https://bigagnes.com"
+
+- name: "Nemo"
+  category: "karimatky"
+  strategy: "shopify"
+  shop_url: "https://nemoequipment.com"
+
+- name: "Hyperlite Mountain Gear"
+  category: "batohy"
+  strategy: "shopify"
+  shop_url: "https://www.hyperlitemountaingear.com"
+  exclude_title: "seconds"            # výprodej starších kusů, ne novinky
+
+- name: "Zpacks"
+  category: "batohy"
+  strategy: "shopify"
+  shop_url: "https://zpacks.com"
+  exclude_title: "bargain|lightly used|overstock|used -"
+
+- name: "Gossamer Gear"
+  category: "batohy"
+  strategy: "shopify"
+  shop_url: "https://www.gossamergear.com"
 
 # ============================== EXA ==============================
 

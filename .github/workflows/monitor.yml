@@ -33,6 +33,10 @@ on:
         description: 'Počet novinek (režim monitor/test)'
         required: false
         default: '3'
+      rubrika:
+        description: 'Recenze jen z rubrik, např. batohy,karimatky (režim recenze/test)'
+        required: false
+        default: ''
 
 concurrency:
   group: automat
@@ -54,6 +58,7 @@ jobs:
       POCET: ${{ github.event.inputs.pocet || '2' }}
       LIMIT: ${{ github.event.inputs.limit || '200' }}
       NOVINKY: ${{ github.event.inputs.novinky || '3' }}
+      RUBRIKA: ${{ github.event.inputs.rubrika || '' }}
 
     steps:
       - name: Checkout repository
@@ -100,7 +105,7 @@ jobs:
       # ---------------------------- recenze ----------------------------
       - name: Psaní recenzí
         if: env.REZIM == 'recenze'
-        run: python scripts/recenze.py --pocet "$POCET" --verbose
+        run: python scripts/recenze.py --pocet "$POCET" ${RUBRIKA:+--rubrika "$RUBRIKA"} --verbose
 
       - name: Commit recenzí a stavu
         if: env.REZIM == 'recenze'
@@ -118,7 +123,7 @@ jobs:
       # ----------------------------- test ------------------------------
       - name: Recenze nanečisto
         if: env.REZIM == 'test'
-        run: python scripts/recenze.py --pocet "$POCET" ${KANDIDAT:+--id "$KANDIDAT"} --dry-run --verbose
+        run: python scripts/recenze.py --pocet "$POCET" ${KANDIDAT:+--id "$KANDIDAT"} ${RUBRIKA:+--rubrika "$RUBRIKA"} --dry-run --verbose
         env:
           KANDIDAT: ${{ github.event.inputs.id }}
 

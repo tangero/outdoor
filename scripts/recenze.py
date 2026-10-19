@@ -204,8 +204,19 @@ def recent_brands(days: int) -> set[str]:
             for r in lib.load_reviews() if os.path.basename(r["path"])[:10] >= since}
 
 
-def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
-    """Seřazení kandidáti; prvních `count` střídá rubriky, za nimi zbytek jako náhradníci."""
+def newest_by_rubric() -> dict[str, str]:
+    """Datum nejnovějšího článku v každé rubrice (z názvu souboru), prázdná rubrika = ''."""
+    out = {}
+    for r in lib.RUBRIKY:
+        folder = os.path.join(lib.POSTS_DIR, r)
+        names = sorted(n for n in os.listdir(folder) if n.endswith(".md")) if os.path.isdir(folder) else []
+        out[r] = names[-1][:10] if names else ""
+    return out
+
+
+def pick_candidates(queue: dict, count: int, only_id: str | None,
+                    rubriky: list[str] | None = None) -> list[dict]:
+    """Seřazení kandidáti: rubriky se střídají od té, kde je nejnovější článek nejstarší."""
     now = datetime.now(timezone.utc)
     ready = []
     for c in queue["items"]:
@@ -219,22 +230,27 @@ def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
         if c.get("status") == "malo_zdroju" and last and \
                 datetime.fromisoformat(last) > now - timedelta(days=RETRY_AFTER_DAYS):
             continue
-        if c.get("rubrika") not in lib.RUBRIKY:
+        if c.get("rubrika") not in (rubriky or lib.RUBRIKY):
             continue
         ready.append(c)
     # Značky, o kterých se psalo v posledních dnech, dostanou přednost až po ostatních.
     recent = recent_brands(BRAND_PAUSE_DAYS)
     ready.sort(key=lambda c: (lib.brand_of(c.get("model", ""), c.get("brand", "")) not in recent,
                               c.get("priorita", 0), c.get("published_at") or ""), reverse=True)
-    # Střídat rubriky, ať týden není jen o botách.
-    picked, seen = [], set()
-    for c in ready:
-        if len(picked) >= count:
-            break
-        if c["rubrika"] not in seen:
-            picked.append(c)
-            seen.add(c["rubrika"])
-    picked += [c for c in ready if c not in picked]
+    # Střídat rubriky; začíná ta, která má nejstarší poslední článek (ať nezaostává).
+    newest = newest_by_rubric()
+    queues, rounds = {}, {}
+    for c in ready:  # v rámci rubriky střídat značky (stabilně podle pořadí výše)
+        brand = lib.brand_of(c.get("model", ""), c.get("brand", ""))
+        rounds[brand] = rounds.get(brand, 0) + 1
+        queues.setdefault(c["rubrika"], []).append((rounds[brand], c))
+    queues = {r: [c for _, c in sorted(q, key=lambda x: x[0])] for r, q in queues.items()}
+    order = sorted(queues, key=lambda r: newest.get(r, ""))
+    picked = []
+    while any(queues.values()):
+        for r in order:
+            if queues[r]:
+                picked.append(queues[r].pop(0))
     return picked
 
 
@@ -540,6 +556,7 @@ def main():
     parser = argparse.ArgumentParser(description="Automatické recenze")
     parser.add_argument("--pocet", type=int, default=2, help="Kolik recenzí napsat")
     parser.add_argument("--id", help="Napsat recenzi konkrétního kandidáta")
+    parser.add_argument("--rubrika", help="Jen tyto rubriky, oddělené čárkou (např. batohy,karimatky)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Recenze uloží do _automat/nanecisto/, frontu ani products.yml nemění")
     parser.add_argument("--verbose", action="store_true")
@@ -548,7 +565,8 @@ def main():
 
     queue = lib.load_json(lib.QUEUE_PATH, {"version": 1, "items": []})
     reviews = lib.load_reviews()
-    picked = pick_candidates(queue, args.pocet, args.id)
+    rubriky = [r.strip() for r in args.rubrika.split(",")] if args.rubrika else None
+    picked = pick_candidates(queue, args.pocet, args.id, rubriky)
     log(f"📝 Připraveno {len(picked)} kandidátů, tento týden utraceno {lib.spent_this_week():.2f} USD.")
 
     results = []
@@ -558,8 +576,8 @@ def main():
         if written >= args.pocet or attempts >= args.pocet * 4:
             break
         attempts += 1
-        if lib.spent_this_week() + EST_COST_PER_REVIEW > lib.WEEKLY_LIMIT_USD:
-            log(f"⛔ Další recenze by překročila týdenní limit {lib.WEEKLY_LIMIT_USD} USD.")
+        if lib.spent_this_week() + EST_COST_PER_REVIEW > lib.weekly_limit():
+            log(f"⛔ Další recenze by překročila týdenní limit {lib.weekly_limit()} USD.")
             break
         status_before = c.get("status")
         try:

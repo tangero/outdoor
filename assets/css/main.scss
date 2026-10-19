@@ -226,6 +226,14 @@ tr:hover {
 }
 .hp-rubrika__dalsi { display: flex; flex-direction: column; gap: 1.25rem; }
 .hp-rubrika__dalsi .hp-karta + .hp-karta { padding-top: 1.25rem; border-top: 1px solid var(--hp-linka); }
+.hp-rubrika__vice {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 21rem), 1fr));
+    gap: 1.25rem 2rem;
+    margin-top: 1.75rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--hp-linka);
+}
 
 /* Značky */
 .hp-znacky { display: flex; flex-wrap: wrap; gap: .6rem; margin: 0; padding: 0; list-style: none; }

@@ -4,6 +4,9 @@
 - name: "Bach"
   slug: "bach"
   prefixy: ["Bach"]
+- name: "Big Agnes"
+  slug: "big-agnes"
+  prefixy: ["Big Agnes"]
 - name: "Black Diamond"
   slug: "black-diamond"
   prefixy: ["Black Diamond"]
@@ -16,12 +19,18 @@
 - name: "Garmont"
   slug: "garmont"
   prefixy: ["Garmont"]
+- name: "Gossamer Gear"
+  slug: "gossamer-gear"
+  prefixy: ["Gossamer Gear"]
 - name: "Gregory"
   slug: "gregory"
   prefixy: ["Gregory"]
 - name: "Hoka"
   slug: "hoka"
   prefixy: ["Hoka"]
+- name: "Hyperlite Mountain Gear"
+  slug: "hyperlite-mountain-gear"
+  prefixy: ["Hyperlite Mountain Gear", "Hyperlite"]
 - name: "Inov-8"
   slug: "inov-8"
   prefixy: ["Inov-8", "Inov8"]
@@ -46,6 +55,9 @@
 - name: "Merrell"
   slug: "merrell"
   prefixy: ["Merrell"]
+- name: "Nemo"
+  slug: "nemo"
+  prefixy: ["Nemo", "NEMO"]
 - name: "Osprey"
   slug: "osprey"
   prefixy: ["Osprey"]
@@ -67,6 +79,9 @@
 - name: "Therm-a-Rest"
   slug: "therm-a-rest"
   prefixy: ["Therm-a-Rest", "Thermarest"]
+- name: "Zpacks"
+  slug: "zpacks"
+  prefixy: ["Zpacks", "ZPacks"]
 - name: "Zulu"
   slug: "zulu"
   prefixy: ["Zulu"]

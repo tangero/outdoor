@@ -1,0 +1,4 @@
+# Mimořádné týdenní limity automatu (ISO týden: USD). Ostatní týdny platí
+# AUTOMAT_TYDENNI_LIMIT_USD (výchozí 2 USD). Zvýšení schvaluje majitel.
+mimoradne:
+  "2026-W43": 5.0   # doplnění batohů a karimatek, schváleno 19. 10. 2026

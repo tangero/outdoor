@@ -15,7 +15,7 @@ import argparse
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import yaml
 
@@ -28,6 +28,8 @@ NOVINKY_DIR = "_novinky"
 WEEKLY_LIMIT_USD = float(os.environ.get("NOVINKY_TYDENNI_LIMIT_USD", "0.5"))
 EST_COST = 0.03
 PAGE_CHARS = 10000
+MAX_AGE_DAYS = 60   # starší produkt už není novinka
+MAX_ATTEMPTS = 3    # dočasné chyby (API, síť) se zkoušejí znovu v dalších bězích
 
 SYSTEM = """Píšeš krátké novinky pro český web o outdoorovém vybavení (batohy, boty, karimatky).
 Novinka představuje nový produkt výrobce čtenářům, kteří ho ještě neznají.
@@ -80,22 +82,32 @@ def existing_news() -> set[str]:
     return keys
 
 
+def fresh(c: dict) -> bool:
+    try:
+        published = datetime.fromisoformat(c["published_at"].replace("Z", "+00:00"))
+    except (KeyError, AttributeError, ValueError):
+        return False  # bez data nevíme, jestli jde o novinku
+    return datetime.now(timezone.utc) - published <= timedelta(days=MAX_AGE_DAYS)
+
+
 def pick(queue: dict) -> list[dict]:
     reviewed = {lib.model_key(str(r["fm"].get("model", ""))) for r in lib.load_reviews()}
     done = existing_news()
     ready = [c for c in queue["items"]
              if c.get("status") == "vhodny" and c.get("strategy") != "drafts-import"
-             and not c.get("novinka") and c.get("rubrika") in lib.RUBRIKY
+             and not c.get("novinka") and c.get("novinka_pokusy", 0) < MAX_ATTEMPTS
+             and fresh(c) and c.get("rubrika") in lib.RUBRIKY
              and lib.model_key(c.get("model", "")) not in reviewed | done]
     ready.sort(key=lambda c: (c.get("published_at") or "", c.get("priorita", 0)), reverse=True)
-    # Střídat značky i rubriky: nejdřív každá značka jednou, pak další kola.
-    out, rounds = [], {}
+    # Střídat rubriky i značky: v každém kole jedna novinka z rubriky, značky se neopakují.
+    out, by_rubric, by_brand = [], {}, {}
     for c in ready:
         brand = lib.brand_of(c.get("model", ""), c.get("brand", ""))
-        rounds[brand] = rounds.get(brand, 0) + 1
-        out.append((rounds[brand], c))
-    out.sort(key=lambda x: x[0])
-    return [c for _, c in out]
+        by_rubric[c["rubrika"]] = by_rubric.get(c["rubrika"], 0) + 1
+        by_brand[brand] = by_brand.get(brand, 0) + 1
+        out.append((max(by_rubric[c["rubrika"]], by_brand[brand]), by_rubric[c["rubrika"]], c))
+    out.sort(key=lambda x: x[:2])
+    return [c for *_, c in out]
 
 
 def describe(c: dict) -> str:
@@ -202,17 +214,17 @@ def main():
         if spent_on_news() + EST_COST > WEEKLY_LIMIT_USD:
             log(f"⛔ Týdenní limit na novinky {WEEKLY_LIMIT_USD} USD.")
             break
-        before = c.get("novinka")
+        before = c.get("novinka"), c.get("novinka_pokusy")
         try:
             msg = process(c, args.dry_run)
         except lib.BudgetExceeded as e:
             log(f"⛔ {e}")
             break
         except Exception as e:
-            c["novinka"] = "chyba"
-            msg = f"chyba: {e}"
+            c["novinka_pokusy"] = c.get("novinka_pokusy", 0) + 1
+            msg = f"chyba (pokus {c['novinka_pokusy']}/{MAX_ATTEMPTS}): {e}"
         if args.dry_run:
-            c["novinka"] = before
+            c["novinka"], c["novinka_pokusy"] = before
         log(f"   → {msg}")
         written += msg.startswith("hotovo")
         results.append(f"- {c['model']}: {msg}")

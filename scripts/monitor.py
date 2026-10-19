@@ -202,6 +202,7 @@ def parse_shopify(source: dict[str, Any], since: datetime) -> list[dict[str, Any
         return []
     # Okno podle published_at nezávisí na posledním běhu; duplicity odfiltruje stav.
     max_age = int(source.get("max_age_days", SHOPIFY_DEFAULT_MAX_AGE))
+    exclude = re.compile(source["exclude_title"], re.I) if source.get("exclude_title") else None
     cutoff = datetime.now(timezone.utc) - timedelta(days=max_age)
     log(f"🛍️  Shopify: {base} (od {cutoff.date()})", verbose_only=True)
 
@@ -221,6 +222,8 @@ def parse_shopify(source: dict[str, Any], since: datetime) -> list[dict[str, Any
             handle = p.get("handle")
             published = p.get("published_at") or p.get("created_at") or ""
             if not handle or not published or handle in items:
+                continue
+            if exclude and exclude.search(p.get("title") or ""):
                 continue
             try:
                 published_dt = datetime.fromisoformat(published)

@@ -45,12 +45,17 @@ title: Recenze a novinky outdoorového vybavení
 </section>
 {% endif %}
 
-<!-- Rubriky
+<!-- Rubriky: všechny letošní články, aspoň čtyři
 ================================================== -->
+{% assign letosni_rok = site.time | date: "%Y" %}
 {% for rubrika in site.data.rubriky %}
 {% assign vse = site.posts | where_exp: "p", "p.categories contains rubrika.name" %}
 {% assign clanky = vse | where_exp: "p", "p.url != hlavni.url" %}
 {% if clanky.size > 0 %}
+{% assign zobrazit = 0 %}
+{% for p in clanky %}{% assign rok_clanku = p.date | date: "%Y" %}{% if rok_clanku == letosni_rok %}{% assign zobrazit = zobrazit | plus: 1 %}{% endif %}{% endfor %}
+{% if zobrazit < 4 %}{% assign zobrazit = 4 %}{% endif %}
+{% assign navic = zobrazit | minus: 4 %}
 <section class="hp-sekce" aria-labelledby="hp-{{ rubrika.name }}">
     <header class="hp-sekce__hlava">
         <h2 id="hp-{{ rubrika.name }}">
@@ -74,6 +79,13 @@ title: Recenze a novinky outdoorového vybavení
             {% endfor %}
         </div>
     </div>
+    {% if navic > 0 %}
+    <div class="hp-rubrika__vice">
+        {% for p in clanky offset: 4 limit: navic %}
+        {% include hp-karta.html p=p velikost="mala" %}
+        {% endfor %}
+    </div>
+    {% endif %}
 </section>
 {% endif %}
 {% endfor %}

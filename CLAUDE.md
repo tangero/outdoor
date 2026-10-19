@@ -20,7 +20,8 @@ python scripts/trideni.py --verbose     # třídění kandidátů (Haiku), potř
 python scripts/recenze.py --pocet 1 --dry-run --verbose       # recenze do _automat/nanecisto/
 python scripts/novinky.py --pocet 3 --dry-run --verbose       # novinky do _automat/nanecisto/
 gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý automat v Actions nanečisto
-                                        # (pocet=0 jen novinky; -f limit=N kolik třídit, -f novinky=N)
+                                        # (pocet=0 jen novinky; -f limit=N kolik třídit, -f novinky=N,
+                                        #  -f rubrika=batohy,karimatky jen vybrané rubriky; i pro rezim=recenze)
 ```
 
 - Klíče (`ANTHROPIC_API_KEY`, `EXA_API_KEY`, `TINYFISH_API_KEY`) jsou jen v GitHub
@@ -40,7 +41,7 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   Krátké **novinky** výrobců jsou samostatná kolekce `_novinky/` (`/novinky/<slug>/`,
   layout `novinka`) — nejsou v `site.posts`, přehledech, stránkování ani RSS.
 - **Titulka (`index.html`, jen na `/`):** nejnovější recenze, pruh novinek, blok pro každou
-  rubriku s články, ručně vybrané (`featured: true`), pruh značek; pod tím stránkovaný
+  rubriku s články (všechny letošní, aspoň 4; nad čtyři v řadě `hp-rubrika__vice`), ručně vybrané (`featured: true`), pruh značek; pod tím stránkovaný
   výpis všech článků. Styly `hp-*` na konci `assets/css/main.scss`, karta `_includes/hp-karta.html`,
   české datum `_includes/datum.html`, pruh rubrik `_includes/rubriky-pruh.html` (prázdné rubriky skrývá).
 - **Značky:** `_data/znacky.yml` (název, slug, prefixy modelu); pole `znacka` ve front matter
@@ -62,7 +63,8 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   2. `trideni.py` (Haiku) určí rubriku, jednotný `model` a prioritu; stavy
      `novy → vhodny | zamitnuty | duplicitni` (duplicita proti `_posts` i frontě).
   3. `recenze.py` (út a pá 6:00 UTC, 2 kusy) vezme `vhodny` podle priority a střídá
-     rubriky: rešerše (stránka výrobce + nezávislé testy přes TinyFish Search/Fetch,
+     rubriky (první je ta s nejstarším posledním článkem, v rubrice se střídají značky;
+     `--rubrika` omezí výběr): rešerše (stránka výrobce + nezávislé testy přes TinyFish Search/Fetch,
      záložně Exa) → text (Sonnet, strukturovaný výstup) → kontrola faktů (Haiku, až
      2 kola oprav) → `_posts/<rubrika>/` + záznam do `_data/products.yml`. Workflow
      commitne články i stav fronty rovnou do `master` (majitel je prochází a opravuje
@@ -73,7 +75,8 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
      přijít později), zapíše jen `novinka`.
   - Společné funkce (stahování stránek TinyFish → Exa → requests, volání Claude,
     náklady) v `scripts/automat_lib.py`. Náklady po ISO týdnech v `_automat/naklady.json`,
-    strop `AUTOMAT_TYDENNI_LIMIT_USD` (výchozí 2 USD).
+    strop `AUTOMAT_TYDENNI_LIMIT_USD` (výchozí 2 USD); mimořádný limit pro konkrétní
+    týden (jen se souhlasem majitele) v `_automat/rozpocet.yml`.
 
 ## Konvence
 
@@ -90,7 +93,7 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
 - **Ruční recenze → aktualizuj linker:** `ruby scripts/generate_products.rb` a nové
   položky přenes do `_data/products.yml` (plugin čte jen ten). Automat zapisuje sám.
 - **Nový sledovaný výrobce:** záznam do `_automat/zdroje.yml`. Nejdřív zkus, jestli
-  má `/products.json` (Shopify, zdarma); jinak `exa` s doménou výrobce, nebo `tinyfish`
+  má `/products.json` (Shopify, zdarma; výprodeje a „seconds“ vyřaď přes `exclude_title`); jinak `exa` s doménou výrobce, nebo `tinyfish`
   se stránkou novinek a `product_url_pattern`. Ověř `--dry-run --only <name>`.
 - **Commity:** krátce česky; automatické commity bota mají prefix `Auto:`, PR s
   recenzemi jsou z větví `recenze/<datum>`.

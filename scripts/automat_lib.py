@@ -199,6 +199,7 @@ def tinyfish_search(query: str, after_date: Optional[str] = None) -> list[dict[s
 
 COSTS_PATH = os.path.join(AUTOMAT_DIR, "naklady.json")
 WEEKLY_LIMIT_USD = float(os.environ.get("AUTOMAT_TYDENNI_LIMIT_USD", "2.0"))
+BUDGET_PATH = os.path.join(AUTOMAT_DIR, "rozpocet.yml")
 
 MODEL_TRIAGE = "claude-haiku-5-5"
 MODEL_WRITER = "claude-sonnet-5-5"
@@ -214,6 +215,18 @@ PRICES = {
 def iso_week(dt: Optional[datetime] = None) -> str:
     y, w, _ = (dt or datetime.now(timezone.utc)).isocalendar()
     return f"{y}-W{w:02d}"
+
+
+def weekly_limit() -> float:
+    """Limit pro tento týden: mimořádný z _automat/rozpocet.yml, jinak WEEKLY_LIMIT_USD."""
+    import yaml
+
+    try:
+        with open(BUDGET_PATH, encoding="utf-8") as f:
+            extra = (yaml.safe_load(f) or {}).get("mimoradne") or {}
+    except FileNotFoundError:
+        extra = {}
+    return float(extra.get(iso_week(), WEEKLY_LIMIT_USD))
 
 
 def spent_this_week() -> float:
@@ -252,8 +265,8 @@ def claude_json(model: str, system: str, user: str, schema: dict[str, Any], labe
     global _client
     import anthropic
 
-    if spent_this_week() >= WEEKLY_LIMIT_USD:
-        raise BudgetExceeded(f"Týdenní limit {WEEKLY_LIMIT_USD} USD vyčerpán ({spent_this_week():.2f} USD).")
+    if spent_this_week() >= weekly_limit():
+        raise BudgetExceeded(f"Týdenní limit {weekly_limit()} USD vyčerpán ({spent_this_week():.2f} USD).")
     if _client is None:
         _client = anthropic.Anthropic()
 
