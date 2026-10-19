@@ -73,3 +73,6 @@ Merrell Thermo Rogue jsou ideální volbou pro:
 Merrell Thermo Rogue jsou vynikající zimní boty, které splní očekávání i těch nejnáročnějších uživatelů. Nabízejí špičkový tepelný komfort, vynikající trakci na ledu a zmrzlém sněhu a robustní konstrukci, která zvládne i náročný terén.  Jsou investicí do kvality, pohodlí a bezpečnosti, která se vám v zimních měsících mnohonásobně vrátí.
 
 I když mají Thermo Rogue své nevýhody, jako je vyšší hmotnost a tužší podešev, jejich přednosti je výrazně převažují.  Jsou to boty, které vás nezklamou ani v těch nejextrémnějších podmínkách a stanou se vaším spolehlivým parťákem na zimních dobrodružstvích.
+
+**Hodnocení:** 9/10  
+Body strhávám za vyšší hmotnost, tužší podešev a menší prodyšnost. Přidávám za tepelný komfort, trakci a robustní konstrukci.

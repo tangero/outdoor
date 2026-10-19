@@ -467,6 +467,12 @@ def build_post(c: dict, draft: dict, image: str) -> tuple[str, str, str]:
     paragraphs = body.split("\n\n", 1)
     image_md = f"![{model}]({lib.cld(image, IMG_IN_TEXT)})"
     body = paragraphs[0] + "\n\n" + image_md + ("\n\n" + paragraphs[1] if len(paragraphs) > 1 else "")
+    # Řádek se známkou a odůvodněním čte rozhodovací karta článku (_plugins/srovnani.rb);
+    # model ho do textu někdy nenapíše, proto ho doplníme z pole zduvodneni_hodnoceni.
+    zduvodneni = draft.get("zduvodneni_hodnoceni", "").strip()
+    if zduvodneni and "**Hodnocení:**" not in body:
+        znamka = str(fm["hodnoceni"]).replace(".", ",")
+        body += f"\n\n**Hodnocení:** {znamka}/10  \n{zduvodneni}"
 
     content = "---\n" + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000) + "---\n\n" + body + "\n"
     return path, content, f"/{rubrika}/{slug}/"

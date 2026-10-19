@@ -83,4 +83,7 @@ Pokud preferujete flexibilní a měkčí botu, nebo hledáte opravdu lehkou botu
 
 ### Závěrečné zhodnocení
 
-Scarpa Moraine Mid Pro GTX je solidně provedená kožená polovysoká bota, která zvládne víc, než naznačuje označení pro začátečníky. Nabízí dobrou trakci, spolehlivou voděodolnost, stabilní podešev a dobré zpracování. Slabinou je vyšší tuhost a nižší flexibilita a také to, že nijak výrazně nevyčnívá. Přesto jde o dobrou volbu pro všestranné turisty za rozumnou cenu, s bonusem v podobě vestavěného reflektoru RECCO. Hodnocení 7,5 odráží spolehlivého univerzála, který dobře plní svůj účel, ale nepřináší nic výjimečného.
+Scarpa Moraine Mid Pro GTX je solidně provedená kožená polovysoká bota, která zvládne víc, než naznačuje označení pro začátečníky. Nabízí dobrou trakci, spolehlivou voděodolnost, stabilní podešev a dobré zpracování. Slabinou je vyšší tuhost a nižší flexibilita a také to, že nijak výrazně nevyčnívá. Přesto jde o dobrou volbu pro všestranné turisty za rozumnou cenu, s bonusem v podobě vestavěného reflektoru RECCO.
+
+**Hodnocení:** 7,5/10  
+Je to spolehlivý univerzál, který dobře plní svůj účel, ale nepřináší nic výjimečného.

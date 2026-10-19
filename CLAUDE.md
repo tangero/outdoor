@@ -49,7 +49,7 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   boční žebříček kategorie, blok „Naše akce“ a tři alternativy. Data karty počítá plugin
   `_plugins/srovnani.rb` do `page.srovnani`: kategorie (batohy podle objemu, karimatky podle `typ`,
   boty podle `tvar`), pořadí podle hmotnosti (u bot podle hodnocení, váhy bot nejsou jednotné),
-  zdůvodnění známky z řádku pod `**Hodnocení:**`. Pod textem hodnocení reakcemi (`mg-comments`
+  zdůvodnění známky z řádku `**Hodnocení:** X/10` (automat ho doplní z `zduvodneni_hodnoceni`). Pod textem hodnocení reakcemi (`mg-comments`
   z vibecoding.cz, vypnutí `rating: false`, slug je `vybavenidoprirody-<cesta>` a nesmí se měnit,
   ruční přepis `rating_slug`) a rozbalovací seznam `zdroje`. „Naše akce“ plní `assets/js/promo.js`
   z `vibecoding.cz/api/active-promotion` (správa v admin/promo); bez odpovědi zůstane skrytý.

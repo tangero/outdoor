@@ -2,6 +2,11 @@
 layout: post
 title: "Zkušenosti s batohem Gregory Paragon 58"
 categories: "batohy"
+model: "Gregory Paragon 58"
+znacka: "Gregory"
+vaha: 1600
+pro: "Pohodlné polstrování a nastavitelná záda, boční zip do hlavního prostoru, velká přední kapsa, pláštěnka a odnímatelný batůžek v balení, nosnost do 18–20 kg."
+proti: "Hmotnost kolem 1,6 kg, ventilace zad v horku nestačí, síťované kapsy se časem opotřebují."
 objem: 58
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "/assets/posts/gregory-paragon-58.jpg"

@@ -2,6 +2,12 @@
 layout: post
 title: "Zkušenosti s batohem Osprey Talon 22"
 categories: "batohy"
+model: "Osprey Talon 22"
+znacka: "Osprey"
+vaha: 820
+material: "Nylon"
+pro: "Pohodlný a lehký, dobře větraný zádový systém, nastavitelná délka zad, kapsy na bederním pásu, odolná konstrukce."
+proti: "22 litrů může být málo, mělké boční kapsy na láhve, hodně popruhů a organizérů, úzký tvar."
 objem: 22
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "/assets/posts/osprey-talon-22l.webp"

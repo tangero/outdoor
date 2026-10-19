@@ -73,6 +73,7 @@ Proti recenzovaným lehkým batohům je Trailblazer 10 výrazně lehčí, ale ta
 - Pokud vám záleží na organizaci a vnějších kapsách, tento batoh nabízí jen základ.
 
 ### Závěrečné zhodnocení
-Salomon Trailblazer 10 je levný, velmi lehký a skladný batůžek pro nenáročné použití. Svou úlohu zvládá dobře, pokud od něj nečekáte komfort a stabilitu vesty nebo plnohodnotného denního batohu. Ohlasy uživatelů jsou smíšené: někteří ho chválí i na dlouhých běhech, jiní kritizují poskakování a slabší popruhy. Hodnocení snižuje malý objem, jednoduchá organizace a tyto výhrady k nošení, naopak zvyšuje nízká hmotnost, skladnost a příznivá cena.
+Salomon Trailblazer 10 je levný, velmi lehký a skladný batůžek pro nenáročné použití. Svou úlohu zvládá dobře, pokud od něj nečekáte komfort a stabilitu vesty nebo plnohodnotného denního batohu. Ohlasy uživatelů jsou smíšené: někteří ho chválí i na dlouhých běhech, jiní kritizují poskakování a slabší popruhy.
 
-**Hodnocení:** 7/10
+**Hodnocení:** 7/10  
+Body strhávám za malý objem, jednoduchou organizaci a výhrady k nošení při běhu. Přidávám za nízkou hmotnost, skladnost a příznivou cenu.

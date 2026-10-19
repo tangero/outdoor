@@ -79,3 +79,6 @@ Pokud máte široké chodidlo nebo citlivou klenbu, měli byste boty pečlivě v
 ### Závěrečné zhodnocení
 
 Scarpa Ribelle Run 2 GTX je velmi dobrá bota pro technický horský terén. Silnými stránkami jsou trakce, stabilita a ochrana nohy, doplněné nepromokavou a prodyšnou membránou. Slabší stránkou je užší střih a tužší konstrukce, která nemusí vyhovovat každému, a také vyšší cena. Pokud vám střih sedí, jde o spolehlivý nástroj pro krátké a střední výběhy v horách.
+
+**Hodnocení:** 8/10  
+Body strhávám za užší střih, tužší konstrukci a vyšší cenu. Přidávám za trakci, stabilitu a ochranu nohy.

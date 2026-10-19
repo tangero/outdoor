@@ -87,6 +87,20 @@ module Jekyll
       casti.compact.map(&:to_s).reject(&:empty?).join(" · ")
     end
 
+    # Odůvodnění známky z konce recenze. Tvary v textech:
+    #   **Hodnocení:** 8/10 (Body strhávám …)      **Hodnocení:** 8/10. Body strhávám …
+    #   **Hodnocení:** 8/10  ⏎ Body strhávám …      **Celkové hodnocení:** / **9. Hodnocení:**
+    def zduvodneni_znamky(text)
+      m = text.match(/\*\*(?:\d+\.\s*)?(?:Celkové\s+)?[Hh]odnocení:?\*\*:?[ \t]*[\d.,]+\s*\/\s*10[ \t]*(.*)$/)
+      return nil unless m
+      veta = m[1].sub(/\A[.:–-]\s*/, "").strip
+      veta = text[m.end(0)..][/\A\s*\n+[ \t]*([^\n#|*][^\n]+)/, 1].to_s.strip if veta.empty?
+      veta = veta.sub(/\A\((.*)\)\.?\z/m, '\\1').sub(/\)\.?\z/, "").strip
+      veta = veta.sub(/\A\(/, "")
+      veta = "#{veta}." unless veta.empty? || veta.end_with?(".", "!", "?")
+      veta.empty? ? nil : veta
+    end
+
     def karta(p, rub, duvod)
       { "model" => p.data["model"], "url" => p.url, "thumbnail" => p.data["thumbnail"].to_s,
         "popis" => popis(p, rub), "duvod" => duvod }
@@ -98,9 +112,8 @@ module Jekyll
       hodn = ->(q) { cislo(q.data["hodnoceni"]) || 0 }
       vaha = ->(q) { cislo(q.data["vaha"]) }
       vysledek = { "segment" => seg, "prehled" => PREHLEDY[rub], "pocet" => ostatni.size + 1 }
-      # Věta pod „**Hodnocení:** 8/10“ na konci recenze vysvětluje známku
-      zduvodneni = p.content[/\*\*Hodnocení:\*\*[^\n]*\n+[ \t]*([^\n#|*][^\n]+)/, 1]
-      vysledek["zduvodneni"] = zduvodneni.strip if zduvodneni
+      zduvodneni = zduvodneni_znamky(p.content)
+      vysledek["zduvodneni"] = zduvodneni if zduvodneni
 
       if PODLE_HMOTNOSTI.include?(rub) && vaha.(p)
         poradi = ([p] + ostatni).select { |q| vaha.(q) }.sort_by { |q| [vaha.(q), q.data["model"]] }
@@ -114,7 +127,9 @@ module Jekyll
           if n < 3 then nil
           elsif i.zero? then "Nejlehčí #{kolik}."
           elsif i == n - 1 then "Nejtěžší #{kolik}."
-          else "#{i + 1}. nejlehčí #{kolik}."
+          elsif i < n / 3.0 then "#{i + 1}. nejlehčí #{kolik}."
+          elsif i >= n * 2 / 3.0 then "#{n - i}. nejtěžší #{kolik}."
+          else "Hmotností uprostřed: #{i + 1}. místo #{kolik}."
           end
       else
         poradi = ([p] + ostatni).sort_by { |q| [-hodn.(q), q.data["model"].to_s] }

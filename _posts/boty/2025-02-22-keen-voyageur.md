@@ -76,4 +76,4 @@ Voyageury nejsou ideální volbou pro:
 
 Keen Voyageur jsou skvělou volbou pro široké spektrum outdoorových aktivit, od jednodenních výletů po lehčí treky. Jejich hlavními přednostmi jsou pohodlí, prodyšnost a ochrana prstů. I když nejsou plně vodotěsné a neposkytují maximální oporu kotníku, jejich univerzálnost a pohodlí je činí oblíbenou volbou pro mnoho turistů. Pokud hledáte spolehlivou a pohodlnou obuv pro lehčí až středně náročné aktivity, Keen Voyageur rozhodně stojí za zvážení. Jsou to solidní, dobře odvětrané turistické boty, které poslouží dobře na většině výletů.
 
-**Hodnocení:** 8/10 (Body strhávám především za omezenou voděodolnost a delší dobu schnutí kůže, přídávám naopak za prodyšnost, pohodlí a ochranu prstů).
+**Hodnocení:** 8/10 (Body strhávám především za omezenou voděodolnost a delší dobu schnutí kůže, přidávám naopak za prodyšnost, pohodlí a ochranu prstů).

@@ -70,4 +70,4 @@ La Sportiva Boulder X Mid jsou vynikající boty pro náročný terén, které k
 
 **9. Hodnocení:** 8/10
 
-Body strhávám za užší střih, který nemusí sedět každému, a za vyšší tuhost, která může být limitující při chůzi po rovném terénu. Nadruhou stranu je robustnost dána požadavkům na odolnost a celkové určení boty.
+Body strhávám za užší střih, který nemusí sedět každému, a za vyšší tuhost, která může být limitující při chůzi po rovném terénu. Na druhou stranu je robustnost dána požadavkům na odolnost a celkové určení boty.
