@@ -224,10 +224,10 @@ def pick_candidates(queue: dict, count: int, only_id: str | None,
             if c["id"] == only_id:
                 return [c]
             continue
-        if c.get("status") not in ("vhodny", "malo_zdroju"):
+        if c.get("status") not in ("vhodny", "malo_zdroju", "chybi_obrazek"):
             continue
-        last = c.get("pokus_at")
-        if c.get("status") == "malo_zdroju" and last and \
+        last = c.get("pokus_at")  # neúspěšné pokusy (zdroje, obrázek) zkusit znovu až po čase
+        if c.get("status") != "vhodny" and last and \
                 datetime.fromisoformat(last) > now - timedelta(days=RETRY_AFTER_DAYS):
             continue
         if c.get("rubrika") not in (rubriky or lib.RUBRIKY):
@@ -394,8 +394,8 @@ def find_image(c: dict, page_imgs: list[str]) -> str:
     """První obrázek, který projde přes Cloudinary (náhled z monitoru → og:image → stránka → Exa)."""
     log(f"   Obrázky ze stránky výrobce: {len(page_imgs)}", verbose_only=True)
     tried = set()
-    for get in (lambda: [c.get("thumbnail") or ""], lambda: [og_image(c["url"])],
-                lambda: page_imgs[:3], lambda: [lib.exa_image(c["url"])]):
+    for get in (lambda: [c.get("thumbnail") or ""], lambda: shopify_images(c["url"]),
+                lambda: [og_image(c["url"])], lambda: page_imgs[:3], lambda: [lib.exa_image(c["url"])]):
         for url in get():
             url = "https:" + url if url.startswith("//") else url
             if url and url not in tried:
@@ -403,6 +403,21 @@ def find_image(c: dict, page_imgs: list[str]) -> str:
                 if lib.image_ok(url):
                     return url
     return ""
+
+
+def shopify_images(page_url: str) -> list[str]:
+    """Obrázky produktu ze Shopify (`/products/<handle>.json`) — jsou na cdn.shopify.com,
+    kterou Cloudinary propouští, na rozdíl od domén jednotlivých výrobců."""
+    m = re.match(r"(https?://[^/]+)/(?:[a-z]{2}(?:-[a-z]{2})?/)?products/([^/?#]+)", page_url)
+    if not m or lib.requests is None:
+        return []
+    try:
+        resp = lib.requests.get(f"{m.group(1)}/products/{m.group(2)}.json",
+                                headers={"User-Agent": lib.USER_AGENT}, timeout=20)
+        images = resp.json()["product"].get("images") or []
+    except Exception:
+        return []
+    return [i["src"] for i in images[:3] if i.get("src")]
 
 
 def og_image(page_url: str) -> str:
