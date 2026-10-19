@@ -3,6 +3,7 @@ layout: post
 title: "Therm-a-Rest BaseCamp: Karimatka pro pohodlí a teplo v základním táboře"
 categories: "karimatky"
 model: "Therm-a-Rest BaseCamp"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://ik.imagekit.io/raymears/abs/https://www.raymears.com/_rm_pictures_/Therm-a-rest-Large1.jpg"
 vaha: 1300

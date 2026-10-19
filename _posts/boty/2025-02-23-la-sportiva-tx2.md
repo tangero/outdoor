@@ -3,6 +3,7 @@ layout: post
 title: La Sportiva TX2 - Lehká a hbitá nástupovka
 categories: boty
 model: La Sportiva TX2
+znacka: "La Sportiva"
 feature-img: 
 thumbnail: https://outdoortest.it/wp-content/uploads/2022/09/La-Sportiva_TX2-EVO_action-4-1-scaled.jpg
 vaha: 280

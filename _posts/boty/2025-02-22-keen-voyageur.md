@@ -3,6 +3,7 @@ layout: post
 title: "Keen Voyageur - Univerzální a pohodlná turistická obuv"
 categories: "boty"
 model: "Keen Voyageur"
+znacka: "Keen"
 feature-img: ""
 thumbnail: "https://images.rogansshoes.com/t_1000/KE_1027369_BAB1.JPG"
 vaha: 850

@@ -3,6 +3,7 @@ layout: post
 title: Dynafit Ultra 100 - Královna ultra trailových distancí
 categories: boty
 model: Dynafit Ultra 100
+znacka: "Dynafit"
 feature-img: 
 thumbnail: https://www.trailrunningreview.com/Dynafit-Ultra-100_1920_8_2726.jpg
 vaha: 330

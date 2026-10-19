@@ -3,6 +3,7 @@ layout: post
 title: Lowa Innox Pro GTX Lo - Lehký atlet na trailu
 categories: boty
 model: Lowa Innox Pro GTX Lo
+znacka: "Lowa"
 feature-img: 
 thumbnail: https://www.trekkingreview.com/Lowa-Innox-Pro-GTX-Lo_1920_5_200048.jpg
 vaha: 790

@@ -3,6 +3,7 @@ layout: post
 title: Tecnica Plasma S - Pohodlí a přizpůsobení na míru pro náročné turisty
 categories: boty
 model: Tecnica Plasma S
+znacka: "Tecnica"
 feature-img: 
 thumbnail: https://media.s-bol.com/r9DQJqvrpXYw/1200x726.jpg
 vaha: 445

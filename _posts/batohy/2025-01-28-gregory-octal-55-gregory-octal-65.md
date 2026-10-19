@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://attrezzaturatrekking.it/wp-content/uploads/2020/03/GREGORY_Octal_55_9-814x1024.png
 model: "Gregory Octal 55"
+znacka: "Gregory"
 vaha: 1220
 objem: 55
 material: "Ripstop nylon, DWR úprava"

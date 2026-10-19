@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bobssportschalet.com/prodimages/34615-RUSKA_PURPLE-l.jpg
 model: Osprey Sirrus 24
+znacka: "Osprey"
 vaha: 1200
 objem: 24
 material: 210D Nylon High Tenacity

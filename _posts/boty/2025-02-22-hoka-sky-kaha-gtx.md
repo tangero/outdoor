@@ -3,6 +3,7 @@ layout: post
 title: Hoka Sky Kaha GTX - Nečekaně lehký tank pro dlouhé treky
 categories: boty
 model: Hoka Sky Kaha GTX
+znacka: "Hoka"
 feature-img: 
 thumbnail: https://www.switchbacktravel.com/sites/default/files/image_fields/In-Depth%20Gear%20Reviews/Hoka%20Kaha%202%20GTX/Hoka%20Kaha%202%20GTX%20hiking%20boot%20(traction%20climbing%20on%20rock).jpg
 vaha: 508

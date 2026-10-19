@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.snowcountry.eu/media/catalog/product/cache/31b8a3b5dbd0c4cbc4ada78b51a1a9c9/g/r/gregory-paragon-58-omega-blue-front-1_3.jpg"
 model: "Gregory Paragon 58"
+znacka: "Gregory"
 vaha: 1550
 objem: 58
 material: "210D Nylon Ripstop, 100D Nylon Ripstop"

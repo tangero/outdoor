@@ -3,6 +3,7 @@ layout: post
 title: Inov8 Roclite G 345 GTX - Lehká a univerzální bota pro rychlý pohyb v horách
 categories: boty
 model: Inov8 Roclite G 345 GTX
+znacka: "Inov-8"
 feature-img: 
 thumbnail: https://www.hikingsouthafrica.co.za/wp-content/uploads/inov8-roclite-g345-gtx-7-1024x768.jpg
 vaha: 345

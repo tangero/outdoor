@@ -3,6 +3,7 @@ layout: post
 title: Scarpa Zodiac Plus GTX - Robustní parťák pro náročné terény
 categories: boty
 model: Scarpa Zodiac Plus GTX
+znacka: "Scarpa"
 feature-img: 
 thumbnail: https://taskandpurpose.com/wp-content/uploads/2021/08/26/IMG_2256.jpeg
 vaha: 1080

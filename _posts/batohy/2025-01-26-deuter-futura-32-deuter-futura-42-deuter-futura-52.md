@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bhphotovideo.com/images/images1000x1000/deuter_sport_34294_3370_futura_pro_42_backpack_1171759.jpg
 model: Deuter Futura 42
+znacka: "Deuter"
 vaha: 1900
 objem: 42
 material: Polyester s PU úpravou, nylonové panely

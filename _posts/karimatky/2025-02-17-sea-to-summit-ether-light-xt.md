@@ -3,6 +3,7 @@ layout: post
 title: Sea to Summit Ether Light XT – ultralehká a komfortní karimatka pro letní cestovatele  
 categories: "karimatky"  
 model: "Sea to Summit Ether Light XT"  
+znacka: "Sea to Summit"
 feature-img:  
 thumbnail:  https://seatosummit.eu/cdn/shop/products/Lightweight-comfortable-quiet-air-sleeping-pad_94308069-dd0a-4801-a15a-73fc296be0b4.jpg
 R-faktor: 1.2

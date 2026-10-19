@@ -3,6 +3,7 @@ layout: post
 title: La Sportiva Trango Tech - Lehká a obratná bota pro technický terén
 categories: boty
 model: La Sportiva Trango Tech Leather GTX
+znacka: "La Sportiva"
 feature-img: 
 thumbnail: https://www.nuoviorizzontisport.com/wp-content/uploads/2020/09/news-la-sportiva-trango-tech-leather-gtx-1-2020.jpg
 vaha: 640

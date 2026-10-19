@@ -3,6 +3,7 @@ layout: post
 title: Keen Circadia Mid - Univerzální pohorky pro každodenní dobrodružství
 categories: boty
 model: Keen Circadia Mid
+znacka: "Keen"
 feature-img: 
 thumbnail: https://www.nencinisport.it/images/format-def/background-def/end/articoli_varianti_foto/keen_circadia_mid_wp_w_525560_zoom_20221122160344.png
 vaha: 914

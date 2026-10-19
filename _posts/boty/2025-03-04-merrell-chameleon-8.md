@@ -3,6 +3,7 @@ layout: post
 title: "Merrell Chameleon 8 - Univerzální turista pro každé dobrodružství"
 categories: boty
 model: "Merrell Chameleon 8 Stretch"
+znacka: "Merrell"
 feature-img: 
 thumbnail: https://m.media-amazon.com/images/I/71nl2fU4UtL._AC_SR920,736_.jpg
 vaha: 880

@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://image.migros.ch/fm-lg2/1933ae1b811c4e4fee842edb92e1f5b41f3c2b1e/deuter-trans-alpine-30-bike-rucksack.jpg
 model: "Deuter Trans Alpine 30"
+znacka: "Deuter"
 vaha: 1400
 objem: 30
 material: Polyester 600D Ripstop

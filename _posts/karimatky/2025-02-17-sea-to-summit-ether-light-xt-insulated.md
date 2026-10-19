@@ -3,6 +3,7 @@ layout: post
 title: "Sea to Summit Ether Light XT Insulated – komfortní a teplá nafukovací karimatka pro náročné cestovatele"
 categories: "karimatky"
 model: "Sea to Summit Ether Light XT Insulated"
+znacka: "Sea to Summit"
 feature-img: 
 thumbnail: https://seatosummit.eu/cdn/shop/products/Ether-Light-XT-Insulated---description_49abea9a-20fd-4089-b035-4b2e749b5d3d.jpg
 vaha: 480

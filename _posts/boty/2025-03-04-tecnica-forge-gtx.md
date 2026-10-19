@@ -3,6 +3,7 @@ layout: post
 title: Tecnica Forge GTX -  Průvodce náročným terénem
 categories: boty
 model: Tecnica FORGE GTX
+znacka: "Tecnica"
 feature-img: 
 thumbnail: https://assets.trailspace.com/assets/0/7/2/9269362/1000.jpg
 vaha: 1170

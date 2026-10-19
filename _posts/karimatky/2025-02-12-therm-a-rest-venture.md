@@ -3,6 +3,7 @@ layout: post
 title: "Therm-a-Rest Venture: Cenově dostupný kompromis pro třísezónní použití"
 categories: "karimatky"
 model: "Therm-a-Rest Venture"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://www.trekkinn.com/f/13647/136471067/therm-a-rest-neoair-venture-large.jpg"
 vaha: 700

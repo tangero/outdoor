@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.rockpoint.cz/data/tmp/0/8/135968_0.jpg"
 model: "Gregory Amber 44"
+znacka: "Gregory"
 vaha: 1500
 objem: 44
 material: "210D Nylon Dobby, 630D Nylon"

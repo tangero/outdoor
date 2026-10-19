@@ -3,6 +3,7 @@ layout: post
 title: Mammut Kento Guide High GTX - Spolehlivý parťák do náročného terénu
 categories: boty
 model: Mammut Kento Guide High GTX
+znacka: "Mammut"
 feature-img: 
 thumbnail: https://www.ski-willy.com/images/product_images/popup_images/124664_0.jpg
 vaha: 630

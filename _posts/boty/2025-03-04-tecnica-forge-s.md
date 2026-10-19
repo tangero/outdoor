@@ -3,6 +3,7 @@ layout: post
 title: Tecnica Forge S - Tepelně tvarovatelná dokonalost pro náročné treky
 categories: boty
 model: Tecnica Forge S
+znacka: "Tecnica"
 feature-img: 
 thumbnail: https://www.sportsonline.de/media/af/fa/93/1652361846/500212-DE-DP800.jpg
 vaha: 655

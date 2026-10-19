@@ -3,6 +3,7 @@ layout: post
 title: Keen Targhee III - Univerzální parťák pro vaše dobrodružství
 categories: boty
 model: Keen Targhee III WP
+znacka: "Keen"
 feature-img: 
 thumbnail: https://images.nittanyweb.com/scs/images/products/21/original/keen_men_s_targhee_iii_waterproof_wide_1018597_p122397.jpg 
 vaha: 872

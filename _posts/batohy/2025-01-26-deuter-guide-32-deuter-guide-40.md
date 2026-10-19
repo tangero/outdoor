@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/g/u/guide40plussl_turquoise.png
 model: "Deuter Guide 40+"
+znacka: "Deuter"
 vaha: 1600
 objem: 40
 material: "Polytex Eco, Ripstop"

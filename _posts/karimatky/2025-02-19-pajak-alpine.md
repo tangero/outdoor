@@ -3,6 +3,7 @@ layout: post
 title: Pajak Alpine – ultralehká a komfortní nafukovací karimatka pro náročné horské expedice
 categories: "karimatky"
 model: "Pajak Alpine"
+znacka: "Pajak"
 feature-img: 
 thumbnail: https://pajaksport.pl/img/cms/TECH/HOMEPAGE/Alpine-Sleeping-Mat-4-(1).jpg
 vaha: 420

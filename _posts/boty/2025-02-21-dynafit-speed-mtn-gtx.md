@@ -3,6 +3,7 @@ layout: post
 title: Dynafit Speed MTN GTX - Lehká a Agilní Bota pro Rychlé Horské Výstupy
 categories: boty
 model: Dynafit Speed MTN GTX
+znacka: "Dynafit"
 feature-img: 
 thumbnail: https://www.bfgcdn.com/1500_1500_90/042-0233/dynafit-speed-mtn-gtx-chaussures-dapproche-detail-2.jpg
 vaha: 390

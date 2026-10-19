@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.lowealpine.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/cholatse-50-black-1.jpg
 model: "Lowe Alpine Cholatse 50"
+znacka: "Lowe Alpine"
 vaha: 1900
 objem: 50
 material: "Nylon 600D, Nylon 210D"

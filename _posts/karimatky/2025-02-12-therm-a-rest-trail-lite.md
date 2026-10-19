@@ -3,6 +3,7 @@ layout: post
 title: Therm-a-Rest Trail Lite – Samonafukovací karimatka s komfortem pro nenáročné dobrodruhy
 categories: "karimatky"
 model: "Therm-a-Rest Trail Lite"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://static.sportfits.de/media/image/82/f5/97/trail-lite-12-13272.jpg"
 vaha: 960

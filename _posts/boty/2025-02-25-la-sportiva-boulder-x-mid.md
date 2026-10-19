@@ -3,6 +3,7 @@ layout: post
 title: La Sportiva Boulder X Mid - Univerzální pohorky pro náročný terén
 categories: boty
 model: La Sportiva Boulder X Mid
+znacka: "La Sportiva"
 feature-img: 
 thumbnail: https://rmcorp.s3.scarfbot.com/common/photos/products/2021/04/19/c745e233903edd61eca208bf8cd5a7cf.jpg
 vaha: 980

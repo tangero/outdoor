@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/G/R/GREG00308_01.jpg
 model: "Gregory Stout 45"
+znacka: "Gregory"
 vaha: 1300 
 objem: 45
 material: "210D Nylon Ripstop, 600D Polyester"

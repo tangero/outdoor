@@ -3,6 +3,7 @@ layout: post
 title: "Therm-a-Rest Trail Pro: Všestranná samonafukovací karimatka pro náročné podmínky"
 categories: "karimatky"
 model: "Therm-a-Rest Trail Pro"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://m.media-amazon.com/images/I/71H4BSyI3WL._AC_SL1500_.jpg"
 vaha: 900

@@ -5,6 +5,7 @@ categories: boty
 feature-img: ''
 thumbnail: https://cdn.shopify.com/s/files/1/0900/8827/6350/files/63055-201-1_00_MOR-MID-PRO-GTX_FoB.jpg?v=1754308846
 model: Scarpa Moraine Mid Pro GTX
+znacka: "Scarpa"
 vaha: 580
 tvar: střední
 pohlavi: mužské, ženské

@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://images.modeherz.de/item/images/297624/full/GREGORY-Rucksack-Focal-58-Backpack-M-Ozone-Black-297624.jpg
 model: "Gregory Focal 58, Gregory Focal 68"
+znacka: "Gregory"
 vaha: 1900 (Focal 58), 2000 (Focal 68)
 objem: 58
 material: "210D Nylon Ripstop, 630D Nylon"

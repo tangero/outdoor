@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://assets.trailspace.com/assets/0/4/a/11223114/1000.jpg
 model: "Gregory Deva 60"
+znacka: "Gregory"
 vaha: 2100
 objem: 60
 material: "210D Nylon Ripstop, 420D Nylon"

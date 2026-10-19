@@ -3,6 +3,7 @@ layout: post
 title: Salomon X Ultra 4 - Univerzální Turistická Obuv pro Každé Dobrodružství
 categories: boty
 model: Salomon X Ultra 4
+znacka: "Salomon"
 feature-img: 
 thumbnail: https://www.switchbacktravel.com/sites/default/files/image_fields/In-Depth%20Gear%20Reviews/Salomon%20X%20Ultra%204/Salomon%20X%20Ultra%204%20GTX%20hiking%20shoe%20%28closeup%20of%20side%29.jpg
 vaha: 390

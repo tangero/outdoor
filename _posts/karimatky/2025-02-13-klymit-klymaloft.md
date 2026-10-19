@@ -3,6 +3,7 @@ layout: post
 title: Klymit Klymaloft – komfortní nafukovací karimatka pro pohodlný spánek v přírodě
 categories: "karimatky"
 model: Klymit Klymaloft Regular
+znacka: "Klymit"
 feature-img: 
 thumbnail: https://klymit.com/cdn/shop/files/Klymit_Klymaloft_XL_06KLGR01D_angle_2000x2000_db56a202-18c5-4a7a-a765-8bd8f0be4e5e.jpg
 vaha: 1450

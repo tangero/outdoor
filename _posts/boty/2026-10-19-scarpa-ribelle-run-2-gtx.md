@@ -5,6 +5,7 @@ categories: boty
 feature-img: ''
 thumbnail: https://cdn.shopify.com/s/files/1/0900/8827/6350/files/33089-201-4_00_RIB-RUN-2-GTX_Clo-DkC.jpg?v=1784645475
 model: Scarpa Ribelle Run 2 GTX
+znacka: "Scarpa"
 vaha: 350
 tvar: nízké
 pohlavi: mužské, ženské

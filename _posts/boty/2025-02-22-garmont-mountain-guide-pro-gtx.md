@@ -3,6 +3,7 @@ layout: post
 title: Garmont Mountain Guide Pro GTX - Společník pro náročné horské výstupy
 categories: boty
 model: Garmont Mountain Guide Pro GTX
+znacka: "Garmont"
 feature-img: 
 thumbnail: https://www.polarsport.pl/media/catalog/product/cache/d6e45dfc1b25b95a4e8303b8876267e8/m/o/mountain_guide_pro_gtx_jeans_1000_1_.jpg
 vaha: 990

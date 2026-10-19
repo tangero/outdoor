@@ -3,6 +3,7 @@ layout: post
 title: Tecnica Forge Winter GTX - Zimní pevnost pro náročné treky
 categories: boty
 model: Tecnica FORGE Winter GTX
+znacka: "Tecnica"
 feature-img: 
 thumbnail: https://www.montagnes-magazine.com/media/guide_matos/chaussure_rando/img_2022/tecnica_2022_forge_winter_gtx_w.jpg
 vaha: 1310

@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://cdn.shoplightspeed.com/shops/623535/files/46522878/570x800x2/gregory-gregory-womens-facet-55-backpack.jpg"
 model: "Gregory Facet 55"
+znacka: "Gregory"
 vaha: 1550
 objem: 55
 material: "Nylon 100D, Nylon 210D"

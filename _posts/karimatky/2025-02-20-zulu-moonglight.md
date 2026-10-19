@@ -3,6 +3,7 @@ layout: post
 title: "Zulu Moonglight Comfort: Pohodlná samonafukovačka pro nenáročné nocležníky"
 categories: "karimatky"
 model: "Zulu Moonglight Comfort"
+znacka: "Zulu"
 feature-img: 
 thumbnail: https://cdn.4camping.hr/files/photos/1600/4/43dd78d2-podloga-na-napuhavanje-zulu-moonlight-mummy.jpg
 vaha: 750

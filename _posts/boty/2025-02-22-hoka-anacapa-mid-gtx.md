@@ -3,6 +3,7 @@ layout: post
 title: "Hoka Anacapa Mid GTX: Pohodlný turista s maximálním tlumením"
 categories: boty
 model: "Hoka Anacapa Mid GTX"
+znacka: "Hoka"
 feature-img: 
 thumbnail: https://www.switchbacktravel.com/sites/default/files/images/articles/Hoka%20One%20One%20Anacapa%20Mid%20GTX%20hiking%20boot%20(closeup%20of%20boots).jpg
 vaha: 850

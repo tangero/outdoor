@@ -3,6 +3,7 @@ layout: post
 title: Salomon Quest 4D 3 GTX - Legenda pro náročné treky
 categories: boty
 model: Salomon Quest 4D 3 GTX
+znacka: "Salomon"
 feature-img: 
 thumbnail: https://www.switchbacktravel.com/sites/default/files/image_fields/field_imgs_inline/Salomon%204D%203%20GTX%20(upper).jpg
 vaha: 640

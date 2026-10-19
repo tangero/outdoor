@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://attrezzaturatrekking.it/wp-content/uploads/2020/02/Zaino_Gregory_optic_48_5.jpg"
 model: "Gregory Optic 48"
+znacka: "Gregory"
 vaha: 1160
 objem: 48
 material: "100D x 630D Nylon Dobby, 100D x 630D Nylon Ripstop"

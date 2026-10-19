@@ -3,6 +3,7 @@ layout: post
 title: "Klymit Static V Luxe – pohodlná a prostorná karimatka pro maximální komfort"
 categories: "karimatky"
 model: "Klymit Static V Luxe"
+znacka: "Klymit"
 feature-img: 
 thumbnail: https://klymit.com/cdn/shop/products/Klymit_StaticVLuxe_06VLST01D_AngleBag_NoValve_2000x2000_de1d4e78-fe21-4cb2-9ce4-43f053229bfc.jpg
 vaha: 765

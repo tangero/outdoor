@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.sefiles.net/merchant/1482/images/zoom/GMP_S23_Jade63_MidnightNavy_Front341.jpg"
 model: "Gregory Jade 63"
+znacka: "Gregory"
 vaha: 1800
 objem: 63
 material: "210D High Tenacity Nylon, 630D Nylon"

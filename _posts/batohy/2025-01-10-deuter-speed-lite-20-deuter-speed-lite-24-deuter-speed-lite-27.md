@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bfgcdn.com/1500_1500_90/502-4038-0311/deuter-speed-lite-24-wanderrucksack.jpg
 model: "Deuter Speed Lite 24"
+znacka: "Deuter"
 vaha: 810
 objem: 24
 material: Polyester s PU povrstvením

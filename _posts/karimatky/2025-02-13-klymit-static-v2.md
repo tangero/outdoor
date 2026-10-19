@@ -3,6 +3,7 @@ layout: post
 title: Klymit Static V2 – Lehká a pohodlná karimatka s unikátním designem komor
 categories: "karimatky"
 model: "Klymit Static V2"
+znacka: "Klymit"
 feature-img: 
 thumbnail: https://klymit.com/cdn/shop/files/Klymit_StaticV2_06S2GR02C_Angle_v2_2000x2000_f09baf37-c85f-454b-a2ca-39f03a4c0a51.jpg
 R-faktor: 1.3

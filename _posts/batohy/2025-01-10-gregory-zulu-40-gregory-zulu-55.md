@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.travelcountry.com/images-product-6/gre-zulu55-7412_1000x1000.jpg"
 model: "Gregory Zulu 55"
+znacka: "Gregory"
 vaha: 1500 
 objem: 55
 material: "Nylon 210D, Ripstop Nylon"

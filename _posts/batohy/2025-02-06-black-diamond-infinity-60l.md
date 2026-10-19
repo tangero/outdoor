@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/6/8/681077_infinity60_rc_bk_web.jpg"
 model: "Black Diamond Infinity 60"
+znacka: "Black Diamond"
 vaha: 1900
 objem: 60
 material: "420D nylon ripstop + 630D ballistic nylon"

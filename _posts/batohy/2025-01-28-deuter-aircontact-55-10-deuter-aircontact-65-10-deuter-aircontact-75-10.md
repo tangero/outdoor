@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.sportaktiv-shop.de/bilder/produkte/gross/Deuter-Aircontact-65-10.jpg"
 model: "Deuter AirContact 65+10"
+znacka: "Deuter"
 vaha: 2450
 objem: 65
 material: "Polyester 600D s PU vrstvou, ripstop"

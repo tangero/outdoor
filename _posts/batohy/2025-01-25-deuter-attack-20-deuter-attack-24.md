@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bfgcdn.com/1500_1500_90/502-5284-0111/deuter-attack-22-el-cycling-backpack.jpg
 model: "Deuter Attack 22"
+znacka: "Deuter"
 vaha: 1030
 objem: 22
 material: "Polyester Ripstop, PU coating"

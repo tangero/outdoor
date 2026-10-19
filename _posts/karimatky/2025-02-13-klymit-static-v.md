@@ -3,6 +3,7 @@ layout: post
 title: Klymit Static V – pohodlná a lehká nafukovací karimatka pro třísezónní použití
 categories: "karimatky"
 model: "Klymit Static V"
+znacka: "Klymit"
 feature-img: 
 thumbnail: https://klymit.com/cdn/shop/files/Klymit_StaticV_06SVGR01C_Angle_NoValve_v1_2000x2000_46dd32a6-2415-42bb-a51f-7b21032ad543.jpg
 vaha: 530

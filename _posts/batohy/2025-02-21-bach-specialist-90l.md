@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.vybavenidoprirody.com/assets//posts/bach-specialist-90l-1.jpg
 model: "Bach Specialist 90L"
+znacka: "Bach"
 vaha: 2640
 objem: 90
 material: "1000D Cordura"

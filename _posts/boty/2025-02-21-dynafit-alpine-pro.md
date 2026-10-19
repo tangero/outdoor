@@ -3,6 +3,7 @@ layout: post
 title: Dynafit Alpine Pro - Univerzální trailová bestie pro náročné běžce
 categories: boty
 model: Dynafit Alpine Pro
+znacka: "Dynafit"
 feature-img: 
 thumbnail: "http://trailandultrarunning.com/wp-content/uploads/2017/04/Alpine-Pro-invisible-lacing-853x640.jpg"
 vaha: 300

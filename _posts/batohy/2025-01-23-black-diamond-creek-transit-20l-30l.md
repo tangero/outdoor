@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: ""
 model: "Black Diamond Creek Transit 30L"
+znacka: "Black Diamond"
 vaha: 720
 objem: 30
 material: "420D nylon s PU povrchovou úpravou"
