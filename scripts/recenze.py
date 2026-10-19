@@ -398,7 +398,7 @@ def find_image(c: dict, page_imgs: list[str]) -> str:
                 lambda: [og_image(c["url"])], lambda: page_imgs[:3], lambda: [lib.exa_image(c["url"])]):
         for url in get():
             url = "https:" + url if url.startswith("//") else url
-            if url and url not in tried:
+            if url and url not in tried and not re.search(r"logo|og[-_]?image|placeholder", url, re.I):
                 tried.add(url)
                 if lib.image_ok(url):
                     return url

@@ -3,7 +3,7 @@ layout: post
 title: 'Therm-a-Rest MondoKing 3D: luxusní samonafukovací matrace pro kempování u auta'
 categories: karimatky
 feature-img: ''
-thumbnail: https://cdn.shopify.com/s/files/1/0574/0642/3174/files/cascade-designs-logo-og.png?v=1761594894
+thumbnail: https://cdn.shopify.com/s/files/1/0574/0642/3174/files/13225_thermarest_mondoking_marine_large_top.jpg?v=1747407060
 model: Therm-a-Rest MondoKing 3D
 znacka: Therm-a-Rest
 vaha: 1990
@@ -26,7 +26,7 @@ zdroje:
 
 Samonafukovací karimatka **Therm-a-Rest MondoKing 3D** je určená pro kempování u auta, na chatu, do jurty nebo na festival, tedy tam, kde nesete vybavení jen na krátkou vzdálenost. Nabízí tloušťku 11 cm, R-faktor 7 a pěnové jádro s technologií StrataCore. Vyniká pohodlím, které testeři přirovnávají k posteli, a širokou rovnou spací plochou.
 
-![Therm-a-Rest MondoKing 3D](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.shopify.com/s/files/1/0574/0642/3174/files/cascade-designs-logo-og.png?v=1761594894)
+![Therm-a-Rest MondoKing 3D](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.shopify.com/s/files/1/0574/0642/3174/files/13225_thermarest_mondoking_marine_large_top.jpg?v=1747407060)
 
 Na rozdíl od ultralehkých turistických karimatek tu nejde o úsporu gramů, ale o maximální komfort. Výrobce ji nabízí ve dvou velikostech, Large a XXLarge. Parametry v recenzi se vztahují především k velikosti Large, před nákupem proto zkontrolujte rozměry podle své výšky.
 
@@ -90,7 +90,7 @@ MondoKing 3D má v tabulce nejvyšší R-faktor a patří k nejtlustším. BaseC
 
 ### Závěrečné zhodnocení
 
-Therm-a-Rest MondoKing 3D je mimořádně pohodlná samonafukovací matrace pro kempování u auta. Nabízí tloušťku 11 cm, R-faktor 7, odolné materiály a širokou rovnou spací plochu. Nezávislé testy ji hodnotí velmi dobře a uživatelé oceňují komfort i teplo. Za cenu a objem balení však platíte vyšší pořizovací cenou, hmotností kolem 2 kg a otravným balením. Pokud budete matraci vozit autem a komfort je pro vás prioritou, je to velmi dobrá volba.
+Therm-a-Rest MondoKing 3D je mimořádně pohodlná samonafukovací matrace pro kempování u auta. Nabízí tloušťku 11 cm, R-faktor 7, odolné materiály a širokou rovnou spací plochu. Nezávislé testy ji hodnotí velmi dobře a uživatelé oceňují komfort i teplo. Za komfort však zaplatíte vyšší cenou, hmotností kolem 2 kg a pracnějším balením. Pokud budete matraci vozit autem a komfort je pro vás prioritou, je to velmi dobrá volba.
 
 **Hodnocení:** 8/10  
 Body strhávám za vysokou cenu, hmotnost a objemné balení, které se hůře stlačuje.
