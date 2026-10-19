@@ -343,3 +343,21 @@
   url: "/batohy/gregory-nano-28/"
   variants:
   - Gregory Nano
+- name: Sea to Summit Ether Light XR Pro Insulated
+  url: "/karimatky/sea-to-summit-ether-light-xr-pro-insulated/"
+- name: Sea to Summit UltraLight Insulated Air
+  url: "/karimatky/sea-to-summit-ultralight-insulated-air/"
+- name: Lowe Alpine AirZone Trek 45:55
+  url: "/batohy/lowe-alpine-airzone-trek-45-55/"
+  variants:
+  - Lowe Alpine AirZone Trek
+- name: Mammut Pro 45 Removable Airbag 3.0
+  url: "/batohy/mammut-pro-45-removable-airbag-3-0/"
+  variants:
+  - Mammut Pro
+- name: Sea to Summit Pursuit
+  url: "/karimatky/sea-to-summit-pursuit/"
+- name: Salomon Trailblazer 10
+  url: "/batohy/salomon-trailblazer-10/"
+  variants:
+  - Salomon Trailblazer

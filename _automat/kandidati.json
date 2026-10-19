@@ -109,13 +109,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.766029+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Osprey Atmos AG 50",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní batoh Osprey Atmos AG 50; řada Atmos AG 65 je recenzována, 50L verze je jiná velikost, ale nová v seznamu.",
       "trideno_at": "2026-10-19T05:01:10.439471+00:00",
-      "pokus_at": "2026-10-19T17:22:23.035383+00:00"
+      "pokus_at": "2026-10-19T18:16:56.546925+00:00"
     },
     {
       "id": "00a05d290c050838",
@@ -974,13 +974,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.090148+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Deuter AirContact Core",
       "rubrika": "batohy",
       "priorita": 5,
       "duvod": "Nová generace trekových batohů AirContact, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512256+00:00",
-      "pokus_at": "2026-10-19T05:02:31.304366+00:00"
+      "pokus_at": "2026-10-19T18:14:04.655419+00:00"
     },
     {
       "id": "4fbc8e1f7338276a",
@@ -4435,13 +4435,14 @@
       "published_at": "",
       "detected_at": "2026-05-05T10:45:58.072979+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Lowe Alpine AirZone Trek 45:55",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní trekový batoh, v seznamu recenzovaných není.",
       "trideno_at": "2026-10-19T16:03:15.285421+00:00",
-      "pokus_at": "2026-10-19T17:23:41.588142+00:00"
+      "pokus_at": "2026-10-19T18:20:02.173994+00:00",
+      "soubor": "_posts/batohy/2026-10-19-lowe-alpine-airzone-trek-45-55.md"
     },
     {
       "id": "52e0234005013ce1",
@@ -4761,13 +4762,14 @@
       "published_at": "",
       "detected_at": "2026-05-07T11:09:38.245884+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Sea to Summit UltraLight Insulated Air",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Konkrétní nafukovací karimatka, v seznamu není.",
       "trideno_at": "2026-10-19T16:03:15.285861+00:00",
-      "pokus_at": "2026-10-19T17:26:16.338407+00:00"
+      "pokus_at": "2026-10-19T18:17:08.284974+00:00",
+      "soubor": "_posts/karimatky/2026-10-19-sea-to-summit-ultralight-insulated-air.md"
     },
     {
       "id": "b93401ba4ea4de8b",
@@ -6671,13 +6673,13 @@
       "published_at": "",
       "detected_at": "2026-05-21T12:14:16.885131+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit Ultralight XR Insulated",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Nafukovací karimatka Sea to Summit, nebyla dosud recenzována.",
       "trideno_at": "2026-10-19T16:04:03.413094+00:00",
-      "pokus_at": "2026-10-19T17:27:27.890832+00:00"
+      "pokus_at": "2026-10-19T18:23:01.693197+00:00"
     },
     {
       "id": "21f5a76e368edbd3",
@@ -6922,13 +6924,14 @@
       "published_at": "",
       "detected_at": "2026-05-22T11:44:37.671190+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Sea to Summit Ether Light XR Pro Insulated",
       "rubrika": "karimatky",
       "priorita": 4,
       "duvod": "Nová nafukovací karimatka, dosud nerecenzovaný model v řadě Ether Light.",
       "trideno_at": "2026-10-19T16:04:12.596472+00:00",
-      "pokus_at": "2026-10-19T17:25:29.479885+00:00"
+      "pokus_at": "2026-10-19T18:14:11.092867+00:00",
+      "soubor": "_posts/karimatky/2026-10-19-sea-to-summit-ether-light-xr-pro-insulated.md"
     },
     {
       "id": "f8153a8435c78bd6",
@@ -7685,13 +7688,14 @@
       "published_at": "",
       "detected_at": "2026-05-24T10:41:15.565577+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Mammut Pro 45 Removable Airbag 3.0",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Skialpinistický/trekový batoh s airbagem, nerecenzováno; hraniční kvůli zaměření na ski touring.",
       "trideno_at": "2026-10-19T16:04:30.805405+00:00",
-      "pokus_at": "2026-10-19T17:25:56.520769+00:00"
+      "pokus_at": "2026-10-19T18:23:14.188934+00:00",
+      "soubor": "_posts/batohy/2026-10-19-mammut-pro-45-removable-airbag-3-0.md"
     },
     {
       "id": "0c98f66e26cbfc26",
@@ -9798,13 +9802,14 @@
       "published_at": "",
       "detected_at": "2026-07-11T10:13:17.357234+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Salomon Trailblazer 10",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Běžecký batoh pro trail, nová velikost řady zatím nerecenzovaná.",
       "trideno_at": "2026-10-19T16:05:36.254881+00:00",
-      "pokus_at": "2026-10-19T17:26:34.831089+00:00"
+      "pokus_at": "2026-10-19T18:30:06.195383+00:00",
+      "soubor": "_posts/batohy/2026-10-19-salomon-trailblazer-10.md"
     },
     {
       "id": "606a619095746ce2",
@@ -9838,13 +9843,14 @@
       "published_at": "",
       "detected_at": "2026-07-17T10:46:06.163226+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Sea to Summit Pursuit",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Samonafukovací karimatka, nový model v nabídce.",
       "trideno_at": "2026-10-19T16:05:36.254924+00:00",
-      "pokus_at": "2026-10-19T17:28:01.782895+00:00"
+      "pokus_at": "2026-10-19T18:26:31.705646+00:00",
+      "soubor": "_posts/karimatky/2026-10-19-sea-to-summit-pursuit.md"
     },
     {
       "id": "b471cd97a9a83733",
