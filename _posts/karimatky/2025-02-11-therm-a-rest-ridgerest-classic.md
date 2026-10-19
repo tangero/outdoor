@@ -3,6 +3,7 @@ layout: post
 title: Therm-a-Rest RidgeRest Classic – Legendární pěnová karimatka pro nenáročné dobrodruhy
 categories: "karimatky"
 model: "Therm-a-Rest RidgeRest Classic"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://www.highmobilitygear.com/Files/85764/Img/03/THERMAREST-Ridge-Rest-Classic_2.jpg"
 vaha: 510

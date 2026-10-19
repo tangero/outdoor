@@ -3,6 +3,7 @@ layout: post
 title: Keen Ridge Flex Mid - Pohodlí a flexibilita pro náročné treky
 categories: boty
 model: Keen Ridge Flex Mid
+znacka: "Keen"
 feature-img: 
 thumbnail: https://i.ytimg.com/vi/4Pdw4QDSyGk/maxresdefault.jpg
 vaha: 544

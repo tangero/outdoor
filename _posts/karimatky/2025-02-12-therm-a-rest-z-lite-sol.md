@@ -3,6 +3,7 @@ layout: post
 title: Therm-a-Rest Z-Lite Sol – Legendární pěnová karimatka pro minimalistické dobrodruhy
 categories: "karimatky"
 model: "Therm-a-Rest Z-Lite Sol"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://backpackinglight.com/wp-content/uploads/2021/05/thermarest-thermarest-z-lite-sol-sleeping-pad.jpg"
 vaha: 410

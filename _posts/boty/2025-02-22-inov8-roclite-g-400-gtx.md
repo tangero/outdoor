@@ -3,6 +3,7 @@ layout: post
 title: Inov8 Roclite G 400 GTX - Univerzální společník do náročného terénu
 categories: boty
 model: Inov8 Roclite G 400 GTX
+znacka: "Inov-8"
 feature-img: 
 thumbnail: https://www.inov-8.com/media/roclite-pro-g-400-v2-landing-page/roclite-pro-g-400-gtx-v2-tech-desktop.jpg 
 vaha: 400

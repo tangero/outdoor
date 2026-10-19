@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.bfgcdn.com/1500_1500_90/502-7837-0111/lowe-alpine-womens-airzone-trail-camino-nd35-40-wanderrucksack.jpg"
 model: "Lowe Alpine AirZone Trail Camino ND35-40"
+znacka: "Lowe Alpine"
 vaha: 1350
 objem: 40
 material: "210D Nylon Diamond Ripstop, 600D Polyester"

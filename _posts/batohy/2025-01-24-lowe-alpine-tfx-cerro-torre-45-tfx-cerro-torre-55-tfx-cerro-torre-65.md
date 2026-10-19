@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/c/a/carro_torre_65_85_bondi_blue__amber.jpg
 model: "Lowe Alpine TFX Cerro Torre 55"
+znacka: "Lowe Alpine"
 vaha: 2100
 objem: 55
 material: "Duraflex, 600D Polyester"

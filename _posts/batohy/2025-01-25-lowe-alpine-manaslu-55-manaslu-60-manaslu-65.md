@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://media.s-bol.com/ExMovZgozklW/793x1200.jpg
 model: "Lowe Alpine Manaslu 60"
+znacka: "Lowe Alpine"
 vaha: 2100
 objem: 60
 material: "210D Nylon Diamond Ripstop"

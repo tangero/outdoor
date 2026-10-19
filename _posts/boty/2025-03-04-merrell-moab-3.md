@@ -3,6 +3,7 @@ layout: post
 title: Merrell Moab 3 - Univerzální a osvědčená turistická obuv
 categories: boty
 model: Merrell Moab 3
+znacka: "Merrell"
 feature-img: 
 thumbnail: https://www.merrellstore.cz/getmetafile/477d04d1-b69f-4f49-bad1-341cd33c2855/00079257_1.aspx
 vaha: 850

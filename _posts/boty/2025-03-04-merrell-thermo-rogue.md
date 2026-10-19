@@ -3,6 +3,7 @@ layout: post
 title: Merrell Thermo Rogue - Zimní pevnost pro náročné treky
 categories: boty
 model: Merrell Thermo Rogue 3 Mid GTX
+znacka: "Merrell"
 feature-img: 
 thumbnail: https://www.trekkingreview.com/Merrell-Thermo-Rogue-3-Mid-Gore-Tex_912_1_200026.jpg
 vaha: 940

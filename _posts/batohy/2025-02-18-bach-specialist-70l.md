@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://cdn.idealo.com/folder/Product/203386/4/203386427/s2_produktbild_max/bach-specialist-70-women-297054.jpg
 model: "Bach Specialist 70L Women"
+znacka: "Bach"
 vaha: 2300
 objem: 70
 material: "420D nylon s PU povrstvením"

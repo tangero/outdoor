@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.nakaoutdoors.com.ar/img/articulos/lowe_alpine_cerro_torre_nd_55_15l_1_imagen2.jpg
 model: "Lowe Alpine TFX Cerro Torre 55+10"
+znacka: "Lowe Alpine"
 vaha: 2300
 objem: 55
 material: "Duraflex, 600D Polyester"

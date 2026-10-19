@@ -3,6 +3,7 @@ layout: post
 title: Lowa Tibet GTX - Legenda pro náročné terény
 categories: boty
 model: Lowa Tibet GTX
+znacka: "Lowa"
 feature-img: 
 thumbnail: https://cdn.mos.cms.futurecdn.net/AAqamw7SsX3Ev3dj8r29pi.jpg
 vaha: 1800

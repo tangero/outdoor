@@ -3,6 +3,7 @@ layout: post
 title: Therm-a-Rest NeoAir XTherm NXT – Ultimátní karimatka pro extrémní zimy a ultralehké expedice
 categories: "karimatky"
 model: "Therm-a-Rest NeoAir XTherm NXT"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://m.media-amazon.com/images/I/614O3KcZIZL._AC_SL1500_.jpg"
 vaha: 430

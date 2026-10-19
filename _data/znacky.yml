@@ -1,0 +1,72 @@
+# Značky, které web pokrývá (titulka, stránka /znacky/, automat).
+# `prefixy` = jak začíná pole `model` v článcích; podle nich se značka přiřazuje.
+
+- name: "Bach"
+  slug: "bach"
+  prefixy: ["Bach"]
+- name: "Black Diamond"
+  slug: "black-diamond"
+  prefixy: ["Black Diamond"]
+- name: "Deuter"
+  slug: "deuter"
+  prefixy: ["Deuter"]
+- name: "Dynafit"
+  slug: "dynafit"
+  prefixy: ["Dynafit"]
+- name: "Garmont"
+  slug: "garmont"
+  prefixy: ["Garmont"]
+- name: "Gregory"
+  slug: "gregory"
+  prefixy: ["Gregory"]
+- name: "Hoka"
+  slug: "hoka"
+  prefixy: ["Hoka"]
+- name: "Inov-8"
+  slug: "inov-8"
+  prefixy: ["Inov-8", "Inov8"]
+- name: "Keen"
+  slug: "keen"
+  prefixy: ["Keen"]
+- name: "Klymit"
+  slug: "klymit"
+  prefixy: ["Klymit"]
+- name: "La Sportiva"
+  slug: "la-sportiva"
+  prefixy: ["La Sportiva"]
+- name: "Lowa"
+  slug: "lowa"
+  prefixy: ["Lowa"]
+- name: "Lowe Alpine"
+  slug: "lowe-alpine"
+  prefixy: ["Lowe Alpine"]
+- name: "Mammut"
+  slug: "mammut"
+  prefixy: ["Mammut"]
+- name: "Merrell"
+  slug: "merrell"
+  prefixy: ["Merrell"]
+- name: "Osprey"
+  slug: "osprey"
+  prefixy: ["Osprey"]
+- name: "Pajak"
+  slug: "pajak"
+  prefixy: ["Pajak"]
+- name: "Salomon"
+  slug: "salomon"
+  prefixy: ["Salomon"]
+- name: "Scarpa"
+  slug: "scarpa"
+  prefixy: ["Scarpa"]
+- name: "Sea to Summit"
+  slug: "sea-to-summit"
+  prefixy: ["Sea to Summit"]
+- name: "Tecnica"
+  slug: "tecnica"
+  prefixy: ["Tecnica"]
+- name: "Therm-a-Rest"
+  slug: "therm-a-rest"
+  prefixy: ["Therm-a-Rest", "Thermarest"]
+- name: "Zulu"
+  slug: "zulu"
+  prefixy: ["Zulu"]

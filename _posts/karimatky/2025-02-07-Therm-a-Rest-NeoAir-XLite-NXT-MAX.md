@@ -3,6 +3,7 @@ layout: post
 title: "Therm-a-Rest NeoAir XLite NXT MAX: Ultralehká karimatka s špičkovým poměrem tepla a váhy"
 categories: "karimatky"
 model: Therm-a-Rest NeoAir XLite NXT MAX
+znacka: "Therm-a-Rest"
 feature-img: 
 thumbnail: https://cdn.webshopapp.com/shops/334138/files/425043899/therm-a-rest-neoair-xlite-nxt-max-sleeping-pad.jpg
 vaha: 454

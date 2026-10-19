@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.outside.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/e/deuter-trail-30-3440521-7403-black-graphite-d0-1-s21_1.jpg"
 model: "Deuter Trail 30"
+znacka: "Deuter"
 vaha: 1200
 objem: 30
 material: "Polyester s PU povrstvením"

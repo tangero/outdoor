@@ -3,6 +3,7 @@ layout: post
 title: Mammut Ducan Mid GTX - Univerzální turistická obuv pro rychlý pohyb
 categories: boty
 model: Mammut Ducan Mid GTX
+znacka: "Mammut"
 feature-img: 
 thumbnail: https://varuste.net/tiedostot/1/kuva/tuote/1920/o12978044.jpg
 vaha: 1040

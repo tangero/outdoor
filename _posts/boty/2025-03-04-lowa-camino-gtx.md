@@ -3,6 +3,7 @@ layout: post
 title: Lowa Camino GTX - Spolehlivý parťák pro náročné treky
 categories: boty
 model: "Lowa Camino GTX"
+znacka: "Lowa"
 feature-img: 
 thumbnail: https://shop.hardloop.fr/345613/lowa-camino-gtx-chaussures-homme.jpg
 vaha: 1550

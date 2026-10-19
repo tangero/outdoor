@@ -3,6 +3,7 @@ layout: post
 title: "Therm-a-Rest NeoAir Topo Luxe: Karimatka pro náročné s důrazem na komfort a stabilitu"
 categories: "karimatky"
 model: "Therm-a-Rest NeoAir Topo Luxe"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://www.altitude-sports.com/cdn/shop/products/TAR-13220_7EBalsam_1200x1200.jpg"
 vaha: 765

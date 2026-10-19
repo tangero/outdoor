@@ -3,6 +3,7 @@ layout: post
 title: "Garmont Vetta GTX: Univerzální pohorky pro náročné turisty"
 categories: boty
 model: Garmont Vetta GTX
+znacka: "Garmont"
 feature-img: 
 thumbnail: https://outdoortest.it/wp-content/uploads/2021/11/5834420649223895233_121.jpg
 vaha: 1300

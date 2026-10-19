@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/2716/64071/5e9fb74204d224923314ce3233194b85f0786312__27364.1727920419.386.513.jpg
 model: "Black Diamond Mission 75"
+znacka: "Black Diamond"
 vaha: 1774
 objem: 75
 material: "420D nylon s PU povrchovou úpravou"

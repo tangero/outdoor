@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.bfgcdn.com/1500_1500_90/502-4352-0311/gregory-targhee-45-ski-touring-backpack.jpg"
 model: "Gregory Targhee 45, Gregory Targhee 55"
+znacka: "Gregory"
 vaha: 1450
 objem: 45
 material: "210D Nylon Ripstop, 420D Nylon"

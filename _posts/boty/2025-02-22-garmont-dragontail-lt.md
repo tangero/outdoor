@@ -3,6 +3,7 @@ layout: post
 title: Garmont Dragontail LT - Nízká trekovka pro technický terén a lehký trekking
 categories: boty
 model: Garmont Dragontail LT
+znacka: "Garmont"
 feature-img: 
 thumbnail: https://schuhfreak.de/hpeciai/9e626751f1f143d19c010d68101e98fd/eng_pl_Garmont-Dragontail-LT-000272-25293_1.jpg
 vaha: 475

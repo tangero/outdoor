@@ -3,6 +3,7 @@ layout: post
 title: Hoka Sky Arkali - Revoluční hybrid pro náročný terén
 categories: boty
 model: Hoka Sky Arkali
+znacka: "Hoka"
 feature-img: 
 thumbnail: https://www.sportgardena.com/media/image/fe/99/57/Hoka-Arkali-Black-Cyan-Citrus-Lateral.jpg
 vaha: 432

@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.bfgcdn.com/600_600_90/502-5299-0711/deuter-giga-28-daypack.jpg
 model: Deuter Giga 28
+znacka: "Deuter"
 vaha: 1250
 objem: 28
 material: Polyester s PU úpravou

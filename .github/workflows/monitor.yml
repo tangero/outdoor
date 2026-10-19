@@ -1,8 +1,8 @@
 name: Automat recenzí
 
 # Jeden workflow pro celý automat (ručně spustitelný i z jiné větve):
-#   denně      – monitoring výrobců + třídění kandidátů → commit _automat/ do master
-#   út a pá    – napsání recenzí → PR s články, stav fronty → commit do master
+#   denně      – monitoring výrobců + třídění kandidátů + novinky → commit do master
+#   út a pá    – napsání recenzí → commit článků i stavu fronty do master
 #   ručně      – režim monitor / recenze / test (test nic necommituje, výstupy dá jako artefakt)
 
 on:
@@ -25,6 +25,14 @@ on:
         description: 'ID kandidáta (volitelné, režim test)'
         required: false
         default: ''
+      limit:
+        description: 'Max. kandidátů ke třídění (režim monitor/test)'
+        required: false
+        default: '200'
+      novinky:
+        description: 'Počet novinek (režim monitor/test)'
+        required: false
+        default: '3'
 
 concurrency:
   group: automat
@@ -44,6 +52,8 @@ jobs:
       GH_TOKEN: ${{ github.token }}
       REZIM: ${{ github.event.inputs.rezim || (github.event.schedule == '0 6 * * 2,5' && 'recenze') || 'monitor' }}
       POCET: ${{ github.event.inputs.pocet || '2' }}
+      LIMIT: ${{ github.event.inputs.limit || '200' }}
+      NOVINKY: ${{ github.event.inputs.novinky || '3' }}
 
     steps:
       - name: Checkout repository
@@ -69,12 +79,16 @@ jobs:
 
       - name: Třídění kandidátů
         if: env.REZIM == 'monitor' || env.REZIM == 'test'
-        run: python scripts/trideni.py --verbose
+        run: python scripts/trideni.py --limit "$LIMIT" --verbose
+
+      - name: Novinky výrobců
+        if: env.REZIM == 'monitor'
+        run: python scripts/novinky.py --pocet "$NOVINKY" --verbose
 
       - name: Commit stavu
         if: env.REZIM == 'monitor'
         run: |
-          git add _automat/
+          git add _automat/ _novinky/
           if git diff --cached --quiet; then
             echo "Beze změn."
           else
@@ -88,28 +102,15 @@ jobs:
         if: env.REZIM == 'recenze'
         run: python scripts/recenze.py --pocet "$POCET" --verbose
 
-      - name: PR s recenzemi a commit stavu
+      - name: Commit recenzí a stavu
         if: env.REZIM == 'recenze'
         run: |
-          STAMP=$(date -u '+%Y-%m-%d-%H%M')
-          if [ -n "$(git status --porcelain _posts _data/products.yml)" ]; then
-            BRANCH="recenze/$STAMP"
-            git checkout -b "$BRANCH"
-            git add _posts _data/products.yml
-            git commit -m "Recenze: nové články ($STAMP)"
-            git push -u origin "$BRANCH"
-            TITLES=$(git diff --name-only HEAD~1 -- _posts | sed 's|^|- |')
-            gh pr create --base master --head "$BRANCH" \
-              --title "Nové recenze $STAMP" \
-              --body "$(printf 'Automaticky napsané recenze:\n\n%s\n\nPo kontrole sloučit; Cloudflare Pages web nasadí sám.' "$TITLES")" \
-              || echo "::warning::PR se nepodařilo založit (zapněte Settings → Actions → Allow GitHub Actions to create pull requests). Větev $BRANCH je pushnutá."
-            git checkout -
+          git add _posts _data/products.yml _automat/
+          if git diff --cached --quiet; then
+            echo "Žádná změna."
           else
-            echo "Žádná nová recenze."
-          fi
-          git add _automat/
-          if ! git diff --cached --quiet; then
-            git commit -m "Auto: stav fronty po recenzích ($STAMP)"
+            NOVE=$(git diff --cached --name-only -- _posts | wc -l | tr -d ' ')
+            git commit -m "Auto: recenze ($NOVE nových, $(date -u '+%Y-%m-%d %H:%M'))"
             git pull --rebase
             git push
           fi
@@ -120,6 +121,10 @@ jobs:
         run: python scripts/recenze.py --pocet "$POCET" ${KANDIDAT:+--id "$KANDIDAT"} --dry-run --verbose
         env:
           KANDIDAT: ${{ github.event.inputs.id }}
+
+      - name: Novinky nanečisto
+        if: env.REZIM == 'test'
+        run: python scripts/novinky.py --pocet "$NOVINKY" --dry-run --verbose
 
       - name: Výstupy testu
         if: always() && env.REZIM == 'test'

@@ -3,6 +3,7 @@ layout: post
 title: Therm-a-Rest ProLite Apex – Univerzální samonafukovací karimatka s výbornou izolací
 categories: "karimatky"
 model: "Therm-a-Rest ProLite Apex (Regular)"
+znacka: "Therm-a-Rest"
 feature-img: "assets/img/feature-img/sleeping-pad.jpg"
 thumbnail: "https://www.trailshop.com/cdn/shop/products/13256_tr_prolite_apex_heatwave_regular_angle.jpg?v=1638833140"
 vaha: 710

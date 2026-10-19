@@ -3,6 +3,7 @@ layout: post
 title: Scarpa Zodiac Tech GTX - Spolehlivý parťák do náročného terénu
 categories: boty
 model: Scarpa Zodiac Tech GTX
+znacka: "Scarpa"
 feature-img: 
 thumbnail: https://mountainreview.com/wp-content/uploads/2024/07/Scarpa-Zodiac-Tech-Gtx-01-1024x577.jpg
 vaha: 1220

@@ -3,6 +3,7 @@ layout: post
 title: "Garmont Toubkal GTX: Spolehlivý parťák pro náročné treky"
 categories: boty
 model: Garmont Toubkal GTX
+znacka: "Garmont"
 feature-img: 
 thumbnail: https://images.hardloop.fr/83558-large_default/garmont-toubkal-gtx-buty-turystyczne-meskie.jpg
 vaha: 1300

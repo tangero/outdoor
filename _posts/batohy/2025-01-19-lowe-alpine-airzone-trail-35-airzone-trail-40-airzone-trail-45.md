@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.botteroski.com/19292-thickbox_default/backpack-lowe-alpine-airzone-trail-35-red.jpg
 model: "Lowe Alpine AirZone Trail 35"
+znacka: "Lowe Alpine"
 vaha: 1350
 objem: 35
 material: "Ripstop nylon"

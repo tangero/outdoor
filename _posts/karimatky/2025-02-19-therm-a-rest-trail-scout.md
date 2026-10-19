@@ -3,6 +3,7 @@ layout: post
 title: "Therm-a-Rest Trail Scout – dostupná samonafukovací karimatka pro nenáročné cestovatele"
 categories: "karimatky"
 model: "Therm-a-Rest Trail Scout"
+znacka: "Therm-a-Rest"
 feature-img: 
 thumbnail: https://cascadedesigns.com/cdn/shop/files/11454_thermarest_trail_scout_darkforest_regular_angle.jpg
 vaha: 680

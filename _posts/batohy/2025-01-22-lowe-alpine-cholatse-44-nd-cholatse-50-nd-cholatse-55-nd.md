@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://images.bike24.com/i/mb/4d/ed/ed/lowe-alpine-cholatse-nd50-21-1496708.jpg
 model: "Lowe Alpine Cholatse 50 ND"
+znacka: "Lowe Alpine"
 vaha: 1950
 objem: 50
 material: "Nylon 600D, Nylon 210D"

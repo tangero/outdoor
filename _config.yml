@@ -19,6 +19,9 @@ collections:
   categories:
     output: true
     permalink: /:name/
+  novinky:
+    output: true
+    permalink: /novinky/:title/
 
 # Authors
 authors:
@@ -84,3 +87,9 @@ defaults:
       type: "categories"
     values:
       layout: "category"
+  -
+    scope:
+      path: ""
+      type: "novinky"
+    values:
+      layout: "novinka"

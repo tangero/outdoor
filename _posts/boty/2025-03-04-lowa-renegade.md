@@ -3,6 +3,7 @@ layout: post
 title: Lowa Renegade GTX Mid - Legenda pro univerzální turistiku
 categories: boty
 model: Lowa Renegade GTX Mid
+znacka: "Lowa"
 feature-img: 
 thumbnail: https://www.switchbacktravel.com/sites/default/files/images/articles/Lowa%20Renegade%20hiking%20boots.jpg
 vaha: 1110

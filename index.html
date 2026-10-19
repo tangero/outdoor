@@ -1,54 +1,127 @@
 ---
 layout: default
-title: Home
+title: Recenze a novinky outdoorového vybavení
 ---
 
 {% if page.url == "/" %}
 
-<!-- Featured
+{% include rubriky-pruh.html %}
+
+{% assign recenze = site.posts | where_exp: "p", "p.model" %}
+{% assign hlavni = recenze.first %}
+{% assign novinky = site.novinky | sort: "date" | reverse %}
+
+<!-- Hlavní článek
 ================================================== -->
-<section class="featured-posts">
+<section class="hp-hlavni" aria-labelledby="hp-hlavni-titulek">
+    <a class="hp-hlavni__obr" href="{{ site.baseurl }}{{ hlavni.url }}" tabindex="-1" aria-hidden="true">
+        <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1100,h_720,c_fill,g_auto,f_auto,q_auto/{{ hlavni.thumbnail }}" alt="">
+    </a>
+    <div class="hp-hlavni__text">
+        <p class="hp-stitek">Nejnovější recenze · {{ hlavni.znacka }}</p>
+        <h2 id="hp-hlavni-titulek" class="hp-hlavni__titulek"><a href="{{ site.baseurl }}{{ hlavni.url }}">{{ hlavni.title }}</a></h2>
+        <p class="hp-hlavni__perex">{{ hlavni.excerpt | strip_html | truncatewords: 45 }}</p>
+        <p class="hp-meta">
+            {% include datum.html d=hlavni.date %}
+            {% if hlavni.hodnoceni %}<span class="hp-znamka">{{ hlavni.hodnoceni | replace: ".", "," }}/10</span>{% endif %}
+        </p>
+        <a class="hp-odkaz" href="{{ site.baseurl }}{{ hlavni.url }}">Číst recenzi <span aria-hidden="true">→</span></a>
+    </div>
+</section>
 
-
-
-
-        <div class="row" style="margin-top:30px;">
-        <!-- Zde začíná výpis rubrik -->
-        {% for rubrika in site.data.rubriky %}
-        <div class="col-md-2 col-sm-6 text-center">
-        <a href="{{ site.baseurl }}/{{ rubrika.name }}/" class="rubrika-link">
-        <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="{{ rubrika.title }}" class="img-fluid" style="height: 48px;">
-        <p>{{ rubrika.title }}</p>
-        </a>
-        </div>
+{% if novinky.size > 0 %}
+<!-- Novinky od výrobců
+================================================== -->
+<section class="hp-sekce" aria-labelledby="hp-novinky">
+    <header class="hp-sekce__hlava">
+        <h2 id="hp-novinky">Novinky od výrobců</h2>
+        <a class="hp-odkaz" href="{{ site.baseurl }}/novinky/">Všechny novinky <span aria-hidden="true">→</span></a>
+    </header>
+    <div class="hp-novinky">
+        {% for n in novinky limit: 8 %}
+        {% include hp-karta.html p=n velikost="novinka" %}
         {% endfor %}
-        <!-- Konec výpisu rubrik -->
-        </div>
-    
+    </div>
+</section>
+{% endif %}
 
-    <div class="section-title">
-        <h2><span>Co byste neměli přehlédnout</span></h2>
-    </div> 
-    {% comment %} Begin Featured Posts Section {% endcomment %}
-    {% assign featured_posts = site.posts | where: "featured", true | sort: "date" | reverse %}
+<!-- Rubriky
+================================================== -->
+{% for rubrika in site.data.rubriky %}
+{% assign vse = site.posts | where_exp: "p", "p.categories contains rubrika.name" %}
+{% assign clanky = vse | where_exp: "p", "p.url != hlavni.url" %}
+{% if clanky.size > 0 %}
+<section class="hp-sekce" aria-labelledby="hp-{{ rubrika.name }}">
+    <header class="hp-sekce__hlava">
+        <h2 id="hp-{{ rubrika.name }}">
+            <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="" aria-hidden="true">
+            {{ rubrika.title }}
+            <span class="hp-pocet">{{ vse.size }} recenzí</span>
+        </h2>
+        <nav class="hp-sekce__odkazy" aria-label="{{ rubrika.title }}">
+            {% capture prehled_url %}/{{ rubrika.name }}/prehled/{% endcapture %}
+            {% assign prehled = site.pages | where: "url", prehled_url | first %}
+            {% if prehled %}<a class="hp-odkaz" href="{{ site.baseurl }}{{ prehled_url }}">Srovnávací přehled</a>{% endif %}
+            <a class="hp-odkaz" href="{{ site.baseurl }}/{{ rubrika.name }}/">Vše z rubriky <span aria-hidden="true">→</span></a>
+        </nav>
+    </header>
+    <div class="hp-rubrika">
+        {% assign prvni = clanky.first %}
+        {% include hp-karta.html p=prvni velikost="velka" %}
+        <div class="hp-rubrika__dalsi">
+            {% for p in clanky offset: 1 limit: 3 %}
+            {% include hp-karta.html p=p velikost="mala" %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
+{% endfor %}
+
+<!-- Průvodce (ručně vybrané články)
+================================================== -->
+{% assign featured_posts = site.posts | where: "featured", true | sort: "date" | reverse %}
+{% if featured_posts.size > 0 %}
+<section class="hp-sekce featured-posts" aria-labelledby="hp-pruvodce">
+    <header class="hp-sekce__hlava">
+        <h2 id="hp-pruvodce">Co byste neměli přehlédnout</h2>
+    </header>
     <div class="row">
       {% for post in featured_posts limit:2 %}
         {% include featuredbox.html %}
       {% endfor %}
     </div>
-    {% comment %} End Featured Posts Section {% endcomment %}
+</section>
+{% endif %}
 
+<!-- Značky
+================================================== -->
+<section class="hp-sekce" aria-labelledby="hp-znacky">
+    <header class="hp-sekce__hlava">
+        <h2 id="hp-znacky">Značky</h2>
+        <a class="hp-odkaz" href="{{ site.baseurl }}/znacky/">Přehled podle značek <span aria-hidden="true">→</span></a>
+    </header>
+    <ul class="hp-znacky">
+        {% for z in site.data.znacky %}
+        {% assign pocet = site.posts | where: "znacka", z.name | size %}
+        {% assign pocet_n = site.novinky | where: "znacka", z.name | size %}
+        {% assign celkem = pocet | plus: pocet_n %}
+        {% if celkem > 0 %}
+        <li><a href="{{ site.baseurl }}/znacky/#{{ z.slug }}">{{ z.name }} <span class="hp-pocet">{{ celkem }}</span></a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
 </section>
 
 {% endif %}
 
-<!-- Posts Index
+<!-- Všechny články
 ================================================== -->
 <section class="recent-posts">
 
     <div class="section-title">
 
-        <h2><span>Nejnovější zkušenosti</span></h2>
+        <h2><span>{% if page.url == "/" %}Všechny články{% else %}Články – strana {{ paginator.page }}{% endif %}</span></h2>
 
     </div>
 
@@ -72,4 +145,3 @@ title: Home
     {% include pagination.html %}
 </span>
 </div>
-

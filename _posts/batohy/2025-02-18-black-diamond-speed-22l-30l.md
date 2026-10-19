@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/2677/63580/4337d9dd5566c36b82d75408a660dc13bfe2fbad__92030.1726882640.386.513.jpg
 model: "Black Diamond Speed 30"
+znacka: "Black Diamond"
 vaha: 940
 objem: 30
 material: "210D Nylon s PU povrchovou úpravou"

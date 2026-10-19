@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://image.ceneostatic.pl/data/products/81447911/i-lowe-alpine-altus-52-57-fern.jpg"
 model: "Lowe Alpine Altus 52:57"
+znacka: "Lowe Alpine"
 vaha: 1900
 objem: 52
 material: "600D Nylon s PU povrchovou úpravou"

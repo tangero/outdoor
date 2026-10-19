@@ -3,6 +3,7 @@ layout: post
 title: Salomon Alphacross - Univerzální trailová obuv pro každodenní dobrodružství
 categories: boty
 model: Salomon Alphacross 4
+znacka: "Salomon"
 feature-img: 
 thumbnail: https://www.loparshop.se/media/catalog/product/cache/395d69d11582a890de6ced5a300886cf/1/5/1500x1500-h-2.jpg
 vaha: 304

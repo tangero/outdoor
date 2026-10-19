@@ -18,7 +18,9 @@ pip install -r scripts/requirements.txt # Python závislosti automatu (lokálně
 python scripts/monitor.py --dry-run --verbose [--only Keen]   # monitoring nanečisto
 python scripts/trideni.py --verbose     # třídění kandidátů (Haiku), potřebuje ANTHROPIC_API_KEY
 python scripts/recenze.py --pocet 1 --dry-run --verbose       # recenze do _automat/nanecisto/
+python scripts/novinky.py --pocet 3 --dry-run --verbose       # novinky do _automat/nanecisto/
 gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý automat v Actions nanečisto
+                                        # (pocet=0 jen novinky; -f limit=N kolik třídit, -f novinky=N)
 ```
 
 - Klíče (`ANTHROPIC_API_KEY`, `EXA_API_KEY`, `TINYFISH_API_KEY`) jsou jen v GitHub
@@ -35,13 +37,23 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   Pluginy: paginate, sitemap, feed, seo-tag. AdSense zapnutý v `_config.yml`.
 - **Obsah:** recenze v `_posts/<rubrika>/RRRR-MM-DD-slug.md`, obecné články přímo
   v `_posts/`. Permalink `/:categories/:title/` → např. `/batohy/osprey-exos-48-osprey-exos-58/`.
+  Krátké **novinky** výrobců jsou samostatná kolekce `_novinky/` (`/novinky/<slug>/`,
+  layout `novinka`) — nejsou v `site.posts`, přehledech, stránkování ani RSS.
+- **Titulka (`index.html`, jen na `/`):** nejnovější recenze, pruh novinek, blok pro každou
+  rubriku s články, ručně vybrané (`featured: true`), pruh značek; pod tím stránkovaný
+  výpis všech článků. Styly `hp-*` na konci `assets/css/main.scss`, karta `_includes/hp-karta.html`,
+  české datum `_includes/datum.html`, pruh rubrik `_includes/rubriky-pruh.html` (prázdné rubriky skrývá).
+- **Značky:** `_data/znacky.yml` (název, slug, prefixy modelu); pole `znacka` ve front matter
+  recenzí i novinek; stránka `/znacky/`. Automat značku doplňuje sám (`lib.brand_of`).
 - **Rubriky:** kolekce `_categories/*.md` + `_data/rubriky.yml`. Srovnávací tabulky
   `batohy/prehled.md`, `boty/prehled.md`, `karimatky/prehled.md` (Liquid nad front matter).
 - **Vlastní pluginy (`_plugins/`):** `product_linker.rb` po renderu převede zmínky
   produktů z `_data/products.yml` (`name`, pak `variants`) na odkazy na recenze;
   `fix_categories.rb` převádí `categories` ze stringu na pole.
 - **Obrázky:** externí URL v `thumbnail`, servírované přes Cloudinary fetch
-  `res.cloudinary.com/dvwv5cne3/image/fetch/...`.
+  `res.cloudinary.com/dvwv5cne3/image/fetch/...`. Cloudinary propouští jen domény
+  z allowlistu (Settings → Security → Allowed fetch domains, spravuje majitel);
+  automat proto obrázek před zápisem ověří (`lib.image_ok`) a jinak zkusí další.
 - **Automat (`scripts/`, stav v `_automat/`, workflow `.github/workflows/monitor.yml`):**
   1. `monitor.py` (denně 9:00 UTC) projde `_automat/zdroje.yml` — strategie `shopify`
      (veřejné `/products.json`, nové = `published_at` za 45 dní), `exa` (jen od
@@ -53,7 +65,12 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
      rubriky: rešerše (stránka výrobce + nezávislé testy přes TinyFish Search/Fetch,
      záložně Exa) → text (Sonnet, strukturovaný výstup) → kontrola faktů (Haiku, až
      2 kola oprav) → `_posts/<rubrika>/` + záznam do `_data/products.yml`. Workflow
-     založí PR s články; stav fronty commitne rovnou do `master`.
+     commitne články i stav fronty rovnou do `master` (majitel je prochází a opravuje
+     dodatečně). Značky z posledních 14 dní dostávají přednost až po ostatních.
+  4. `novinky.py` (denně po třídění, 3 kusy, ~0,012 USD/ks, vlastní strop 0,5 USD/týden)
+     napíše krátké představení čerstvých kandidátů (ne starých draftů) jen podle stránky
+     výrobce → `_novinky/`, commit do `master`. Stav kandidáta nemění (recenze může
+     přijít později), zapíše jen `novinka`.
   - Společné funkce (stahování stránek TinyFish → Exa → requests, volání Claude,
     náklady) v `scripts/automat_lib.py`. Náklady po ISO týdnech v `_automat/naklady.json`,
     strop `AUTOMAT_TYDENNI_LIMIT_USD` (výchozí 2 USD).
@@ -90,7 +107,11 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
 - **PR z Actions:** vyžaduje v Settings → Actions → General zapnuté „Allow GitHub
   Actions to create and approve pull requests". Bez toho workflow jen pushne větev
   `recenze/…` a vypíše varování.
-- **Build je pomalý (~130 s) kvůli `product_linker.rb`**; bez něj ~2 s (změřeno).
+- **Build je pomalý kvůli `product_linker.rb`** (prochází celé HTML každé stránky);
+  bez něj ~5 s. Na ladění šablon stačí build bez linkeru: dočasný config
+  `plugins_dir: <složka jen s fix_categories.rb>` a `-d` mimo `_site`.
+- **`site.categories` v Liquidu nefunguje** — překrývá ho kolekce `_categories`.
+  Články rubriky ber jako `site.posts | where_exp: "p", "p.categories contains rubrika.name"`.
 - **GitHub Pages** (`tangero.github.io/outdoor`, legacy build) není produkce a jeho
   build padá na `boty/prehled.md` (Jekyll 3.10). Produkce je Cloudflare Pages.
 - **Shopify katalogy obsahují i oblečení, lezecké a lyžařské vybavení** — filtruje

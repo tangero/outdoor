@@ -3,6 +3,7 @@ layout: post
 title: Mammut Alnasca Knit Low - Lehká a Pohodlná Approach Bota
 categories: boty
 model: Mammut Alnasca Knit Low
+znacka: "Mammut"
 feature-img: 
 thumbnail: https://www.fjellsport.no/assets/blobs/3020-06500-5975-main2-ff83996b50.jpeg
 vaha: 380

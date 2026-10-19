@@ -3,6 +3,7 @@ layout: post
 title: Klymit Insulated Static V – komfortní a odolná karimatka na chladnější podmínky
 categories: "karimatky"
 model: "Klymit Insulated Static V"
+znacka: "Klymit"
 feature-img: 
 thumbnail: https://klymit.com/cdn/shop/files/staticv-1.jpg
 vaha: 680

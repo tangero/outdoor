@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% include rubriky-pruh.html %}
+
+{% assign recenze = site.posts | where: "model", page.model | first %}
+{% assign rubrika = site.data.rubriky | where: "name", page.rubrika | first %}
+
+<article class="novinka">
+    <header class="novinka__hlava">
+        <p class="hp-stitek">Novinka · {{ page.znacka }}{% if rubrika %} · <a href="{{ site.baseurl }}/{{ rubrika.name }}/">{{ rubrika.title }}</a>{% endif %}</p>
+        <h1 class="novinka__titulek">{{ page.title }}</h1>
+        <p class="hp-meta">{% include datum.html d=page.date %}{% if page.cena %} · {{ page.cena }}{% endif %}</p>
+    </header>
+
+    {% if recenze %}
+    <p class="novinka__recenze">K tomuto produktu máme i podrobnou recenzi: <a href="{{ site.baseurl }}{{ recenze.url }}">{{ recenze.title }}</a></p>
+    {% endif %}
+
+    <div class="article-post">
+        {{ content }}
+    </div>
+
+    {% if page.odkaz_vyrobce %}
+    <p><a class="hp-odkaz" href="{{ page.odkaz_vyrobce }}" rel="nofollow noopener" target="_blank">Stránka produktu u výrobce <span aria-hidden="true">↗</span></a></p>
+    {% endif %}
+</article>
+
+{% assign dalsi = site.novinky | sort: "date" | reverse | where_exp: "n", "n.url != page.url" %}
+{% if dalsi.size > 0 %}
+<section class="hp-sekce" aria-labelledby="dalsi-novinky">
+    <header class="hp-sekce__hlava">
+        <h2 id="dalsi-novinky">Další novinky</h2>
+        <a class="hp-odkaz" href="{{ site.baseurl }}/novinky/">Všechny novinky <span aria-hidden="true">→</span></a>
+    </header>
+    <div class="hp-novinky">
+        {% for n in dalsi limit: 4 %}
+        {% include hp-karta.html p=n velikost="novinka" %}
+        {% endfor %}
+    </div>
+</section>
+{% endif %}

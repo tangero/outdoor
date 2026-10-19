@@ -3,6 +3,7 @@ layout: post
 title: La Sportiva Nepal Evo GTX - Legenda pro náročné horské terény
 categories: boty
 model: La Sportiva Nepal Evo GTX
+znacka: "La Sportiva"
 feature-img: 
 thumbnail: https://images.hardloop.fr/92919/la-sportiva-nepal-evo-gtx-buty-gorskie-meskie.jpg?w=auto&h=auto&q=80
 vaha: 1000

@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://images.bike24.com/i/mb/56/20/b7/gregory-baltoro-85-pro-backpack-alaska-blue-1-1193636.jpg"
 model: "Gregory Baltoro 85"
+znacka: "Gregory"
 vaha: 2500
 objem: 85
 material: "N420D HD nylon s PU povrchovou úpravou"

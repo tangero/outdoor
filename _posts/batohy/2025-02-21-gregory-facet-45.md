@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://www.gregory.com/dw/image/v2/BBZB_PRD/on/demandware.static/-/Sites-product-catalog/default/dw8bb07004/collections/_gregory/Facet/500x500/GMP_S22_Facet45_SunsetGrey_Front34-Square.jpg
 model: "Gregory Facet 45"
+znacka: "Gregory"
 vaha: 1550
 objem: 55
 material: "Nylon 100D, Nylon 210D"

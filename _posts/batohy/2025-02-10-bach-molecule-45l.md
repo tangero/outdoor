@@ -5,13 +5,14 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: "https://www.krusche-outdoor.de/out/pictures/master/product/1/Bach_Molecule_45L_Long_Rucksack_(midnight-blue)_D-420990-0096024_Bild_1.jpg"
 model: "Bach Molecule 45L"
+znacka: "Bach"
 vaha: 1450
 objem: 45
 material: "High-tenacity nylon s PU vrstvou"
 sex: unisex
 pro: "Vynikající ventilace zad, modulární úložné možnosti, robustní konstrukce"
 proti: "Chybí integrovaný plášť proti dešti, menší boční kapsy na láhve"
-hodnoceni: 8,5
+hodnoceni: 8.5
 ---
 
 

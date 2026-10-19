@@ -3,6 +3,7 @@ layout: post
 title: Hoka Speedgoat 5 - Legenda pro trailový běh a náročné terény
 categories: boty
 model: Hoka Speedgoat 5
+znacka: "Hoka"
 feature-img: 
 thumbnail: https://s3.amazonaws.com/images.gearjunkie.com/uploads/2022/03/hoka-speedgoat-5-hero-1880x1253.jpg
 vaha: 291

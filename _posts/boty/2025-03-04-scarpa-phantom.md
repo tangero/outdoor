@@ -3,6 +3,7 @@ layout: post
 title: Scarpa Phantom 6000 - Expediční Dvojitá Bota do Extrémních Podmínek
 categories: boty
 model: Scarpa Phantom 6000
+znacka: "Scarpa"
 feature-img: 
 thumbnail: https://bms-bergschule.de/wp-content/uploads/2019/06/Scarpa-Phantom-6000-Einsatz-im-Kaunertal.jpg
 vaha: 995

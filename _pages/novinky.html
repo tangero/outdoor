@@ -1,0 +1,24 @@
+---
+layout: default
+title: Novinky od výrobců
+permalink: /novinky/
+---
+
+{% include rubriky-pruh.html %}
+
+{% assign novinky = site.novinky | sort: "date" | reverse %}
+<section class="hp-sekce">
+    <header class="hp-sekce__hlava">
+        <h1>Novinky od výrobců</h1>
+    </header>
+    <p class="hp-uvod">Nové batohy, boty a karimatky, které výrobci právě uvedli na trh. Krátké představení podle informací výrobce; podrobné recenze vycházejí průběžně.</p>
+    {% if novinky.size > 0 %}
+    <div class="hp-novinky hp-novinky--mrizka">
+        {% for n in novinky %}
+        {% include hp-karta.html p=n velikost="novinka" %}
+        {% endfor %}
+    </div>
+    {% else %}
+    <p class="hp-prazdne">Zatím tu žádné novinky nejsou. První přibudou s nejbližší kontrolou nabídky výrobců.</p>
+    {% endif %}
+</section>

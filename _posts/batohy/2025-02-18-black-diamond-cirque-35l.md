@@ -5,6 +5,7 @@ categories: "batohy"
 feature-img: "assets/img/feature-img/backpack.jpg"
 thumbnail: https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/2604/62888/bd919d8408370917a35d8eb9db12eb21b0664c64__03408.1721958206.386.513.jpg
 model: "Black Diamond Cirque 35L"
+znacka: "Black Diamond"
 vaha: 1170
 objem: 35
 material: "420D nylon s TPU laminací"

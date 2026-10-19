@@ -3,6 +3,7 @@ layout: post
 title: Salomon Outline - Lehká a univerzální turistická obuv
 categories: boty
 model: Salomon Outline GTX
+znacka: "Salomon"
 feature-img: 
 thumbnail: https://www.montagnes-magazine.com/media/guide_matos/chaussure_rando/img_2021/salomon_2021_outline_gtx_w.jpg
 vaha: 330
