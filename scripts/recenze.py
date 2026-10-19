@@ -41,6 +41,7 @@ FIX_ROUNDS = 2
 MAX_SOURCES = 6
 SOURCE_CHARS = 12000
 RETRY_AFTER_DAYS = 14
+BRAND_PAUSE_DAYS = 14
 EST_COST_PER_REVIEW = 0.45  # USD, horní odhad: psaní ~0,11 + až 2 opravy po ~0,10 + kontroly
 
 SKIP_DOMAINS = ("youtube.com", "youtu.be", "facebook.com", "instagram.com", "pinterest.",
@@ -196,6 +197,13 @@ def variant_titles(queue: dict, c: dict) -> list[str]:
     return sorted({x["title"] for x in queue["items"] if key and lib.model_key(x.get("model") or "") == key})
 
 
+def recent_brands(days: int) -> set[str]:
+    """Značky recenzí z posledních `days` dní (podle data v názvu souboru)."""
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
+    return {lib.brand_of(str(r["fm"].get("model", "")), str(r["fm"].get("znacka", "")))
+            for r in lib.load_reviews() if os.path.basename(r["path"])[:10] >= since}
+
+
 def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
     """Seřazení kandidáti; prvních `count` střídá rubriky, za nimi zbytek jako náhradníci."""
     now = datetime.now(timezone.utc)
@@ -214,7 +222,10 @@ def pick_candidates(queue: dict, count: int, only_id: str | None) -> list[dict]:
         if c.get("rubrika") not in lib.RUBRIKY:
             continue
         ready.append(c)
-    ready.sort(key=lambda c: (c.get("priorita", 0), c.get("published_at") or ""), reverse=True)
+    # Značky, o kterých se psalo v posledních dnech, dostanou přednost až po ostatních.
+    recent = recent_brands(BRAND_PAUSE_DAYS)
+    ready.sort(key=lambda c: (lib.brand_of(c.get("model", ""), c.get("brand", "")) not in recent,
+                              c.get("priorita", 0), c.get("published_at") or ""), reverse=True)
     # Střídat rubriky, ať týden není jen o botách.
     picked, seen = [], set()
     for c in ready:
@@ -364,25 +375,30 @@ def fix_review(c: dict, draft: dict, problems: list[dict], sources: list[dict], 
 
 
 def find_image(c: dict, page_imgs: list[str]) -> str:
-    url = c.get("thumbnail") or find_image_on_page(c, page_imgs) or lib.exa_image(c["url"])
-    return "https:" + url if url.startswith("//") else url
-
-
-def find_image_on_page(c: dict, page_imgs: list[str]) -> str:
-    fallback = page_imgs[0] if page_imgs else ""
+    """První obrázek, který projde přes Cloudinary (náhled z monitoru → og:image → stránka → Exa)."""
     log(f"   Obrázky ze stránky výrobce: {len(page_imgs)}", verbose_only=True)
+    tried = set()
+    for get in (lambda: [c.get("thumbnail") or ""], lambda: [og_image(c["url"])],
+                lambda: page_imgs[:3], lambda: [lib.exa_image(c["url"])]):
+        for url in get():
+            url = "https:" + url if url.startswith("//") else url
+            if url and url not in tried:
+                tried.add(url)
+                if lib.image_ok(url):
+                    return url
+    return ""
+
+
+def og_image(page_url: str) -> str:
     if lib.requests is None:
-        return fallback
+        return ""
     try:
-        html = lib.requests.get(c["url"], headers={"User-Agent": lib.USER_AGENT}, timeout=20).text
+        html = lib.requests.get(page_url, headers={"User-Agent": lib.USER_AGENT}, timeout=20).text
     except Exception:
-        return fallback
+        return ""
     m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', html, flags=re.I) \
         or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', html, flags=re.I)
-    if not m:
-        return fallback
-    url = m.group(1)
-    return "https:" + url if url.startswith("//") else url
+    return m.group(1) if m else ""
 
 
 def build_post(c: dict, draft: dict, image: str) -> tuple[str, str, str]:
@@ -394,7 +410,8 @@ def build_post(c: dict, draft: dict, image: str) -> tuple[str, str, str]:
     path = os.path.join(lib.POSTS_DIR, rubrika, f"{date}-{slug}.md")
 
     fm: dict = {"layout": "post", "title": draft["title"].strip(), "categories": rubrika,
-                "feature-img": "", "thumbnail": image, "model": model}
+                "feature-img": "", "thumbnail": image, "model": model,
+                "znacka": lib.brand_of(model, c.get("brand", ""))}
     for k in PARAMS_BY_RUBRIKA[rubrika]:
         v = draft["parametry"].get(k)
         if v is None or v == "":

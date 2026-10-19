@@ -357,3 +357,42 @@ def model_key(model: str) -> str:
     for pattern, repl in MODEL_SYNONYMS:
         text = re.sub(pattern, repl, text)
     return " ".join(sorted(w for w in text.split() if w not in MODEL_NOISE))
+
+
+# --------------------------------------------------------------------------- #
+# Značky a obrázky
+# --------------------------------------------------------------------------- #
+
+BRANDS_PATH = os.path.join("_data", "znacky.yml")
+CLOUDINARY_FETCH = "https://res.cloudinary.com/dvwv5cne3/image/fetch/"
+
+
+def brand_of(model: str, fallback: str = "") -> str:
+    """Značka podle začátku názvu modelu (_data/znacky.yml), jinak `fallback`."""
+    import yaml
+
+    with open(BRANDS_PATH, "r", encoding="utf-8") as f:
+        brands = yaml.safe_load(f) or []
+    low = (model or "").lower()
+    for b in brands:
+        if any(low.startswith(p.lower()) for p in b.get("prefixy", [])):
+            return b["name"]
+    for b in brands:
+        if b["name"].lower() == (fallback or "").lower():
+            return b["name"]
+    return fallback
+
+
+def image_ok(url: str) -> bool:
+    """Projde obrázek přes Cloudinary fetch? Cloudinary propouští jen povolené domény."""
+    if not url or requests is None:
+        return False
+    try:
+        resp = requests.get(CLOUDINARY_FETCH + "w_200/" + url, timeout=30)
+    except Exception:
+        return False
+    ok = resp.status_code == 200 and resp.headers.get("content-type", "").startswith("image/")
+    if not ok:
+        log(f"   Obrázek neprošel Cloudinary ({resp.status_code} "
+            f"{resp.headers.get('x-cld-error', '')[:80]}): {url[:100]}", verbose_only=True)
+    return ok
