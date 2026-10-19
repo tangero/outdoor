@@ -966,12 +966,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.090148+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Deuter AirContact Core",
       "rubrika": "batohy",
       "priorita": 5,
       "duvod": "Nová generace trekových batohů AirContact, v databázi zatím není.",
-      "trideno_at": "2026-10-19T05:01:23.512256+00:00"
+      "trideno_at": "2026-10-19T05:01:23.512256+00:00",
+      "pokus_at": "2026-10-19T05:02:31.304366+00:00"
     },
     {
       "id": "4fbc8e1f7338276a",
@@ -13564,12 +13565,14 @@
         ],
         "variants": 18
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Scarpa Ribelle Run 2 GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Nový trailový běžecký model, který čtenáři budou hledat.",
-      "trideno_at": "2026-10-19T05:00:47.994403+00:00"
+      "trideno_at": "2026-10-19T05:00:47.994403+00:00",
+      "pokus_at": "2026-10-19T05:03:28.508630+00:00",
+      "soubor": "_posts/boty/2026-10-19-scarpa-ribelle-run-2-gtx.md"
     },
     {
       "id": "32285c8a4c5895a2",
@@ -13826,12 +13829,14 @@
         ],
         "variants": 18
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Scarpa Moraine Mid Pro GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Konkrétní trekingová bota, nový model v nabídce, není mezi recenzovanými.",
-      "trideno_at": "2026-10-19T05:01:01.125459+00:00"
+      "trideno_at": "2026-10-19T05:01:01.125459+00:00",
+      "pokus_at": "2026-10-19T05:05:33.466386+00:00",
+      "soubor": "_posts/boty/2026-10-19-scarpa-moraine-mid-pro-gtx.md"
     },
     {
       "id": "dab62a38afe65a45",
