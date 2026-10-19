@@ -298,3 +298,12 @@ tr:hover {
 @media (prefers-reduced-motion: reduce) {
     .hp-karta__obr img, .hp-hlavni__obr img, .hp-odkaz span, .rubriky-pruh .rubrika-link { transition: none; }
 }
+
+/* Hodnocení článku reakcemi (widget mg-comments z vibecoding.cz, styly má ve Shadow DOM) */
+.article-feedback {
+    margin: 2.5rem 0;
+    --mgc-accent: var(--hp-akcent);
+    --mgc-text: var(--hp-text);
+    --mgc-muted: var(--hp-tlumeny);
+    --mgc-border: var(--hp-linka);
+}

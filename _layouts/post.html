@@ -96,6 +96,18 @@ post_class: post-template
                 {{content}}
             </div>
 
+            <!-- Hodnocení reakcemi (API vibecoding.cz); slug se po vydání nesmí měnit -->
+            {% if page.rating != false %}
+            {% assign rating_slug = page.url | slugify: "latin" | prepend: "vybavenidoprirody-" | truncate: 200, "" %}
+            {% if page.rating_slug %}{% assign rating_slug = page.rating_slug %}{% endif %}
+            <section class="article-feedback" id="hodnoceni">
+                <mg-comments site="vybavenidoprirody" page-id="{{ rating_slug }}" discussion="off"
+                    rating="on" rating-slug="{{ rating_slug }}" rating-title="{{ page.title | escape }}"
+                    rating-url="https://www.vybavenidoprirody.com{{ page.url }}" loading="lazy"></mg-comments>
+            </section>
+            <script src="https://www.vibecoding.cz/js/mg-comments.js" defer></script>
+            {% endif %}
+
             <!-- Rating -->
             {% if page.rating %}
             <div class="rating mb-4 d-flex align-items-center">

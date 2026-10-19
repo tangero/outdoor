@@ -1,5 +1,8 @@
 # Mediumish Jekyll Theme - Change Log
 
+## 2026-10-19 (Vybavení do přírody)
+- Pod každým článkem hodnocení šesti reakcemi (widget `mg-comments` z vibecoding.cz, bez diskuse). Slug `vybavenidoprirody-<cesta-článku>`; vypnutí v článku přes `rating: false`, ruční slug přes `rating_slug` (starý článek o Lowe Alpine AirZone Trek 45:55 by jinak kolidoval s novým).
+
 ## 2019-05-16, v1.0.36
 - docker-composer.yml
 - better responsiveness for 1920x1080 resolution

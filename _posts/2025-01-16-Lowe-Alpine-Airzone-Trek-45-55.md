@@ -2,6 +2,7 @@
 layout: post
 title: "Lowe Alpine Airzone Trek 45:55"
 categories: "batohy"
+rating_slug: vybavenidoprirody-batohy-lowe-alpine-airzone-trek-45-55-2025
 objem: 45
 feature-img: "/assets/img/feature-img/backpack.jpg"
 thumbnail: "/assets/posts/LoweAlpineAirzoneTrek45-55.jpg"
