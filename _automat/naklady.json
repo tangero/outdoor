@@ -1,14 +1,14 @@
 {
   "tydny": {
     "2026-W43": {
-      "usd": 0.42604,
-      "volani": 43,
+      "usd": 0.46077,
+      "volani": 47,
       "polozky": {
-        "trideni": 0.07052,
+        "trideni": 0.07091,
         "recenze-psani": 0.1993,
         "recenze-kontrola": 0.02238,
         "recenze-oprava": 0.10183,
-        "novinka": 0.03201
+        "novinka": 0.06635
       }
     }
   }

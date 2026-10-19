@@ -13270,7 +13270,12 @@
       "published_at": "",
       "detected_at": "2026-10-14T14:20:12.414156+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skládací kuchyňský dřez/doplněk z kategorie outdoor vaření, nepatří do rubrik batohy, boty ani karimatky.",
+      "trideno_at": "2026-10-19T16:13:09.463766+00:00"
     },
     {
       "id": "727f6eac7c0846e4",
@@ -15029,7 +15034,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Přístupová bota pro technický terén, nová FW26.",
-      "trideno_at": "2026-10-19T05:00:34.996899+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996899+00:00",
+      "novinka": "_novinky/2026-10-19-garmont-9-81-onyx-mb-gtx.md",
+      "novinka_at": "2026-10-19T16:13:41.959605+00:00"
     },
     {
       "id": "949fe0e1591b31ae",
@@ -16551,7 +16558,9 @@
       "rubrika": "boty",
       "priorita": 2,
       "duvod": "Outdoorový sandál do terénu, ale s městským lifestyle zaměřením, proto nízká priorita.",
-      "trideno_at": "2026-10-19T05:00:47.994340+00:00"
+      "trideno_at": "2026-10-19T05:00:47.994340+00:00",
+      "novinka": "_novinky/2026-10-19-keen-newport-hl.md",
+      "novinka_at": "2026-10-19T16:13:49.040424+00:00"
     },
     {
       "id": "205d02bb225de132",
@@ -16934,7 +16943,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Trekingová bota, relevantní pro rubriku boty, dámská verze stejného modelu.",
-      "trideno_at": "2026-10-19T05:00:47.994509+00:00"
+      "trideno_at": "2026-10-19T05:00:47.994509+00:00",
+      "novinka": "_novinky/2026-10-19-scarpa-mustang-trk-gtx.md",
+      "novinka_at": "2026-10-19T16:13:30.308023+00:00"
     },
     {
       "id": "47f7d55c9bf30c83",
