@@ -440,10 +440,12 @@ def upload_image(url: str, public_id: str) -> str:
     try:
         resp = requests.post(f"https://api.cloudinary.com/v1_1/{conf.hostname}/image/upload",
                              data=params, files={"file": ("obrazek", img.content)}, timeout=60)
-        resp.raise_for_status()
+        if resp.status_code != 200:
+            log(f"   ⚠️  Nahrání do Cloudinary selhalo ({resp.status_code}): {resp.text[:200]}")
+            return ""
         return resp.json()["secure_url"]
     except Exception as e:
-        log(f"   Nahrání do Cloudinary selhalo: {e}", verbose_only=True)
+        log(f"   ⚠️  Nahrání do Cloudinary selhalo: {e}")
         return ""
 
 
