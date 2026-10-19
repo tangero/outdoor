@@ -1,6 +1,8 @@
 # Mediumish Jekyll Theme - Change Log
 
 ## 2026-10-19 (Vybavení do přírody)
+- Nová podoba článku: rozhodovací karta recenze, navigace po oddílech, žebříček kategorie, alternativy, seznam zdrojů (plugin `_plugins/srovnani.rb`, styly `cl-*`).
+- Blok „Naše akce“ z vibecoding.cz (`assets/js/promo.js`) místo Google AdSense; AdSense vypnutý.
 - Pod každým článkem hodnocení šesti reakcemi (widget `mg-comments` z vibecoding.cz, bez diskuse). Slug `vybavenidoprirody-<cesta-článku>`; vypnutí v článku přes `rating: false`, ruční slug přes `rating_slug` (starý článek o Lowe Alpine AirZone Trek 45:55 by jinak kolidoval s novým).
 
 ## 2019-05-16, v1.0.36

@@ -307,3 +307,131 @@ tr:hover {
     --mgc-muted: var(--hp-tlumeny);
     --mgc-border: var(--hp-linka);
 }
+
+/* =====================================================================
+   Článek a recenze (třídy cl-*, _layouts/post.html)
+   ===================================================================== */
+.cl { max-width: 1140px; padding-top: 1.75rem; padding-bottom: 4rem; color: var(--hp-text); }
+.cl-drobky { font-size: .875rem; color: var(--hp-tlumeny); margin-bottom: .75rem; }
+.cl-drobky a { color: var(--hp-akcent); }
+.cl-titul {
+    font-size: 2.6rem; line-height: 1.1; letter-spacing: -.02em; font-weight: 700;
+    max-width: 24ch; margin: 0 0 .6rem; text-wrap: balance;
+}
+.cl-meta { color: var(--hp-tlumeny); font-size: .9rem; margin: 0 0 1.75rem; }
+.cl-stitek {
+    margin: 0 0 .25rem; font-size: .75rem; font-weight: 700; letter-spacing: .06em;
+    text-transform: uppercase; color: var(--hp-akcent);
+}
+
+/* Rozhodovací karta */
+.cl-karta {
+    display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    border-radius: 18px; overflow: hidden; background: #fff;
+    box-shadow: 0 0 0 1px var(--hp-linka), var(--hp-stin);
+}
+.cl-karta__obr { background: var(--hp-plocha); display: flex; align-items: center; justify-content: center; padding: 1.5rem; min-height: 300px; }
+.cl-karta__obr img { width: 100%; max-width: 380px; height: auto; mix-blend-mode: multiply; }
+.cl-karta__telo { padding: 1.75rem 2rem; display: flex; flex-direction: column; gap: 1.25rem; min-width: 0; }
+.cl-verdikt { display: flex; gap: 1.1rem; align-items: flex-start; }
+.cl-znamka {
+    flex: 0 0 76px; height: 76px; border-radius: 16px; background: var(--hp-text); color: #fff;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+}
+.cl-znamka b { font-size: 1.85rem; font-weight: 800; line-height: 1; font-variant-numeric: tabular-nums; }
+.cl-znamka span { font-size: .75rem; opacity: .8; }
+.cl-verdikt__veta { margin: 0 0 .3rem; font-size: 1.2rem; font-weight: 700; line-height: 1.35; }
+.cl-verdikt__proc { margin: 0; font-size: .95rem; line-height: 1.5; color: var(--hp-tlumeny); }
+.cl-chipy { display: flex; flex-wrap: wrap; gap: .5rem; }
+.cl-chip { display: inline-flex; flex-direction: column; padding: .45rem .75rem; border-radius: 10px; background: var(--hp-plocha); min-width: 5rem; max-width: 100%; }
+.cl-chip b { font-size: 1rem; font-weight: 700; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.cl-chip span { font-size: .75rem; color: var(--hp-tlumeny); }
+.cl-plusminus { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; }
+.cl-plusminus p { margin: 0; font-size: .925rem; line-height: 1.55; }
+.cl-plusminus .cl-plusminus__nadpis { font-weight: 700; margin-bottom: .3rem; }
+
+/* Rychlá navigace po oddílech (z nadpisů článku) */
+.cl-skok { margin: 1.75rem 0 2.5rem; }
+.cl-skok ul { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0; padding: 0; list-style: none; }
+.cl-skok li { margin: 0; }
+.cl-skok ul ul { display: contents; }
+.cl-skok a {
+    display: inline-flex; align-items: center; min-height: 40px; padding: 0 .9rem; border-radius: 999px;
+    border: 1px solid var(--hp-linka); background: #fff; color: var(--hp-text); font-size: .875rem; font-weight: 500;
+    transition: border-color .2s ease;
+}
+.cl-skok a:hover, .cl-skok a:focus-visible { border-color: var(--hp-akcent); text-decoration: none; }
+
+/* Text a boční panel */
+.cl-telo { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 3.5rem; align-items: start; }
+.cl-text { max-width: 68ch; min-width: 0; font-size: 1.05rem; }
+.cl-text h2, .cl-text h3 { scroll-margin-top: 90px; margin-top: 2.5rem; letter-spacing: -.01em; }
+.cl-text img { max-width: 100%; height: auto; border-radius: 12px; }
+.cl-text table { display: block; overflow-x: auto; max-width: 100%; font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: .875rem; line-height: 1.45; }
+.cl-text th, .cl-text td { padding: .55rem .65rem; border-bottom: 1px solid var(--hp-linka); vertical-align: top; }
+.cl-text thead th { white-space: nowrap; }
+.cl-zdroje { margin-top: 1.5rem; font-family: -apple-system, system-ui, sans-serif; font-size: .9rem; color: var(--hp-tlumeny); }
+.cl-zdroje summary { cursor: pointer; font-weight: 600; color: var(--hp-text); min-height: 44px; display: flex; align-items: center; }
+.cl-zdroje ul { margin: .25rem 0 0; padding-left: 1.1rem; }
+.cl-bok { display: flex; flex-direction: column; gap: 1.5rem; min-width: 0; position: sticky; top: 90px; }
+.cl-zebricek { background: #fff; border-radius: 16px; padding: 1.25rem; box-shadow: 0 0 0 1px var(--hp-linka); }
+.cl-zebricek__kategorie { margin: 0 0 .2rem; font-size: .8rem; font-weight: 600; color: var(--hp-tlumeny); }
+.cl-zebricek__poradi { margin: 0 0 .8rem; font-size: 1.05rem; font-weight: 700; }
+.cl-zebricek ol { margin: 0 0 .5rem; padding: 0; list-style: none; font-size: .875rem; font-variant-numeric: tabular-nums; }
+.cl-zebricek li { display: flex; justify-content: space-between; gap: .75rem; padding: .45rem .6rem; border-radius: 8px; }
+.cl-zebricek li.aktualni { background: #eef6f1; font-weight: 700; }
+.cl-zebricek__hodnota { white-space: nowrap; color: var(--hp-tlumeny); }
+.cl-zebricek li.aktualni .cl-zebricek__hodnota { color: var(--hp-text); }
+.cl-odkaz { display: inline-flex; align-items: center; min-height: 44px; font-weight: 600; font-size: .875rem; color: var(--hp-akcent); }
+
+/* Naše akce (assets/js/promo.js) */
+.cl-promo { border-radius: 16px; padding: 1.25rem; background: var(--hp-text); color: #fff; }
+.cl-promo p { margin: 0 0 .5rem; }
+.cl-promo .cl-promo__stitek { font-size: .7rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; opacity: .7; }
+.cl-promo .cl-promo__titulek { font-size: 1.1rem; font-weight: 700; line-height: 1.3; }
+.cl-promo .cl-promo__termin { font-size: .85rem; font-weight: 600; }
+.cl-promo .cl-promo__popis { font-size: .875rem; line-height: 1.5; opacity: .85; margin-bottom: 1rem; }
+.cl-promo__tlacitko {
+    display: inline-flex; align-items: center; min-height: 44px; padding: 0 1rem; border-radius: 10px;
+    background: #fff; color: var(--hp-text) !important; font-weight: 700; font-size: .875rem; transition: transform .2s ease;
+}
+.cl-promo__tlacitko:hover { text-decoration: none; transform: translateY(-1px); }
+
+/* Alternativy */
+.cl-alternativy { margin-top: 4rem; }
+.cl-alternativy h2 { font-size: 1.75rem; letter-spacing: -.01em; margin: 0 0 .3rem; }
+.cl-alternativy__uvod { color: var(--hp-tlumeny); margin: 0 0 1.4rem; }
+.cl-alternativy__mrizka { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem; }
+.cl-alt {
+    display: flex; flex-direction: column; background: #fff; border-radius: 16px; overflow: hidden;
+    color: var(--hp-text); box-shadow: 0 0 0 1px var(--hp-linka); transition: box-shadow .2s ease, transform .2s ease;
+}
+.cl-alt:hover { text-decoration: none; color: var(--hp-text); box-shadow: 0 0 0 1px var(--hp-akcent), var(--hp-stin); transform: translateY(-2px); }
+.cl-alt__obr { display: flex; align-items: center; justify-content: center; aspect-ratio: 4 / 3; background: var(--hp-plocha); }
+.cl-alt__obr img { width: 100%; height: 100%; object-fit: contain; mix-blend-mode: multiply; }
+.cl-alt__text { display: flex; flex-direction: column; gap: .2rem; padding: 1rem 1.1rem 1.25rem; }
+.cl-alt__model { font-size: 1.1rem; font-weight: 700; line-height: 1.3; }
+.cl-alt__popis { font-size: .875rem; color: var(--hp-tlumeny); font-variant-numeric: tabular-nums; }
+
+@media (max-width: 991px) {
+    .cl-karta { grid-template-columns: 1fr; }
+    .cl-karta__obr { min-height: 0; }
+    .cl-karta__obr img { max-width: 280px; }
+    .cl-telo { grid-template-columns: 1fr; gap: 2rem; }
+    .cl-bok { position: static; }
+    .cl-alternativy__mrizka { grid-template-columns: 1fr; }
+    .cl-alt { flex-direction: row; }
+    .cl-alt__obr { flex: 0 0 132px; aspect-ratio: 1 / 1; }
+}
+@media (max-width: 575px) {
+    .cl-titul { font-size: 1.85rem; }
+    .cl-karta__telo { padding: 1.25rem; }
+    .cl-plusminus { grid-template-columns: 1fr; }
+    .cl-text { font-size: 1rem; }
+    .cl-alt__obr { flex-basis: 104px; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .cl-alt, .cl-promo__tlacitko, .cl-skok a { transition: none; }
+}
+/* Fotku produktu má recenze už v kartě; tutéž fotku hned pod úvodem nezdvojujeme */
+.cl--recenze .cl-text > p:nth-child(-n+3) > img:only-child { display: none; }

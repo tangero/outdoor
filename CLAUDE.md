@@ -44,6 +44,16 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   rubriku s články (všechny letošní, aspoň 4; nad čtyři v řadě `hp-rubrika__vice`), ručně vybrané (`featured: true`), pruh značek; pod tím stránkovaný
   výpis všech článků. Styly `hp-*` na konci `assets/css/main.scss`, karta `_includes/hp-karta.html`,
   české datum `_includes/datum.html`, pruh rubrik `_includes/rubriky-pruh.html` (prázdné rubriky skrývá).
+- **Článek (`_layouts/post.html`, styly `cl-*` na konci `main.scss`):** recenze (má `model`) dostane
+  rozhodovací kartu (fotka, známka, verdikt, parametry, pro/proti), řadu odkazů na oddíly z nadpisů,
+  boční žebříček kategorie, blok „Naše akce“ a tři alternativy. Data karty počítá plugin
+  `_plugins/srovnani.rb` do `page.srovnani`: kategorie (batohy podle objemu, karimatky podle `typ`,
+  boty podle `tvar`), pořadí podle hmotnosti (u bot podle hodnocení, váhy bot nejsou jednotné),
+  zdůvodnění známky z řádku pod `**Hodnocení:**`. Pod textem hodnocení reakcemi (`mg-comments`
+  z vibecoding.cz, vypnutí `rating: false`, slug je `vybavenidoprirody-<cesta>` a nesmí se měnit,
+  ruční přepis `rating_slug`) a rozbalovací seznam `zdroje`. „Naše akce“ plní `assets/js/promo.js`
+  z `vibecoding.cz/api/active-promotion` (správa v admin/promo); bez odpovědi zůstane skrytý.
+  Obě API vyžadují doménu webu v CORS allowlistu vibecoding.cz. Google AdSense je vypnutý.
 - **Značky:** `_data/znacky.yml` (název, slug, prefixy modelu); pole `znacka` ve front matter
   recenzí i novinek; stránka `/znacky/`. Automat značku doplňuje sám (`lib.brand_of`).
 - **Rubriky:** kolekce `_categories/*.md` + `_data/rubriky.yml`. Srovnávací tabulky

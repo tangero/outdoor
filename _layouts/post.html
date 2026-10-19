@@ -4,97 +4,101 @@ disqus: false
 archive: false
 post_class: post-template
 ---
-
-
+{% comment %}
+Článek. Recenze (má `model`) dostane rozhodovací kartu, rychlou navigaci, boční žebříček
+kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovnani.
+{% endcomment %}
 {% include rubriky-pruh.html %}
+{%- assign recenze = page.model -%}
+{%- assign s = page.srovnani -%}
+{%- assign rubrika = page.categories | first -%}
+{%- assign rubrika_info = site.data.rubriky | where: "name", rubrika | first -%}
+{%- assign minut = content | number_of_words | divided_by: 200 | at_least: 1 -%}
+{%- assign obr_karta = "w_720,h_720,c_pad,b_white,f_auto,q_auto" -%}
+{%- assign obr_alt = "w_480,h_360,c_pad,b_white,f_auto,q_auto" -%}
 
+<div class="container cl{% if recenze %} cl--recenze{% endif %}">
 
-    
-<!-- Begin Article
-================================================== -->
-<div class="container">
-    <div class="row">
+    {% if recenze %}
+    <nav class="cl-drobky" aria-label="Drobečková navigace">
+        <a href="{{ site.baseurl }}/{{ rubrika }}/">{{ rubrika_info.title | default: rubrika }}</a>
+        {% if s.prehled %} › <a href="{{ site.baseurl }}{{ s.prehled }}">{{ s.segment }}</a>{% endif %}
+        › <span>{{ page.model }}</span>
+    </nav>
+    {% endif %}
 
-        <!-- Post Share -->
-        <div class="col-md-2 pl-0">
-            {% include share.html %}
+    <h1 class="cl-titul">{{ page.title }}</h1>
+    <p class="cl-meta">
+        {% include datum.html d=page.date %} · čtení na {{ minut }} {% if minut < 5 %}minuty{% else %}minut{% endif %}
+        {% if page.zdroje.size > 0 %} · vychází z {{ page.zdroje.size }} {% if page.zdroje.size == 1 %}zdroje{% else %}zdrojů{% endif %}{% endif %}
+    </p>
+
+    {% if recenze %}
+    <section class="cl-karta" aria-label="Shrnutí recenze">
+        <div class="cl-karta__obr">
+            {% if page.thumbnail and page.thumbnail != "" %}
+            {% if page.thumbnail contains "://" %}
+            <img src="{% include cld.html u=page.thumbnail t=obr_karta %}" alt="{{ page.model }}">
+            {% else %}
+            <img src="{{ site.baseurl }}{{ page.thumbnail }}" alt="{{ page.model }}">
+            {% endif %}
+            {% endif %}
         </div>
-
-        <!-- Post -->
-        {% assign author = site.authors[page.author] %}
-
-        <div class="col-md-9 flex-first flex-md-unordered">
-            <div class="mainheading">
-
-                <!-- Author Box -->
-                {% if page.author %}
-                <div class="row post-top-meta">
-                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-                        {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                        {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-                        {% endif %}
-                    </div>
-                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-                        <span class="author-description">{{ author.description }}</span>
-                    </div>
+        <div class="cl-karta__telo">
+            <div class="cl-verdikt">
+                {% if page.hodnoceni %}
+                <div class="cl-znamka" aria-label="Hodnocení {{ page.hodnoceni | replace: '.', ',' }} z 10">
+                    <b>{{ page.hodnoceni | replace: ".", "," }}</b><span>z 10</span>
                 </div>
                 {% endif %}
-
-                <!-- Post Title -->
-                {% if page.categories contains "ostatni" %}
-                <h1 class="posttitle">{{ page.title }}</h1>
-                {% else %}
-                <h1 class="posttitle">Zkušenosti s {{ page.title }}</h1>
+                {% if s.veta or s.zduvodneni %}
+                <div>
+                    <p class="cl-stitek">Náš verdikt</p>
+                    {% if s.veta %}<p class="cl-verdikt__veta">{{ s.veta }}</p>{% endif %}
+                    {% if s.zduvodneni %}<p class="cl-verdikt__proc">{{ s.zduvodneni }}</p>{% endif %}
+                </div>
                 {% endif %}
-
             </div>
 
-            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-            {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
-            {% endif %}
-            <!-- End Adsense -->
+            {%- capture chipy -%}
+            {%- assign vaha_text = page.vaha | append: "" -%}
+            {%- assign vaha_cislo = page.vaha | plus: 0 | append: "" -%}
+            {%- if page.vaha -%}<div class="cl-chip"><b>{{ page.vaha }}{% if vaha_text == vaha_cislo %} g{% endif %}</b><span>hmotnost</span></div>{%- endif -%}
+            {%- if rubrika == "batohy" -%}
+                {%- if page.objem -%}<div class="cl-chip"><b>{{ page.objem }} l</b><span>objem</span></div>{%- endif -%}
+                {%- if page.sex -%}<div class="cl-chip"><b>{{ page.sex }}</b><span>střih</span></div>{%- endif -%}
+            {%- elsif rubrika == "karimatky" -%}
+                {%- if page["R-faktor"] -%}<div class="cl-chip"><b>{{ page["R-faktor"] | replace: ".", "," }}</b><span>R-faktor</span></div>{%- endif -%}
+                {%- if page.tloustka -%}<div class="cl-chip"><b>{{ page.tloustka | replace: ".", "," }} cm</b><span>tloušťka</span></div>{%- endif -%}
+                {%- if page.typ -%}<div class="cl-chip"><b>{{ page.typ }}</b><span>typ</span></div>{%- endif -%}
+            {%- elsif rubrika == "boty" -%}
+                {%- if page.tvar -%}<div class="cl-chip"><b>{{ page.tvar }}</b><span>výška</span></div>{%- endif -%}
+                {%- if page.pohlavi -%}<div class="cl-chip"><b>{{ page.pohlavi }}</b><span>střih</span></div>{%- endif -%}
+                {%- if page.urceni -%}<div class="cl-chip"><b>{{ page.urceni }}</b><span>určení</span></div>{%- endif -%}
+            {%- endif -%}
+            {%- endcapture -%}
+            {% if chipy != "" %}<div class="cl-chipy">{{ chipy }}</div>{% endif %}
 
-            <!-- Post Featured Image -->
+            {% if page.pro or page.proti %}
+            <div class="cl-plusminus">
+                {% if page.pro %}<div><p class="cl-plusminus__nadpis">Co se povedlo</p><p>{{ page.pro }}</p></div>{% endif %}
+                {% if page.proti %}<div><p class="cl-plusminus__nadpis">Co vadí</p><p>{{ page.proti }}</p></div>{% endif %}
+            </div>
+            {% endif %}
+        </div>
+    </section>
+
+    {%- capture skok -%}{% include toc.html html=content h_min=2 h_max=3 class="cl-skok__seznam" %}{%- endcapture -%}
+    {% if skok contains "<li" %}<nav class="cl-skok" aria-label="Obsah recenze">{{ skok }}</nav>{% endif %}
+    {% endif %}
+
+    <div class="cl-telo">
+        <article class="article-post cl-text">
             {% if page.image %}
-
-            {% if site.lazyimages == "enabled" %}
-            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-            {% else %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img class="featured-image img-fluid" src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% endif %}
 
-            {% endif %}
-            <!-- End Featured Image -->
-
-            <div style="border: 1px solid #ccc; padding: 10px; margin: 20px 0; background-color: #f9f9f9;"> 
-                {% if page.categories contains "batohy" %}
-                <p style="font-size: 1.2em; margin: 0;"><span style="font-size: 1.5em;">💡</span> <a href="{{ site.baseurl }}/batohy/prehled/">Přehled batohů</a>
-                {% elsif page.categories contains "karimatky" %}
-                <p style="font-size: 1.2em; margin: 0;"><span style="font-size: 1.5em;">💡</span> <a href="{{ site.baseurl }}/karimatky/prehled/">Přehled karimatek</a>
-                {% endif %}
-                </p>
-            </div>
-
-
-            <!-- Post Content -->
-            <div class="article-post">
-                <!-- Toc if any -->
-                {% if page.toc %}
-                    {% if page.beforetoc %}
-                        <p><em>{{page.beforetoc}}</em></p>
-                    {% endif %}
-                    <div class="toc mt-4 mb-4 lead">
-                        <h3 class="font-weight-bold">Summary</h3>
-                        {% include toc.html html=content %}
-                    </div>
-                {% endif %}
-                <!-- End Toc -->
-                {{content}}
-            </div>
+            {{ content }}
 
             <!-- Hodnocení reakcemi (API vibecoding.cz); slug se po vydání nesmí měnit -->
             {% if page.rating != false %}
@@ -108,111 +112,66 @@ post_class: post-template
             <script src="https://www.vibecoding.cz/js/mg-comments.js" defer></script>
             {% endif %}
 
-            <!-- Rating -->
-            {% if page.rating %}
-            <div class="rating mb-4 d-flex align-items-center">
-                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
-            </div>
-            {% endif %}
-
-            <!-- Post Date -->
-            <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
-
-            <!-- Post Categories -->
-            <div class="after-post-cats">
-                <ul class="tags mb-4">
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-                    </li>
+            {% if page.zdroje.size > 0 %}
+            <details class="cl-zdroje">
+                <summary>Z čeho recenze vychází ({{ page.zdroje.size }} {% if page.zdroje.size == 1 %}zdroj{% elsif page.zdroje.size < 5 %}zdroje{% else %}zdrojů{% endif %})</summary>
+                <ul>
+                    {% for z in page.zdroje %}
+                    {% assign casti = z | split: "/" %}
+                    <li><a href="{{ z }}" rel="nofollow noopener" target="_blank">{{ casti[2] | remove_first: "www." }}</a></li>
                     {% endfor %}
                 </ul>
-            </div>
-            <!-- End Categories -->
+            </details>
+            {% endif %}
+        </article>
 
-            <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
-                    {% assign sortedTags = page.tags | sort %}
-                    {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+        <aside class="cl-bok">
+            {% if s.zebricek.size > 1 %}
+            <section class="cl-zebricek">
+                <p class="cl-zebricek__kategorie">{{ s.segment }} podle {{ s.metrika }}</p>
+                {% if s.poradi %}<p class="cl-zebricek__poradi">{{ page.model }}: {{ s.poradi }}. místo</p>{% endif %}
+                <ol>
+                    {% for z in s.zebricek %}
+                    <li{% if z.aktualni %} class="aktualni"{% endif %}>
+                        {% if z.aktualni %}<span>{{ z.poradi }}. {{ z.model }}</span>{% else %}<a href="{{ site.baseurl }}{{ z.url }}">{{ z.poradi }}. {{ z.model }}</a>{% endif %}
+                        <span class="cl-zebricek__hodnota">{{ z.hodnota }}</span>
                     </li>
                     {% endfor %}
-                </ul>
-            </div>
-            <!-- End Tags -->
-
-            {% if page.categories == "batohy" %}
-              <p><a href="{{ site.baseurl }}/batohy/prehled/">Přehled batohů</a></p>
-            {% elsif page.categories == "karimatky" %}
-              <p><a href="{{ site.baseurl }}/karimatky/prehled/">Přehled karimatků</a></p>
+                </ol>
+                <a class="cl-odkaz" href="{{ site.baseurl }}{{ s.prehled }}">Celý přehled v tabulce <span aria-hidden="true">→</span></a>
+            </section>
             {% endif %}
 
-            <!-- Prev/Next -->
-            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-            {% if page.previous.url %}
-            <a class="prev d-block col-md-6" href="{{ site.baseurl }}{{ page.previous.url }}"> &laquo; {{page.previous.title}}</a>
-            {% endif %}
-            {% if page.next.url %}
-            <a class="next d-block col-md-6 text-lg-right" href="{{ site.baseurl }}{{ page.next.url }}">{{page.next.title}} &raquo; </a>
-            {% endif %}
-            <div class="clearfix"></div>
-            </div>
-            <!-- End Categories -->
-
-        </div>
-        <!-- End Post -->
-
+            <section id="vdp-promo" class="cl-promo" aria-label="Naše akce" hidden></section>
+        </aside>
     </div>
+
+    {% if s.alternativy.size > 0 %}
+    <section class="cl-alternativy" aria-labelledby="alternativy">
+        <h2 id="alternativy">Neladí vám? Zkuste tyhle</h2>
+        <p class="cl-alternativy__uvod">Vybrané z našich recenzí podle toho, v čem se od {{ page.model }} liší.</p>
+        <div class="cl-alternativy__mrizka">
+            {% for a in s.alternativy %}
+            <a class="cl-alt" href="{{ site.baseurl }}{{ a.url }}">
+                <span class="cl-alt__obr">
+                    {% if a.thumbnail != "" %}
+                    {% if a.thumbnail contains "://" %}
+                    <img src="{% include cld.html u=a.thumbnail t=obr_alt %}" alt="" loading="lazy">
+                    {% else %}
+                    <img src="{{ site.baseurl }}{{ a.thumbnail }}" alt="" loading="lazy">
+                    {% endif %}
+                    {% endif %}
+                </span>
+                <span class="cl-alt__text">
+                    <span class="cl-stitek">{{ a.duvod }}</span>
+                    <span class="cl-alt__model">{{ a.model }}</span>
+                    <span class="cl-alt__popis">{{ a.popis }}</span>
+                </span>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
 </div>
-<!-- End Article
-================================================== -->
 
-<!-- Begin Comments
-================================================== 
-{% if page.comments != false %}
-    <div class="container">
-        <div id="comments" class="row justify-content-center mb-5">
-            <div class="col-md-8">
-                {% include disqus.html %}
-            </div>
-        </div>
-    </div>
-{% endif %}
-End Comments
-================================================== -->
-
-<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-{% if page.rating %}
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ page.title }}"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-  },
-  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5"
-  }
-}
-</script>
-{% endif %}
+<script src="{{ site.baseurl }}/assets/js/promo.js?v={{ site.time | date: '%s' }}" defer></script>
