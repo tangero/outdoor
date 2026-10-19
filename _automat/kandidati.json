@@ -70,12 +70,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.089108+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Deuter Aircontact Ultra",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní turistický batoh, řada AirContact není mezi recenzovanými v této variantě.",
-      "trideno_at": "2026-10-19T05:01:01.125851+00:00"
+      "trideno_at": "2026-10-19T05:01:01.125851+00:00",
+      "pokus_at": "2026-10-19T17:18:44.122017+00:00"
     },
     {
       "id": "a40593d7ebab5670",
@@ -108,12 +109,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.766029+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Osprey Atmos AG 50",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní batoh Osprey Atmos AG 50; řada Atmos AG 65 je recenzována, 50L verze je jiná velikost, ale nová v seznamu.",
-      "trideno_at": "2026-10-19T05:01:10.439471+00:00"
+      "trideno_at": "2026-10-19T05:01:10.439471+00:00",
+      "pokus_at": "2026-10-19T17:22:23.035383+00:00"
     },
     {
       "id": "00a05d290c050838",
@@ -167,12 +169,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.430380+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Black Diamond Cirque Ultra 25",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní batoh; řada Cirque (35L) je recenzována, Ultra 25 je nová velikost/model.",
-      "trideno_at": "2026-10-19T05:01:10.439547+00:00"
+      "trideno_at": "2026-10-19T05:01:10.439547+00:00",
+      "pokus_at": "2026-10-19T17:24:19.866048+00:00"
     },
     {
       "id": "2985fe97390608dd",
@@ -624,12 +627,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.973195+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Klymit New Motion 60",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Stránka konkrétního trekkingového batohu, v databázi zatím není.",
-      "trideno_at": "2026-10-19T05:01:23.512043+00:00"
+      "trideno_at": "2026-10-19T05:01:23.512043+00:00",
+      "pokus_at": "2026-10-19T17:23:04.064853+00:00"
     },
     {
       "id": "2b145296588c67bc",
@@ -757,12 +761,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.223789+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Lowe Alpine Edge 22",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Denní turistický batoh, v databázi zatím není.",
-      "trideno_at": "2026-10-19T05:01:23.512120+00:00"
+      "trideno_at": "2026-10-19T05:01:23.512120+00:00",
+      "pokus_at": "2026-10-19T17:28:24.042904+00:00"
     },
     {
       "id": "0a0dd914dc8b5e7e",
@@ -795,12 +800,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.222134+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Lowe Alpine Escape Tour 55+15",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Trekový batoh, v databázi zatím není.",
-      "trideno_at": "2026-10-19T05:01:23.512154+00:00"
+      "trideno_at": "2026-10-19T05:01:23.512154+00:00",
+      "pokus_at": "2026-10-19T17:31:29.956314+00:00"
     },
     {
       "id": "d6c8564f1217ea23",
@@ -1309,12 +1315,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.766539+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Osprey Talon Velocity 20",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Běžecký batoh na trail, nerecenzovaný model.",
-      "trideno_at": "2026-10-19T05:01:38.126010+00:00"
+      "trideno_at": "2026-10-19T05:01:38.126010+00:00",
+      "pokus_at": "2026-10-19T17:28:44.074153+00:00"
     },
     {
       "id": "cbec56f85aeada64",
@@ -1347,12 +1354,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.896430+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Gregory Tempo 6",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Běžecký hydratační batoh, nerecenzovaný model.",
-      "trideno_at": "2026-10-19T05:01:38.126033+00:00"
+      "trideno_at": "2026-10-19T05:01:38.126033+00:00",
+      "pokus_at": "2026-10-19T17:25:12.779131+00:00"
     },
     {
       "id": "9d87da3d1360c7de",
@@ -1633,12 +1641,14 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:19.722072+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Therm-a-Rest MondoKing 3D",
       "rubrika": "karimatky",
       "priorita": 2,
       "duvod": "Kempová nafukovací karimatka, spíše car camping, nižší priorita.",
-      "trideno_at": "2026-10-19T05:01:45.888656+00:00"
+      "trideno_at": "2026-10-19T05:01:45.888656+00:00",
+      "pokus_at": "2026-10-19T17:18:55.287428+00:00",
+      "soubor": "_posts/karimatky/2026-10-19-therm-a-rest-mondoking-3d.md"
     },
     {
       "id": "0d7891667feb571c",
@@ -2585,12 +2595,13 @@
       "published_at": "",
       "detected_at": "2026-04-27T11:03:35.067831+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Gregory Wander 50",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní turistický/cestovní batoh Gregory, nebyl dosud recenzován.",
-      "trideno_at": "2026-10-19T16:02:27.581316+00:00"
+      "trideno_at": "2026-10-19T16:02:27.581316+00:00",
+      "pokus_at": "2026-10-19T17:30:02.437514+00:00"
     },
     {
       "id": "8db6f7946b2f2f46",
@@ -3386,12 +3397,13 @@
       "published_at": "",
       "detected_at": "2026-04-29T10:55:24.324220+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Deuter Vertrail",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní trailový běžecký batoh Deuter, nový model, není mezi recenzovanými.",
-      "trideno_at": "2026-10-19T16:02:53.377397+00:00"
+      "trideno_at": "2026-10-19T16:02:53.377397+00:00",
+      "pokus_at": "2026-10-19T17:27:52.282889+00:00"
     },
     {
       "id": "f9953d8bb2509012",
@@ -3501,12 +3513,13 @@
       "published_at": "",
       "detected_at": "2026-04-30T10:55:05.328026+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Osprey Soelden 32",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní skialpový/turistický batoh Osprey, nový model, není recenzován.",
-      "trideno_at": "2026-10-19T16:02:53.377638+00:00"
+      "trideno_at": "2026-10-19T16:02:53.377638+00:00",
+      "pokus_at": "2026-10-19T17:31:48.490474+00:00"
     },
     {
       "id": "ea95f9c25681c4f4",
@@ -3653,12 +3666,13 @@
       "published_at": "",
       "detected_at": "2026-05-01T10:22:27.728707+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Gregory Kalmia 50",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní batoh Gregory, dámská verze; model není mezi recenzovanými.",
-      "trideno_at": "2026-10-19T16:02:53.377888+00:00"
+      "trideno_at": "2026-10-19T16:02:53.377888+00:00",
+      "pokus_at": "2026-10-19T17:32:07.784470+00:00"
     },
     {
       "id": "a029e875733f2cfb",
@@ -3902,12 +3916,13 @@
       "published_at": "",
       "detected_at": "2026-05-02T09:57:44.209726+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit Pursuit Plus",
       "rubrika": "karimatky",
       "priorita": 4,
       "duvod": "Samonafukovací karimatka Pursuit Plus, nový produkt mimo seznam recenzí.",
-      "trideno_at": "2026-10-19T16:03:02.416084+00:00"
+      "trideno_at": "2026-10-19T16:03:02.416084+00:00",
+      "pokus_at": "2026-10-19T17:18:24.269462+00:00"
     },
     {
       "id": "78dec1659ac631b0",
@@ -4282,12 +4297,13 @@
       "published_at": "",
       "detected_at": "2026-05-04T11:05:05.440946+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit Ultralight XR Insulated Air",
       "rubrika": "karimatky",
       "priorita": 4,
       "duvod": "Izolovaná nafukovací karimatka, mimo seznam recenzí.",
-      "trideno_at": "2026-10-19T16:03:02.416722+00:00"
+      "trideno_at": "2026-10-19T16:03:02.416722+00:00",
+      "pokus_at": "2026-10-19T17:22:39.392488+00:00"
     },
     {
       "id": "4ddf7edb1e1df624",
@@ -4415,12 +4431,13 @@
       "published_at": "",
       "detected_at": "2026-05-05T10:45:58.072979+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Lowe Alpine AirZone Trek 45:55",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní trekový batoh, v seznamu recenzovaných není.",
-      "trideno_at": "2026-10-19T16:03:15.285421+00:00"
+      "trideno_at": "2026-10-19T16:03:15.285421+00:00",
+      "pokus_at": "2026-10-19T17:23:41.588142+00:00"
     },
     {
       "id": "52e0234005013ce1",
@@ -4662,12 +4679,13 @@
       "published_at": "",
       "detected_at": "2026-05-07T11:09:38.245241+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit Ether Light XR Insulated",
       "rubrika": "karimatky",
       "priorita": 4,
       "duvod": "Konkrétní nafukovací karimatka, jiný model než recenzovaný Ether Light XT Insulated.",
-      "trideno_at": "2026-10-19T16:03:15.285765+00:00"
+      "trideno_at": "2026-10-19T16:03:15.285765+00:00",
+      "pokus_at": "2026-10-19T17:24:04.709516+00:00"
     },
     {
       "id": "a2ccd80a2e97d26a",
@@ -4738,12 +4756,13 @@
       "published_at": "",
       "detected_at": "2026-05-07T11:09:38.245884+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit UltraLight Insulated Air",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Konkrétní nafukovací karimatka, v seznamu není.",
-      "trideno_at": "2026-10-19T16:03:15.285861+00:00"
+      "trideno_at": "2026-10-19T16:03:15.285861+00:00",
+      "pokus_at": "2026-10-19T17:26:16.338407+00:00"
     },
     {
       "id": "b93401ba4ea4de8b",
@@ -6148,12 +6167,13 @@
       "published_at": "",
       "detected_at": "2026-05-21T12:14:09.839993+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Black Diamond Dawn Patrol 25",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Skialpinistický/horský batoh, nový model v nabídce.",
-      "trideno_at": "2026-10-19T16:03:55.054655+00:00"
+      "trideno_at": "2026-10-19T16:03:55.054655+00:00",
+      "pokus_at": "2026-10-19T17:30:19.186100+00:00"
     },
     {
       "id": "27a80636b0f03dcb",
@@ -6644,12 +6664,13 @@
       "published_at": "",
       "detected_at": "2026-05-21T12:14:16.885131+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit Ultralight XR Insulated",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Nafukovací karimatka Sea to Summit, nebyla dosud recenzována.",
-      "trideno_at": "2026-10-19T16:04:03.413094+00:00"
+      "trideno_at": "2026-10-19T16:04:03.413094+00:00",
+      "pokus_at": "2026-10-19T17:27:27.890832+00:00"
     },
     {
       "id": "21f5a76e368edbd3",
@@ -6740,12 +6761,13 @@
       "published_at": "",
       "detected_at": "2026-05-22T11:44:30.094735+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Deuter Aircontact Lite 50+10",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Nová velikost řady AirContact Lite, dosud nerecenzovaná varianta 50+10.",
-      "trideno_at": "2026-10-19T16:04:12.596251+00:00"
+      "trideno_at": "2026-10-19T16:04:12.596251+00:00",
+      "pokus_at": "2026-10-19T17:30:55.926783+00:00"
     },
     {
       "id": "8fd5de8cb45a9bdd",
@@ -6892,12 +6914,13 @@
       "published_at": "",
       "detected_at": "2026-05-22T11:44:37.671190+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit Ether Light XR Pro Insulated",
       "rubrika": "karimatky",
       "priorita": 4,
       "duvod": "Nová nafukovací karimatka, dosud nerecenzovaný model v řadě Ether Light.",
-      "trideno_at": "2026-10-19T16:04:12.596472+00:00"
+      "trideno_at": "2026-10-19T16:04:12.596472+00:00",
+      "pokus_at": "2026-10-19T17:25:29.479885+00:00"
     },
     {
       "id": "f8153a8435c78bd6",
@@ -7653,12 +7676,13 @@
       "published_at": "",
       "detected_at": "2026-05-24T10:41:15.565577+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Mammut Pro 45 Removable Airbag 3.0",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Skialpinistický/trekový batoh s airbagem, nerecenzováno; hraniční kvůli zaměření na ski touring.",
-      "trideno_at": "2026-10-19T16:04:30.805405+00:00"
+      "trideno_at": "2026-10-19T16:04:30.805405+00:00",
+      "pokus_at": "2026-10-19T17:25:56.520769+00:00"
     },
     {
       "id": "0c98f66e26cbfc26",
@@ -9765,12 +9789,13 @@
       "published_at": "",
       "detected_at": "2026-07-11T10:13:17.357234+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Salomon Trailblazer 10",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Běžecký batoh pro trail, nová velikost řady zatím nerecenzovaná.",
-      "trideno_at": "2026-10-19T16:05:36.254881+00:00"
+      "trideno_at": "2026-10-19T16:05:36.254881+00:00",
+      "pokus_at": "2026-10-19T17:26:34.831089+00:00"
     },
     {
       "id": "606a619095746ce2",
@@ -9804,12 +9829,13 @@
       "published_at": "",
       "detected_at": "2026-07-17T10:46:06.163226+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Sea to Summit Pursuit",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Samonafukovací karimatka, nový model v nabídce.",
-      "trideno_at": "2026-10-19T16:05:36.254924+00:00"
+      "trideno_at": "2026-10-19T16:05:36.254924+00:00",
+      "pokus_at": "2026-10-19T17:28:01.782895+00:00"
     },
     {
       "id": "b471cd97a9a83733",
@@ -9823,12 +9849,13 @@
       "published_at": "",
       "detected_at": "2026-07-18T10:17:26.688509+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Salomon Active Skin 12",
       "rubrika": "batohy",
       "priorita": 2,
       "duvod": "Běžecký hydratační vak/vesta, hraniční případ batohu.",
-      "trideno_at": "2026-10-19T16:05:36.254942+00:00"
+      "trideno_at": "2026-10-19T16:05:36.254942+00:00",
+      "pokus_at": "2026-10-19T17:30:39.795405+00:00"
     },
     {
       "id": "c4f6ab16463f2bf9",
@@ -10623,12 +10650,13 @@
       "published_at": "",
       "detected_at": "2026-08-06T11:21:55.710475+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Klymit Insulated Klymaloft Peak",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Nová izolovaná karimatka Klymit, podobná řadě Klymaloft, ale jiný model Peak.",
-      "trideno_at": "2026-10-19T16:05:57.542836+00:00"
+      "trideno_at": "2026-10-19T16:05:57.542836+00:00",
+      "pokus_at": "2026-10-19T17:23:16.933018+00:00"
     },
     {
       "id": "98ec0256fcdc43f3",
@@ -11062,12 +11090,13 @@
       "published_at": "",
       "detected_at": "2026-08-10T10:15:13.021124+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Klymit Static V Summit",
       "rubrika": "karimatky",
       "priorita": 2,
       "duvod": "Karimatka, varianta řady Static V, ale není mezi recenzovanými modely.",
-      "trideno_at": "2026-10-19T16:06:12.858852+00:00"
+      "trideno_at": "2026-10-19T16:06:12.858852+00:00",
+      "pokus_at": "2026-10-19T17:24:48.529370+00:00"
     },
     {
       "id": "f44ad282dd64f57c",
