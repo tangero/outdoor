@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-18T12:58:39.230756+00:00",
+  "last_run": "2026-10-19T05:00:06.649601+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,7 +273,7 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-10-18T12:58:31.010980+00:00",
+      "last_check": "2026-10-19T05:00:03.740572+00:00",
       "items": [
         {
           "url": "https://www.osprey.com/eu/aoede-syncpack-f25?colour=Black&size=One+Size",
@@ -568,7 +568,7 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-10-18T12:58:31.409371+00:00",
+      "last_check": "2026-10-19T05:00:03.938839+00:00",
       "items": [
         {
           "url": "https://eu.gregorypacks.com/uk-en/gregory-x-garmin.html",
@@ -868,7 +868,7 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-10-18T12:58:31.835639+00:00",
+      "last_check": "2026-10-19T05:00:04.137720+00:00",
       "items": [
         {
           "url": "https://pimcore.deuter.com/deuter-master/en/backpacks/trail",
@@ -1198,7 +1198,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-10-18T12:58:32.193228+00:00",
+      "last_check": "2026-10-19T05:00:04.339492+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/us/",
@@ -1433,8 +1433,113 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-10-18T12:58:32.573579+00:00",
+      "last_check": "2026-10-19T04:59:32.327499+00:00",
       "items": [
+        {
+          "url": "https://www.blackdiamondequipment.com/products/cam-sling-repair",
+          "hash": "0f9e4770fadbf150",
+          "detected_at": "2026-10-19T04:59:32.325433+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/ultralight-camalot",
+          "hash": "3fb39bd980f5d903",
+          "detected_at": "2026-10-19T04:59:32.325875+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/womens-recon-gloves",
+          "hash": "239aea89210cc7a3",
+          "detected_at": "2026-10-19T04:59:32.325962+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/recon-gloves",
+          "hash": "a10c894bc741a673",
+          "detected_at": "2026-10-19T04:59:32.326102+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/womens-recon-mx-mitts",
+          "hash": "61f37cc10fa43ba4",
+          "detected_at": "2026-10-19T04:59:32.326234+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/recon-mx-mitts",
+          "hash": "76e185437ee62302",
+          "detected_at": "2026-10-19T04:59:32.326348+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/womens-recon-lt-gloves",
+          "hash": "a4c7e756c680dc05",
+          "detected_at": "2026-10-19T04:59:32.326453+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/recon-lt-gloves",
+          "hash": "1532f4f794ea1dd4",
+          "detected_at": "2026-10-19T04:59:32.326570+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/freeride-glove-leashes",
+          "hash": "0e5048724f03cfb3",
+          "detected_at": "2026-10-19T04:59:32.326660+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/access-fund-2026-anniversary-tee",
+          "hash": "7b196a76a8215c44",
+          "detected_at": "2026-10-19T04:59:32.326712+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/spot-headlamp",
+          "hash": "6d25fb51937370e4",
+          "detected_at": "2026-10-19T04:59:32.326771+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/w-session-2-shoes",
+          "hash": "f21ac32cf228e38e",
+          "detected_at": "2026-10-19T04:59:32.326816+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/womens-access-down-2-0-parka-past-season",
+          "hash": "07c3db9ddd9dc6ba",
+          "detected_at": "2026-10-19T04:59:32.326837+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/mens-access-down-2-0-vest-past-season",
+          "hash": "76e0715cb56f2c11",
+          "detected_at": "2026-10-19T04:59:32.326910+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/mens-access-down-2-0-jacket-past-season",
+          "hash": "b61f5bd2fab83985",
+          "detected_at": "2026-10-19T04:59:32.326980+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/cheat-sheets-150-mm-x-190-cm",
+          "hash": "00c3495981b3183d",
+          "detected_at": "2026-10-19T04:59:32.327101+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/mens-factor-bibs-past-season",
+          "hash": "59ed061ce2ecd2c6",
+          "detected_at": "2026-10-19T04:59:32.327164+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/mens-factor-shell-past-season",
+          "hash": "6087dd6413edbdad",
+          "detected_at": "2026-10-19T04:59:32.327243+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/quickdraw-pro-probe-280",
+          "hash": "f529562c22899b4f",
+          "detected_at": "2026-10-19T04:59:32.327319+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/stonehauler-athlete-tote",
+          "hash": "03c177a4fdd65d00",
+          "detected_at": "2026-10-19T04:59:32.327381+00:00"
+        },
+        {
+          "url": "https://www.blackdiamondequipment.com/products/ski-skin-tail-kit",
+          "hash": "5735a9a59652231a",
+          "detected_at": "2026-10-19T04:59:32.327439+00:00"
+        },
         {
           "url": "https://blackdiamondequipment.com/blogs/stories/making-of-the-distance-fkt-pole",
           "hash": "fbd2109e78c322ca",
@@ -1743,7 +1848,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-10-18T12:58:32.782456+00:00",
+      "last_check": "2026-10-19T05:00:04.506550+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -1763,7 +1868,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-10-18T12:58:33.167856+00:00",
+      "last_check": "2026-10-19T05:00:04.705294+00:00",
       "items": [
         {
           "url": "https://ph.salomon.com/products/xt-4-og-bodega",
@@ -2148,7 +2253,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-10-18T12:58:33.547126+00:00",
+      "last_check": "2026-10-19T05:00:04.924945+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/stores/la-sportiva-store-kalymnos",
@@ -2333,8 +2438,208 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-10-18T12:58:33.923711+00:00",
+      "last_check": "2026-10-19T04:59:53.585352+00:00",
       "items": [
+        {
+          "url": "https://www.scarpa.com/products/ribelle-run-2-gtx-the-stable-and-protective-waterproof-shoe-33089-201-4",
+          "hash": "40ec8a55a6cbe534",
+          "detected_at": "2026-10-19T04:59:53.584262+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/f1-xt-woman-women-s-technical-ski-mountaineering-boot-12181-502-1",
+          "hash": "32285c8a4c5895a2",
+          "detected_at": "2026-10-19T04:59:53.584341+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/f1-xt-lightweight-touring-precision-12181-500-2",
+          "hash": "e4a723f1478812cb",
+          "detected_at": "2026-10-19T04:59:53.584380+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/ribelle-run-2-gtx-woman-the-stable-and-protective-waterproof-shoe-33089-202-4",
+          "hash": "1da39a36c955c655",
+          "detected_at": "2026-10-19T04:59:53.584467+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/moraine-gtx-the-first-low-hiking-shoe-63057-201-2",
+          "hash": "9ccc6e36dee21c6d",
+          "detected_at": "2026-10-19T04:59:53.584519+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/rapid-xt-woman-the-all-around-shoe-72697-352-4",
+          "hash": "1109845578e46611",
+          "detected_at": "2026-10-19T04:59:53.584547+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/zodiac-tech-gtx-alpinism-boot-chosen-by-mountain-guides-71101-200-5",
+          "hash": "828e1b9c1fbf2029",
+          "detected_at": "2026-10-19T04:59:53.584577+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mustang-trk-gtx-woman-experience-untamed-exploration-63144-202-4",
+          "hash": "d8d01223015ecc5e",
+          "detected_at": "2026-10-19T04:59:53.584599+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-re-shoes-the-original-re-made-32727-350-1",
+          "hash": "47f7d55c9bf30c83",
+          "detected_at": "2026-10-19T04:59:53.584654+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/moraine-mid-pro-gtx-the-first-mid-hiking-boot-63055-201-1",
+          "hash": "44b8177701c0f039",
+          "detected_at": "2026-10-19T04:59:53.584673+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/ribelle-cross-2-mid-move-freely-hike-confidently-63160-351-1",
+          "hash": "dab62a38afe65a45",
+          "detected_at": "2026-10-19T04:59:53.584696+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/moraine-mid-gtx-the-first-mid-hiking-boot-63056-201-1",
+          "hash": "b271ef3fc4c15e4a",
+          "detected_at": "2026-10-19T04:59:53.584748+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/ribelle-run-lt-wp-woman-the-beginner-waterproof-shoe-33087-212-1",
+          "hash": "b7e3152f57c24d30",
+          "detected_at": "2026-10-19T04:59:53.584769+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/ribelle-cross-2-mid-woman-move-freely-hike-confidently-63160-352-2",
+          "hash": "b516c5ea537f2634",
+          "detected_at": "2026-10-19T04:59:53.584791+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-wrap-gtx-water-repellent-leather-sneaker-32708-200-16",
+          "hash": "1e4ea493ebd1491c",
+          "detected_at": "2026-10-19T04:59:53.584846+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/f1-rs-woman-women-s-backcountry-ski-touring-boot-12101-502-1",
+          "hash": "9c1404a8ddee7665",
+          "detected_at": "2026-10-19T04:59:53.584898+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/f1-rs-backcountry-ski-touring-boot-12101-501-1",
+          "hash": "7f9bae961c2928c6",
+          "detected_at": "2026-10-19T04:59:53.584920+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/golden-gate-lt-wp-woman-waterproof-comfort-for-everyday-trails-33090-212-2",
+          "hash": "1d9caf95fd564b51",
+          "detected_at": "2026-10-19T04:59:53.584940+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/golden-gate-lt-wp-woman-waterproof-comfort-for-everyday-trails-33090-212-1",
+          "hash": "113158b037666ddc",
+          "detected_at": "2026-10-19T04:59:53.584970+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/golden-gate-lt-wp-waterproof-comfort-for-everyday-trails-33090-211-1",
+          "hash": "9c2c744a8c8c52d0",
+          "detected_at": "2026-10-19T04:59:53.584974+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/golden-gate-lt-wp-waterproof-comfort-for-everyday-trails-33090-211-3",
+          "hash": "ea6c44e06ea1ae42",
+          "detected_at": "2026-10-19T04:59:53.585016+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/golden-gate-lt-wp-waterproof-comfort-for-everyday-trails-33090-211-2",
+          "hash": "ea5dc22da5e37005",
+          "detected_at": "2026-10-19T04:59:53.585020+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/crux-2-gtx-waterproof-protection-and-grip-for-technical-terrain-72054-201-1",
+          "hash": "4992a8be35a2d35a",
+          "detected_at": "2026-10-19T04:59:53.585023+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/crux-2-gtx-woman-waterproof-protection-and-grip-for-technical-terrain-72054-202-1",
+          "hash": "0b232f91396768f1",
+          "detected_at": "2026-10-19T04:59:53.585053+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/crux-2-gtx-waterproof-protection-and-grip-for-technical-terrain-72054-201-2",
+          "hash": "174290f9ee433965",
+          "detected_at": "2026-10-19T04:59:53.585083+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/crux-2-woman-support-and-grip-for-technical-terrain-72054-352-1",
+          "hash": "b5bf1f9327dabbaa",
+          "detected_at": "2026-10-19T04:59:53.585087+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/crux-2-support-and-grip-for-technical-terrain-72054-351-1",
+          "hash": "f541a9887d363d21",
+          "detected_at": "2026-10-19T04:59:53.585116+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/crux-2-support-and-grip-for-technical-terrain-72054-351-2",
+          "hash": "9b697fa49b228d75",
+          "detected_at": "2026-10-19T04:59:53.585144+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/alien-1-0-the-ski-mountaineering-race-boots-12176-501-2",
+          "hash": "066ff37d16ae2c61",
+          "detected_at": "2026-10-19T04:59:53.585147+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/alien-entry-level-ski-mountaineers-race-12175-500-2",
+          "hash": "fdb242a1b695d096",
+          "detected_at": "2026-10-19T04:59:53.585169+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-43",
+          "hash": "c50ddab362223428",
+          "detected_at": "2026-10-19T04:59:53.585217+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-45",
+          "hash": "3167a095cb849fbf",
+          "detected_at": "2026-10-19T04:59:53.585272+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-41",
+          "hash": "e3c1675f4edadee4",
+          "detected_at": "2026-10-19T04:59:53.585275+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-44",
+          "hash": "9699a98bf2a6d256",
+          "detected_at": "2026-10-19T04:59:53.585279+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-42",
+          "hash": "0ff065c848862dd4",
+          "detected_at": "2026-10-19T04:59:53.585282+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-wrap-f-leather-sneaker-with-felt-effect-32721-100-4",
+          "hash": "db28769468d1e290",
+          "detected_at": "2026-10-19T04:59:53.585286+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-wrap-gtx-water-repellent-leather-sneaker-32708-200-18",
+          "hash": "1dc394f6b9f8e2ca",
+          "detected_at": "2026-10-19T04:59:53.585338+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-wrap-gtx-water-repellent-leather-sneaker-32708-200-17",
+          "hash": "d63a8b785bb5e3dd",
+          "detected_at": "2026-10-19T04:59:53.585341+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-wrap-f-leather-sneaker-with-felt-effect-32721-100-3",
+          "hash": "068a188fb7301843",
+          "detected_at": "2026-10-19T04:59:53.585344+00:00"
+        },
+        {
+          "url": "https://www.scarpa.com/products/mojito-wrap-gtx-water-repellent-leather-sneaker-32708-200-19",
+          "hash": "7205add896a18090",
+          "detected_at": "2026-10-19T04:59:53.585348+00:00"
+        },
         {
           "url": "https://scarpa.com/blogs/news/scarpa-climbing-demo-tour-2025-italy",
           "hash": "98fc6bad2811b181",
@@ -2688,7 +2993,7 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-10-18T12:58:34.324181+00:00",
+      "last_check": "2026-10-19T05:00:05.102198+00:00",
       "items": [
         {
           "url": "https://pr.mammut.com/assos-x-mammut-a-game-changing-collaboration-for-cyclists-and-mountain-enthusiasts",
@@ -2863,7 +3168,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-10-18T12:58:34.717242+00:00",
+      "last_check": "2026-10-19T05:00:05.298052+00:00",
       "items": [
         {
           "url": "https://lowa.com/en/highlights/time-to-tame-the-terrain/madrix-and-amplux-2-new-highlights-for-your-trails",
@@ -3078,7 +3383,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-10-18T12:58:35.117914+00:00",
+      "last_check": "2026-10-19T05:00:05.462973+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/women/shoes/agate",
@@ -3238,8 +3543,168 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-10-18T12:58:35.482769+00:00",
+      "last_check": "2026-10-19T04:59:34.959100+00:00",
       "items": [
+        {
+          "url": "https://www.garmont.com/products/t8-athena-regular",
+          "hash": "26cebf7fcf77d6cd",
+          "detected_at": "2026-10-19T04:59:34.958127+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/t8-specter-le-zip-black-003170",
+          "hash": "249bca9895c328cb",
+          "detected_at": "2026-10-19T04:59:34.958231+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/contact-4-le-black-003174",
+          "hash": "40f05be8582f2dfb",
+          "detected_at": "2026-10-19T04:59:34.958289+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/contact-6-le-zip-wp-black-003175",
+          "hash": "8e61dea902ebdb43",
+          "detected_at": "2026-10-19T04:59:34.958342+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/contact-6-le-zip-black-003176",
+          "hash": "24df5957cd16dae5",
+          "detected_at": "2026-10-19T04:59:34.958397+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/contact-4-le-wp-black-003173",
+          "hash": "e7cf3eccb509b225",
+          "detected_at": "2026-10-19T04:59:34.958452+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/hexagon-gtx-blue-003042",
+          "hash": "9c79fe465ab6f76c",
+          "detected_at": "2026-10-19T04:59:34.958505+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/nebraska-3-gtx-grey-003149",
+          "hash": "f357d0c05137a62c",
+          "detected_at": "2026-10-19T04:59:34.958567+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-onyx-mb-gtx-blue-003142",
+          "hash": "f5a72841d2666cd7",
+          "detected_at": "2026-10-19T04:59:34.958630+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-onyx-mb-gtx-green-003143",
+          "hash": "23c8ce2bb48840d7",
+          "detected_at": "2026-10-19T04:59:34.958672+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-onyx-mb-gtx-green-003145",
+          "hash": "0470f862367e943f",
+          "detected_at": "2026-10-19T04:59:34.958676+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-onyx-mb-gtx-blue-003144",
+          "hash": "c66c95ce6499989d",
+          "detected_at": "2026-10-19T04:59:34.958680+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-etere-max-gtx-grey-003137",
+          "hash": "949fe0e1591b31ae",
+          "detected_at": "2026-10-19T04:59:34.958683+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-etere-max-gtx-grey-003139",
+          "hash": "a3e7e808e71a827e",
+          "detected_at": "2026-10-19T04:59:34.958747+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-etere-max-gtx-green-003140",
+          "hash": "1993a2c8542fa46c",
+          "detected_at": "2026-10-19T04:59:34.958750+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/9-81-etere-max-gtx-blue-003141",
+          "hash": "d1b5776f89d6d493",
+          "detected_at": "2026-10-19T04:59:34.958753+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/lagorai-3-gtx-grey-003146",
+          "hash": "8d7634bde33639cf",
+          "detected_at": "2026-10-19T04:59:34.958756+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/lagorai-3-gtx-brown-003147",
+          "hash": "4a8ea8975bedc357",
+          "detected_at": "2026-10-19T04:59:34.958821+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/lagorai-3-gtx-grey-003148",
+          "hash": "3456658b7c2e1347",
+          "detected_at": "2026-10-19T04:59:34.958824+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/nebraska-3-gtx-brown-003150",
+          "hash": "2a1eb2ef747f4d97",
+          "detected_at": "2026-10-19T04:59:34.958827+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/nebraska-3-gtx-grey-003151",
+          "hash": "fc49f3d6c91d9620",
+          "detected_at": "2026-10-19T04:59:34.958830+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/akron-gtx-green-003161",
+          "hash": "4a5fd1b61c0cf242",
+          "detected_at": "2026-10-19T04:59:34.958833+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-mid-wp-grey-003152",
+          "hash": "2810e2478d5c1246",
+          "detected_at": "2026-10-19T04:59:34.958895+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-mid-wp-blue-003153",
+          "hash": "b45bec6eb25df7c4",
+          "detected_at": "2026-10-19T04:59:34.958952+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-mid-wp-black-003154",
+          "hash": "449dc7bc78e2c84b",
+          "detected_at": "2026-10-19T04:59:34.958955+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-wp-blue-003155",
+          "hash": "74c8a4f73f8c80e8",
+          "detected_at": "2026-10-19T04:59:34.958958+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-wp-green-003156",
+          "hash": "cb692a8c7a60acb9",
+          "detected_at": "2026-10-19T04:59:34.959033+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-wp-violet-003157",
+          "hash": "dc90aa1d21cd825f",
+          "detected_at": "2026-10-19T04:59:34.959036+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-wp-grey-003158",
+          "hash": "f17420441e22fa2c",
+          "detected_at": "2026-10-19T04:59:34.959038+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-grey-003159",
+          "hash": "714dddd5fa4b897a",
+          "detected_at": "2026-10-19T04:59:34.959041+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/oron-grey-003160",
+          "hash": "ac13bf55ae117680",
+          "detected_at": "2026-10-19T04:59:34.959094+00:00"
+        },
+        {
+          "url": "https://www.garmont.com/products/akron-gtx-grey-003162",
+          "hash": "a37886ccc74ea111",
+          "detected_at": "2026-10-19T04:59:34.959097+00:00"
+        },
         {
           "url": "https://www.garmont.com/en/collections/novita-calzature-uomo",
           "hash": "69cf30ee42c0eb2f",
@@ -3428,7 +3893,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-10-18T12:58:35.916856+00:00",
+      "last_check": "2026-10-19T05:00:05.631038+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/blacklight-carbon-pro-binding-interview",
@@ -3553,8 +4018,258 @@
       ]
     },
     "keen": {
-      "last_check": "2026-10-18T12:58:36.330619+00:00",
+      "last_check": "2026-10-19T04:59:48.763168+00:00",
       "items": [
+        {
+          "url": "https://www.keenfootwear.com/products/all-gender-uneek-loafer-wk-lm-black",
+          "hash": "3a2c2696f8b6eb65",
+          "detected_at": "2026-10-19T04:59:48.760869+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-zionic-mediterranea-pale-lilac",
+          "hash": "d0f73ef467a73cc3",
+          "detected_at": "2026-10-19T04:59:48.760974+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-destination-pack",
+          "hash": "84ef36204b673a00",
+          "detected_at": "2026-10-19T04:59:48.761054+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-monochrome-granite-green",
+          "hash": "61ff5f1a9cb27ec3",
+          "detected_at": "2026-10-19T04:59:48.761132+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-tri-block-birch",
+          "hash": "e43b80be7cc6bc30",
+          "detected_at": "2026-10-19T04:59:48.761138+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-monochrome-skyway",
+          "hash": "51a042834b5388ba",
+          "detected_at": "2026-10-19T04:59:48.761143+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-monochrome-purple-haze",
+          "hash": "9afacfad44752bb8",
+          "detected_at": "2026-10-19T04:59:48.761148+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-alloy-prism",
+          "hash": "7f5fc51ebf2cd5e4",
+          "detected_at": "2026-10-19T04:59:48.761153+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-monochrome-cameo-rose",
+          "hash": "e8243f60903c98d8",
+          "detected_at": "2026-10-19T04:59:48.761158+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-h2-monochrome-toadstool",
+          "hash": "de21f43dc0057cdc",
+          "detected_at": "2026-10-19T04:59:48.761163+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-rocks-sp-collina-strada-black-black",
+          "hash": "984dbcad3cc05783",
+          "detected_at": "2026-10-19T04:59:48.761168+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-targhee-exp-collina-strada-black-black",
+          "hash": "265dc0a7a11e4fed",
+          "detected_at": "2026-10-19T04:59:48.761238+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-rocks-sp-collina-strada-strada-plaid-seashell-pink",
+          "hash": "27ad6c186cf453d5",
+          "detected_at": "2026-10-19T04:59:48.761308+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-kona-flip-tg-brindle-silver-birch",
+          "hash": "6e04f84ebd5c729b",
+          "detected_at": "2026-10-19T04:59:48.761313+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-highframe-mid-waterproof-dark-earth-black",
+          "hash": "d1055d3df48dc61b",
+          "detected_at": "2026-10-19T04:59:48.761384+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-highframe-pull-on-waterproof-dark-earth-black",
+          "hash": "fdbe54a5ba37c3fd",
+          "detected_at": "2026-10-19T04:59:48.761478+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-highframe-mid-waterproof-magnet-black",
+          "hash": "51664d5376057916",
+          "detected_at": "2026-10-19T04:59:48.761575+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-highframe-chelsea-waterproof-soft-toe-dark-earth-black",
+          "hash": "e59a6172d07c3dfd",
+          "detected_at": "2026-10-19T04:59:48.761581+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-highframe-chelsea-waterproof-dark-earth-black",
+          "hash": "ac9ffe77c72795b1",
+          "detected_at": "2026-10-19T04:59:48.761681+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-highframe-mid-waterproof-soft-toe-dark-earth-black",
+          "hash": "f37aba09b89fe51d",
+          "detected_at": "2026-10-19T04:59:48.761776+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-java-birch",
+          "hash": "de40b71e1699dc5a",
+          "detected_at": "2026-10-19T04:59:48.761873+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-terrain-java",
+          "hash": "5ef58d8d666caf59",
+          "detected_at": "2026-10-19T04:59:48.761933+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-zionic-cameo-rose-lilas",
+          "hash": "3fc9161e15462340",
+          "detected_at": "2026-10-19T04:59:48.762002+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-zionic-ballad-blue-silver",
+          "hash": "36d930a4d22f49aa",
+          "detected_at": "2026-10-19T04:59:48.762008+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-vapor-keen-maple",
+          "hash": "118f50fb1bc4bfef",
+          "detected_at": "2026-10-19T04:59:48.762013+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-rocks-sp-brindle-plaza-taupe",
+          "hash": "3d8e7e29f9230940",
+          "detected_at": "2026-10-19T04:59:48.762019+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/all-gender-uneek-mule-wk-black",
+          "hash": "fed09129f0d55b23",
+          "detected_at": "2026-10-19T04:59:48.762085+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-se2-txt-flux-black",
+          "hash": "58eea353894721c9",
+          "detected_at": "2026-10-19T04:59:48.762153+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-se2-txt-flux-black",
+          "hash": "4946c666af722ca1",
+          "detected_at": "2026-10-19T04:59:48.762210+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-se2-txt-flux-chocolate",
+          "hash": "b8c71b1bcefb9fdc",
+          "detected_at": "2026-10-19T04:59:48.762267+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-se1-flux-plaza-taupe",
+          "hash": "52dcd3cbab54290a",
+          "detected_at": "2026-10-19T04:59:48.762272+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-se1-flux-black",
+          "hash": "8024fd135cec5f6d",
+          "detected_at": "2026-10-19T04:59:48.762333+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-se1-flux-black",
+          "hash": "e13c7ea9f1cec91c",
+          "detected_at": "2026-10-19T04:59:48.762338+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-se1-flux-plaza-taupe",
+          "hash": "3a2287fc9ca504ca",
+          "detected_at": "2026-10-19T04:59:48.762398+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-hw-flux-chocolate",
+          "hash": "2b255c6fe773da1f",
+          "detected_at": "2026-10-19T04:59:48.762403+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-se2-txt-flux-chocolate",
+          "hash": "85f69868fd33ee57",
+          "detected_at": "2026-10-19T04:59:48.762465+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-hw-flux-black",
+          "hash": "f2eab569ad23dbca",
+          "detected_at": "2026-10-19T04:59:48.762470+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-hw-flux-safari",
+          "hash": "c0bf373ed3588783",
+          "detected_at": "2026-10-19T04:59:48.762475+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-targhee-iii-waterproof-black-olive-golden-brown",
+          "hash": "b169220843e6ef5a",
+          "detected_at": "2026-10-19T04:59:48.762533+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-kosa-mary-jane-black-silver-birch",
+          "hash": "4add65ce0f544fa9",
+          "detected_at": "2026-10-19T04:59:48.762604+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-doe-black-star-white",
+          "hash": "d79960dd58a2bef1",
+          "detected_at": "2026-10-19T04:59:48.762662+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-zionic-doe-black-star-white",
+          "hash": "e079d47ca0bcbacb",
+          "detected_at": "2026-10-19T04:59:48.762724+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-uneek-360-n-hoolywood-steel-grey",
+          "hash": "f81a2f9cef47cff1",
+          "detected_at": "2026-10-19T04:59:48.762787+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-hl-perseid-black-vapor",
+          "hash": "601dc179e07f5d73",
+          "detected_at": "2026-10-19T04:59:48.762853+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-newport-hl-perseid-black",
+          "hash": "6015f206d2a14777",
+          "detected_at": "2026-10-19T04:59:48.762923+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-revel-iv-high-polar-chocolate-lab-old-rose",
+          "hash": "205d02bb225de132",
+          "detected_at": "2026-10-19T04:59:48.762929+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-knx-pablo-black-star-white",
+          "hash": "4510f9fc73098a44",
+          "detected_at": "2026-10-19T04:59:48.763028+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-knx-pablo-keen-maple-black",
+          "hash": "d5d66d39921194bd",
+          "detected_at": "2026-10-19T04:59:48.763099+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/mens-knx-pablo-birch-black",
+          "hash": "1a63a8a071255053",
+          "detected_at": "2026-10-19T04:59:48.763104+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-nylon-fig-rosy-touch",
+          "hash": "27fb48defea79206",
+          "detected_at": "2026-10-19T04:59:48.763108+00:00"
+        },
         {
           "url": "https://www.keenfootwear.com/products/mens-newport-retro-gramicci-hemp",
           "hash": "cfaf60c85dac8421",
@@ -3743,7 +4458,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-10-18T12:58:36.704984+00:00",
+      "last_check": "2026-10-19T05:00:05.847901+00:00",
       "items": [
         {
           "url": "https://www.hoka.com/en/id/new-arrivals/",
@@ -3928,7 +4643,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-10-18T12:58:37.099303+00:00",
+      "last_check": "2026-10-19T05:00:06.039794+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/merrell-and-pam-come-together-for-a-collaboration-inspired-by-amphibian-life/",
@@ -4088,7 +4803,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-10-18T12:58:37.383708+00:00",
+      "last_check": "2026-10-19T05:00:06.263001+00:00",
       "items": [
         {
           "url": "https://www.inov-8.com/us/roclite-g-275-womens-trail-running-shoes?colours=867",
@@ -4208,8 +4923,13 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-10-18T12:58:37.707548+00:00",
+      "last_check": "2026-10-19T05:00:03.528295+00:00",
       "items": [
+        {
+          "url": "https://www.thermarest.com/products/lightning-tails",
+          "hash": "559bf61cf5fef310",
+          "detected_at": "2026-10-19T05:00:03.528175+00:00"
+        },
         {
           "url": "https://www.thermarest.com/sleeping-pads/fast-and-light/z-lite-sol-sleeping-pad/11523.html",
           "hash": "ee6a730891a6010c",
@@ -4423,8 +5143,13 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-10-18T12:58:38.074774+00:00",
+      "last_check": "2026-10-19T04:59:58.975975+00:00",
       "items": [
+        {
+          "url": "https://seatosummit.com/products/xlite-collapsible-kettle",
+          "hash": "7d7838c94a8d6d63",
+          "detected_at": "2026-10-19T04:59:58.975921+00:00"
+        },
         {
           "url": "https://seatosummit.com/products/ether-light-xr-insulated-air-sleeping-pad",
           "hash": "19e535ab3a065d90",
@@ -4663,7 +5388,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-10-18T12:58:38.446911+00:00",
+      "last_check": "2026-10-19T05:00:06.441017+00:00",
       "items": [
         {
           "url": "https://klymit.com/blogs/gift-guides/holiday",
@@ -4853,7 +5578,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-10-18T12:58:38.816875+00:00",
+      "last_check": "2026-10-19T05:00:06.649560+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/11-outerwear/",

@@ -13,7 +13,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.298662+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kolekce oblečení a obuvi, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:01.125821+00:00"
     },
     {
       "id": "cec1cc9311c2bc2d",
@@ -27,7 +32,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.746479+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka s novinkami, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:01.125831+00:00"
     },
     {
       "id": "75c23fff8a4dfd52",
@@ -41,7 +51,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.968289+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blogový článek, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:01.125841+00:00"
     },
     {
       "id": "44906da70545d39e",
@@ -55,7 +70,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.089108+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Deuter Aircontact Ultra",
+      "rubrika": "batohy",
+      "priorita": 4,
+      "duvod": "Konkrétní turistický batoh, řada AirContact není mezi recenzovanými v této variantě.",
+      "trideno_at": "2026-10-19T05:01:01.125851+00:00"
     },
     {
       "id": "a40593d7ebab5670",
@@ -69,7 +89,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.896960+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kolečkové cestovní zavazadlo, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125868+00:00"
     },
     {
       "id": "bf4203481e3bad36",
@@ -83,7 +108,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.766029+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Osprey Atmos AG 50",
+      "rubrika": "batohy",
+      "priorita": 4,
+      "duvod": "Konkrétní batoh Osprey Atmos AG 50; řada Atmos AG 65 je recenzována, 50L verze je jiná velikost, ale nová v seznamu.",
+      "trideno_at": "2026-10-19T05:01:10.439471+00:00"
     },
     {
       "id": "00a05d290c050838",
@@ -97,7 +127,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.603176+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "Therm-a-Rest BaseCamp",
+      "rubrika": "karimatky",
+      "priorita": 3,
+      "duvod": "Stejný produkt jako už recenzovaný Therm-a-Rest BaseCamp.",
+      "trideno_at": "2026-10-19T05:01:10.439515+00:00",
+      "duplicita": "_posts/karimatky/2025-02-07-therm-a-rest-basecamp.md"
     },
     {
       "id": "d4bc9fb25bbadb08",
@@ -111,7 +147,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.969547+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "La Sportiva Boulder X",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Odpovídá už recenzovanému La Sportiva Boulder X Mid (jiná verze), přístupová bota do terénu.",
+      "trideno_at": "2026-10-19T05:01:10.439533+00:00",
+      "duplicita": "podle třídění"
     },
     {
       "id": "852d94bd2efe93fb",
@@ -125,7 +167,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.430380+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Black Diamond Cirque Ultra 25",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Konkrétní batoh; řada Cirque (35L) je recenzována, Ultra 25 je nová velikost/model.",
+      "trideno_at": "2026-10-19T05:01:10.439547+00:00"
     },
     {
       "id": "2985fe97390608dd",
@@ -139,7 +186,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.161917+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Hoka Clifton 10",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Silniční/městská běžecká bota, lifestyle, max priorita 2; nejde o trailovou botu.",
+      "trideno_at": "2026-10-19T05:01:10.439562+00:00"
     },
     {
       "id": "500087ccba4e5481",
@@ -153,7 +205,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.604405+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie webu, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:10.439572+00:00"
     },
     {
       "id": "df8f75607ab72e8b",
@@ -167,7 +224,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.970027+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "La Sportiva Cyklon",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Trailová běžecká bota La Sportiva Cyklon, nový model v rubrice boty.",
+      "trideno_at": "2026-10-19T05:01:10.439580+00:00"
     },
     {
       "id": "0322c4dfb2bb2531",
@@ -181,7 +243,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.089622+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "Deuter Aircontact Pro 65+10",
+      "rubrika": "batohy",
+      "priorita": 4,
+      "duvod": "Stejný produkt jako už recenzovaný Deuter AirContact 65+10 (jiný název).",
+      "trideno_at": "2026-10-19T05:01:10.439590+00:00",
+      "duplicita": "podle třídění"
     },
     {
       "id": "3c07dac2a0dbfb1d",
@@ -195,7 +263,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.745829+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Marketingová stránka značky, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:10.439599+00:00"
     },
     {
       "id": "d7fd291847dbee34",
@@ -209,7 +282,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.144621+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Scarpa Drago XT",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Konkrétní bota Scarpa Drago XT, nový model v rubrice boty.",
+      "trideno_at": "2026-10-19T05:01:10.439605+00:00"
     },
     {
       "id": "85f1ecc37b6bd280",
@@ -223,7 +301,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.144122+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "Scarpa Drago XT",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Stejný model jako předchozí kandidát (US verze), nový model v rubrice boty.",
+      "trideno_at": "2026-10-19T05:01:10.439619+00:00"
     },
     {
       "id": "ec9700d5b4f389e7",
@@ -237,7 +320,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.894869+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka s novinkami značky, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:10.439629+00:00"
     },
     {
       "id": "43771a6eb8f72aae",
@@ -251,7 +339,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.308447+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Tisková zpráva o kolekci oblečení.",
+      "trideno_at": "2026-10-19T05:01:10.439638+00:00"
     },
     {
       "id": "ce872d6483e93ef8",
@@ -265,7 +358,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.748094+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blogový článek o designu, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:10.439646+00:00"
     },
     {
       "id": "3778da74af5b1e2a",
@@ -279,7 +377,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.735870+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Obecná stránka kolekce značky.",
+      "trideno_at": "2026-10-19T05:01:10.439654+00:00"
     },
     {
       "id": "a01a42cd0547684c",
@@ -293,7 +396,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.895810+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Obecná stránka novinek značky.",
+      "trideno_at": "2026-10-19T05:01:10.439662+00:00"
     },
     {
       "id": "ef446351e6f487b8",
@@ -307,7 +415,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.735150+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie kolekce FW25, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:10.439670+00:00"
     },
     {
       "id": "ec770cc703952236",
@@ -321,7 +434,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.298045+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka s novinkami, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:10.439678+00:00"
     },
     {
       "id": "9a0a5af7766f63ae",
@@ -335,7 +453,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.163091+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Hoka Zinal",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trailová běžecká bota Hoka Zinal, nový model v rubrice boty.",
+      "trideno_at": "2026-10-19T05:01:10.439686+00:00"
     },
     {
       "id": "f256aabc69a42c5b",
@@ -349,7 +472,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.605052+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pončo/deka, nepatří do rubrik.",
+      "trideno_at": "2026-10-19T05:01:10.439697+00:00"
     },
     {
       "id": "5e1e2fb93f159249",
@@ -363,7 +491,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.442325+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Tisková zpráva značky, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:10.439704+00:00"
     },
     {
       "id": "4d579020772a3099",
@@ -377,7 +510,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.971652+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blogový článek; produkt Klymit Insulated Static V2 už je recenzován.",
+      "trideno_at": "2026-10-19T05:01:10.439714+00:00"
     },
     {
       "id": "4a5a516f34b19d76",
@@ -391,7 +529,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.162622+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "Hoka Clifton 10",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Silniční/městská běžecká bota, lifestyle, max priorita 2.",
+      "trideno_at": "2026-10-19T05:01:10.439722+00:00"
     },
     {
       "id": "ef754bec2551a964",
@@ -405,7 +548,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.429346+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "Black Diamond Impulse Ti",
+      "rubrika": "zadna",
+      "priorita": 3,
+      "duvod": "Konkrétní produkt (čelovka/lezecký nebo jiný produkt mimo rubriky batohy/boty/karimatky) – nepatří do žádné rubriky.",
+      "trideno_at": "2026-10-19T05:01:10.439732+00:00"
     },
     {
       "id": "fec794d169dda2ef",
@@ -419,7 +567,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.428625+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "Black Diamond Impulse Ti",
+      "rubrika": "zadna",
+      "priorita": 3,
+      "duvod": "Stejný produkt jako předchozí kandidát, mimo rubriky webu.",
+      "trideno_at": "2026-10-19T05:01:10.439744+00:00"
     },
     {
       "id": "f38afae23bf022b1",
@@ -433,7 +586,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.025530+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kolekce značky, nikoli jeden konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:23.511970+00:00"
     },
     {
       "id": "589e6c88a64c1bed",
@@ -447,7 +605,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.970965+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blogový článek o novinkách, ne recenze konkrétního produktu.",
+      "trideno_at": "2026-10-19T05:01:23.512032+00:00"
     },
     {
       "id": "882a4fc524a87fb4",
@@ -461,7 +624,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.973195+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Klymit New Motion 60",
+      "rubrika": "batohy",
+      "priorita": 4,
+      "duvod": "Stránka konkrétního trekkingového batohu, v databázi zatím není.",
+      "trideno_at": "2026-10-19T05:01:23.512043+00:00"
     },
     {
       "id": "2b145296588c67bc",
@@ -475,7 +643,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.969019+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Ondra Comp je lezecká bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:23.512063+00:00"
     },
     {
       "id": "acfe5bc715e956c4",
@@ -489,7 +662,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.454311+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Tisková zpráva o kolekci, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512073+00:00"
     },
     {
       "id": "0c2470bee654f687",
@@ -503,7 +681,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.026154+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blogový článek o závodech, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512082+00:00"
     },
     {
       "id": "9f3352ec96849800",
@@ -517,7 +700,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.593319+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Technologická stránka firmy, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512090+00:00"
     },
     {
       "id": "ae0bc681609a5431",
@@ -531,7 +719,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:47.250235+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Letecké vybavení, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:23.512099+00:00"
     },
     {
       "id": "fc5c0c2dad532374",
@@ -545,7 +738,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.972697+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blogový článek o kolekci, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512110+00:00"
     },
     {
       "id": "b7dd11cdb9d2ca03",
@@ -559,7 +757,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.223789+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Lowe Alpine Edge 22",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Denní turistický batoh, v databázi zatím není.",
+      "trideno_at": "2026-10-19T05:01:23.512120+00:00"
     },
     {
       "id": "0a0dd914dc8b5e7e",
@@ -573,7 +776,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.223320+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Lowe Alpine Escape Flight Pro 40",
+      "rubrika": "batohy",
+      "priorita": 2,
+      "duvod": "Cestovní batoh spíše lifestyle povahy, okrajový pro outdoor.",
+      "trideno_at": "2026-10-19T05:01:23.512137+00:00"
     },
     {
       "id": "49d17e74d056c500",
@@ -587,7 +795,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.222134+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Lowe Alpine Escape Tour 55+15",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Trekový batoh, v databázi zatím není.",
+      "trideno_at": "2026-10-19T05:01:23.512154+00:00"
     },
     {
       "id": "d6c8564f1217ea23",
@@ -601,7 +814,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.224265+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Lowe Alpine Escape Trek 60:70",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Trekový batoh, v databázi zatím není.",
+      "trideno_at": "2026-10-19T05:01:23.512168+00:00"
     },
     {
       "id": "55f3e037531ed61b",
@@ -615,7 +833,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.222824+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Lowe Alpine Sirac 65",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Trekový batoh, v databázi zatím není.",
+      "trideno_at": "2026-10-19T05:01:23.512185+00:00"
     },
     {
       "id": "d6e62e47b8c8895c",
@@ -629,7 +852,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.455009+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka představuje dva produkty najednou, nejde o jeden model.",
+      "trideno_at": "2026-10-19T05:01:23.512199+00:00"
     },
     {
       "id": "240a5a40e4e7525d",
@@ -643,7 +871,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.455571+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Německá verze stránky se dvěma produkty najednou.",
+      "trideno_at": "2026-10-19T05:01:23.512209+00:00"
     },
     {
       "id": "39a5ef395782a7d3",
@@ -657,7 +890,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.289980+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Tisková zpráva o kolekci oblečení.",
+      "trideno_at": "2026-10-19T05:01:23.512221+00:00"
     },
     {
       "id": "f0ce497e9ca9a2d0",
@@ -671,7 +909,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.289285+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Tisková zpráva o kolekci oblečení.",
+      "trideno_at": "2026-10-19T05:01:23.512230+00:00"
     },
     {
       "id": "a2e9a5e38bf4b7e0",
@@ -685,7 +928,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.299182+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Přehled novinek, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512239+00:00"
     },
     {
       "id": "e718dd5b42ec55fd",
@@ -699,7 +947,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.430935+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lezecký doplněk, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:23.512247+00:00"
     },
     {
       "id": "0aa6df6ffdcf3e40",
@@ -713,7 +966,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.090148+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Deuter AirContact Core",
+      "rubrika": "batohy",
+      "priorita": 5,
+      "duvod": "Nová generace trekových batohů AirContact, v databázi zatím není.",
+      "trideno_at": "2026-10-19T05:01:23.512256+00:00"
     },
     {
       "id": "4fbc8e1f7338276a",
@@ -727,7 +985,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.895198+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Přehled novinek, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512268+00:00"
     },
     {
       "id": "0a98518a0d509a33",
@@ -741,7 +1004,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.972206+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Přehled novinek, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512277+00:00"
     },
     {
       "id": "e86e7ddb88eb169f",
@@ -755,7 +1023,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.291083+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Přehled novinek, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:23.512286+00:00"
     },
     {
       "id": "1c0a120ab62ae21b",
@@ -769,7 +1042,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.894308+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpinistický systém, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:23.512295+00:00"
     },
     {
       "id": "bc519b6ce6648e40",
@@ -783,7 +1061,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:47.250786+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o produktu mimo outdoor rubriky (letecké vybavení, Sporty's).",
+      "trideno_at": "2026-10-19T05:01:38.125805+00:00"
     },
     {
       "id": "1d0a16bf9a32135c",
@@ -797,7 +1080,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.442795+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Obecná homepage značky, ne konkrétní produkt z rubrik.",
+      "trideno_at": "2026-10-19T05:01:38.125846+00:00"
     },
     {
       "id": "8c85d0ba2e0a09f4",
@@ -811,7 +1099,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.764033+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka s oceněními, není produkt.",
+      "trideno_at": "2026-10-19T05:01:38.125857+00:00"
     },
     {
       "id": "3d5d6446058c72dc",
@@ -825,7 +1118,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.764911+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie nové sezóny, ne jeden produkt.",
+      "trideno_at": "2026-10-19T05:01:38.125883+00:00"
     },
     {
       "id": "8c4612801fa668cd",
@@ -839,7 +1137,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.765498+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Přehled novinek, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:38.125893+00:00"
     },
     {
       "id": "d4b74a562387dd94",
@@ -853,7 +1156,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.602431+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Spacák, nepatří do rubrik karimatky.",
+      "trideno_at": "2026-10-19T05:01:38.125903+00:00"
     },
     {
       "id": "71be5e91b9a12ea4",
@@ -867,7 +1175,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:47.249526+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dětské horské kolo, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:38.125916+00:00"
     },
     {
       "id": "e2c7c243ab899fcc",
@@ -881,7 +1194,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.827087+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lifestyle obuv a landing page, ne produkt z rubriky.",
+      "trideno_at": "2026-10-19T05:01:38.125925+00:00"
     },
     {
       "id": "30bb4d7a87020476",
@@ -895,7 +1213,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.825365+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Tisková zpráva o programu.",
+      "trideno_at": "2026-10-19T05:01:38.125935+00:00"
     },
     {
       "id": "be2af37a8ca2c7f2",
@@ -909,7 +1232,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.826066+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařská přilba, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:38.125950+00:00"
     },
     {
       "id": "65f6712c9970ee50",
@@ -923,7 +1251,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.145125+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Nejasná kategorie a sezónní stránka, nelze spolehlivě určit rubriku.",
+      "trideno_at": "2026-10-19T05:01:38.125961+00:00"
     },
     {
       "id": "1bea4efd7379c927",
@@ -937,7 +1270,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.747012+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kolekce novinek, ne konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:38.125970+00:00"
     },
     {
       "id": "774702bae574a50a",
@@ -951,7 +1289,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.827647+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová/lyžařská bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:38.125980+00:00"
     },
     {
       "id": "d53f3b3c7ca89093",
@@ -965,7 +1308,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.766539+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Osprey Talon Velocity 20",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Běžecký batoh na trail, nerecenzovaný model.",
+      "trideno_at": "2026-10-19T05:01:38.126010+00:00"
     },
     {
       "id": "cbec56f85aeada64",
@@ -979,7 +1327,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.026651+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blog o pracovních botách, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:38.126027+00:00"
     },
     {
       "id": "1187adee16031d39",
@@ -993,7 +1346,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.896430+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Gregory Tempo 6",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Běžecký hydratační batoh, nerecenzovaný model.",
+      "trideno_at": "2026-10-19T05:01:38.126033+00:00"
     },
     {
       "id": "9d87da3d1360c7de",
@@ -1007,7 +1365,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.893578+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpový systém, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:38.126043+00:00"
     },
     {
       "id": "0db8e2109785b172",
@@ -1021,7 +1384,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.088590+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie řady batohů, ne jeden produkt.",
+      "trideno_at": "2026-10-19T05:01:38.126049+00:00"
     },
     {
       "id": "23fb5e1c1f5ebfdc",
@@ -1035,7 +1403,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.087875+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie řady batohů, ne jeden produkt.",
+      "trideno_at": "2026-10-19T05:01:38.126054+00:00"
     },
     {
       "id": "c5a4ca2b1720e9cf",
@@ -1049,7 +1422,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.603811+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blog článek o karimatkách, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:38.126059+00:00"
     },
     {
       "id": "29f8c21e70da06bb",
@@ -1063,7 +1441,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.826617+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie nových příchodů, ne produkt.",
+      "trideno_at": "2026-10-19T05:01:38.126065+00:00"
     },
     {
       "id": "0c97cbdaeaeb85a7",
@@ -1077,7 +1460,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.970520+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "La Sportiva Ultra Raptor II GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Trailová běžecká bota, nerecenzovaný model.",
+      "trideno_at": "2026-10-19T05:01:38.126069+00:00"
     },
     {
       "id": "c61b073108f995b1",
@@ -1091,7 +1479,12 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.736408+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o novinkách značky.",
+      "trideno_at": "2026-10-19T05:01:38.126082+00:00"
     },
     {
       "id": "4f2369872e50f61d",
@@ -1105,7 +1498,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:14.390579+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařská bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:38.126089+00:00"
     },
     {
       "id": "42aa7229fde6e15a",
@@ -1119,7 +1517,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:06.700660+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "Deuter AirContact Ultra",
+      "rubrika": "batohy",
+      "priorita": 4,
+      "duvod": "Trekový batoh, řada Ultra není mezi recenzovanými (jen AirContact Lite a 65+10).",
+      "trideno_at": "2026-10-19T05:01:38.126094+00:00"
     },
     {
       "id": "e5c939836bea66b4",
@@ -1133,7 +1536,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:22.560536+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (bunda), mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888550+00:00"
     },
     {
       "id": "8cb37343de326c0b",
@@ -1147,7 +1555,13 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:14.389192+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "Tecnica Forge Hike Mid GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trekingová bota; stejný model jako Tecnica FORGE GTX v recenzích (jiný název varianty).",
+      "trideno_at": "2026-10-19T05:01:45.888585+00:00",
+      "duplicita": "podle třídění"
     },
     {
       "id": "6a32f1417cb982a3",
@@ -1161,7 +1575,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:10.331931+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městské/lifestyle produkt, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888610+00:00"
     },
     {
       "id": "0008730584fd1d22",
@@ -1175,7 +1594,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:07.819868+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Lowe Alpine Edge 26",
+      "rubrika": "batohy",
+      "priorita": 2,
+      "duvod": "Denní batoh; městské/lifestyle použití, nízká priorita.",
+      "trideno_at": "2026-10-19T05:01:45.888621+00:00"
     },
     {
       "id": "dab22b763bd88878",
@@ -1189,7 +1613,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:07.819284+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Lowe Alpine Sirac ND65",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Trekový batoh, dámská verze; model nebyl dosud recenzován.",
+      "trideno_at": "2026-10-19T05:01:45.888639+00:00"
     },
     {
       "id": "b131154f040ff5f2",
@@ -1203,7 +1632,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:19.722072+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Therm-a-Rest MondoKing 3D",
+      "rubrika": "karimatky",
+      "priorita": 2,
+      "duvod": "Kempová nafukovací karimatka, spíše car camping, nižší priorita.",
+      "trideno_at": "2026-10-19T05:01:45.888656+00:00"
     },
     {
       "id": "0d7891667feb571c",
@@ -1217,7 +1651,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:14.389931+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařská bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888674+00:00"
     },
     {
       "id": "cf96971ea2f3eb03",
@@ -1231,7 +1670,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:22.561853+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blog/homepage, není produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888684+00:00"
     },
     {
       "id": "463446ba9f751219",
@@ -1245,7 +1689,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:11.013739+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lezečka, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888695+00:00"
     },
     {
       "id": "7da500c8cb2ebc4a",
@@ -1259,7 +1708,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:09.657631+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Homepage značky, není konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888705+00:00"
     },
     {
       "id": "96c0c8f96eeaed57",
@@ -1273,7 +1727,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:07.818574+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka o firmě, není produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888714+00:00"
     },
     {
       "id": "ae73280da9d2e243",
@@ -1287,7 +1746,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:17.834467+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie produktů, ne konkrétní model.",
+      "trideno_at": "2026-10-19T05:01:45.888723+00:00"
     },
     {
       "id": "264ffbfc854c445e",
@@ -1301,7 +1765,12 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:22.561273+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Spacák, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888732+00:00"
     },
     {
       "id": "69911709a34e0fa5",
@@ -1315,7 +1784,13 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:16.476795+00:00",
       "data": {},
-      "status": "novy"
+      "status": "duplicitni",
+      "model": "Keen Targhee Apex WP",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Turistická bota; odpovídá již recenzovanému Keen Targhee III WP (jiná verze).",
+      "trideno_at": "2026-10-19T05:01:45.888741+00:00",
+      "duplicita": "podle třídění"
     },
     {
       "id": "4191d68199642a6e",
@@ -1329,7 +1804,12 @@
       "published_at": "",
       "detected_at": "2026-04-25T09:52:44.274851+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Rubriková stránka řady, není konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888758+00:00"
     },
     {
       "id": "c48f89f7f7fc3eae",
@@ -1343,7 +1823,12 @@
       "published_at": "",
       "detected_at": "2026-04-25T09:52:43.768769+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Spolupráce s Garmin, doplněk/elektronika, není batoh jako produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888768+00:00"
     },
     {
       "id": "a2b670e056b99adc",
@@ -1357,7 +1842,12 @@
       "published_at": "",
       "detected_at": "2026-04-25T09:52:43.348788+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Limitovaná kolekce oblečení/doplňků, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888776+00:00"
     },
     {
       "id": "de7c9e383e5e52b7",
@@ -1371,7 +1861,12 @@
       "published_at": "",
       "detected_at": "2026-04-25T09:52:49.388296+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kolekce/kategorie značky, není konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888790+00:00"
     },
     {
       "id": "11e7e7c105b6b87b",
@@ -1385,7 +1880,12 @@
       "published_at": "",
       "detected_at": "2026-04-25T09:52:52.072680+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Homepage značky, není konkrétní produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888799+00:00"
     },
     {
       "id": "0481171e0bf89cd8",
@@ -1399,7 +1899,12 @@
       "published_at": "",
       "detected_at": "2026-04-26T09:53:36.085454+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Chest rig, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888808+00:00"
     },
     {
       "id": "f02e05183c89959f",
@@ -1413,7 +1918,12 @@
       "published_at": "",
       "detected_at": "2026-04-26T09:53:42.607378+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová/lyžařská bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888821+00:00"
     },
     {
       "id": "6750d890400805b7",
@@ -1427,7 +1937,12 @@
       "published_at": "",
       "detected_at": "2026-04-26T09:53:47.807450+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Homepage značky, není produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888832+00:00"
     },
     {
       "id": "1e71d6abe0a959a8",
@@ -1441,7 +1956,12 @@
       "published_at": "",
       "detected_at": "2026-04-26T09:53:40.020941+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek/novinka, není produkt.",
+      "trideno_at": "2026-10-19T05:01:45.888842+00:00"
     },
     {
       "id": "44807e138df6f7d8",
@@ -1455,7 +1975,12 @@
       "published_at": "",
       "detected_at": "2026-04-26T09:53:40.020297+00:00",
       "data": {},
-      "status": "novy"
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská/lifestyle bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:45.888850+00:00"
     },
     {
       "id": "8e1c129f5e00c3d7",
@@ -1469,7 +1994,12 @@
       "published_at": "",
       "detected_at": "2026-04-27T11:03:35.783514+00:00",
       "data": {},
-      "status": "novy"
+      "status": "vhodny",
+      "model": "Deuter AC Lite 16",
+      "rubrika": "batohy",
+      "priorita": 2,
+      "duvod": "Malý denní batoh; nová velikost řady, nízká priorita kvůli okrajovému použití.",
+      "trideno_at": "2026-10-19T05:01:45.888859+00:00"
     },
     {
       "id": "bb2a56695ede4b27",
@@ -10234,6 +10764,3652 @@
       "detected_at": "2026-10-18T12:58:33.923158+00:00",
       "data": {},
       "status": "novy"
+    },
+    {
+      "id": "0f9e4770fadbf150",
+      "url": "https://www.blackdiamondequipment.com/products/cam-sling-repair",
+      "title": "Camalot™ Repair Service",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "How it works\n Step 1: Choose the repair service (resling or retrigger wire) you are looking for; Add the desired quantity of cams that need to be repaired to your shopping bag.\n Step 2: Proceed to checkout when you are ready. You will receive an order confirmation once your order is placed.\n Step 3: Please wait for our service team to contact you with further instructions including a Return Authorization (RA). This may take up to 72 hours but can vary depending on the season. This contact will be separate from your order confirmation.\n Please Note: Re-trigger and Re-sling services are repairs, and will have aesthetic differences from your original cam, including, but not limited to:\n Updated webbing styles\n Updated trigger wiring style\n Different alignment of the bar tacking\n Different color thread used in bar tacking\n Your repaired cam will have matching color webbing, but it may have a slightly different look or texture from the original webbing. This is because webbing has a shelf life. Black Diamond does not stock webbing used on older cams, and as we run out of inventory, we will switch to current webbing styles. Please expect up to 1 week for a response containing your RA, and a 4-5 week turnaround time on your cam repair request. For international orders, please add an additional 2 weeks.\n Please Note: Ultralight (UL) Cam Lifespan: Ultralight Camalots utilize a Dyneema core with an approximate service life of 10 years from the date of manufacture. Units that have reach",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/Christian_Adam_resling_20241015_191109.jpg?v=1742403580",
+      "published_at": "2026-10-15T14:52:36-06:00",
+      "detected_at": "2026-10-19T04:59:32.325867+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "",
+        "tags": [
+          "ignore-claimlane",
+          "no-shipping-item"
+        ],
+        "grams": [
+          454
+        ],
+        "price_range": [
+          10.0,
+          15.0
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Camalot Repair Service",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Servis lezecké jisticí techniky, není to outdoorový batoh, bota ani karimatka.",
+      "trideno_at": "2026-10-19T05:00:19.280459+00:00"
+    },
+    {
+      "id": "3fb39bd980f5d903",
+      "url": "https://www.blackdiamondequipment.com/products/ultralight-camalot",
+      "title": "Camalot™ Ultralight",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "On fast-and-light missions and smash-and-grab ascents when weight really matters, the Black Diamond Camalot Ultralight presents a 15% weight savings over the Camalot.\n With sculpted lobes that account for a portion of the weight savings, the Camalot Ultralight features a dyneema cord in place of a cable with all of the same strength you rely on. A double-axle design allows for the widest placement range possible for each cam device, and color coding makes for easy identification when quick pro is paramount. When light is right, the Camalot Ultralight is essential.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/262165_0000_CAMALOT_ULTRALIGHT.jpg?v=1742402034",
+      "published_at": "2026-10-07T14:47:02-06:00",
+      "detected_at": "2026-10-19T04:59:32.325957+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Protection",
+        "tags": [
+          "equipment"
+        ],
+        "grams": [
+          260
+        ],
+        "price_range": [
+          119.95,
+          159.95
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Camalot Ultralight",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lezecký jistič, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280506+00:00"
+    },
+    {
+      "id": "239aea89210cc7a3",
+      "url": "https://www.blackdiamondequipment.com/products/womens-recon-gloves",
+      "title": "Women's Recon Gloves",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Designed to keep your hands warm lap after lap during the day and exploring the local ski town at night\n the Recon Gloves feature a GORE-TEX® insert and 200g of High Loft fleece in the liner, a durable goatskin palm patch, and versatile features including a webbing pull loop and wrist leash. Designed to be comfortable and dexterous from day one, the Recon Gloves are an all-season workhorse.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/801185_9808_W_Recon_Gloves_Dark_Mauve-Black_01.jpg?v=1791231145",
+      "published_at": "2026-10-05T14:12:15-06:00",
+      "detected_at": "2026-10-19T04:59:32.326095+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Skiing Gloves",
+        "tags": [
+          "equipment",
+          "New Arrivals",
+          "Skiing and Snowboarding",
+          "Women's-Gloves",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          210,
+          221,
+          230,
+          240
+        ],
+        "price_range": [
+          119.95,
+          119.95
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Recon Gloves",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské rukavice, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280521+00:00"
+    },
+    {
+      "id": "a10c894bc741a673",
+      "url": "https://www.blackdiamondequipment.com/products/recon-gloves",
+      "title": "Recon Gloves",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Designed to keep your hands warm lap after lap during the day and exploring the local ski town at night\n the Recon Gloves feature a GORE-TEX® insert and 200g of High Loft fleece in the liner, a durable goatskin palm patch, and versatile features including a webbing pull loop and wrist leash. Designed to be comfortable and dexterous from day one, the Recon Gloves are an all-season workhorse.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/801184_9807_Recon_Gloves_Midnight_Blue-Black_01.jpg?v=1791231039",
+      "published_at": "2026-10-05T14:10:28-06:00",
+      "detected_at": "2026-10-19T04:59:32.326228+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Skiing Gloves",
+        "tags": [
+          "Designed for the Deep",
+          "equipment",
+          "Men's-Gloves",
+          "New Arrivals",
+          "Skiing and Snowboarding",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          236,
+          244,
+          260,
+          290
+        ],
+        "price_range": [
+          119.95,
+          119.95
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Recon Gloves",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské rukavice, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280534+00:00"
+    },
+    {
+      "id": "61f37cc10fa43ba4",
+      "url": "https://www.blackdiamondequipment.com/products/womens-recon-mx-mitts",
+      "title": "Women's Recon MX Mitts",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "An ultra-warm mitt that performs on and off the mountain\n the Recon MX Mitt is versatile and dependable, featuring a GORE-TEX® insert and PrimaLoft® Gold and Black Rise high loft insulation for ultimate warmth that resists packing out. The goat leather palm is supple and durable, while the 70D polyester and padding on the back of the hand make these under-the-cuff mitts a workhorse in the mountains.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/801183_9808_W_Recon_MX_Mitts_Dark_Mauve-Black_01.jpg?v=1791230593",
+      "published_at": "2026-10-05T14:03:03-06:00",
+      "detected_at": "2026-10-19T04:59:32.326344+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Skiing Gloves",
+        "tags": [
+          "Designed for the Deep",
+          "equipment",
+          "New Arrivals",
+          "Skiing and Snowboarding",
+          "Women's-Gloves",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          254,
+          260,
+          271,
+          280
+        ],
+        "price_range": [
+          139.95,
+          139.95
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Recon MX Mitts",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské rukavice, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280546+00:00"
+    },
+    {
+      "id": "76e185437ee62302",
+      "url": "https://www.blackdiamondequipment.com/products/recon-mx-mitts",
+      "title": "Recon MX Mitts",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "An ultra-warm mitt that performs on and off the mountain\n the Recon MX Mitt is versatile and dependable, featuring a GORE-TEX® insert and PrimaLoft® Gold and Black Rise high loft insulation for ultimate warmth that resists packing out. The goat leather palm is supple and durable, while the 70D polyester and padding on the back of the hand make these under-the-cuff mitts a workhorse in the mountains.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/801182_9807_Recon_MX_Mitts_Midnight_Blue-Black_01.jpg?v=1791230341",
+      "published_at": "2026-10-05T13:58:51-06:00",
+      "detected_at": "2026-10-19T04:59:32.326449+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Skiing Gloves",
+        "tags": [
+          "Designed for the Deep",
+          "equipment",
+          "Men's-Gloves",
+          "New Arrivals",
+          "Skiing and Snowboarding",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          295,
+          306,
+          313,
+          321
+        ],
+        "price_range": [
+          139.95,
+          139.95
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Recon MX Mitts",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské rukavice, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280560+00:00"
+    },
+    {
+      "id": "a4c7e756c680dc05",
+      "url": "https://www.blackdiamondequipment.com/products/womens-recon-lt-gloves",
+      "title": "Women's Recon LT Gloves",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "A workhorse glove for skiers and snowboarders who run warm or who love spring corn laps\n the Recon LT Gloves are comfortable from day one. Featuring a BD.dry™ insert and 165g of recycled buttery soft fleece in the liner, a durable goatskin palm patch, and versatile features including a webbing pull loop and wrist leash, the Recon Gloves are designed to be comfortable and dexterous from day one.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/801187_9809_W_Recon_LT_Gloves_Deep_Woods-Black_01.jpg?v=1791229693",
+      "published_at": "2026-10-05T13:48:02-06:00",
+      "detected_at": "2026-10-19T04:59:32.326561+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Skiing Gloves",
+        "tags": [
+          "Designed for the Deep",
+          "equipment",
+          "New Arrivals",
+          "Skiing and Snowboarding",
+          "Women's-Gloves",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          204,
+          214,
+          230,
+          240
+        ],
+        "price_range": [
+          99.95,
+          99.95
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Recon LT Gloves",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské rukavice, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280573+00:00"
+    },
+    {
+      "id": "1532f4f794ea1dd4",
+      "url": "https://www.blackdiamondequipment.com/products/recon-lt-gloves",
+      "title": "Recon LT Gloves",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "A workhorse glove for skiers and snowboarders who run warm or who love spring corn laps\n the Recon LT Gloves offer mid-weight warmth and are comfortable from day one. Featuring a BD.dry™ insert and 165g of buttery soft fleece in the liner, a durable goatskin palm patch, and versatile features including a webbing pull loop and wrist leash, the Recon Gloves are designed to be comfortable and dexterous from day one.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/801186_9633_Recon_LT_Gloves_Iron_Red-Black_01.jpg?v=1791229475",
+      "published_at": "2026-10-05T13:44:25-06:00",
+      "detected_at": "2026-10-19T04:59:32.326656+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Skiing Gloves",
+        "tags": [
+          "Designed for the Deep",
+          "equipment",
+          "Men's-Gloves",
+          "New Arrivals",
+          "Skiing and Snowboarding",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          226,
+          233,
+          244,
+          260
+        ],
+        "price_range": [
+          99.95,
+          99.95
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Recon LT Gloves",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské rukavice, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280592+00:00"
+    },
+    {
+      "id": "0e5048724f03cfb3",
+      "url": "https://www.blackdiamondequipment.com/products/freeride-glove-leashes",
+      "title": "Freeride Glove Leashes",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Keep your gloves or mittens attached with these spare or replacement glove leashes. Sold in pairs.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/801175_0002_Freeride_Glove_Leashes_Black_01.jpg?v=1786562704",
+      "published_at": "2026-10-05T09:57:57-06:00",
+      "detected_at": "2026-10-19T04:59:32.326709+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Skiing Gloves",
+        "tags": [
+          "YGroup_GloveLeash"
+        ],
+        "grams": [
+          10
+        ],
+        "price_range": [
+          9.95,
+          9.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Freeride Glove Leashes",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Příslušenství k rukavicím.",
+      "trideno_at": "2026-10-19T05:00:19.280607+00:00"
+    },
+    {
+      "id": "7b196a76a8215c44",
+      "url": "https://www.blackdiamondequipment.com/products/access-fund-2026-anniversary-tee",
+      "title": "Access Fund 2026 Anniversary Tee",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Access Fund has been protecting America's climbing for 35 years \n And we want to celebrate with an ultra-limited-edition Access Fund 2026 Anniversary Tee. 100% of the proceeds go to Access Fund. \n Black Diamond Equipment has been a proud supporter of Access Fund since the beginning, and we have contributed over a million dollars since 1991. We share the same guiding principle—protecting what matters and preserving the climbing areas that we love so dearly.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/730311_9947_Access_Fund_2026_Anniversary_Tee_Indigo-Clay_01.jpg?v=1790614149",
+      "published_at": "2026-09-30T15:32:51-06:00",
+      "detected_at": "2026-10-19T04:59:32.326768+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Tees",
+        "tags": [
+          "Men's-Tops-Regular",
+          "New Arrivals"
+        ],
+        "grams": [
+          454
+        ],
+        "price_range": [
+          45.0,
+          45.0
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Access Fund 2026 Anniversary Tee",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Triko, oblečení mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280622+00:00"
+    },
+    {
+      "id": "6d25fb51937370e4",
+      "url": "https://www.blackdiamondequipment.com/products/spot-headlamp",
+      "title": "Spot Headlamp",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "With 450 lumens of power in a small and efficient design, the Spot is a road trip essential.\n Built with multiple lighting modes, including red, green, and blue light options, a flood and spot lens, mode memory, and Power Tap technology that optimizes battery life while boosting light output when you need it most. Plus, its headband is built from recycled materials. The Spot offers peripheral lighting for close-range activities like sorting gear, cooking, or reading in camp, and it sports an IPX7 waterproof housing. The Spot has Dual-Fuel capabilities, meaning it can be powered by our rechargeable BD 1500 Li-ion battery (sold separately) or three AAA batteries. The battery power indicator is repositioned for less visual impact when the light is off.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/F2026_Wirecutter_HOF_620746_0002_Spot-Headlamp_Black_01.jpg?v=1791581608",
+      "published_at": "2026-09-29T15:46:23-06:00",
+      "detected_at": "2026-10-19T04:59:32.326814+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Headlamps",
+        "tags": [
+          "equipment",
+          "New Arrivals"
+        ],
+        "grams": [
+          116
+        ],
+        "price_range": [
+          59.95,
+          59.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Spot Headlamp",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Čelovka, doplněk mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280638+00:00"
+    },
+    {
+      "id": "f21ac32cf228e38e",
+      "url": "https://www.blackdiamondequipment.com/products/w-session-2-shoes",
+      "title": "W SESSION 2 SHOES",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Engineered to send in style, the Black Diamond Session 2 combines ultimate comfort and performance with sustainable materials utilized throughout. You’ll first notice how the shoe slips on thanks to the stretch-fit heel for easy on/off transitions. That heel also folds down with ease for slip on functionality. The tuned EVA midsole keeps you cushioned and stable, while the Black Diamond BlackLabel-Street sticky rubber adds grip for approaches or commutes. Webbing loops (25% recycled materials) provide tagging or stowing options for trails that end at the cliff. Finally, the lining and footbed are constructed with 100% recycled mesh.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/580045_9581_W_SESSION_2_SHOES_Marigold-Clean_Blue_06.jpg?v=1790616460",
+      "published_at": "2026-09-28T11:50:56-06:00",
+      "detected_at": "2026-10-19T04:59:32.326835+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "",
+        "tags": [
+          "past-season"
+        ],
+        "grams": [
+          610,
+          620,
+          640,
+          650,
+          660
+        ],
+        "price_range": [
+          55.98,
+          55.98
+        ],
+        "variants": 24
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Session 2",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lezecké boty (lezečky), mimo rubriky a past-season.",
+      "trideno_at": "2026-10-19T05:00:19.280650+00:00"
+    },
+    {
+      "id": "07c3db9ddd9dc6ba",
+      "url": "https://www.blackdiamondequipment.com/products/womens-access-down-2-0-parka-past-season",
+      "title": "Women's Access Down 2.0 Parka - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Featuring 800-fill RDS-certified goose down, the Access Down 2.0 Parka provides extra coverage and extra warmth that’s shielded with a DWR for added weather resistance.\n A brimmed hood provides extra protection from the elements, while two zippered hand pockets and an internal chest pocket give you ample room to stash life’s essentials. Stretch knit cuffs add layering and glove compatibility, making the Access Down 2.0 Parka an all-around fall-through-spring down layer.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/746016_0002_W_Access_Down_Parka_Black_03.jpg?v=1784749154",
+      "published_at": "2026-09-28T09:39:16-06:00",
+      "detected_at": "2026-10-19T04:59:32.326908+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Insulation",
+        "tags": [
+          "past-season",
+          "Women's-Tops-Regular",
+          "YCRF_apparel",
+          "YGroup_WAccessParka"
+        ],
+        "grams": [
+          355
+        ],
+        "price_range": [
+          279.3,
+          279.3
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Access Down 2.0 Parka",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, past-season.",
+      "trideno_at": "2026-10-19T05:00:19.280663+00:00"
+    },
+    {
+      "id": "76e0715cb56f2c11",
+      "url": "https://www.blackdiamondequipment.com/products/mens-access-down-2-0-vest-past-season",
+      "title": "Men's Access Down 2.0 Vest - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Designed as an everyday spring-through-fall layer, the Access Down 2.0 Vest brings reliable warmth with a super soft feel, all without sacrificing mobility.\n Featuring 800-fill goose down, the Access Vest is shielded with DWR for added weather resistance. Two zippered hand pockets and an internal chest pocket give you ample room to stash life’s essentials while on the move, making this your go-to layer for brisk days outside.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/744096_4079_Men_s_Access_Down_2.0_Vest_Twilight_Blue_01.jpg?v=1784736913",
+      "published_at": "2026-09-28T09:23:23-06:00",
+      "detected_at": "2026-10-19T04:59:32.326977+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Insulation",
+        "tags": [
+          "Men's-Tops-Regular",
+          "past-season",
+          "YCRF_apparel",
+          "YGroup_MAccessVest"
+        ],
+        "grams": [
+          261,
+          275,
+          289,
+          303
+        ],
+        "price_range": [
+          174.3,
+          174.3
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Access Down 2.0 Vest",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, past-season.",
+      "trideno_at": "2026-10-19T05:00:19.280678+00:00"
+    },
+    {
+      "id": "b61f5bd2fab83985",
+      "url": "https://www.blackdiamondequipment.com/products/mens-access-down-2-0-jacket-past-season",
+      "title": "Men's Access Down 2.0 Jacket - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Your indispensable daily driver, the Access Down 2.0 jacket is a highly versatile midweight down layer with an ultra-soft hand-feel. Basically, you’ll never want to take it off.\n Featuring 800-fill goose down, the Access provides reliable warmth that’s shielded with DWR for added weather resistance. Two zippered hand pockets and an internal chest pocket give you ample room to stash life’s essentials. Stretch knit cuffs add layering and glove compatibility, making the Access an all-around fall-through-spring down layer. The Access Down 2.0 Jacket was formerly known as the Access Down Jacket.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/744095_4079_Men_s_Access_Down_2.0_Jacket_Twilight_Blue_01.jpg?v=1773239844",
+      "published_at": "2026-09-28T09:19:27-06:00",
+      "detected_at": "2026-10-19T04:59:32.327098+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Insulation",
+        "tags": [
+          "Men's-Tops-Regular",
+          "past-season",
+          "YCRF_apparel",
+          "YGroup_MAccessJacket"
+        ],
+        "grams": [
+          384,
+          404,
+          424,
+          445
+        ],
+        "price_range": [
+          216.3,
+          216.3
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Access Down 2.0 Jacket",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, past-season.",
+      "trideno_at": "2026-10-19T05:00:19.280690+00:00"
+    },
+    {
+      "id": "00c3495981b3183d",
+      "url": "https://www.blackdiamondequipment.com/products/cheat-sheets-150-mm-x-190-cm",
+      "title": "Cheat Sheets 150 mm x 190 cm",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Store your skins long-term with these cheat sheets. Sold in pairs.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/163899_0000_CHEAT_SHEETS_NO_COLOR_01.jpg?v=1785876702",
+      "published_at": "2026-09-21T10:44:45-06:00",
+      "detected_at": "2026-10-19T04:59:32.327161+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Accessories",
+        "tags": [],
+        "grams": [
+          40
+        ],
+        "price_range": [
+          26.95,
+          26.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Cheat Sheets",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Příslušenství ke skialpům.",
+      "trideno_at": "2026-10-19T05:00:19.280704+00:00"
+    },
+    {
+      "id": "59ed061ce2ecd2c6",
+      "url": "https://www.blackdiamondequipment.com/products/mens-factor-bibs-past-season",
+      "title": "Men's Factor Bibs - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Bottomless pow days in deep winter and pre-dawn starts in spring, the Factor Bib is built for day-in-day out skiers and riders.\n Durable, fully featured, and made with premium fabrics, the Factor Bib protects against the burliest conditions and looks good doing it. Low profile, adjustable suspenders, and a stretch woven elasticized back panel make for easy on/off. Features include drop-in thigh pockets, a bib chest pocket with an internal sleeve, and side vents for when things heat up on the skin track.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/741013_0002_M_Factor_Bibs_Black_03_10364b99-d61a-4439-9b9f-419ea3b06c7d.jpg?v=1784659725",
+      "published_at": "2026-09-21T09:26:14-06:00",
+      "detected_at": "2026-10-19T04:59:32.327241+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Ski Pants",
+        "tags": [
+          "Men's-Pants-Regular-Alpha",
+          "past-season",
+          "Skiing and Snowboarding",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          745,
+          784,
+          824,
+          865
+        ],
+        "price_range": [
+          475.3,
+          475.3
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Factor Bibs",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské kalhoty, past-season.",
+      "trideno_at": "2026-10-19T05:00:19.280717+00:00"
+    },
+    {
+      "id": "6087dd6413edbdad",
+      "url": "https://www.blackdiamondequipment.com/products/mens-factor-shell-past-season",
+      "title": "Men's Factor Shell - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Bluebird or blower, in-bounds or out, the Black Diamond Factor Shell is our go-to, do-it-all ski jacket for hundred-day seasons and bell-to-bell days.\n Featuring our BD.dry™ waterproof/breathable/ windproof solution for uncompromising protection, the Factor has a soft interior lining for added comfort and extensive pocket storage for small essentials. Extended, two-way zippered armpit vents let you dump excess heat quickly on the skin track. An integrated powder skirt is a second line of defense on those all-time deep days.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/745029_4034_M_Factor_Shell_Midnight_Blue_03.jpg?v=1784300041",
+      "published_at": "2026-09-21T09:22:42-06:00",
+      "detected_at": "2026-10-19T04:59:32.327317+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Ski Jackets",
+        "tags": [
+          "Men's-Tops-Regular",
+          "past-season",
+          "Skiing and Snowboarding",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          803,
+          845,
+          887,
+          929
+        ],
+        "price_range": [
+          407.4,
+          475.3
+        ],
+        "variants": 12
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Factor Shell",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařská bunda, past-season.",
+      "trideno_at": "2026-10-19T05:00:19.280728+00:00"
+    },
+    {
+      "id": "f529562c22899b4f",
+      "url": "https://www.blackdiamondequipment.com/products/quickdraw-pro-probe-280",
+      "title": "Quickdraw Pro Probe 280",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Built with a durable 7-section aluminum construction, stainless steel cable and medium length,\n the Black Diamond Quickdraw Pro Probe 280 is the daily driver probe for backcountry users who demand reliability day in and day out. The Pro 280’s ferrules make for increased durability and quick alignment, while the integrated stuff sack provides fast, one-pull deployment in emergency situations.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/109107_0000_QUICKDRAW_PRO_PROBE_280_NO_COLOR_01.jpg?v=1748368572",
+      "published_at": "2026-09-18T09:52:59-06:00",
+      "detected_at": "2026-10-19T04:59:32.327379+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Snow Safety",
+        "tags": [
+          "equipment",
+          "no-restock",
+          "past-season"
+        ],
+        "grams": [
+          410
+        ],
+        "price_range": [
+          62.97,
+          62.97
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Quickdraw Pro Probe 280",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lavinová sonda, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280740+00:00"
+    },
+    {
+      "id": "03c177a4fdd65d00",
+      "url": "https://www.blackdiamondequipment.com/products/stonehauler-athlete-tote",
+      "title": "Stonehauler Athlete Tote",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Versatile and overbuilt, the Stonehauler Tote - Athlete Edition is a daily 20L hauler for gear, groceries, and everyday essentials. \n Made with the same 100% recycled SuperGrid Body Material as our Stonehauler Duffels, stay organized with 2 internal drop pockets and 1 small internal zip pocket with a key clip. The tote stands on its own, and an overstuff collar with a zip closure makes it easy to load up with gear. Carrying the tote in style with two padded, exterior handles for over-the-shoulder carry and two internal short handles for a brief style carry.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/680099_0002_Stonehauler_Athlete_Tote_Black_01.jpg?v=1780940900",
+      "published_at": "2026-09-16T09:17:56-06:00",
+      "detected_at": "2026-10-19T04:59:32.327436+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Packs",
+        "tags": [
+          "New Arrivals"
+        ],
+        "grams": [
+          670
+        ],
+        "price_range": [
+          120.0,
+          120.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Stonehauler Athlete Tote",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Taška/tote, lifestyle, ne batoh.",
+      "trideno_at": "2026-10-19T05:00:19.280754+00:00"
+    },
+    {
+      "id": "5735a9a59652231a",
+      "url": "https://www.blackdiamondequipment.com/products/ski-skin-tail-kit",
+      "title": "Ski Skin Tail Kit",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "This kit contains two replacement tail straps, clips, rivets, and hardwear.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/163897_0000_SKI_SKIN_TAIL_KIT_NO_COLOR_01.jpg?v=1781541583",
+      "published_at": "2026-09-10T10:14:22-06:00",
+      "detected_at": "2026-10-19T04:59:32.327496+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Climbing Skins",
+        "tags": [
+          "equipment",
+          "New Arrivals"
+        ],
+        "grams": [
+          100
+        ],
+        "price_range": [
+          24.95,
+          24.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "Black Diamond Ski Skin Tail Kit",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Náhradní díly ke skialpovým pásům.",
+      "trideno_at": "2026-10-19T05:00:19.280767+00:00"
+    },
+    {
+      "id": "26cebf7fcf77d6cd",
+      "url": "https://www.garmont.com/products/t8-athena-regular",
+      "title": "T8 ATHENA REGULAR",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Stivali militari da donna progettati appositamente per la forma del piede femminile.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/stilllife_12.png?v=1791901973",
+      "published_at": "2026-10-14T14:23:36+02:00",
+      "detected_at": "2026-10-19T04:59:34.958226+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "",
+        "tags": [
+          "Military",
+          "rel_S71050"
+        ],
+        "grams": [
+          720,
+          740,
+          760,
+          780,
+          800
+        ],
+        "price_range": [
+          160.0,
+          160.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Garmont T8 Athena",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Vojenské/policejní boty, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280780+00:00"
+    },
+    {
+      "id": "249bca9895c328cb",
+      "url": "https://www.garmont.com/products/t8-specter-le-zip-black-003170",
+      "title": "T8 SPECTER LE ZIP",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Stivali leggeri per le forze dell'ordine , progettati per garantire praticità e comfort, dotati della tecnologia D3O® per l'assorbimento degli urti, la riduzione dell'affaticamento e una protezione avanzata.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/69ef4279202628e14e2a1468.png?v=1781017975",
+      "published_at": "2026-09-22T14:06:02+02:00",
+      "detected_at": "2026-10-19T04:59:34.958287+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "",
+        "tags": [
+          "rel_S71056"
+        ],
+        "grams": [
+          700,
+          720,
+          740,
+          760,
+          780
+        ],
+        "price_range": [
+          110.0,
+          110.0
+        ],
+        "variants": 21
+      },
+      "status": "zamitnuty",
+      "model": "Garmont T8 Specter LE Zip",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Policejní boty, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:19.280791+00:00"
+    },
+    {
+      "id": "40f05be8582f2dfb",
+      "url": "https://www.garmont.com/products/contact-4-le-black-003174",
+      "title": "CONTACT 4 LE",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarponcini ideati per le forze dell’ordine che offrono prestazioni agili e supporto affidabile , conformi agli standard di resistenza allo scivolamento e proprietà antistatiche su superfici oleose o bagnate.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/CONTACT4_01.png?v=1783590282",
+      "published_at": "2026-09-16T12:48:27+02:00",
+      "detected_at": "2026-10-19T04:59:34.958339+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "",
+        "tags": [
+          "rel_S75002"
+        ],
+        "grams": [
+          660,
+          680,
+          700,
+          720,
+          730
+        ],
+        "price_range": [
+          150.0,
+          150.0
+        ],
+        "variants": 21
+      },
+      "status": "zamitnuty",
+      "model": "Garmont Contact 4 LE",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Služební obuv pro složky IZS, ne turistická bota.",
+      "trideno_at": "2026-10-19T05:00:19.280803+00:00"
+    },
+    {
+      "id": "8e61dea902ebdb43",
+      "url": "https://www.garmont.com/products/contact-6-le-zip-wp-black-003175",
+      "title": "CONTACT 6 LE ZIP WP",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarponcini impermeabili ideati per le forze dell’ordine che offrono prestazioni agili, supporto affidabile e una pratica zip laterale per una calzata rapida. Soddisfano gli standard di resistenza allo scivolamento e proprietà antistatiche su superfici oleose o bagnate.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/CONTACT6_01_1e17aaa8-f332-4a1e-93e0-13fc82888742.png?v=1783590460",
+      "published_at": "2026-09-16T12:47:52+02:00",
+      "detected_at": "2026-10-19T04:59:34.958395+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "",
+        "tags": [
+          "rel_S75003"
+        ],
+        "grams": [
+          710,
+          730,
+          750,
+          770,
+          790
+        ],
+        "price_range": [
+          170.0,
+          170.0
+        ],
+        "variants": 21
+      },
+      "status": "zamitnuty",
+      "model": "Garmont Contact 6 LE Zip WP",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Služební obuv pro složky IZS, ne turistická bota.",
+      "trideno_at": "2026-10-19T05:00:19.280817+00:00"
+    },
+    {
+      "id": "24df5957cd16dae5",
+      "url": "https://www.garmont.com/products/contact-6-le-zip-black-003176",
+      "title": "CONTACT 6 LE ZIP",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarponcini ideati per le forze dell’ordine che offrono prestazioni agili , supporto affidabile e una rapida calzata grazie alla zip laterale . Soddisfano gli standard di resistenza allo scivolamento e proprietà antistatiche su superfici oleose o bagnate.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/CONTACT6_01.png?v=1783590138",
+      "published_at": "2026-09-16T12:46:51+02:00",
+      "detected_at": "2026-10-19T04:59:34.958449+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "",
+        "tags": [
+          "rel_S75004"
+        ],
+        "grams": [
+          710,
+          730,
+          750,
+          770,
+          790
+        ],
+        "price_range": [
+          160.0,
+          160.0
+        ],
+        "variants": 21
+      },
+      "status": "zamitnuty",
+      "model": "Garmont Contact 6 LE Zip",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Taktická obuv pro policisty, mimo rubriky webu.",
+      "trideno_at": "2026-10-19T05:00:34.996803+00:00"
+    },
+    {
+      "id": "e7cf3eccb509b225",
+      "url": "https://www.garmont.com/products/contact-4-le-wp-black-003173",
+      "title": "CONTACT 4 LE WP",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarponcini tattici impermeabili ideati per le forze dell’ordine che offrono prestazioni agili e supporto affidabile , conformi agli standard di resistenza allo scivolamento e proprietà antistatiche su superfici oleose o bagnate.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/CONTACT4_01_c9371bf2-47bc-4e2a-b059-e6f203b7a87b.png?v=1783590382",
+      "published_at": "2026-09-16T12:45:38+02:00",
+      "detected_at": "2026-10-19T04:59:34.958502+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "",
+        "tags": [
+          "rel_S75001"
+        ],
+        "grams": [
+          660,
+          680,
+          700,
+          720,
+          730
+        ],
+        "price_range": [
+          160.0,
+          160.0
+        ],
+        "variants": 21
+      },
+      "status": "zamitnuty",
+      "model": "Garmont Contact 4 LE WP",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Taktická obuv pro policisty, mimo rubriky webu.",
+      "trideno_at": "2026-10-19T05:00:34.996861+00:00"
+    },
+    {
+      "id": "9c79fe465ab6f76c",
+      "url": "https://www.garmont.com/products/hexagon-gtx-blue-003042",
+      "title": "HEXAGON GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarpone ideale per trekking tecnici di più giorni, combinando leggerezza e protezione. Particolarmente resistente grazie alla costruzione overlasting.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S01081_M645201_01.jpg?v=1789046548",
+      "published_at": "2026-09-10T10:19:06+02:00",
+      "detected_at": "2026-10-19T04:59:34.958565+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "TREKKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_s01081",
+          "trekking_hiking"
+        ],
+        "grams": [],
+        "price_range": [
+          259.95,
+          259.95
+        ],
+        "variants": 17
+      },
+      "status": "vhodny",
+      "model": "Garmont Hexagon GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Trekingová bota pro vícedenní túry, nový model FW26.",
+      "trideno_at": "2026-10-19T05:00:34.996874+00:00"
+    },
+    {
+      "id": "f357d0c05137a62c",
+      "url": "https://www.garmont.com/products/nebraska-3-gtx-grey-003149",
+      "title": "NEBRASKA 3 GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Lo scarpone ideale per l’escursionista tradizionale: garantisce comfort prolungato e supporto affidabile, perfetto per affrontare trekking di più giorni su terreni impegnativi.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S01086_M048200_01.jpg?v=1789046770",
+      "published_at": "2026-09-10T10:18:57+02:00",
+      "detected_at": "2026-10-19T04:59:34.958628+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "TREKKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_S01086",
+          "trekking_hiking"
+        ],
+        "grams": [
+          1090,
+          1120,
+          1150,
+          1180,
+          1210
+        ],
+        "price_range": [
+          239.95,
+          239.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont Nebraska 3 GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Trekingová bota pro vícedenní túry, novinka FW26.",
+      "trideno_at": "2026-10-19T05:00:34.996887+00:00"
+    },
+    {
+      "id": "f5a72841d2666cd7",
+      "url": "https://www.garmont.com/products/9-81-onyx-mb-gtx-blue-003142",
+      "title": "9.81 ONYX MB GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Una scarpa ideale per avvicinamenti veloci, pensata per chi affronta terreni tecnici con velocità, potenza e precisione.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S15005_M657658_01.jpg?v=1789046184",
+      "published_at": "2026-09-10T10:18:45+02:00",
+      "detected_at": "2026-10-19T04:59:34.958669+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "SPEED APPROACH",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_S15005"
+        ],
+        "grams": [
+          620,
+          630,
+          650,
+          660,
+          680
+        ],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont 9.81 Onyx MB GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Přístupová bota pro technický terén, nová FW26.",
+      "trideno_at": "2026-10-19T05:00:34.996899+00:00"
+    },
+    {
+      "id": "949fe0e1591b31ae",
+      "url": "https://www.garmont.com/products/9-81-etere-max-gtx-grey-003137",
+      "title": "9.81 ETERE MAX GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Questa scarpa combina fluidità di movimento e grip sicuro, offrendo comfort e\nprecisione in ogni passo. Ideale per escursionisti agili che affrontano con sicurezza\nterreni montani tecnici.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S15004_M012657_01_26fefa38-6d9a-446f-94ec-a0f5869da536.jpg?v=1791904430",
+      "published_at": "2026-09-10T10:16:32+02:00",
+      "detected_at": "2026-10-19T04:59:34.958745+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "SPEED HIKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_S15004"
+        ],
+        "grams": [
+          720,
+          740,
+          760,
+          780,
+          800
+        ],
+        "price_range": [
+          179.95,
+          179.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont 9.81 Etere Max GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Speed hiking bota pro terénní túry, novinka FW26.",
+      "trideno_at": "2026-10-19T05:00:34.996912+00:00"
+    },
+    {
+      "id": "8d7634bde33639cf",
+      "url": "https://www.garmont.com/products/lagorai-3-gtx-grey-003146",
+      "title": "LAGORAI 3 GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Uno scarpone versatile per il trekking classico, progettato per offrire comfort affidabile, protezione dalle intemperie e un grip sicuro su terreni vari.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S01085_M048655_01.jpg?v=1789052483",
+      "published_at": "2026-09-10T10:14:38+02:00",
+      "detected_at": "2026-10-19T04:59:34.958819+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "TREKKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_S01085",
+          "trekking_hiking"
+        ],
+        "grams": [
+          1030,
+          1050,
+          1080,
+          1110,
+          1130
+        ],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont Lagorai 3 GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Klasická trekingová bota, nová verze FW26.",
+      "trideno_at": "2026-10-19T05:00:34.996925+00:00"
+    },
+    {
+      "id": "4a5fd1b61c0cf242",
+      "url": "https://www.garmont.com/products/akron-gtx-green-003161",
+      "title": "AKRON GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarpe da hiking tecniche , ideali per escursioni giornaliere in montagna , progettate per offrire precisione , comfort e massima versatilità . Perfette su qualsiasi tipo di terreno , inclusi sentieri rocciosi , pendii scoscesi e tratti misti , si adattano con sicurezza anche ai percorsi più impegnativi .\n Le Garmont AKRON GTX® sono la scelta ideale per chi cerca scarpe da trekking resistenti e affidabili, pensate per garantire stabilità , aderenza e protezione durante ogni avventura outdoor , anche in condizioni climatiche variabili grazie alla membrana impermeabile GORE-TEX® .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S14002_M064340_01.jpg?v=1789050889",
+      "published_at": "2026-09-10T10:11:17+02:00",
+      "detected_at": "2026-10-19T04:59:34.958893+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "HIKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_s14002",
+          "trekking_hiking"
+        ],
+        "grams": [
+          840,
+          860,
+          890,
+          910,
+          930
+        ],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont Akron GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Technická turistická bota pro denní túry, novinka FW26.",
+      "trideno_at": "2026-10-19T05:00:34.996936+00:00"
+    },
+    {
+      "id": "2810e2478d5c1246",
+      "url": "https://www.garmont.com/products/oron-mid-wp-grey-003152",
+      "title": "ORON MID WP",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Ideale per le escursioni giornaliere, questo versatile scarponcino mid-cut combina trazione sicura e ammortizzazione confortevole, accompagnando ogni passo con sicurezza su sentieri rocciosi e terreni misti.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S17001_M067441_01.jpg?v=1789050649",
+      "published_at": "2026-09-10T10:09:26+02:00",
+      "detected_at": "2026-10-19T04:59:34.958951+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "HIKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_S17001"
+        ],
+        "grams": [
+          920,
+          940,
+          970,
+          990,
+          1020
+        ],
+        "price_range": [
+          159.95,
+          159.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont Oron Mid WP",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Turistický scarpin mid-cut pro denní túry, nový model.",
+      "trideno_at": "2026-10-19T05:00:34.996947+00:00"
+    },
+    {
+      "id": "74c8a4f73f8c80e8",
+      "url": "https://www.garmont.com/products/oron-wp-blue-003155",
+      "title": "ORON WP",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Progettata per escursioni giornaliere e avventure nella natura, questa scarpa leggera offre comfort duraturo e protezione impermeabile in condizioni meteorologiche variabili.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S17002_M655218_01.jpg?v=1789050169",
+      "published_at": "2026-09-10T10:08:55+02:00",
+      "detected_at": "2026-10-19T04:59:34.959031+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "HIKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_S17002"
+        ],
+        "grams": [
+          810,
+          830,
+          850,
+          870,
+          890
+        ],
+        "price_range": [
+          149.95,
+          149.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont Oron WP",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Lehká nízká turistická bota pro denní túry, nový model.",
+      "trideno_at": "2026-10-19T05:00:34.996959+00:00"
+    },
+    {
+      "id": "714dddd5fa4b897a",
+      "url": "https://www.garmont.com/products/oron-grey-003159",
+      "title": "ORON",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Ideale per escursioni giornaliere e avventure all'aria aperta, questa scarpa leggera offre comfort, protezione e stabilità per affrontare ogni passo con sicurezza.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S17003_M067201_01.jpg?v=1789049204",
+      "published_at": "2026-09-10T10:06:23+02:00",
+      "detected_at": "2026-10-19T04:59:34.959092+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "HIKING",
+        "tags": [
+          "novita_fw26",
+          "Novità",
+          "rel_S17003"
+        ],
+        "grams": [
+          810,
+          830,
+          850,
+          870,
+          890
+        ],
+        "price_range": [
+          129.95,
+          129.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont Oron",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Lehká turistická bota pro denní túry, nový model.",
+      "trideno_at": "2026-10-19T05:00:34.996969+00:00"
+    },
+    {
+      "id": "3a2c2696f8b6eb65",
+      "url": "https://www.keenfootwear.com/products/all-gender-uneek-loafer-wk-lm-black",
+      "title": "All Gender UNEEK Loafer WK  |  Lm Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our iconic two-cord sneaker transformed into an individually numbered, ultra-premium loafer that's handcrafted in ethically sourced leather.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/615923c0704a57219cb7c27ce5d1e133a295a0e6.jpg?v=1777927122",
+      "published_at": "2026-10-16T05:53:25-07:00",
+      "detected_at": "2026-10-19T04:59:48.760967+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "All Gender > Footwear > Shoe",
+        "tags": [
+          "1033320",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Casual>Travel",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:All Gender",
+          "gender:Men's",
+          "gender:Women's",
+          "KEEN.CURVE Propulsion",
+          "model_number:x-uneek-loafer-wk-16703",
+          "shoetype:Shoe",
+          "shoetype:Slip-On",
+          "size_guide:all gender",
+          "YCRF_Footwear",
+          "YGroup_x-uneek-loafer-wk"
+        ],
+        "grams": [],
+        "price_range": [
+          200.0,
+          200.0
+        ],
+        "variants": 20
+      },
+      "status": "zamitnuty",
+      "model": "Keen UNEEK Loafer WK",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městské loafers, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:34.996979+00:00"
+    },
+    {
+      "id": "d0f73ef467a73cc3",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-zionic-mediterranea-pale-lilac",
+      "title": "Women's Jasper Zionic Sneaker  |  Mediterranea/Pale Lilac",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The performance of a fast & light hiker with the clean, tailored look of brushed suede. Crag heritage reborn for the agile agendas of the day.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/969189c92cc8a7ad99dc7ec47cf28ca2a6480abe.jpg?v=1769553411",
+      "published_at": "2026-10-14T14:44:35-07:00",
+      "detected_at": "2026-10-19T04:59:48.761050+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1031863",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:green",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-zionic-15820",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper-zionic"
+        ],
+        "grams": [],
+        "price_range": [
+          90.0,
+          90.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Zionic",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská tenisková obuv, nerelevantní.",
+      "trideno_at": "2026-10-19T05:00:34.997015+00:00"
+    },
+    {
+      "id": "84ef36204b673a00",
+      "url": "https://www.keenfootwear.com/products/womens-newport-h2-destination-pack",
+      "title": "Women's Newport H2 Sandal  |  Destination Pack",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Part water sandal, part hiker. The original hybrid sandal, 50 million adventures and counting.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/cd229e8169a6f30845511a1052a83f76a094a0ff_f4f14b46-9db6-4bff-a6e7-c7ad7440a2f6.jpg?v=1783372045",
+      "published_at": "2026-10-13T15:13:03-07:00",
+      "detected_at": "2026-10-19T04:59:48.761129+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Sandal",
+        "tags": [
+          "1031333",
+          "activity:Casual",
+          "activity:Casual>Travel",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:blue",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-newport-h2-510230",
+          "Original Fit",
+          "Razor-Siped Traction",
+          "shoetype:Sandal",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-newport-h2"
+        ],
+        "grams": [],
+        "price_range": [
+          78.0,
+          78.0
+        ],
+        "variants": 13
+      },
+      "status": "vhodny",
+      "model": "Keen Newport H2",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Hybridní sandál pro terén a vodu, vhodný do rubriky bot.",
+      "trideno_at": "2026-10-19T05:00:34.997026+00:00"
+    },
+    {
+      "id": "984dbcad3cc05783",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-rocks-sp-collina-strada-black-black",
+      "title": "Women's Jasper Rocks SP Collina Strada Sneaker  |  Black/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Part sculpture, part sneaker, all statement. Our collab with Collina Strada goes bold and organic with dimensional floral details and monotone shades.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/d5fca428e5b23f58a318cc50301b72e4a1d6077c.jpg?v=1788452125",
+      "published_at": "2026-10-08T05:27:45-07:00",
+      "detected_at": "2026-10-19T04:59:48.761235+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1032981",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "filtercolor:black",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-rocks-sp-collina-strada-16763",
+          "Recycled P.E.T. Plastic",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper-rocks-sp-collina-strada"
+        ],
+        "grams": [],
+        "price_range": [
+          200.0,
+          200.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Rocks SP Collina Strada",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská módní tenisky, nerelevantní.",
+      "trideno_at": "2026-10-19T05:00:34.997037+00:00"
+    },
+    {
+      "id": "265dc0a7a11e4fed",
+      "url": "https://www.keenfootwear.com/products/womens-targhee-exp-collina-strada-black-black",
+      "title": "Women's Targhee EXP Collina Strada Hiking Boot  |  Black/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Part sculpture, part boot, all statement. Our collab with Collina Strada goes bold and organic with dimensional floral details and unique lacing.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/7c61fe2cd5132188cd548a2b9e2b055d44f8611c.jpg?v=1788452125",
+      "published_at": "2026-10-08T05:27:45-07:00",
+      "detected_at": "2026-10-19T04:59:48.761304+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Boot",
+        "tags": [
+          "1032875",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Eco Anti-Odor",
+          "filtercolor:black",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-targhee-exp-collina-strada-16764",
+          "Original Fit",
+          "Recycled P.E.T. Plastic",
+          "shoetype:Boot",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-targhee-exp-collina-strada"
+        ],
+        "grams": [],
+        "price_range": [
+          270.0,
+          270.0
+        ],
+        "variants": 13
+      },
+      "status": "vhodny",
+      "model": "Keen Targhee EXP",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Turistická bota, ale limitovaná módní kolaborace s lifestyle zaměřením.",
+      "trideno_at": "2026-10-19T05:00:34.997052+00:00"
+    },
+    {
+      "id": "6e04f84ebd5c729b",
+      "url": "https://www.keenfootwear.com/products/womens-kona-flip-tg-brindle-silver-birch",
+      "title": "Women's Kona Leather Flip-Flop  |  Brindle/Silver Birch",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The ultimate travel flip. With more cushioning, arch support, traction for wet surfaces, and ethically sourced, waterproof leather.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/5de8a6dc964cb19f40b83dbc221cebc91cecd71b.jpg?v=1755621583",
+      "published_at": "2026-10-06T15:23:08-07:00",
+      "detected_at": "2026-10-19T04:59:48.761381+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Sandal",
+        "tags": [
+          "1029377",
+          "activity:Casual",
+          "activity:Casual>Travel",
+          "activity:Water",
+          "activity:Water>Beach",
+          "Aquagrip",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Women's",
+          "model_number:w-kona-flip-tg-15540",
+          "shoetype:Sandal",
+          "shoetype:Slip-On",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-kona-flip-tg"
+        ],
+        "grams": [
+          503,
+          513
+        ],
+        "price_range": [
+          40.0,
+          40.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Kona Leather Flip-Flop",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městské žabky pro cestování, nerelevantní.",
+      "trideno_at": "2026-10-19T05:00:34.997063+00:00"
+    },
+    {
+      "id": "d1055d3df48dc61b",
+      "url": "https://www.keenfootwear.com/products/mens-highframe-mid-waterproof-dark-earth-black",
+      "title": "Men's Highframe Waterproof Work Boot (Steel Toe)  |  Dark Earth/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Classic hiker fit with long-lasting cushioning and jobsite-proven safety. This waterproof work boot is built with KEEN.DRY waterproof, breathable technology and a steel safety toe.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/a3b8c9e7224ef5c0656a203e1f799cde355a56c2.jpg?v=1786398041",
+      "published_at": "2026-10-01T08:10:24-07:00",
+      "detected_at": "2026-10-19T04:59:48.761475+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Work > Footwear > Boot",
+        "tags": [
+          "1033280",
+          "activity:Work",
+          "activity:Work>Construction",
+          "activity:Work>Maintenance",
+          "activity:Work>Manufacturing",
+          "activity:Work>Warehouse & Transportation",
+          "Barnyard Resistant Leather",
+          "Eco Anti-Odor",
+          "EH-Rated Electrical Protection",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "Heat Resistant Outsole",
+          "KEEN.DRY Waterproof",
+          "model_number:m-highframe-mid-wp-17153",
+          "Oil- And Slip-Resistant",
+          "Reflective",
+          "shoetype:Boot",
+          "size_guide:mens",
+          "Steel Toe",
+          "toetype:Steel Toe",
+          "Work",
+          "YCRF_Footwear",
+          "YGroup_m-highframe-mid-wp"
+        ],
+        "grams": [],
+        "price_range": [
+          155.0,
+          155.0
+        ],
+        "variants": 28
+      },
+      "status": "zamitnuty",
+      "model": "Keen Highframe Waterproof Work Boot",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pracovní bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:34.997075+00:00"
+    },
+    {
+      "id": "fdbe54a5ba37c3fd",
+      "url": "https://www.keenfootwear.com/products/mens-highframe-pull-on-waterproof-dark-earth-black",
+      "title": "Men's Highframe Pull-On Waterproof Work Boot (Steel Toe)  |  Dark Earth/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Classic hiker fit with long-lasting cushioning and jobsite-proven safety. This waterproof pull-on work boot is built with KEEN.DRY waterproof, breathable technology and a steel safety toe.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/b29f417a39c28e981668ef3c532f4d6038c860f8.jpg?v=1786398040",
+      "published_at": "2026-10-01T08:10:18-07:00",
+      "detected_at": "2026-10-19T04:59:48.761572+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Work > Footwear > Boot",
+        "tags": [
+          "1033129",
+          "activity:Work",
+          "activity:Work>Construction",
+          "activity:Work>Maintenance",
+          "activity:Work>Manufacturing",
+          "activity:Work>Warehouse & Transportation",
+          "Barnyard Resistant Leather",
+          "Eco Anti-Odor",
+          "EH-Rated Electrical Protection",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "Heat Resistant Outsole",
+          "KEEN.DRY Waterproof",
+          "model_number:m-highframe-pull-on-wp-17155",
+          "Non-Mutilating",
+          "Oil- And Slip-Resistant",
+          "shoetype:Boot",
+          "shoetype:Slip-On",
+          "size_guide:mens",
+          "Steel Toe",
+          "toetype:Steel Toe",
+          "Work",
+          "YCRF_Footwear",
+          "YGroup_m-highframe-pull-on-wp"
+        ],
+        "grams": [],
+        "price_range": [
+          175.0,
+          175.0
+        ],
+        "variants": 28
+      },
+      "status": "zamitnuty",
+      "model": "Keen Highframe Pull-On Waterproof Work Boot",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pracovní bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:34.997088+00:00"
+    },
+    {
+      "id": "e59a6172d07c3dfd",
+      "url": "https://www.keenfootwear.com/products/mens-highframe-chelsea-waterproof-soft-toe-dark-earth-black",
+      "title": "Men's Highframe Chelsea Waterproof Work Boot (Soft Toe)  |  Dark Earth/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Classic work hiker fit with long-lasting cushioning and everywhere versatility. This waterproof Chelsea work boot is built with KEEN.DRY waterproof, breathable technology and a flexible soft toe.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/8e4988dc27d773dc71aa5c6e09e3c49c94aa7f89.jpg?v=1786406372",
+      "published_at": "2026-10-01T08:10:01-07:00",
+      "detected_at": "2026-10-19T04:59:48.761678+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Work > Footwear > Boot",
+        "tags": [
+          "1033132",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Work",
+          "activity:Work>Construction",
+          "activity:Work>Manufacturing",
+          "activity:Work>Warehouse & Transportation",
+          "Barnyard Resistant Leather",
+          "Eco Anti-Odor",
+          "EH-Rated Electrical Protection",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "Heat Resistant Outsole",
+          "KEEN.DRY Waterproof",
+          "model_number:m-highframe-chelsea-wp-soft-toe-17158",
+          "Non-Mutilating",
+          "Oil- And Slip-Resistant",
+          "shoetype:Boot",
+          "shoetype:Slip-On",
+          "size_guide:mens",
+          "Soft Toe",
+          "toetype:Soft Toe",
+          "Work",
+          "YCRF_Footwear",
+          "YGroup_m-highframe-chelsea-wp-soft-toe"
+        ],
+        "grams": [],
+        "price_range": [
+          145.0,
+          145.0
+        ],
+        "variants": 28
+      },
+      "status": "zamitnuty",
+      "model": "Keen Highframe Chelsea Waterproof Work Boot",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pracovní Chelsea bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:34.997102+00:00"
+    },
+    {
+      "id": "ac9ffe77c72795b1",
+      "url": "https://www.keenfootwear.com/products/mens-highframe-chelsea-waterproof-dark-earth-black",
+      "title": "Men's Highframe Chelsea Waterproof Work Boot (Steel Toe)  |  Dark Earth/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Classic hiker fit with long-lasting cushioning and jobsite-proven safety. This waterproof Chelsea work boot is built with KEEN.DRY waterproof, breathable technology and a steel safety toe.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/ad823e328e311b8141231120879de040f6a47d4f.jpg?v=1786398040",
+      "published_at": "2026-10-01T08:09:51-07:00",
+      "detected_at": "2026-10-19T04:59:48.761773+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Work > Footwear > Boot",
+        "tags": [
+          "1033131",
+          "activity:Work",
+          "activity:Work>Construction",
+          "activity:Work>Maintenance",
+          "activity:Work>Manufacturing",
+          "activity:Work>Warehouse & Transportation",
+          "Barnyard Resistant Leather",
+          "Eco Anti-Odor",
+          "EH-Rated Electrical Protection",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "Heat Resistant Outsole",
+          "KEEN.DRY Waterproof",
+          "model_number:m-highframe-chelsea-wp-17157",
+          "Non-Mutilating",
+          "Oil- And Slip-Resistant",
+          "shoetype:Boot",
+          "shoetype:Slip-On",
+          "size_guide:mens",
+          "Steel Toe",
+          "toetype:Steel Toe",
+          "Work",
+          "YCRF_Footwear",
+          "YGroup_m-highframe-chelsea-wp"
+        ],
+        "grams": [],
+        "price_range": [
+          150.0,
+          150.0
+        ],
+        "variants": 28
+      },
+      "status": "zamitnuty",
+      "model": "Keen Highframe Chelsea Waterproof Work Boot",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pracovní Chelsea bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:34.997115+00:00"
+    },
+    {
+      "id": "f37aba09b89fe51d",
+      "url": "https://www.keenfootwear.com/products/mens-highframe-mid-waterproof-soft-toe-dark-earth-black",
+      "title": "Men's Highframe Waterproof Work Boot (Soft Toe)  |  Dark Earth/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Classic work hiker fit with long-lasting cushioning and everywhere versatility. This waterproof work boot is built with KEEN.DRY waterproof, breathable technology and a flexible soft toe.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/d550b023a80e2046495160e1c244a25324b0f1bf.jpg?v=1786398039",
+      "published_at": "2026-10-01T08:09:45-07:00",
+      "detected_at": "2026-10-19T04:59:48.761870+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Work > Footwear > Boot",
+        "tags": [
+          "1033128",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "activity:Work",
+          "activity:Work>Construction",
+          "activity:Work>Manufacturing",
+          "activity:Work>Warehouse & Transportation",
+          "Barnyard Resistant Leather",
+          "Eco Anti-Odor",
+          "EH-Rated Electrical Protection",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "Heat Resistant Outsole",
+          "KEEN.DRY Waterproof",
+          "model_number:m-highframe-mid-wp-soft-toe-17154",
+          "Oil- And Slip-Resistant",
+          "Reflective",
+          "shoetype:Boot",
+          "size_guide:mens",
+          "Soft Toe",
+          "toetype:Soft Toe",
+          "Work",
+          "YCRF_Footwear",
+          "YGroup_m-highframe-mid-wp-soft-toe"
+        ],
+        "grams": [],
+        "price_range": [
+          150.0,
+          150.0
+        ],
+        "variants": 28
+      },
+      "status": "zamitnuty",
+      "model": "Keen Highframe Waterproof Work Boot",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pracovní bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:34.997127+00:00"
+    },
+    {
+      "id": "de40b71e1699dc5a",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-java-birch",
+      "title": "Women's Jasper Sneaker  |  Java/Birch",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our original climbing-inspired outside sneaker. As comfortable heading to the crag as it is cruising around town. With two sets of laces to switch up the look.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/3465e228af6b6f4e53256e775412f1a95a63950d.jpg?v=1790781918",
+      "published_at": "2026-10-01T08:09:27-07:00",
+      "detected_at": "2026-10-19T04:59:48.761930+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1033291",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Casual>Travel",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-5274",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper"
+        ],
+        "grams": [],
+        "price_range": [
+          140.0,
+          140.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Sneaker",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městské tenisky, nerelevantní.",
+      "trideno_at": "2026-10-19T05:00:34.997139+00:00"
+    },
+    {
+      "id": "5ef58d8d666caf59",
+      "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-terrain-java",
+      "title": "Men's Jasper Zionic Sneaker  |  Terrain Java",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The performance of a fast & light hiker with the clean, tailored look of brushed suede. Crag heritage reborn for the agile agendas of the day.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/b36be8373b8e7ef6d4bcc1e4c529c63e465ae5e7.jpg?v=1769638665",
+      "published_at": "2026-09-30T11:31:16-07:00",
+      "detected_at": "2026-10-19T04:59:48.761999+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032233",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-jasper-zionic-15450",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-jasper-zionic"
+        ],
+        "grams": [],
+        "price_range": [
+          150.0,
+          150.0
+        ],
+        "variants": 14
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Zionic",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská tenisková obuv, nerelevantní.",
+      "trideno_at": "2026-10-19T05:00:34.997149+00:00"
+    },
+    {
+      "id": "3d8e7e29f9230940",
+      "url": "https://www.keenfootwear.com/products/mens-jasper-rocks-sp-brindle-plaza-taupe",
+      "title": "Men's Jasper Rocks Sneaker  |  Brindle/Plaza Taupe",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our original climbing-inspired sneaker, updated with a bungee-lace system for easier on & off. Prefer regular laces? We included a set so you can switch up the look.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/a91c0aae9c06a153d3b60fb8c4c1811a756704c1_a8a19db9-96b3-423b-89f8-563b7b8b27d9.jpg?v=1783372769",
+      "published_at": "2026-09-30T09:29:45-07:00",
+      "detected_at": "2026-10-19T04:59:48.762082+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1030732",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Casual>Travel",
+          "Contoured Fit",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-jasper-rocks-sp-th2281",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-jasper-rocks-sp"
+        ],
+        "grams": [
+          1350,
+          1352,
+          1353,
+          1354
+        ],
+        "price_range": [
+          84.0,
+          84.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Rocks Sneaker",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městské tenisky, nerelevantní.",
+      "trideno_at": "2026-10-19T05:00:34.997159+00:00"
+    },
+    {
+      "id": "fed09129f0d55b23",
+      "url": "https://www.keenfootwear.com/products/all-gender-uneek-mule-wk-black",
+      "title": "All Gender UNEEK Mule WK  |  Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our iconic two-cord sneaker transformed into an ultra-premium mule that's handcrafted in ethically sourced leather.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/597a3412fad4cd94f05b5c84cf2c6f9cd9fb69f1.jpg?v=1791213447",
+      "published_at": "2026-09-29T05:45:47-07:00",
+      "detected_at": "2026-10-19T04:59:48.762150+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "All Gender > Footwear > Slip-On",
+        "tags": [
+          "1033311",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:All Gender",
+          "gender:Men's",
+          "gender:Women's",
+          "KEEN.CURVE Propulsion",
+          "model_number:x-uneek-mule-wk-17299",
+          "shoetype:Shoe",
+          "shoetype:Slip-On",
+          "size_guide:all gender",
+          "YCRF_Footwear",
+          "YGroup_x-uneek-mule-wk"
+        ],
+        "grams": [],
+        "price_range": [
+          195.0,
+          195.0
+        ],
+        "variants": 20
+      },
+      "status": "zamitnuty",
+      "model": "Keen UNEEK Mule WK",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle pantofle, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994133+00:00"
+    },
+    {
+      "id": "58eea353894721c9",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-se2-txt-flux-black",
+      "title": "Women's Jasper SE2 Sneaker  |  Flux Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "This special edition of our original climbing-inspired sneaker is crafted with smooth tech fabric for a clean, refined look. With metal lace hardware that stands out.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/66470bcc0bc238daf94b2d57922e3d828defd144.jpg?v=1779906368",
+      "published_at": "2026-09-24T05:33:58-07:00",
+      "detected_at": "2026-10-19T04:59:48.762207+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1032853",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "filtercolor:black",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-se2-txt-16697",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper-se2-txt"
+        ],
+        "grams": [],
+        "price_range": [
+          180.0,
+          180.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper SE2",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská módní tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994180+00:00"
+    },
+    {
+      "id": "4946c666af722ca1",
+      "url": "https://www.keenfootwear.com/products/mens-jasper-se2-txt-flux-black",
+      "title": "Men's Jasper SE2 Sneaker  |  Flux Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "This special edition of our original climbing-inspired sneaker is crafted with smooth tech fabric for a clean, refined look. With metal lace hardware that stands out.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/0e011edf7b248b3ce0049368aeb6c2fe300e5a43.jpg?v=1779906368",
+      "published_at": "2026-09-24T05:33:46-07:00",
+      "detected_at": "2026-10-19T04:59:48.762264+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032851",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "filtercolor:black",
+          "gender:Men's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-jasper-se2-txt-16696",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-jasper-se2-txt"
+        ],
+        "grams": [],
+        "price_range": [
+          180.0,
+          180.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper SE2",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská módní tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994197+00:00"
+    },
+    {
+      "id": "52dcd3cbab54290a",
+      "url": "https://www.keenfootwear.com/products/mens-jasper-se1-flux-plaza-taupe",
+      "title": "Men's Jasper SE1 Sneaker  |  Flux Plaza Taupe",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "An elevated take on our original climbing-inspired outside sneaker. Premium Napa leather upper features a refined design that effortlessly fits in, everywhere.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/822ec2680dff5db990445c40c004da4256ce0158.jpg?v=1779312804",
+      "published_at": "2026-09-24T05:33:18-07:00",
+      "detected_at": "2026-10-19T04:59:48.762330+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032814",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "filtercolor:white",
+          "gender:Men's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-jasper-se1-16569",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-jasper-se1"
+        ],
+        "grams": [],
+        "price_range": [
+          210.0,
+          210.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper SE1",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská módní tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994211+00:00"
+    },
+    {
+      "id": "e13c7ea9f1cec91c",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-se1-flux-black",
+      "title": "Women's Jasper SE1 Sneaker  |  Flux Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "An elevated take on our original climbing-inspired outside sneaker. Premium Napa leather upper features a refined design that effortlessly fits in, everywhere.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/88b7d19c209fca17c3ce3c7043ea44769a5f86f6.jpg?v=1783371595",
+      "published_at": "2026-09-24T05:32:48-07:00",
+      "detected_at": "2026-10-19T04:59:48.762395+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1032815",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-se1-16570",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper-se1"
+        ],
+        "grams": [],
+        "price_range": [
+          210.0,
+          210.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper SE1",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská módní tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994223+00:00"
+    },
+    {
+      "id": "2b255c6fe773da1f",
+      "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-hw-flux-chocolate",
+      "title": "Men's Jasper Zionic HW Sneaker  |  Flux Chocolate",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Fast hiker comfort, kitted for city paths. With a full-grain leather upper that patinas over time for a worn-in look. Premium metal lace hardware adds a refined aesthetic.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/e839b0b63f6b45a430311a75a4ccfc69347dabd1.jpg?v=1779386417",
+      "published_at": "2026-09-24T05:32:22-07:00",
+      "detected_at": "2026-10-19T04:59:48.762463+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032857",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Men's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-jasper-zionic-hw-16698",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-jasper-zionic-hw"
+        ],
+        "grams": [],
+        "price_range": [
+          220.0,
+          220.0
+        ],
+        "variants": 14
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Zionic HW",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle obuv, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994237+00:00"
+    },
+    {
+      "id": "c0bf373ed3588783",
+      "url": "https://www.keenfootwear.com/products/mens-jasper-hw-flux-safari",
+      "title": "Men's Jasper HW Sneaker  |  Flux Safari",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our original climbing-inspired outside sneaker. In full-grain, scuff-off leather that’s intended to patina over time for a distressed look, plus metal lace hardware for a luxe finish.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/9a20e9dfbe33a151059a68079a607ae66caa6da1.jpg?v=1779906552",
+      "published_at": "2026-09-24T05:31:35-07:00",
+      "detected_at": "2026-10-19T04:59:48.762530+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032916",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:Men's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-jasper-hw-16929",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-jasper-hw"
+        ],
+        "grams": [],
+        "price_range": [
+          220.0,
+          220.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper HW",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle obuv, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994251+00:00"
+    },
+    {
+      "id": "b169220843e6ef5a",
+      "url": "https://www.keenfootwear.com/products/mens-targhee-iii-waterproof-black-olive-golden-brown",
+      "title": "Men's Targhee III Waterproof  |  Black Olive/Golden Brown",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our iconic hiker, updated. We carried over the room-for-your-toes fit and made-to-keep durability fans love and gave it a slightly sleeker look & feel.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/83659f665b683f24dc5d716f6a97ce56a5e8202f.jpg?v=1745862529",
+      "published_at": "2026-09-23T13:53:58-07:00",
+      "detected_at": "2026-10-19T04:59:48.762602+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1017784",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "Contoured Heel Lock",
+          "discount-outlet:60",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:green",
+          "gender:Men's",
+          "KEEN.ALL-TERRAIN Traction",
+          "KEEN.DRY Waterproof",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-targhee-iii-wp-th2340",
+          "Original Fit",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-targhee-iii-wp"
+        ],
+        "grams": [
+          1496,
+          1504,
+          1505,
+          1509,
+          1513
+        ],
+        "price_range": [
+          180.0,
+          180.0
+        ],
+        "variants": 16
+      },
+      "status": "duplicitni",
+      "model": "Keen Targhee III WP",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Stejný model jako již recenzovaný Keen Targhee III WP, pouze jiná barva.",
+      "trideno_at": "2026-10-19T05:00:47.994264+00:00",
+      "duplicita": "_posts/boty/2025-02-22-keen-targhee-iii.md"
+    },
+    {
+      "id": "4add65ce0f544fa9",
+      "url": "https://www.keenfootwear.com/products/womens-kosa-mary-jane-black-silver-birch",
+      "title": "Women's Kosa Mary Jane  |  Black/Silver Birch",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "All seasons, all weather, all comfort, all plans. High-rebound cushioning with KEEN.CURVE for all-day propulsion, plus a versatile, ethically sourced leather upper with adjustable buckle closure.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/c5d6dcde5b4ea7a8135e4c4b005dd5cef0c95641.jpg?v=1769633282",
+      "published_at": "2026-09-23T12:22:35-07:00",
+      "detected_at": "2026-10-19T04:59:48.762659+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1031975",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Eco Anti-Odor",
+          "filtercolor:white",
+          "gender:Women's",
+          "KEEN.WET TRAX Traction",
+          "model_number:w-kosa-mj-16214",
+          "Original Fit",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-kosa-mj"
+        ],
+        "grams": [],
+        "price_range": [
+          90.0,
+          90.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Kosa Mary Jane",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská obuv, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994283+00:00"
+    },
+    {
+      "id": "d79960dd58a2bef1",
+      "url": "https://www.keenfootwear.com/products/mens-jasper-zionic-doe-black-star-white",
+      "title": "Men's Jasper Zionic DOE Sneaker  |  Doe Black/Star White",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our fast & light hiker gets a unique east-meets-west refresh, courtesy of Shanghai lifestyle brand DOE. Featuring quilted leather that's inspired by ancient Shanwen armor.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/12246c05b973eff84e9ece70029d5a6412a4a9a6.jpg?v=1779386418",
+      "published_at": "2026-09-16T05:31:23-07:00",
+      "detected_at": "2026-10-19T04:59:48.762720+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032650",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:Men's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-jasper-zionic-15450",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-jasper-zionic"
+        ],
+        "grams": [],
+        "price_range": [
+          160.0,
+          160.0
+        ],
+        "variants": 14
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Zionic DOE",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle kolekce DOE, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994295+00:00"
+    },
+    {
+      "id": "e079d47ca0bcbacb",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-zionic-doe-black-star-white",
+      "title": "Women's Jasper Zionic DOE Sneaker  |  Doe Black/Star White",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our fast & light hiker gets a unique east-meets-west refresh, courtesy of Shanghai lifestyle brand DOE. Featuring quilted leather that's inspired by ancient Shanwen armor.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/71869b07ae2b21a47fb5c95c80440384f182e44b.jpg?v=1779899302",
+      "published_at": "2026-09-16T05:31:12-07:00",
+      "detected_at": "2026-10-19T04:59:48.762784+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1032672",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-zionic-15820",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper-zionic"
+        ],
+        "grams": [],
+        "price_range": [
+          160.0,
+          160.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Zionic DOE",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle kolekce DOE, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994310+00:00"
+    },
+    {
+      "id": "f81a2f9cef47cff1",
+      "url": "https://www.keenfootwear.com/products/mens-uneek-360-n-hoolywood-steel-grey",
+      "title": "Men's UNEEK 360 N. HOOLYWOOD Sneaker  |  N Hoolywood Steel Grey",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The original open-air sneaker, made even more adaptable with a new cord design and a versatile, tonal colorup from our friends at N. HOOLYWOOD in Tokyo.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/d2a2aa88bf6c4c1213c3852d15beeee5fe4a781b.jpg?v=1787930693",
+      "published_at": "2026-09-12T05:51:24-07:00",
+      "detected_at": "2026-10-19T04:59:48.762850+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032697",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Casual>Travel",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:grey",
+          "gender:Men's",
+          "model_number:m-uneek-360-16076",
+          "Original Fit",
+          "Recycled P.E.T. Plastic",
+          "shoetype:Shoe",
+          "shoetype:Slip-On",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-uneek-360"
+        ],
+        "grams": [],
+        "price_range": [
+          200.0,
+          200.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Keen UNEEK 360",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle obuv, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994327+00:00"
+    },
+    {
+      "id": "601dc179e07f5d73",
+      "url": "https://www.keenfootwear.com/products/womens-newport-hl-perseid-black-vapor",
+      "title": "Women's Newport HL Sandal  |  Perseid Black/Vapor",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our classic adventure sandal, reimagined for life in the city. With a distinctive leather upper that adds flair to every fit.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/22377f1f732abe8424f02a4424b0315f34a5a5fd.jpg?v=1769634848",
+      "published_at": "2026-09-10T07:52:17-07:00",
+      "detected_at": "2026-10-19T04:59:48.762921+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Sandal",
+        "tags": [
+          "1032029",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "filtercolor:white",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-newport-hl-16424",
+          "Original Fit",
+          "Razor-Siped Traction",
+          "shoetype:Sandal",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-newport-hl"
+        ],
+        "grams": [],
+        "price_range": [
+          140.0,
+          140.0
+        ],
+        "variants": 13
+      },
+      "status": "vhodny",
+      "model": "Keen Newport HL",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Outdoorový sandál do terénu, ale s městským lifestyle zaměřením, proto nízká priorita.",
+      "trideno_at": "2026-10-19T05:00:47.994340+00:00"
+    },
+    {
+      "id": "205d02bb225de132",
+      "url": "https://www.keenfootwear.com/products/womens-revel-iv-high-polar-chocolate-lab-old-rose",
+      "title": "Women's Revel IV High Polar Waterproof Boot  |  Chocolate Lab/Old Rose",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Hours of warm, dry feet on the coldest days. With a higher profile for deeper powder and our warmest insulation (rated to -40°F), plus better grip on ice.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/67ca3fc978aff5be0c84eedba815a0a1237809dc.jpg?v=1779135332",
+      "published_at": "2026-09-08T08:09:07-07:00",
+      "detected_at": "2026-10-19T04:59:48.763024+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Boot",
+        "tags": [
+          "1032596",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "activity:Winter",
+          "activity:Winter>Winter Hike",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "filtercolor:pink",
+          "gender:Women's",
+          "Heat Trapolator Insulation",
+          "KEEN.DRY Waterproof",
+          "KEEN.POLAR TRACTION",
+          "KEEN.PROTECT Toe Bumper",
+          "KEEN.WARM Recycled P.E.T.",
+          "model_number:w-revel-iv-high-polar-12926",
+          "Original Fit",
+          "shoetype:Boot",
+          "size_guide:womens",
+          "Thermal Heat Shield Insole",
+          "YCRF_Footwear",
+          "YGroup_w-revel-iv-high-polar"
+        ],
+        "grams": [],
+        "price_range": [
+          220.0,
+          220.0
+        ],
+        "variants": 14
+      },
+      "status": "vhodny",
+      "model": "Keen Revel IV High Polar",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Zimní turistická bota pro sníh, relevantní pro rubriku boty, ale spíše okrajová.",
+      "trideno_at": "2026-10-19T05:00:47.994357+00:00"
+    },
+    {
+      "id": "4510f9fc73098a44",
+      "url": "https://www.keenfootwear.com/products/mens-knx-pablo-black-star-white",
+      "title": "Men's KNX Pablo Sneaker  |  Black/Star White",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our minimal, flexible sneaker gives a grounded, connected feel. With a structured, multi-layer leather upper for goes-with-everything versatility.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/9464094f1982dfe47db6b640a89decfddbc5f39a.jpg?v=1779901710",
+      "published_at": "2026-09-08T08:08:55-07:00",
+      "detected_at": "2026-10-19T04:59:48.763095+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032925",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Casual>Travel",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:Men's",
+          "KEEN.CNX Low-Profile Sole",
+          "KEEN.FUSION Bonded",
+          "Luftcell Cushioning",
+          "LuftCore Shock Absorption",
+          "model_number:m-knx-pablo-16963",
+          "No-Tie Elastic Lace",
+          "Original Fit",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-knx-pablo"
+        ],
+        "grams": [],
+        "price_range": [
+          165.0,
+          165.0
+        ],
+        "variants": 14
+      },
+      "status": "zamitnuty",
+      "model": "Keen KNX Pablo",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994374+00:00"
+    },
+    {
+      "id": "27fb48defea79206",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-nylon-fig-rosy-touch",
+      "title": "Women's Jasper Nylon Sneaker  |  Fig/Rosy Touch",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our original climbing-inspired sneaker, now with a lightweight, tech nylon upper. Ready for everywhere, with dress-up/dress-down versatility.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/5efd050ac17dd755bcf5e09b582d0b6b25a02109.jpg?v=1786394139",
+      "published_at": "2026-09-08T08:07:48-07:00",
+      "detected_at": "2026-10-19T04:59:48.763165+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1033290",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "filtercolor:pink",
+          "filtercolor:purple",
+          "filtercolor:red",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-nylon-17258",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper-nylon"
+        ],
+        "grams": [],
+        "price_range": [
+          135.0,
+          135.0
+        ],
+        "variants": 12
+      },
+      "status": "zamitnuty",
+      "model": "Keen Jasper Nylon",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská módní tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994389+00:00"
+    },
+    {
+      "id": "40ec8a55a6cbe534",
+      "url": "https://www.scarpa.com/products/ribelle-run-2-gtx-the-stable-and-protective-waterproof-shoe-33089-201-4",
+      "title": "Ribelle Run 2 GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The most precise, stable, and protective waterproof trail running shoe",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/33089-201-4_00_RIB-RUN-2-GTX_Clo-DkC.jpg?v=1784645475",
+      "published_at": "2026-10-15T08:06:56+02:00",
+      "detected_at": "2026-10-19T04:59:53.584335+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Trail Running",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 18
+      },
+      "status": "vhodny",
+      "model": "Scarpa Ribelle Run 2 GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Nový trailový běžecký model, který čtenáři budou hledat.",
+      "trideno_at": "2026-10-19T05:00:47.994403+00:00"
+    },
+    {
+      "id": "32285c8a4c5895a2",
+      "url": "https://www.scarpa.com/products/f1-xt-woman-women-s-technical-ski-mountaineering-boot-12181-502-1",
+      "title": "F1 XT Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Precision for technical ski touring",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/12181-502-1_00_F1-XT-W_Car-Vio.jpg?v=1784902559",
+      "published_at": "2026-10-13T15:49:14+02:00",
+      "detected_at": "2026-10-19T04:59:53.584376+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Ski Mountaineering",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          829.95,
+          829.95
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa F1 XT",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová bota, patří mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994420+00:00"
+    },
+    {
+      "id": "e4a723f1478812cb",
+      "url": "https://www.scarpa.com/products/f1-xt-lightweight-touring-precision-12181-500-2",
+      "title": "F1 XT",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Lightweight precision for technical ski touring",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/12181-500-2_00_F1-XT_Car-Yel.jpg?v=1784902553",
+      "published_at": "2026-10-13T15:49:01+02:00",
+      "detected_at": "2026-10-19T04:59:53.584463+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Ski Mountaineering",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          829.95,
+          829.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa F1 XT",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová bota, patří mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994432+00:00"
+    },
+    {
+      "id": "1da39a36c955c655",
+      "url": "https://www.scarpa.com/products/ribelle-run-2-gtx-woman-the-stable-and-protective-waterproof-shoe-33089-202-4",
+      "title": "Ribelle Run 2 GTX Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The most precise, stable, and protective waterproof trail running shoe",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/33089-202-4_00_RIB-RUN-2-GTX-W_Sph-DkS.jpg?v=1784645441",
+      "published_at": "2026-10-13T10:42:48+02:00",
+      "detected_at": "2026-10-19T04:59:53.584515+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Trail Running",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 13
+      },
+      "status": "duplicitni",
+      "model": "Scarpa Ribelle Run 2 GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Dámská verze stejného trailového modelu Ribelle Run 2 GTX.",
+      "trideno_at": "2026-10-19T05:00:47.994445+00:00"
+    },
+    {
+      "id": "9ccc6e36dee21c6d",
+      "url": "https://www.scarpa.com/products/moraine-gtx-the-first-low-hiking-shoe-63057-201-2",
+      "title": "Moraine GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Waterproof, comfortable shoe for hiking beginners",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/63057-201-2_00_MOR-GTX_FoB.jpg?v=1754308762",
+      "published_at": "2026-10-11T16:46:49+02:00",
+      "detected_at": "2026-10-19T04:59:53.584544+00:00",
+      "data": {
+        "vendor": "Scarpa Calzaturificio",
+        "product_type": "Hiking",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          179.95,
+          179.95
+        ],
+        "variants": 18
+      },
+      "status": "vhodny",
+      "model": "Scarpa Moraine GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Nízká turistická bota pro začátečníky, běžný typ pro rubriku.",
+      "trideno_at": "2026-10-19T05:00:47.994461+00:00"
+    },
+    {
+      "id": "1109845578e46611",
+      "url": "https://www.scarpa.com/products/rapid-xt-woman-the-all-around-shoe-72697-352-4",
+      "title": "Rapid XT Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Protective shoe with ergonomic toe for approach and hiking",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/72697-352-4_00_RAP-XT-W_LaG-dPu.jpg?v=1754304917",
+      "published_at": "2026-10-10T22:05:07+02:00",
+      "detected_at": "2026-10-19T04:59:53.584574+00:00",
+      "data": {
+        "vendor": "Scarpa Calzaturificio",
+        "product_type": "Approach",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          169.95,
+          169.95
+        ],
+        "variants": 11
+      },
+      "status": "vhodny",
+      "model": "Scarpa Rapid XT",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Approach bota pro přístupy a turistiku, okrajovější model.",
+      "trideno_at": "2026-10-19T05:00:47.994478+00:00"
+    },
+    {
+      "id": "828e1b9c1fbf2029",
+      "url": "https://www.scarpa.com/products/zodiac-tech-gtx-alpinism-boot-chosen-by-mountain-guides-71101-200-5",
+      "title": "Zodiac Tech GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Versatile mountaineering boot for extended use",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/71101-200-5_00_ZOD-TEC-GTX_Ant-Ton.jpg?v=1767363251",
+      "published_at": "2026-10-10T22:02:54+02:00",
+      "detected_at": "2026-10-19T04:59:53.584597+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Mountaineering",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          319.95,
+          319.95
+        ],
+        "variants": 14
+      },
+      "status": "duplicitni",
+      "model": "Scarpa Zodiac Tech GTX",
+      "rubrika": "boty",
+      "priorita": 1,
+      "duvod": "Stejný model jako již recenzovaný Scarpa Zodiac Tech GTX.",
+      "trideno_at": "2026-10-19T05:00:47.994492+00:00",
+      "duplicita": "_posts/boty/2025-03-04-scarpa-zodiac.md"
+    },
+    {
+      "id": "d8d01223015ecc5e",
+      "url": "https://www.scarpa.com/products/mustang-trk-gtx-woman-experience-untamed-exploration-63144-202-4",
+      "title": "Mustang TRK GTX Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Comfortable and lightweight trekking boot",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/63144-202-4_00_MUS-TRK-GTX-W_Car-Mil.jpg?v=1784645428",
+      "published_at": "2026-10-10T22:02:30+02:00",
+      "detected_at": "2026-10-19T04:59:53.584651+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Hiking",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          219.95,
+          219.95
+        ],
+        "variants": 13
+      },
+      "status": "vhodny",
+      "model": "Scarpa Mustang TRK GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trekingová bota, relevantní pro rubriku boty, dámská verze stejného modelu.",
+      "trideno_at": "2026-10-19T05:00:47.994509+00:00"
+    },
+    {
+      "id": "47f7d55c9bf30c83",
+      "url": "https://www.scarpa.com/products/mojito-re-shoes-the-original-re-made-32727-350-1",
+      "title": "Mojito RE-Shoes",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The footwear made from recycled end-of-life Mojito shoes",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/32727-350-1_00_MOJ-RE-SH_Offb.jpg?v=1768464252",
+      "published_at": "2026-10-10T22:01:32+02:00",
+      "detected_at": "2026-10-19T04:59:53.584670+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Lifestyle",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          159.95,
+          159.95
+        ],
+        "variants": 22
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Mojito RE-Shoes",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lifestyle obuv z recyklovaných materiálů, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:00:47.994523+00:00"
+    },
+    {
+      "id": "44b8177701c0f039",
+      "url": "https://www.scarpa.com/products/moraine-mid-pro-gtx-the-first-mid-hiking-boot-63055-201-1",
+      "title": "Moraine Mid Pro GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Waterproof Nubuck boot with Recco system",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/63055-201-1_00_MOR-MID-PRO-GTX_FoB.jpg?v=1754308846",
+      "published_at": "2026-10-10T21:59:43+02:00",
+      "detected_at": "2026-10-19T04:59:53.584693+00:00",
+      "data": {
+        "vendor": "Scarpa Calzaturificio",
+        "product_type": "Hiking",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 18
+      },
+      "status": "vhodny",
+      "model": "Scarpa Moraine Mid Pro GTX",
+      "rubrika": "boty",
+      "priorita": 4,
+      "duvod": "Konkrétní trekingová bota, nový model v nabídce, není mezi recenzovanými.",
+      "trideno_at": "2026-10-19T05:01:01.125459+00:00"
+    },
+    {
+      "id": "dab62a38afe65a45",
+      "url": "https://www.scarpa.com/products/ribelle-cross-2-mid-move-freely-hike-confidently-63160-351-1",
+      "title": "Ribelle Cross 2 Mid",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Mid hiking boot, versatile with a dynamic look",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/63160-351-1_00_RIB-CRO-2-MID_Rid-Saf.jpg?v=1766416466",
+      "published_at": "2026-10-10T21:59:08+02:00",
+      "detected_at": "2026-10-19T04:59:53.584745+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Hiking",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          169.95,
+          169.95
+        ],
+        "variants": 16
+      },
+      "status": "vhodny",
+      "model": "Scarpa Ribelle Cross 2 Mid",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Turistická střední bota, dámská verze stejného modelu, zatím nerecenzováno.",
+      "trideno_at": "2026-10-19T05:01:01.125517+00:00"
+    },
+    {
+      "id": "b271ef3fc4c15e4a",
+      "url": "https://www.scarpa.com/products/moraine-mid-gtx-the-first-mid-hiking-boot-63056-201-1",
+      "title": "Moraine Mid GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Waterproof, comfortable hiking boot for beginners",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/63056-201-1_00_MOR-MID-GTX_Ant.jpg?v=1754308735",
+      "published_at": "2026-10-10T21:58:55+02:00",
+      "detected_at": "2026-10-19T04:59:53.584767+00:00",
+      "data": {
+        "vendor": "Scarpa Calzaturificio",
+        "product_type": "Hiking",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          189.95,
+          189.95
+        ],
+        "variants": 18
+      },
+      "status": "vhodny",
+      "model": "Scarpa Moraine Mid GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Turistická bota pro začátečníky, nerecenzováno.",
+      "trideno_at": "2026-10-19T05:01:01.125540+00:00"
+    },
+    {
+      "id": "b7e3152f57c24d30",
+      "url": "https://www.scarpa.com/products/ribelle-run-lt-wp-woman-the-beginner-waterproof-shoe-33087-212-1",
+      "title": "Ribelle Run LT WP Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Waterproof shoe for trail running beginners, stable and reliable",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/33087-212-1_00_RIB-RUN-LT-WP-W_Ant-AqG.jpg?v=1754304965",
+      "published_at": "2026-10-10T21:58:39+02:00",
+      "detected_at": "2026-10-19T04:59:53.584789+00:00",
+      "data": {
+        "vendor": "Scarpa Calzaturificio",
+        "product_type": "Trail Running",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          149.95,
+          149.95
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Scarpa Ribelle Run LT WP",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trailová běžecká bota, dámská verze, nerecenzováno.",
+      "trideno_at": "2026-10-19T05:01:01.125557+00:00"
+    },
+    {
+      "id": "b516c5ea537f2634",
+      "url": "https://www.scarpa.com/products/ribelle-cross-2-mid-woman-move-freely-hike-confidently-63160-352-2",
+      "title": "Ribelle Cross 2 Mid Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Mid hiking boot, versatile with a dynamic look",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/63160-352-2_00_RIB-CRO-2-MID-W_Gra-Lav.jpg?v=1766416479",
+      "published_at": "2026-10-10T21:58:19+02:00",
+      "detected_at": "2026-10-19T04:59:53.584844+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Hiking",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          169.95,
+          169.95
+        ],
+        "variants": 14
+      },
+      "status": "duplicitni",
+      "model": "Scarpa Ribelle Cross 2 Mid",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Dámská verze stejného modelu jako dab62a38afe65a45, nerecenzováno.",
+      "trideno_at": "2026-10-19T05:01:01.125578+00:00"
+    },
+    {
+      "id": "1e4ea493ebd1491c",
+      "url": "https://www.scarpa.com/products/mojito-wrap-gtx-water-repellent-leather-sneaker-32708-200-16",
+      "title": "Mojito Wrap GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Sneaker with hand-applied band, comfortable and waterproof",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/32708-200-16_00_MOJ-WRA-GTX_Mus_1.jpg?v=1784645344",
+      "published_at": "2026-10-10T21:56:08+02:00",
+      "detected_at": "2026-10-19T04:59:53.584895+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Lifestyle",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          189.95,
+          189.95
+        ],
+        "variants": 24
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Mojito Wrap GTX",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125596+00:00"
+    },
+    {
+      "id": "9c1404a8ddee7665",
+      "url": "https://www.scarpa.com/products/f1-rs-woman-women-s-backcountry-ski-touring-boot-12101-502-1",
+      "title": "F1 RS Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Lightweight precision for backcountry ski touring",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/12101-502-1_00_F1-RS-W_Whi-GrR.jpg?v=1784903703",
+      "published_at": "2026-10-07T07:36:30+02:00",
+      "detected_at": "2026-10-19T04:59:53.584918+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Ski Mountaineering",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          729.95,
+          729.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa F1 RS",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125614+00:00"
+    },
+    {
+      "id": "7f9bae961c2928c6",
+      "url": "https://www.scarpa.com/products/f1-rs-backcountry-ski-touring-boot-12101-501-1",
+      "title": "F1 RS",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Ski touring boot for efficiency and control",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/12101-501-1_00_F1-RS_Blk-Bro.jpg?v=1784903709",
+      "published_at": "2026-10-07T07:36:00+02:00",
+      "detected_at": "2026-10-19T04:59:53.584938+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Ski Mountaineering",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          729.95,
+          729.95
+        ],
+        "variants": 10
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa F1 RS",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125629+00:00"
+    },
+    {
+      "id": "1d9caf95fd564b51",
+      "url": "https://www.scarpa.com/products/golden-gate-lt-wp-woman-waterproof-comfort-for-everyday-trails-33090-212-2",
+      "title": "Golden Gate LT WP Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Reliable comfort and protection on wet trails",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/33090-212-2_00_GOL-GAT-LT-WP-W_Blk-Cho.jpg?v=1784645779",
+      "published_at": "2026-10-01T08:26:45+02:00",
+      "detected_at": "2026-10-19T04:59:53.584968+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Trail Running",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          139.95,
+          139.95
+        ],
+        "variants": 13
+      },
+      "status": "vhodny",
+      "model": "Scarpa Golden Gate LT WP",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trailová běžecká bota, dámská verze, nerecenzováno.",
+      "trideno_at": "2026-10-19T05:01:01.125642+00:00"
+    },
+    {
+      "id": "9c2c744a8c8c52d0",
+      "url": "https://www.scarpa.com/products/golden-gate-lt-wp-waterproof-comfort-for-everyday-trails-33090-211-1",
+      "title": "Golden Gate LT WP",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Reliable comfort and protection on wet trails",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/33090-211-1_00_GOL-GAT-LT-WP_Blk-Lim.jpg?v=1784645690",
+      "published_at": "2026-10-01T08:26:07+02:00",
+      "detected_at": "2026-10-19T04:59:53.585014+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Trail Running",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          139.95,
+          139.95
+        ],
+        "variants": 18
+      },
+      "status": "duplicitni",
+      "model": "Scarpa Golden Gate LT WP",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trailová běžecká bota, nerecenzováno.",
+      "trideno_at": "2026-10-19T05:01:01.125662+00:00"
+    },
+    {
+      "id": "4992a8be35a2d35a",
+      "url": "https://www.scarpa.com/products/crux-2-gtx-waterproof-protection-and-grip-for-technical-terrain-72054-201-1",
+      "title": "Crux 2 GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Reliable stability for approaches on technical terrain",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/72054-201-1_00_CRU-2-GTX_Pet-RuO.jpg?v=1784645785",
+      "published_at": "2026-09-16T08:02:58+02:00",
+      "detected_at": "2026-10-19T04:59:53.585050+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Approach",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          169.95,
+          169.95
+        ],
+        "variants": 16
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Crux 2 GTX",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Přístupová lezecká bota, lezecké vybavení mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125678+00:00"
+    },
+    {
+      "id": "0b232f91396768f1",
+      "url": "https://www.scarpa.com/products/crux-2-gtx-woman-waterproof-protection-and-grip-for-technical-terrain-72054-202-1",
+      "title": "Crux 2 GTX Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Reliable stability for approaches on technical terrain",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/72054-202-1_00_CRU-2-GTX-WMN_Sha-Aqu.jpg?v=1784645797",
+      "published_at": "2026-09-16T08:02:46+02:00",
+      "detected_at": "2026-10-19T04:59:53.585081+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Approach",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          169.95,
+          169.95
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Crux 2 GTX",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lezecké vybavení, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125696+00:00"
+    },
+    {
+      "id": "b5bf1f9327dabbaa",
+      "url": "https://www.scarpa.com/products/crux-2-woman-support-and-grip-for-technical-terrain-72054-352-1",
+      "title": "Crux 2 Woman",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Stability and support for technical approaches",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/72054-352-1_00_CRU-2-WMN_Smo-Ras.jpg?v=1784645809",
+      "published_at": "2026-09-16T08:02:23+02:00",
+      "detected_at": "2026-10-19T04:59:53.585113+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Approach",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          149.95,
+          149.95
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Crux 2",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lezecké vybavení, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125709+00:00"
+    },
+    {
+      "id": "f541a9887d363d21",
+      "url": "https://www.scarpa.com/products/crux-2-support-and-grip-for-technical-terrain-72054-351-1",
+      "title": "Crux 2",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Stability and support for technical approaches",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/72054-351-1_00_CRU-2_Sha-lOl.jpg?v=1784645815",
+      "published_at": "2026-09-16T08:02:11+02:00",
+      "detected_at": "2026-10-19T04:59:53.585141+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Approach",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          149.95,
+          149.95
+        ],
+        "variants": 16
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Crux 2",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lezecké vybavení, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125725+00:00"
+    },
+    {
+      "id": "066ff37d16ae2c61",
+      "url": "https://www.scarpa.com/products/alien-1-0-the-ski-mountaineering-race-boots-12176-501-2",
+      "title": "Alien 1.0",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Ultralight carbon ski touring boot for ski mountaineering races",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/12176-501-2_00_ALI-1.0_Car.jpg?v=1784645893",
+      "published_at": "2026-09-10T15:44:19+02:00",
+      "detected_at": "2026-10-19T04:59:53.585166+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Ski Mountaineering",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          1099.0,
+          1099.0
+        ],
+        "variants": 7
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Alien 1.0",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová závodní bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125738+00:00"
+    },
+    {
+      "id": "fdb242a1b695d096",
+      "url": "https://www.scarpa.com/products/alien-entry-level-ski-mountaineers-race-12175-500-2",
+      "title": "Alien",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Ultralight and responsive ski touring boot for youth races",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/12175-500-2_00_ALI_Car.jpg?v=1784645900",
+      "published_at": "2026-09-10T15:43:58+02:00",
+      "detected_at": "2026-10-19T04:59:53.585215+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Ski Mountaineering",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          699.95,
+          699.95
+        ],
+        "variants": 7
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Alien",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpová bota, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125756+00:00"
+    },
+    {
+      "id": "c50ddab362223428",
+      "url": "https://www.scarpa.com/products/mojito-gtx-the-urban-sneaker-for-rainy-days-leisure-and-travel-32682-200-43",
+      "title": "Mojito GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Waterproof lifestyle sneaker for leisure and travel",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/32682-200-43_00_MOJ-GTX_But.jpg?v=1784645312",
+      "published_at": "2026-09-08T08:10:19+02:00",
+      "detected_at": "2026-10-19T04:59:53.585269+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Lifestyle",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          179.95,
+          179.95
+        ],
+        "variants": 22
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Mojito GTX",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125768+00:00"
+    },
+    {
+      "id": "db28769468d1e290",
+      "url": "https://www.scarpa.com/products/mojito-wrap-f-leather-sneaker-with-felt-effect-32721-100-4",
+      "title": "Mojito Wrap F",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Sneaker with hand-applied band, comfortable from dawn to dusk",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/32721-100-4_00_MOJ-WRA-F_Nat.jpg?v=1784645418",
+      "published_at": "2026-09-08T08:08:51+02:00",
+      "detected_at": "2026-10-19T04:59:53.585335+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Lifestyle",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          189.95,
+          189.95
+        ],
+        "variants": 24
+      },
+      "status": "zamitnuty",
+      "model": "Scarpa Mojito Wrap F",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle tenisky, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125782+00:00"
+    },
+    {
+      "id": "7d7838c94a8d6d63",
+      "url": "https://seatosummit.com/products/xlite-collapsible-kettle",
+      "title": "XLite Collapsible Kettle",
+      "brand": "Sea to Summit",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Ultralight XLite Collapsible 1.2L Kettle is designed for fast, efficient boiling with precise pouring control. Its kettle shape, integrated spout and dual pivoting handles provide stability and accuracy when pouring hot water. An extra-wide top opening makes it ready to cook, allowing the kettle to double as a pot for simple meals. The collapsible design packs flat to save space, while a hard-anodised aluminium base heats quickly and evenly for reliable camp performance.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/2467/2501/files/113901_XLiteCollapsibleKettle_1.2L_AbbeyStone_ADDITIONAL_4-1200x1200-bd93c0f.jpg?v=1781245878",
+      "published_at": "2026-10-01T15:40:59-06:00",
+      "detected_at": "2026-10-19T04:59:58.975969+00:00",
+      "data": {
+        "vendor": "Sea to Summit",
+        "product_type": "Cookware",
+        "tags": [
+          "26NewProduct",
+          "27NewProduct",
+          "Backpacking",
+          "Bike Packing",
+          "Camp Kitchen",
+          "Camping",
+          "Camping Collection",
+          "Collapsible",
+          "FIRSTSUMMIT",
+          "FTMX_REI_brand",
+          "Hard-anodized Aluminium",
+          "Hunt & Fish",
+          "locally",
+          "Nesting",
+          "New",
+          "pfs:label-New",
+          "salsify",
+          "Ultra Compact",
+          "Ultralight",
+          "XLite"
+        ],
+        "grams": [
+          225
+        ],
+        "price_range": [
+          79.95,
+          79.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kuchyňské vybavení, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125797+00:00"
+    },
+    {
+      "id": "559bf61cf5fef310",
+      "url": "https://www.thermarest.com/products/lightning-tails",
+      "title": "Lightning™ Tails",
+      "brand": "Therm-a-Rest",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Modular tails add 5 in (13 cm) to most Lightning snowshoes for increased flotation.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0574/0642/3174/files/14709_msr_lightning_tails_gray.jpg?v=1791220870",
+      "published_at": "2026-10-14T14:00:47-07:00",
+      "detected_at": "2026-10-19T05:00:03.528289+00:00",
+      "data": {
+        "vendor": "MSR",
+        "product_type": "",
+        "tags": [
+          "YGroup_lightning-tails"
+        ],
+        "grams": [
+          255
+        ],
+        "price_range": [
+          99.95,
+          99.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Příslušenství ke sněžnicím, mimo rubriky.",
+      "trideno_at": "2026-10-19T05:01:01.125810+00:00"
     }
   ]
 }
