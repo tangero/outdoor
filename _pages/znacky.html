@@ -1,0 +1,38 @@
+---
+layout: default
+title: Značky outdoorového vybavení
+permalink: /znacky/
+---
+
+{% include rubriky-pruh.html %}
+
+<section class="hp-sekce">
+    <header class="hp-sekce__hlava">
+        <h1>Značky</h1>
+    </header>
+    <ul class="hp-znacky">
+        {% for z in site.data.znacky %}
+        {% assign pocet = site.posts | where: "znacka", z.name | size %}
+        {% assign pocet_n = site.novinky | where: "znacka", z.name | size %}
+        {% assign celkem = pocet | plus: pocet_n %}
+        {% if celkem > 0 %}<li><a href="#{{ z.slug }}">{{ z.name }} <span class="hp-pocet">{{ celkem }}</span></a></li>{% endif %}
+        {% endfor %}
+    </ul>
+</section>
+
+{% for z in site.data.znacky %}
+{% assign clanky = site.posts | where: "znacka", z.name %}
+{% assign zpravy = site.novinky | where: "znacka", z.name | sort: "date" | reverse %}
+{% assign celkem = clanky.size | plus: zpravy.size %}
+{% if celkem > 0 %}
+<section class="hp-sekce znacka" id="{{ z.slug }}" aria-labelledby="z-{{ z.slug }}">
+    <header class="hp-sekce__hlava">
+        <h2 id="z-{{ z.slug }}">{{ z.name }} <span class="hp-pocet">{{ clanky.size }} recenzí{% if zpravy.size > 0 %}, {{ zpravy.size }} novinek{% endif %}</span></h2>
+    </header>
+    <div class="znacka__seznam">
+        {% for n in zpravy %}{% include hp-karta.html p=n velikost="mala" %}{% endfor %}
+        {% for p in clanky %}{% include hp-karta.html p=p velikost="mala" %}{% endfor %}
+    </div>
+</section>
+{% endif %}
+{% endfor %}

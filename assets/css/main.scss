@@ -48,3 +48,245 @@ td {
 tr:hover {
     background-color: #f8f9fa;
 }
+
+/* =====================================================================
+   Titulka, novinky a značky (třídy hp-*)
+   ===================================================================== */
+:root {
+    --hp-text: #1f2a24;
+    --hp-tlumeny: #5f6b64;
+    --hp-akcent: #0a7d55;          /* tmavší odstín zelené šablony, čitelný i na bílé */
+    --hp-plocha: #f5f6f2;          /* teplá světlá plocha pod produktovými fotkami */
+    --hp-linka: #e3e6df;
+    --hp-stin: 0 10px 24px -14px rgba(31, 52, 40, .35);
+}
+
+.rubriky-pruh {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .5rem 2.5rem;
+    margin: 30px 0 10px;
+}
+.rubriky-pruh .rubrika-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .35rem;
+    min-width: 72px;
+    padding: .4rem .25rem;
+    color: var(--hp-akcent);
+    border-bottom: 2px solid transparent;
+    transition: border-color .2s ease, transform .2s ease;
+}
+.rubriky-pruh .rubrika-link img { height: 44px; width: auto; }
+.rubriky-pruh .rubrika-link:hover { text-decoration: none; transform: translateY(-2px); }
+.rubriky-pruh .rubrika-link.aktivni,
+.rubriky-pruh .rubrika-link:hover { border-bottom-color: var(--hp-akcent); }
+
+.hp-stitek {
+    margin: 0 0 .35rem;
+    font-size: .75rem;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--hp-akcent);
+}
+.hp-stitek a { color: inherit; }
+.hp-meta {
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    margin: .5rem 0 0;
+    font-size: .8rem;
+    color: var(--hp-tlumeny);
+}
+.hp-znamka {
+    padding: .1rem .45rem;
+    border-radius: 4px;
+    background: var(--hp-text);
+    color: #fff;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+}
+.hp-odkaz {
+    font-weight: 600;
+    color: var(--hp-akcent);
+    white-space: nowrap;
+}
+.hp-odkaz:hover { color: var(--hp-text); text-decoration: none; }
+.hp-odkaz span { display: inline-block; transition: transform .2s ease; }
+.hp-odkaz:hover span { transform: translateX(3px); }
+.hp-pocet {
+    font-size: .8rem;
+    font-weight: 500;
+    color: var(--hp-tlumeny);
+    font-variant-numeric: tabular-nums;
+}
+.hp-uvod, .hp-prazdne { max-width: 62ch; color: var(--hp-tlumeny); }
+
+/* Hlavní článek */
+.hp-hlavni {
+    display: grid;
+    grid-template-columns: minmax(0, 7fr) minmax(0, 5fr);
+    gap: 2.5rem;
+    align-items: center;
+    margin: 2rem 0 3.5rem;
+}
+.hp-hlavni__obr {
+    display: block;
+    overflow: hidden;
+    border-radius: 10px;
+    background: var(--hp-plocha);
+    aspect-ratio: 3 / 2;
+}
+.hp-hlavni__obr img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
+.hp-hlavni__obr:hover img { transform: scale(1.03); }
+.hp-hlavni__titulek {
+    margin: 0 0 1rem;
+    font-size: clamp(1.6rem, 1.1rem + 1.6vw, 2.4rem);
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: -.02em;
+    text-wrap: balance;
+}
+.hp-hlavni__titulek a { color: var(--hp-text); }
+.hp-hlavni__perex { max-width: 52ch; color: var(--hp-tlumeny); line-height: 1.6; }
+.hp-hlavni .hp-odkaz { display: inline-block; margin-top: 1.25rem; }
+
+/* Sekce */
+.hp-sekce { margin: 0 0 3.5rem; }
+.hp-sekce__hlava {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: .5rem 1.5rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: .6rem;
+    border-bottom: 1px solid var(--hp-linka);
+}
+.hp-sekce__hlava h1,
+.hp-sekce__hlava h2 {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    margin: 0;
+    font-size: 1.35rem;
+    font-weight: 700;
+    letter-spacing: -.01em;
+    color: var(--hp-text);
+}
+.hp-sekce__hlava h1 { font-size: 2rem; }
+.hp-sekce__hlava h2 img { height: 28px; width: auto; }
+.hp-sekce__odkazy { display: flex; gap: 1.5rem; }
+
+/* Karty */
+.hp-karta { display: flex; flex-direction: column; min-width: 0; }
+.hp-karta__obr {
+    display: block;
+    overflow: hidden;
+    border-radius: 8px;
+    background: var(--hp-plocha);
+    aspect-ratio: 4 / 3;
+}
+.hp-karta__obr img { width: 100%; height: 100%; object-fit: cover; transition: transform .35s ease; }
+.hp-karta:hover .hp-karta__obr img { transform: scale(1.04); }
+.hp-karta__text { padding-top: .75rem; }
+.hp-karta__titulek {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.3;
+    text-wrap: pretty;
+}
+.hp-karta__titulek a { color: var(--hp-text); }
+.hp-karta__titulek a:hover { color: var(--hp-akcent); text-decoration: none; }
+.hp-karta__perex { margin: .4rem 0 0; font-size: .875rem; line-height: 1.5; color: var(--hp-tlumeny); }
+
+.hp-karta--velka .hp-karta__obr { aspect-ratio: 16 / 10; }
+.hp-karta--velka .hp-karta__titulek { font-size: 1.35rem; letter-spacing: -.01em; }
+.hp-karta--mala { flex-direction: row; gap: 1rem; align-items: flex-start; }
+.hp-karta--mala .hp-karta__obr { flex: 0 0 128px; aspect-ratio: 4 / 3; }
+.hp-karta--mala .hp-karta__text { padding-top: 0; }
+.hp-karta--mala .hp-meta { margin-top: .3rem; }
+
+/* Novinky: mřížka na desktopu, vodorovný posun na mobilu */
+.hp-novinky {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.75rem 1.5rem;
+}
+
+/* Rubrika: velký článek + seznam dalších */
+.hp-rubrika {
+    display: grid;
+    grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+    gap: 2rem;
+}
+.hp-rubrika__dalsi { display: flex; flex-direction: column; gap: 1.25rem; }
+.hp-rubrika__dalsi .hp-karta + .hp-karta { padding-top: 1.25rem; border-top: 1px solid var(--hp-linka); }
+
+/* Značky */
+.hp-znacky { display: flex; flex-wrap: wrap; gap: .6rem; margin: 0; padding: 0; list-style: none; }
+.hp-znacky a {
+    display: inline-flex;
+    align-items: baseline;
+    gap: .4rem;
+    padding: .45rem .9rem;
+    border: 1px solid var(--hp-linka);
+    border-radius: 6px;
+    color: var(--hp-text);
+    font-weight: 500;
+    transition: border-color .2s ease, background-color .2s ease;
+}
+.hp-znacky a:hover { border-color: var(--hp-akcent); background: var(--hp-plocha); text-decoration: none; }
+.znacka { scroll-margin-top: 90px; }
+.znacka__seznam { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem 2rem; }
+
+/* Detail novinky */
+.novinka { max-width: 720px; margin: 2rem auto 3rem; }
+.novinka__titulek {
+    margin: 0;
+    font-size: clamp(1.7rem, 1.2rem + 1.5vw, 2.4rem);
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: -.02em;
+    text-wrap: balance;
+}
+.novinka__hlava { margin-bottom: 1.5rem; }
+.novinka__recenze { padding: .9rem 1rem; border-left: 3px solid var(--hp-akcent); background: var(--hp-plocha); }
+
+.hp-karta a:focus-visible, .hp-odkaz:focus-visible, .hp-znacky a:focus-visible,
+.rubriky-pruh .rubrika-link:focus-visible, .hp-hlavni__titulek a:focus-visible {
+    outline: 2px solid var(--hp-akcent);
+    outline-offset: 3px;
+    border-radius: 4px;
+}
+
+@media (max-width: 991px) {
+    .hp-hlavni { grid-template-columns: 1fr; gap: 1.25rem; }
+    .hp-novinky { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .hp-rubrika { grid-template-columns: 1fr; }
+}
+@media (max-width: 575px) {
+    /* název webu se jinak na telefonu nevejde vedle loga */
+    .mediumnavigation .sitetitle { font-size: 1.3rem; }
+    .mediumnavigation .navbar-brand img { max-height: 36px !important; }
+    .rubriky-pruh { gap: .25rem 1.25rem; }
+    .hp-novinky:not(.hp-novinky--mrizka) {
+        display: flex;
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        margin: 0 -15px;
+        padding: 0 15px .5rem;
+    }
+    .hp-novinky:not(.hp-novinky--mrizka) .hp-karta { flex: 0 0 72%; scroll-snap-align: start; }
+    .hp-novinky--mrizka { grid-template-columns: 1fr; }
+    .znacka__seznam { grid-template-columns: 1fr; }
+    .hp-sekce__odkazy { gap: 1rem; }
+    .hp-karta--mala .hp-karta__obr { flex-basis: 104px; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .hp-karta__obr img, .hp-hlavni__obr img, .hp-odkaz span, .rubriky-pruh .rubrika-link { transition: none; }
+}

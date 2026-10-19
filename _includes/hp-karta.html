@@ -1,0 +1,25 @@
+{% comment %}
+Karta článku na titulce. Parametry: p (článek nebo novinka), velikost (velka | mala | novinka).
+{% endcomment %}
+{%- assign p = include.p -%}
+{%- if include.velikost == "velka" -%}{%- assign rozmer = "w_900,h_600" -%}
+{%- elsif include.velikost == "mala" -%}{%- assign rozmer = "w_320,h_240" -%}
+{%- else -%}{%- assign rozmer = "w_480,h_360" -%}{%- endif -%}
+<article class="hp-karta hp-karta--{{ include.velikost }}">
+    <a class="hp-karta__obr" href="{{ site.baseurl }}{{ p.url }}" tabindex="-1" aria-hidden="true">
+        {% if p.thumbnail != "" and p.thumbnail %}
+        <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/{{ rozmer }},c_fill,g_auto,f_auto,q_auto/{{ p.thumbnail }}" alt="" loading="lazy">
+        {% endif %}
+    </a>
+    <div class="hp-karta__text">
+        {% if p.znacka %}<p class="hp-stitek">{{ p.znacka }}</p>{% endif %}
+        <h3 class="hp-karta__titulek"><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></h3>
+        {% if include.velikost != "mala" %}
+        <p class="hp-karta__perex">{% if p.perex %}{{ p.perex }}{% else %}{{ p.excerpt | strip_html | truncatewords: 26 }}{% endif %}</p>
+        {% endif %}
+        <p class="hp-meta">
+            {% include datum.html d=p.date %}
+            {% if p.hodnoceni %}<span class="hp-znamka" title="Hodnocení {{ p.hodnoceni | replace: ".", "," }} z 10">{{ p.hodnoceni | replace: ".", "," }}/10</span>{% endif %}
+        </p>
+    </div>
+</article>

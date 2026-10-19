@@ -1,0 +1,3 @@
+{%- assign mesice = "ledna,února,března,dubna,května,června,července,srpna,září,října,listopadu,prosince" | split: "," -%}
+{%- assign m = include.d | date: "%-m" | minus: 1 -%}
+<time datetime="{{ include.d | date: '%Y-%m-%d' }}">{{ include.d | date: "%-d" }}. {{ mesice[m] }} {{ include.d | date: "%Y" }}</time>

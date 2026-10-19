@@ -1,0 +1,13 @@
+{% comment %} Pruh ikon rubrik; rubriky bez článků se nezobrazují.
+   site.categories tu nejde: překrývá ho kolekce _categories. {% endcomment %}
+<nav class="rubriky-pruh" aria-label="Rubriky">
+    {% for rubrika in site.data.rubriky %}
+    {% assign pocet = site.posts | where_exp: "p", "p.categories contains rubrika.name" | size %}
+    {% if pocet > 0 %}
+    <a href="{{ site.baseurl }}/{{ rubrika.name }}/" class="rubrika-link{% if page.name == rubrika.name or page.categories contains rubrika.name %} aktivni{% endif %}">
+        <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="" aria-hidden="true">
+        <span>{{ rubrika.title }}</span>
+    </a>
+    {% endif %}
+    {% endfor %}
+</nav>

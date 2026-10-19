@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="cs">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -73,6 +73,14 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Titulka</a>
                 </li>
 
+                <li class="nav-item{% if page.url contains '/novinky/' %} active{% endif %}">
+                <a class="nav-link" href="{{ site.baseurl }}/novinky/">Novinky</a>
+                </li>
+
+                <li class="nav-item{% if page.url == '/znacky/' %} active{% endif %}">
+                <a class="nav-link" href="{{ site.baseurl }}/znacky/">Značky</a>
+                </li>
+
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">O webu</a>
                 </li>
@@ -138,14 +146,15 @@ ga('send', 'pageview');
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
             {% for rubrika in site.data.rubriky %}
+                {% assign category_posts = site.posts | where_exp: "p", "p.categories contains rubrika.name" %}
+                {% if category_posts.size > 0 %}
                 <a class="mt-1 mb-1 mr-2 btn btn-light" href="{{ site.baseurl }}/{{ rubrika.name }}/">
                     {% if rubrika.icon %}
                         <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="{{ rubrika.title }}" style="height: 24px; width: auto; margin-right: 5px; filter: brightness(0) invert(1);">
                     {% endif %}
                     {{ rubrika.title }}
-                    {% assign category_posts = site.categories[rubrika.name] %}
-
                 </a>
+                {% endif %}
             {% endfor %}
 		</div>
 	</div>
