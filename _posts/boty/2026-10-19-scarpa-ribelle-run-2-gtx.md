@@ -65,7 +65,7 @@ Nejvýraznější předností je systém 3S Frame, který obepíná celou konstr
 | Inov8 Roclite G 345 GTX | 345 | střední | syntetická síťovina s membránou Gore-Tex | rychlá turistika, dlouhé přechody hor, běh v terénu |
 | Hoka Speedgoat 5 | 291 | nízké | veganský žakárový svršek, podešev Vibram Megagrip | trailový běh, ultra traily, technicky náročné trasy |
 
-Dynafit Speed MTN GTX je podobně zaměřen na rychlý pohyb v horách, ale je těžší a u jeho příznivců se zmiňuje nižší stabilita. Scarpa nabízí obvodový rám a výrazně stabilnější pocit. Inov8 Roclite G 345 GTX je o něco lehčí a univerzálnější, ale u něj je zmiňována nižší stabilita v extrémním terénu. Hoka Speedgoat 5 je lehčí a směřuje k delším vzdálenostem, zatímco Ribelle Run 2 GTX klade větší důraz na ochranu a oporu.
+Dynafit Speed MTN GTX je podobně zaměřen na rychlý pohyb v technickém terénu a je o něco těžší. Inov8 Roclite G 345 GTX má střední výšku a míří spíš na rychlou turistiku a dlouhé přechody hor. Hoka Speedgoat 5 je lehčí a nemá membránu, směřuje i k ultra trailům. Ribelle Run 2 GTX mezi nimi vyniká obvodovým rámem 3S Frame, který klade důraz na ochranu a oporu.
 
 ### Pro koho je ideální?
 

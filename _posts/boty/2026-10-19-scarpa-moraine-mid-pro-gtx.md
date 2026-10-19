@@ -60,15 +60,15 @@ Nejzajímavější specialitou je zabudovaný reflektor RECCO, který umožňuje
 
 ### Srovnání s konkurencí
 
-| Model | Hmotnost (g) | Tvar | Materiál | Hodnocení |
-| --- | --- | --- | --- | --- |
-| Scarpa Moraine Mid Pro GTX | 580 | střední | olejovaný nubuk, Gore-Tex | 7,5 |
-| Hoka Anacapa Mid GTX | 850 | střední | nubuková kůže, GORE-TEX | 8 |
-| Lowa Renegade GTX Mid | 1110 | střední | nubuková kůže, GORE-TEX | 8 |
-| Keen Ridge Flex Mid | 544 | střední | kůže, síťovina, KEEN.DRY | 8 |
-| Mammut Ducan Mid GTX | 1040 | střední | textilie, síťovina, Gore-Tex | 8 |
+| Model | Tvar | Materiál | Hodnocení |
+| --- | --- | --- | --- |
+| Scarpa Moraine Mid Pro GTX | střední | olejovaný nubuk, Gore-Tex | 7,5 |
+| Hoka Anacapa Mid GTX | střední | nubuková kůže, GORE-TEX | 8 |
+| Lowa Renegade GTX Mid | střední | nubuková kůže, GORE-TEX | 8 |
+| Keen Ridge Flex Mid | střední | kůže, síťovina, KEEN.DRY | 8 |
+| Mammut Ducan Mid GTX | střední | textilie, síťovina, Gore-Tex | 8 |
 
-Proti **Hoka Anacapa Mid GTX** a **Lowa Renegade GTX Mid** je Scarpa Moraine Mid Pro GTX podle uvedených údajů výrazně lehčí. Podobné hmotnosti dosahuje **Keen Ridge Flex Mid**, ten však používá jinou membránu. **Mammut Ducan Mid GTX** má textilní konstrukci, zatímco Moraine sází na nubuk.
+S **Hoka Anacapa Mid GTX** a **Lowa Renegade GTX Mid** sdílí Moraine kombinaci nubukového svršku a membrány Gore-Tex. **Keen Ridge Flex Mid** místo Gore-Texu používá vlastní membránu KEEN.DRY. **Mammut Ducan Mid GTX** má textilní konstrukci, zatímco Moraine sází na nubuk.
 
 Test LFTO řadí Moraine cenově do blízkosti Salomon Quest 4, AKU Tribute II a Lowa Renegade Mid, takže nejde o nejlevnější volbu. Za cenu dostanete kvalitní zpracování a dvouletou záruku výrobce.
 
@@ -82,4 +82,4 @@ Pokud preferujete flexibilní a měkčí botu, nebo hledáte opravdu lehkou botu
 
 ### Závěrečné zhodnocení
 
-Scarpa Moraine Mid Pro GTX je solidně provedená kožená polovysoká bota, která zvládne víc, než naznačuje označení pro začátečníky. Nabízí dobrou trakci, spolehlivou voděodolnost, stabilní podešev a dobré zpracování. Slabinou je vyšší tuhost a nižší flexibilita a také to, že nijak výrazně nevyčnívá. Přesto jde o dobrou volbu pro všestranné turistiky za rozumnou cenu, s bonusem v podobě vestavěného reflektoru RECCO. Hodnocení 7,5 odráží spolehlivého univerzála, který dobře plní svůj účel, ale nepřináší nic výjimečného.
+Scarpa Moraine Mid Pro GTX je solidně provedená kožená polovysoká bota, která zvládne víc, než naznačuje označení pro začátečníky. Nabízí dobrou trakci, spolehlivou voděodolnost, stabilní podešev a dobré zpracování. Slabinou je vyšší tuhost a nižší flexibilita a také to, že nijak výrazně nevyčnívá. Přesto jde o dobrou volbu pro všestranné turisty za rozumnou cenu, s bonusem v podobě vestavěného reflektoru RECCO. Hodnocení 7,5 odráží spolehlivého univerzála, který dobře plní svůj účel, ale nepřináší nic výjimečného.
