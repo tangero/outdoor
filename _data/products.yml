@@ -327,3 +327,19 @@
   url: "/karimatky/therm-a-rest-mondoking-3d/"
   variants:
   - Therm-a-Rest MondoKing
+- name: Sea to Summit Pursuit Plus
+  url: "/karimatky/sea-to-summit-pursuit-plus/"
+- name: Sea to Summit Ultralight XR Insulated Air
+  url: "/karimatky/sea-to-summit-ultralight-xr-insulated-air/"
+- name: Black Diamond Cirque Ultra 25
+  url: "/batohy/black-diamond-cirque-ultra-25/"
+  variants:
+  - Black Diamond Cirque Ultra
+- name: Sea to Summit Ether Light XR Insulated
+  url: "/karimatky/sea-to-summit-ether-light-xr-insulated/"
+- name: Klymit Static V Summit
+  url: "/karimatky/klymit-static-v-summit/"
+- name: Gregory Nano 28
+  url: "/batohy/gregory-nano-28/"
+  variants:
+  - Gregory Nano
