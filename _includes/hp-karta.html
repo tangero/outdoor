@@ -8,7 +8,8 @@ Karta článku na titulce. Parametry: p (článek nebo novinka), velikost (velka
 <article class="hp-karta hp-karta--{{ include.velikost }}">
     <a class="hp-karta__obr" href="{{ site.baseurl }}{{ p.url }}" tabindex="-1" aria-hidden="true">
         {% if p.thumbnail != "" and p.thumbnail %}
-        <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/{{ rozmer }},c_fill,g_auto,f_auto,q_auto/{{ p.thumbnail }}" alt="" loading="lazy">
+        {% assign transformace = rozmer | append: ",c_fill,g_auto,f_auto,q_auto" %}
+        <img src="{% include cld.html u=p.thumbnail t=transformace %}" alt="" loading="lazy">
         {% endif %}
     </a>
     <div class="hp-karta__text">

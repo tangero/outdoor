@@ -15,6 +15,7 @@ Použití:
 """
 
 import argparse
+import html
 import json
 import os
 import re
@@ -47,7 +48,7 @@ EST_COST_PER_REVIEW = 0.45  # USD, horní odhad: psaní ~0,11 + až 2 opravy po 
 SKIP_DOMAINS = ("youtube.com", "youtu.be", "facebook.com", "instagram.com", "pinterest.",
                 "tiktok.com", "x.com", "twitter.com", "amazon.", "ebay.", "aliexpress.")
 
-CLOUDINARY = "https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/"
+IMG_IN_TEXT = "w_auto,h_450,c_fill,g_auto,f_auto,q_auto"
 
 PARAMS_BY_RUBRIKA = {
     "batohy": ["vaha", "objem", "material", "sex"],
@@ -391,7 +392,11 @@ def fix_review(c: dict, draft: dict, problems: list[dict], sources: list[dict], 
 
 
 def find_image(c: dict, page_imgs: list[str]) -> str:
-    """První obrázek, který projde přes Cloudinary (náhled z monitoru → og:image → stránka → Exa)."""
+    """První použitelný obrázek (náhled z monitoru → Shopify → og:image → stránka → Exa).
+
+    S CLOUDINARY_URL ho nahraje do Cloudinary a vrátí nahranou URL; jinak (nebo když
+    nahrání selže) bere obrázek, který projde přes Cloudinary fetch.
+    """
     log(f"   Obrázky ze stránky výrobce: {len(page_imgs)}", verbose_only=True)
     tried = set()
     for get in (lambda: [c.get("thumbnail") or ""], lambda: shopify_images(c["url"]),
@@ -400,6 +405,9 @@ def find_image(c: dict, page_imgs: list[str]) -> str:
             url = "https:" + url if url.startswith("//") else url
             if url and url not in tried and not re.search(r"logo|og[-_]?image|placeholder", url, re.I):
                 tried.add(url)
+                uploaded = lib.upload_image(url, slugify(c["model"]))
+                if uploaded:
+                    return uploaded
                 if lib.image_ok(url):
                     return url
     return ""
@@ -429,7 +437,7 @@ def og_image(page_url: str) -> str:
         return ""
     m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', html, flags=re.I) \
         or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', html, flags=re.I)
-    return m.group(1) if m else ""
+    return html.unescape(m.group(1)) if m else ""
 
 
 def build_post(c: dict, draft: dict, image: str) -> tuple[str, str, str]:
@@ -457,7 +465,7 @@ def build_post(c: dict, draft: dict, image: str) -> tuple[str, str, str]:
 
     body = draft["telo"].strip()
     paragraphs = body.split("\n\n", 1)
-    image_md = f"![{model}]({CLOUDINARY}{image})"
+    image_md = f"![{model}]({lib.cld(image, IMG_IN_TEXT)})"
     body = paragraphs[0] + "\n\n" + image_md + ("\n\n" + paragraphs[1] if len(paragraphs) > 1 else "")
 
     content = "---\n" + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000) + "---\n\n" + body + "\n"

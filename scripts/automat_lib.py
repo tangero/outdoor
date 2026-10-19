@@ -396,6 +396,52 @@ def brand_of(model: str, fallback: str = "") -> str:
     return fallback
 
 
+CLOUDINARY_UPLOAD = "https://res.cloudinary.com/dvwv5cne3/image/upload/"
+
+
+def cld(url: str, transform: str) -> str:
+    """URL obrázku přes Cloudinary s transformací: nahraný obrázek přímo, cizí přes fetch."""
+    if url.startswith(CLOUDINARY_UPLOAD):
+        return CLOUDINARY_UPLOAD + transform + "/" + url[len(CLOUDINARY_UPLOAD):]
+    return CLOUDINARY_FETCH + transform + "/" + url
+
+
+def upload_image(url: str, public_id: str) -> str:
+    """Stáhne obrázek a nahraje ho do Cloudinary (složka outdoor/). Vrátí jeho URL, nebo ''.
+
+    Nahraný obrázek nezávisí na allowlistu fetch domén ani na tom, jestli ho výrobce
+    později smaže. Bez CLOUDINARY_URL (cloudinary://key:secret@cloud) vrací ''.
+    """
+    import hashlib
+    from urllib.parse import urlparse
+
+    conf = urlparse(os.environ.get("CLOUDINARY_URL", ""))
+    if conf.scheme != "cloudinary" or not conf.username or requests is None or not url:
+        return ""
+    try:
+        img = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
+    except Exception as e:
+        log(f"   Obrázek nejde stáhnout: {e}", verbose_only=True)
+        return ""
+    if img.status_code != 200 or not img.headers.get("content-type", "").startswith("image/") \
+            or len(img.content) < 5000:
+        log(f"   Obrázek nejde stáhnout ({img.status_code}, "
+            f"{img.headers.get('content-type', '')}, {len(img.content)} B): {url[:100]}", verbose_only=True)
+        return ""
+    params = {"folder": "outdoor", "overwrite": "true", "public_id": public_id,
+              "timestamp": str(int(time.time()))}
+    to_sign = "&".join(f"{k}={v}" for k, v in sorted(params.items())) + conf.password
+    params.update(api_key=conf.username, signature=hashlib.sha1(to_sign.encode()).hexdigest())
+    try:
+        resp = requests.post(f"https://api.cloudinary.com/v1_1/{conf.hostname}/image/upload",
+                             data=params, files={"file": ("obrazek", img.content)}, timeout=60)
+        resp.raise_for_status()
+        return resp.json()["secure_url"]
+    except Exception as e:
+        log(f"   Nahrání do Cloudinary selhalo: {e}", verbose_only=True)
+        return ""
+
+
 def image_ok(url: str) -> bool:
     """Projde obrázek přes Cloudinary fetch? Cloudinary propouští jen povolené domény."""
     if not url or requests is None:

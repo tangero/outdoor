@@ -22,7 +22,7 @@ import yaml
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import automat_lib as lib  # noqa: E402
 from automat_lib import log  # noqa: E402
-from recenze import find_image, page_images, slugify, CLOUDINARY  # noqa: E402
+from recenze import find_image, page_images, slugify, IMG_IN_TEXT  # noqa: E402
 
 NOVINKY_DIR = "_novinky"
 WEEKLY_LIMIT_USD = float(os.environ.get("NOVINKY_TYDENNI_LIMIT_USD", "0.5"))
@@ -150,7 +150,7 @@ def build(c: dict, draft: dict, image: str) -> tuple[str, str]:
     fm.update({"automat": True, "zdroje": [c["url"]]})
     body = draft["telo"].strip()
     parts = body.split("\n\n", 1)
-    body = parts[0] + f"\n\n![{model}]({CLOUDINARY}{image})" + ("\n\n" + parts[1] if len(parts) > 1 else "")
+    body = parts[0] + f"\n\n![{model}]({lib.cld(image, IMG_IN_TEXT)})" + ("\n\n" + parts[1] if len(parts) > 1 else "")
     content = "---\n" + yaml.safe_dump(fm, allow_unicode=True, sort_keys=False, width=1000) + "---\n\n" + body + "\n"
     return path, content
 

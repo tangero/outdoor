@@ -24,7 +24,7 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
                                         #  -f rubrika=batohy,karimatky jen vybrané rubriky; i pro rezim=recenze)
 ```
 
-- Klíče (`ANTHROPIC_API_KEY`, `EXA_API_KEY`, `TINYFISH_API_KEY`) jsou jen v GitHub
+- Klíče (`ANTHROPIC_API_KEY`, `EXA_API_KEY`, `TINYFISH_API_KEY`, `CLOUDINARY_URL`) jsou jen v GitHub
   secrets, lokálně nejsou. Lokálně jde bez klíčů pustit monitor (Shopify zdroje);
   zbytek testuj režimem `test` v Actions (výstup v artefaktu `automat-test`).
 
@@ -51,10 +51,11 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
 - **Vlastní pluginy (`_plugins/`):** `product_linker.rb` po renderu převede zmínky
   produktů z `_data/products.yml` (`name`, pak `variants`) na odkazy na recenze;
   `fix_categories.rb` převádí `categories` ze stringu na pole.
-- **Obrázky:** externí URL v `thumbnail`, servírované přes Cloudinary fetch
-  `res.cloudinary.com/dvwv5cne3/image/fetch/...`. Cloudinary propouští jen domény
-  z allowlistu (Settings → Security → Allowed fetch domains, spravuje majitel);
-  automat proto obrázek před zápisem ověří (`lib.image_ok`) a jinak zkusí další.
+- **Obrázky:** `thumbnail` je buď obrázek nahraný do Cloudinary (`.../image/upload/.../outdoor/<slug>`,
+  automat s `CLOUDINARY_URL` v secrets), nebo externí URL servírovaná přes Cloudinary fetch
+  `res.cloudinary.com/dvwv5cne3/image/fetch/...`. Šablony skládají URL přes `_includes/cld.html`
+  (v Pythonu `lib.cld`). Fetch propouští jen domény z allowlistu (Settings → Security → Allowed
+  fetch domains, spravuje majitel); bez nahrání automat obrázek ověří (`lib.image_ok`).
 - **Automat (`scripts/`, stav v `_automat/`, workflow `.github/workflows/monitor.yml`):**
   1. `monitor.py` (denně 9:00 UTC) projde `_automat/zdroje.yml` — strategie `shopify`
      (veřejné `/products.json`, nové = `published_at` za 45 dní), `exa` (jen od

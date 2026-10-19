@@ -15,7 +15,7 @@ title: Recenze a novinky outdoorového vybavení
 ================================================== -->
 <section class="hp-hlavni" aria-labelledby="hp-hlavni-titulek">
     <a class="hp-hlavni__obr" href="{{ site.baseurl }}{{ hlavni.url }}" tabindex="-1" aria-hidden="true">
-        <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1100,h_720,c_fill,g_auto,f_auto,q_auto/{{ hlavni.thumbnail }}" alt="">
+        <img src="{% include cld.html u=hlavni.thumbnail t="w_1100,h_720,c_fill,g_auto,f_auto,q_auto" %}" alt="">
     </a>
     <div class="hp-hlavni__text">
         <p class="hp-stitek">Nejnovější recenze · {{ hlavni.znacka }}</p>

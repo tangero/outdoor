@@ -10,7 +10,7 @@
                     {% if site.lazyimages == "enabled" %}
                         <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.thumbnail contains "://" %}{{ post.thumbnail }}{% else %}{{ site.baseurl }}/{{ post.thumbnail }}{% endif %}" alt="{{ post.title }}">
                     {% else %}
-                    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_250,c_fill,g_auto,f_auto,q_auto/{{ post.thumbnail }}" alt="{{ post.title }}" style="max-height: 250px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;">
+                    <img src="{% include cld.html u=post.thumbnail t="w_auto,h_250,c_fill,g_auto,f_auto,q_auto" %}" alt="{{ post.title }}" style="max-height: 250px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;">
 
                     {% endif %}
 

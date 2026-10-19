@@ -25,7 +25,7 @@ layout: default
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
                     {% if post.thumbnail %}
-                    <a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_250,c_fill,g_auto,f_auto,q_auto/{{ post.thumbnail }}" alt="{{ post.title }}" style="max-height: 250px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"></a>
+                    <a href="{{ post.url }}"><img src="{% include cld.html u=post.thumbnail t="w_auto,h_250,c_fill,g_auto,f_auto,q_auto" %}" alt="{{ post.title }}" style="max-height: 250px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"></a>
                     {% endif %}
                     <div class="card-body">
                         <a href="{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>

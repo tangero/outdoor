@@ -1,0 +1,10 @@
+{%- comment -%}
+URL obrázku přes Cloudinary. Parametry: u (URL obrázku), t (transformace, např. "w_320,h_240,c_fill").
+Obrázek nahraný do Cloudinary (automat) dostane transformaci přímo, cizí URL jde přes fetch.
+{%- endcomment -%}
+{%- assign cld_upload = "https://res.cloudinary.com/dvwv5cne3/image/upload/" -%}
+{%- if include.u contains cld_upload -%}
+{{ include.u | replace: cld_upload, "" | prepend: "/" | prepend: include.t | prepend: cld_upload }}
+{%- else -%}
+https://res.cloudinary.com/dvwv5cne3/image/fetch/{{ include.t }}/{{ include.u }}
+{%- endif -%}
