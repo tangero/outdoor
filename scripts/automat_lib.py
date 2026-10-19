@@ -415,8 +415,13 @@ def upload_image(url: str, public_id: str) -> str:
     import hashlib
     from urllib.parse import urlparse
 
-    conf = urlparse(os.environ.get("CLOUDINARY_URL", ""))
-    if conf.scheme != "cloudinary" or not conf.username or requests is None or not url:
+    raw = os.environ.get("CLOUDINARY_URL", "").strip().strip("'\"")
+    if not raw or requests is None or not url:
+        return ""
+    raw = raw.split("=", 1)[1].strip().strip("'\"") if raw.upper().startswith("CLOUDINARY_URL=") else raw
+    conf = urlparse(raw)
+    if conf.scheme != "cloudinary" or not conf.username or not conf.password or not conf.hostname:
+        log("   ⚠️  CLOUDINARY_URL nemá tvar cloudinary://api_key:api_secret@cloud_name, obrázky se nenahrávají.")
         return ""
     try:
         img = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
