@@ -60,6 +60,12 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   Obě API vyžadují doménu webu v CORS allowlistu vibecoding.cz. Google AdSense je vypnutý.
 - **Značky:** `_data/znacky.yml` (název, slug, prefixy modelu); pole `znacka` ve front matter
   recenzí i novinek; stránka `/znacky/`. Automat značku doplňuje sám (`lib.brand_of`).
+- **Stránka rubriky (`_layouts/category.liquid`, styly `kat-*`, skript `assets/js/katalog.js`):** katalog recenzí
+  (řádky s `model`) s filtry a řazením, obecné články rubriky, dole průvodce z `_categories/<rubrika>.md`.
+  Data počítá `_plugins/katalog.rb` do `page.katalog` (hranice pásem tam, shodné se `srovnani.rb` a přehledy),
+  kapitoly průvodce do `page.kapitoly`. Rubrika dostane katalog, jen když má v `_data/rubriky.yml` klíč `filtry`
+  (dále `rada`, `sloupce`, `razeni`; prázdné rubriky `prazdna` a `vyzva`). Bez JS se ukáže celá tabulka.
+  Pozor: `mediumish.js` nastavuje odsazení obsahu podle výšky prvního `<header>` na stránce, v obsahu ho nepoužívej.
 - **Rubriky:** kolekce `_categories/*.md` + `_data/rubriky.yml`. Srovnávací tabulky
   `batohy/prehled.md`, `boty/prehled.md`, `karimatky/prehled.md` (Liquid nad front matter).
 - **Vlastní pluginy (`_plugins/`):** `product_linker.rb` po renderu převede zmínky

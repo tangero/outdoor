@@ -1,21 +1,49 @@
 - name: "batohy"
   title: "Batohy"
   icon: "/assets/icon/backpack.svg"
+  # Katalog na stránce rubriky (_layouts/category.liquid, data počítá _plugins/katalog.rb).
+  # Hranice pásem filtrů jsou v pluginu, aby seděly se srovnávacími tabulkami.
+  rada:
+    - { rozsah: "20–35 l", nazev: "Jednodenní túra" }
+    - { rozsah: "35–50 l", nazev: "Víkend" }
+    - { rozsah: "50–80 l", nazev: "Týden a déle" }
+  filtry: [objem, hmotnost, strih, znacka]
+  sloupce: [objem, vaha, strih]
+  razeni: [datum, vaha, objem, hodnoceni]
 
 - name: "stany"
   title: "Stany"
   icon: "/assets/icon/tent.svg"
+  prazdna: "Recenze stanů zatím nemáme. Než přibudou, přečtěte si, podle čeho stan vybírat."
+  vyzva: "Který stan máme recenzovat?"
 
 - name: "boty"
   title: "Boty"
-  icon: "/assets/icon/boots.svg"  
+  icon: "/assets/icon/boots.svg"
+  rada:
+    - { rozsah: "nízké", nazev: "Výlet v hezkém počasí, lehký batoh" }
+    - { rozsah: "středně vysoké", nazev: "Většina túr, opora kotníku" }
+    - { rozsah: "vysoké", nazev: "Treky, skály a expedice" }
+  # Pohlaví a určení jsou ve front matter volný text, filtr podle nich zatím nejde.
+  filtry: [tvar, znacka]
+  sloupce: [tvar, urceni]
+  razeni: [datum, hodnoceni]
 
-- name: "karimatky" 
+- name: "karimatky"
   title: "Karimatky"
   icon: "/assets/icon/matt2.svg"
+  rada:
+    - { rozsah: "R-faktor do 3", nazev: "Letní spaní" }
+    - { rozsah: "R-faktor 3–5", nazev: "Jaro až podzim" }
+    - { rozsah: "R-faktor nad 5", nazev: "Zima a hory" }
+  filtry: [typ, izolace, hmotnost, znacka]
+  sloupce: [typ, r, vaha]
+  razeni: [datum, vaha, r, hodnoceni]
 
-- name: "powerbanky" 
+- name: "powerbanky"
   title: "Power banky"
-  icon: "/assets/icon/powerbank.svg"  
+  icon: "/assets/icon/powerbank.svg"
+  prazdna: "Recenze power bank zatím nemáme. Než přibudou, přečtěte si, podle čeho power banku vybírat."
+  vyzva: "Kterou power banku máme recenzovat?"
 
 ## Obrázky beru z   https://www.svgrepo.com/
