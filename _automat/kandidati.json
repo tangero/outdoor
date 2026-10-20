@@ -70,13 +70,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.089108+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Deuter Aircontact Ultra",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní turistický batoh, řada AirContact není mezi recenzovanými v této variantě.",
       "trideno_at": "2026-10-19T05:01:01.125851+00:00",
-      "pokus_at": "2026-10-19T17:18:44.122017+00:00"
+      "pokus_at": "2026-10-20T10:36:38.101969+00:00"
     },
     {
       "id": "a40593d7ebab5670",
@@ -228,12 +228,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.970027+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "La Sportiva Cyklon",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Trailová běžecká bota La Sportiva Cyklon, nový model v rubrice boty.",
-      "trideno_at": "2026-10-19T05:01:10.439580+00:00"
+      "trideno_at": "2026-10-19T05:01:10.439580+00:00",
+      "pokus_at": "2026-10-20T10:36:46.029712+00:00"
     },
     {
       "id": "0322c4dfb2bb2531",
@@ -628,13 +629,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:46.973195+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Klymit New Motion 60",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Stránka konkrétního trekkingového batohu, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512043+00:00",
-      "pokus_at": "2026-10-19T17:36:41.283779+00:00"
+      "pokus_at": "2026-10-20T10:38:46.659707+00:00"
     },
     {
       "id": "2b145296588c67bc",
@@ -762,13 +763,20 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.223789+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Lowe Alpine Edge 22",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Denní turistický batoh, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512120+00:00",
-      "pokus_at": "2026-10-19T17:28:24.042904+00:00"
+      "pokus_at": "2026-10-20T10:39:26.581432+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "Kdo by měl zvážit jinou variantu? Těžší náklad a delší túry: zvolte větší batoh s nosnějším zádovým systémem, například Osprey Hikelite 26 nebo Deuter Speed Lite 24 s výraznějším větráním.",
+          "problem": "Podklady neobsahují žádnou informaci o nosnosti ani o nosnějším zádovém systému u Osprey Hikelite 26 nebo Deuter Speed Lite 24. Tvrzení o jejich vhodnosti pro těžší náklad nemá oporu v tabulce recenzovaných produktů ani v jiném podkladu.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "0a0dd914dc8b5e7e",
@@ -1317,13 +1325,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.766539+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Osprey Talon Velocity 20",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Běžecký batoh na trail, nerecenzovaný model.",
       "trideno_at": "2026-10-19T05:01:38.126010+00:00",
-      "pokus_at": "2026-10-19T17:28:44.074153+00:00"
+      "pokus_at": "2026-10-20T10:37:27.526164+00:00"
     },
     {
       "id": "cbec56f85aeada64",
@@ -2731,12 +2739,13 @@
       "published_at": "",
       "detected_at": "2026-04-28T11:05:22.608076+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Hoka Tecton X",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Trailová běžecká bota Hoka, konkrétní produkt, zatím nerecenzováno.",
-      "trideno_at": "2026-10-19T16:02:27.581500+00:00"
+      "trideno_at": "2026-10-19T16:02:27.581500+00:00",
+      "pokus_at": "2026-10-20T10:38:21.915952+00:00"
     },
     {
       "id": "972d630eaf0e98e2",
@@ -3073,12 +3082,13 @@
       "published_at": "",
       "detected_at": "2026-04-29T10:55:29.688045+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Tecnica Forge 2.0 GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Nová verze trekové boty Forge GTX, dosud nerecenzovaná generace.",
-      "trideno_at": "2026-10-19T16:02:43.621404+00:00"
+      "trideno_at": "2026-10-19T16:02:43.621404+00:00",
+      "pokus_at": "2026-10-20T10:39:06.225020+00:00"
     },
     {
       "id": "3b5307bd3baaeb1c",
@@ -15000,12 +15010,14 @@
         ],
         "variants": 17
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Garmont Hexagon GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Trekingová bota pro vícedenní túry, nový model FW26.",
-      "trideno_at": "2026-10-19T05:00:34.996874+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996874+00:00",
+      "pokus_at": "2026-10-20T10:33:36.144201+00:00",
+      "soubor": "_posts/boty/2026-10-20-garmont-hexagon-gtx.md"
     },
     {
       "id": "f357d0c05137a62c",
