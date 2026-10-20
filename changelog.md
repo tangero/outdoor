@@ -6,6 +6,7 @@
 - Rozcestník srovnávacích tabulek `/srovnani/`.
 - Promo z vibecoding.cz: obrázkové bannery z admin/promo, blok nahoře v boční liště (lepí se při posunu), na mobilu za úvodním odstavcem článku.
 - Starý článek o Lowe Alpine AirZone Trek 45:55 a samostatné články o Osprey Talon 22 a Gregory Paragon 58 přesměrované na novější recenze.
+- Měření návštěvnosti Google Analytics 4 (`G-JQBZM81GGK`, `google_analytics` v `_config.yml`); značka se načítá jen na produkční doméně. Starý kód Universal Analytics odstraněn.
 
 ## 2026-10-19 (Vybavení do přírody)
 - Nová podoba článku: rozhodovací karta recenze, navigace po oddílech, žebříček kategorie, alternativy, seznam zdrojů (plugin `_plugins/srovnani.rb`, styly `cl-*`).
