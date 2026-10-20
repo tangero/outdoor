@@ -466,7 +466,9 @@ tr:hover {
     font-family: -apple-system, system-ui, sans-serif; font-size: .95rem; font-weight: 500; color: var(--hp-tlumeny); white-space: nowrap;
 }
 .hl__o-webu:hover, .hl__o-webu.active { color: var(--hp-akcent); text-decoration: none; }
-.hl-hledani { position: relative; display: flex; align-items: center; flex: 0 1 210px; min-width: 120px; }
+.hl-hledani { position: relative; display: flex; align-items: center; flex: 0 1 210px; min-width: 120px; margin: 0; }
+/* kontejner výsledků je prázdný, modální okno má position: fixed */
+.hl__vpravo > #lunrsearchresults { width: 0; height: 0; }
 .hl-hledani__ikona { position: absolute; left: .8rem; color: var(--hp-tlumeny); pointer-events: none; }
 .mediumnavigation .hl-hledani .form-control {
     width: 100%; min-width: 0; height: 40px; padding-left: 2.3rem;
