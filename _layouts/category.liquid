@@ -1,40 +1,149 @@
 ---
 layout: default
 ---
+{% comment %}
+Stránka rubriky: katalog recenzí s filtry, obecné články a pod nimi průvodce výběrem (obsah z _categories).
+Data katalogu počítá _plugins/katalog.rb (page.katalog, page.kapitoly), nastavení je v _data/rubriky.yml.
+Bez JavaScriptu se ukáže celá tabulka; filtry, řazení a „Načíst další“ obstarává assets/js/katalog.js.
+{% endcomment %}
+{%- assign rub = site.data.rubriky | where: "name", page.name | first -%}
+{%- assign k = page.katalog -%}
+{%- assign prehled_url = "/" | append: page.name | append: "/prehled/" -%}
+{%- assign prehled = site.pages | where: "url", prehled_url | first -%}
 
-{% include rubriky-pruh.html %}
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <h1>{{ page.title }}</h1>
-            {{ content }}
+<div class="kat" data-kat>
+    <div class="kat-hlava">{% comment %} ne <header>: mediumish.js podle prvního header posouvá obsah {% endcomment %}
+        <p class="kat-drobky"><a href="{{ site.baseurl }}/">Titulka</a> <span aria-hidden="true">/</span> {{ page.title }}</p>
+        <div class="kat-hlava__radek">
+            <h1>{{ page.title }}{% if k.pocet > 0 %} <span class="kat-hlava__pocet">{{ k.pocet_text }}</span>{% endif %}</h1>
+            {% if prehled and k.pocet > 0 %}
+            <a class="kat-tlacitko kat-tlacitko--obrys" href="{{ site.baseurl }}{{ prehled_url }}">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16M10 6v12"></path></svg>
+                Srovnávací tabulka
+            </a>
+            {% endif %}
         </div>
     </div>
-    
-<hr>
 
-    <div class="row">
-        {% assign category_name = page.name %}
+    {% if rub.rada and k.pocet > 0 %}
+    <section class="kat-rada" aria-label="Rychlá rada k výběru">
+        <ul>
+            {% for r in rub.rada %}
+            <li><span class="kat-rada__rozsah">{{ r.rozsah }}</span> <span class="kat-rada__nazev">{{ r.nazev }}</span></li>
+            {% endfor %}
+        </ul>
+        <a class="kat-rada__odkaz" href="#pruvodce">Průvodce výběrem <span aria-hidden="true">→</span></a>
+    </section>
+    {% endif %}
 
-
-        {% for post in site.posts %}
-            {% if post.categories contains category_name %}
-
-
-            <div class="col-md-4 mb-4">
-                <div class="card h-100">
-                    {% if post.thumbnail %}
-                    <a href="{{ post.url }}"><img src="{% include cld.html u=post.thumbnail t="w_auto,h_250,c_fill,g_auto,f_auto,q_auto" %}" alt="{{ post.title }}" style="max-height: 250px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;"></a>
-                    {% endif %}
-                    <div class="card-body">
-                        <a href="{{ post.url }}"><h5 class="card-title">{{ post.title }}</h5></a>
-                        <p class="card-text">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-                        <a href="{{ post.url }}" class="btn btn-primary">Číst více</a>
-                    </div>
+    {% if k.pocet > 0 %}
+    <div class="kat-telo">
+        <aside class="kat-panel" id="kat-filtry" aria-labelledby="kat-filtry-nadpis">
+            <form class="kat-filtry" data-kat-filtry>
+                <div class="kat-filtry__hlava">
+                    <h2 id="kat-filtry-nadpis">Filtry</h2>
+                    <button type="button" class="kat-filtry__zavrit" data-kat-zavrit aria-label="Zavřít filtry">×</button>
                 </div>
+                {% for f in k.filtry %}
+                <fieldset class="kat-filtr">
+                    <legend>{{ f.nazev }}</legend>
+                    {% for m in f.moznosti %}
+                    <label class="kat-volba">
+                        <input type="checkbox" name="{{ f.klic }}" value="{{ m.id }}" data-nazev="{{ m.nazev }}">
+                        <span class="kat-volba__text">{{ m.nazev }}</span>
+                        <span class="kat-volba__pocet">{{ m.pocet }}</span>
+                    </label>
+                    {% endfor %}
+                </fieldset>
+                {% endfor %}
+                <div class="kat-filtry__pata">
+                    <button type="button" class="kat-tlacitko kat-tlacitko--obrys" data-kat-zrusit>Zrušit filtry</button>
+                    <button type="button" class="kat-tlacitko kat-tlacitko--plne" data-kat-zavrit data-kat-zobrazit>Zobrazit výsledky</button>
+                </div>
+            </form>
+        </aside>
+
+        <section class="kat-vysledky" aria-label="Recenzované modely">
+            <div class="kat-lista">
+                <button type="button" class="kat-tlacitko kat-tlacitko--obrys kat-lista__filtry" data-kat-otevrit aria-controls="kat-filtry" aria-expanded="false">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"></path></svg>
+                    Filtry <span class="kat-lista__pocet" data-kat-pocet-filtru></span>
+                </button>
+                <p class="kat-lista__vysledek" aria-live="polite" data-kat-vysledek>{{ k.pocet_text }}</p>
+                {% if k.razeni.size > 1 %}
+                <label class="kat-razeni">
+                    <span>Řadit</span>
+                    <select data-kat-razeni>
+                        {% for r in k.razeni %}<option value="{{ r.klic }}">{{ r.nazev }}</option>{% endfor %}
+                    </select>
+                </label>
+                {% endif %}
             </div>
-            {% endif %}
-        {% endfor %}
+            <div class="kat-stitky" data-kat-stitky></div>
+
+            <table class="kat-tabulka">
+                <thead>
+                    <tr>
+                        <th scope="col">Model</th>
+                        {% for s in k.sloupce %}<th scope="col">{{ s.nazev }}</th>{% endfor %}
+                        <th scope="col" class="kat-tabulka__znamka">Známka</th>
+                    </tr>
+                </thead>
+                <tbody data-kat-radky>
+                    {% for r in k.radky %}
+                    <tr class="kat-radek"{% for p in r.pasma %} data-f-{{ p[0] }}="{{ p[1] }}"{% endfor %}{% for t in r.trideni %} data-t-{{ t[0] }}="{{ t[1] }}"{% endfor %}>
+                        <th scope="row" class="kat-radek__model">
+                            <a href="{{ site.baseurl }}{{ r.url }}">
+                                <span class="kat-radek__foto">{% if r.thumbnail != "" %}<img src="{% include cld.html u=r.thumbnail t="w_144,h_144,c_pad,b_white,f_auto,q_auto" %}" alt="" loading="lazy" width="72" height="72">{% endif %}</span>
+                                <span class="kat-radek__texty">
+                                    <span class="kat-radek__nazev">{{ r.nazev }}</span>
+                                    {% if r.podtitulek %}<span class="kat-radek__podtitulek">{{ r.podtitulek }}</span>{% endif %}
+                                    <span class="kat-radek__parametry">{% for s in k.sloupce %}{% assign h = r.hodnoty[s.klic] %}{% if h %}<span>{{ h }}</span>{% endif %}{% endfor %}</span>
+                                </span>
+                            </a>
+                        </th>
+                        {% for s in k.sloupce %}<td class="kat-radek__hodnota">{{ r.hodnoty[s.klic] | default: "–" }}</td>{% endfor %}
+                        <td class="kat-tabulka__znamka">{% if r.hodnoceni %}<span class="kat-znamka" title="Hodnocení {{ r.hodnoceni }} z 10">{{ r.hodnoceni }}</span>{% endif %}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <p class="kat-prazdno" data-kat-prazdno hidden>Žádný model neodpovídá filtrům. <button type="button" class="kat-odkaz" data-kat-zrusit>Zrušit filtry</button></p>
+            <button type="button" class="kat-tlacitko kat-tlacitko--obrys kat-dalsi" data-kat-dalsi hidden>Načíst další</button>
+        </section>
     </div>
-</div> 
+    {% elsif rub.prazdna %}
+    <section class="kat-prazdna">
+        <p>{{ rub.prazdna }}</p>
+        <div class="kat-prazdna__akce">
+            <a class="kat-tlacitko kat-tlacitko--tmave" href="#pruvodce">Průvodce výběrem</a>
+            <a class="kat-tlacitko kat-tlacitko--obrys" href="mailto:patrick@vibecoding.cz?subject={{ rub.vyzva | uri_escape }}">{{ rub.vyzva }}</a>
+        </div>
+    </section>
+    {% endif %}
+
+    {% if k.clanky.size > 0 %}
+    <section class="kat-clanky" aria-labelledby="kat-clanky-nadpis">
+        <h2 id="kat-clanky-nadpis">{% if k.pocet > 0 %}Další články z rubriky{% else %}Články{% endif %}</h2>
+        <div class="kat-clanky__mrizka">
+            {% for p in k.clanky %}{% include hp-karta.html p=p velikost="mala" %}{% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    {% if content != "" %}
+    <section class="kat-pruvodce" id="pruvodce" aria-labelledby="pruvodce-nadpis">
+        <h2 id="pruvodce-nadpis">{% if k.pocet > 0 or rub.prazdna %}Průvodce výběrem{% else %}O rubrice{% endif %}</h2>
+        {% if page.kapitoly.size > 1 %}
+        <ul class="kat-kapitoly">
+            {% for c in page.kapitoly %}<li><a href="#{{ c.id }}">{{ c.nazev }}</a></li>{% endfor %}
+        </ul>
+        {% endif %}
+        <div class="kat-pruvodce__text article-post">
+            {{ content }}
+        </div>
+    </section>
+    {% endif %}
+</div>
+
+{% if k.pocet > 0 %}<script src="{{ site.baseurl }}/assets/js/katalog.js" defer></script>{% endif %}
