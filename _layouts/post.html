@@ -125,6 +125,8 @@ kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovn
         </article>
 
         <aside class="cl-bok">
+            {%- comment -%} Promo z vibecoding.cz; na mobilu ho promo.js přesune do textu článku {%- endcomment %}
+            <section id="vdp-promo" class="cl-promo" aria-label="Naše akce" hidden></section>
             {% if s.zebricek.size > 1 %}
             <section class="cl-zebricek">
                 <p class="cl-zebricek__kategorie">{{ s.segment }} podle {{ s.metrika }}</p>
@@ -141,7 +143,6 @@ kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovn
             </section>
             {% endif %}
 
-            <section id="vdp-promo" class="cl-promo" aria-label="Naše akce" hidden></section>
         </aside>
     </div>
 

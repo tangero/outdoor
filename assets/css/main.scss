@@ -393,6 +393,13 @@ tr:hover {
     background: #fff; color: var(--hp-text) !important; font-weight: 700; font-size: .875rem; transition: transform .2s ease;
 }
 .cl-promo__tlacitko:hover { text-decoration: none; transform: translateY(-1px); }
+.cl-promo--obrazek { padding: 0; background: none; color: var(--hp-tlumeny); }
+.cl-promo--obrazek .cl-promo__stitek { margin-bottom: .4rem; }
+.cl-promo__banner { display: block; line-height: 0; border-radius: 12px; overflow: hidden; border: 1px solid var(--hp-linka); transition: opacity .2s; }
+.cl-promo__banner:hover { opacity: .92; }
+.cl-promo__banner img { display: block; width: 100%; height: auto; }
+.cl-text .cl-promo--v-textu { margin: 1.75rem 0; font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.cl-text .cl-promo--v-textu a { text-decoration: none; }
 
 /* Alternativy */
 .cl-alternativy { margin-top: 4rem; }

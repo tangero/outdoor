@@ -4,6 +4,7 @@
 - Nová hlavička: rubriky, Srovnání, Novinky a Značky v jedné liště, české hledání, odkaz na přeskočení na obsah. Pruh ikon rubrik zůstal jen na titulce, v rubrikách a na stránkách značek a srovnání.
 - Nová patička: o webu, autoři (Martin Plachta, Patrick Zandl), kontakt, rubriky s počty recenzí a naše další weby. Pás „Prozkoumejte“ s fotkou zrušen.
 - Rozcestník srovnávacích tabulek `/srovnani/`.
+- Promo z vibecoding.cz: obrázkové bannery z admin/promo, blok nahoře v boční liště (lepí se při posunu), na mobilu za úvodním odstavcem článku.
 - Starý článek o Lowe Alpine AirZone Trek 45:55 a samostatné články o Osprey Talon 22 a Gregory Paragon 58 přesměrované na novější recenze.
 
 ## 2026-10-19 (Vybavení do přírody)
