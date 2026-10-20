@@ -17098,7 +17098,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Turistická střední bota, dámská verze stejného modelu, zatím nerecenzováno.",
-      "trideno_at": "2026-10-19T05:01:01.125517+00:00"
+      "trideno_at": "2026-10-19T05:01:01.125517+00:00",
+      "novinka": "_novinky/2026-10-20-scarpa-ribelle-cross-2-mid.md",
+      "novinka_at": "2026-10-20T14:09:01.359173+00:00"
     },
     {
       "id": "b271ef3fc4c15e4a",
@@ -17127,7 +17129,11 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Turistická bota pro začátečníky, nerecenzováno.",
-      "trideno_at": "2026-10-19T05:01:01.125540+00:00"
+      "trideno_at": "2026-10-19T05:01:01.125540+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
     },
     {
       "id": "b7e3152f57c24d30",
@@ -17735,6 +17741,1148 @@
       "priorita": 1,
       "duvod": "Skialpová bota pro lyže, mimo rubriky.",
       "trideno_at": "2026-10-19T16:02:13.459443+00:00"
+    },
+    {
+      "id": "ddc771e7fc319ff5",
+      "url": "https://seatosummit.com/products/lightweight-dry-bag-with-sling-strap",
+      "title": "20L Big River Dry Bag with Sling Strap",
+      "brand": "Sea to Summit",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Lash to kayaks, bikes and 4WDs with confidence, or add a Dry Bag Sling for comfortable hands-free carrying. Big River Dry Bags are a durable and abrasion resistant storage option that uses a strong 420D nylon fabric. If your idea of outdoor recreation involves challenging water sports like kayaking, canoeing or rafting; or rugged land activities like bikepacking or motorcycle touring, they are the perfect storage bags to keep your gear dry. A white interior laminate affords greater visibility, and lash loops allow secure stacking or attachment to watercraft, motorcycles and other equipment. The hypalon non-wicking roll-top closure keeps water out, and the Field Repair Buckles can be replaced in seconds with just a Philips screwdriver. Big River Dry Bags were also designed with an oval base to save space when packing and prevent them from rolling away.\n The detachable Dry Bag Sling converts compatible dry bags to a hands-free tote. The comfortable, 3D mesh shoulder pad provides even weight distribution and is perfect for carrying light loads of up to 9kg to the beach, boat or in downpours. Compatible with with sizes 5 liter - 35 liter.\n Features\n Triple-coated base increases abrasion resistance\n Abrasion-resistant 420D nylon laminated with a TPU film for strength and waterproofness\n Multiple lash points provide versatility for mounting to kayaks, bikes, motorbikes and 4WDs\n Waterproof, double stitched, reinforced, tape sealed seams\n Waterproof non-wicking roll top closure does",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/2467/2501/files/BR_0005_00_BigRiverDryBag20LDullGoldStrapBackView_white_b594bd22-644c-4aef-b59a-4bb5757f02b7.jpg?v=1759350252",
+      "published_at": "2026-10-19T10:26:01-06:00",
+      "detected_at": "2026-10-20T14:07:33.712204+00:00",
+      "data": {
+        "vendor": "Sea to Summit North America",
+        "product_type": "Bundle",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          64.9,
+          64.9
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "Sea to Summit Big River Dry Bag 20L",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Vodotěsný vak (dry bag), není batoh do terénu.",
+      "trideno_at": "2026-10-20T14:08:14.093615+00:00"
+    },
+    {
+      "id": "001f2cad2bc58436",
+      "url": "https://bigagnes.com/products/womens-trudy-down-jacket",
+      "title": "W's Trudy Jacket",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "We worked hard to create a functional down jacket that provides loft and warmth through the core while eliminating excess bulk where you don’t need it. Our Trudy Jacket's PFAS-free insulation is a hybrid of water-repellent 650 Fill Power Downtek™ PFC-Free down with 100% post-consumer recycled FireLine™ Eco insulation. When durability and moisture management is important, you’ll have the mobility to get after it with reliable warmth for the best winter days and worst cold weather nights.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/Trudy_Blk-Asphalt_3.png?v=1792098057",
+      "published_at": "2026-10-15T15:00:43-06:00",
+      "detected_at": "2026-10-20T14:07:41.910217+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "APPAREL",
+        "tags": [],
+        "grams": [
+          590,
+          635,
+          680,
+          726,
+          789
+        ],
+        "price_range": [
+          299.95,
+          299.95
+        ],
+        "variants": 10
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (péřová bunda).",
+      "trideno_at": "2026-10-20T14:08:14.093682+00:00"
+    },
+    {
+      "id": "af4a2bf623b92bf6",
+      "url": "https://bigagnes.com/products/zoom-ul-insulated-sleeping-pad",
+      "title": "Zoom UL Insulated",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Attention shoulders and backs: Big Agnes' lightest insulated air pad just got better.\r\nWith an updated lower pack weight, new UL dual port valve, and generous 6 R-Value, the Zoom UL Insulated is your go-to for ultralight backcountry adventures. Tooled for four-season use, we built this pad with sustainably sourced materials, including aviation-grade lamination for ultimate reliability. The Zoom UL provides the rest you need in the backcountry at an incredibly low weight.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/ZoomULInsulated20x72Regular4.png?v=1792181695",
+      "published_at": "2026-10-15T13:28:14-06:00",
+      "detected_at": "2026-10-20T14:07:41.910342+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "PADS",
+        "tags": [],
+        "grams": [
+          399
+        ],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 3
+      },
+      "status": "vhodny",
+      "model": "Big Agnes Zoom UL Insulated",
+      "rubrika": "karimatky",
+      "priorita": 4,
+      "duvod": "Nová ultralehká izolovaná nafukovací karimatka, nerecenzovaná.",
+      "trideno_at": "2026-10-20T14:08:14.093702+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
+    },
+    {
+      "id": "bec655d50092171d",
+      "url": "https://bigagnes.com/products/captain-comfort",
+      "title": "Captain Comfort",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "\"The Captain Comfort lives on and lives up to its name with a revamped design including a built-in pump, updated valve, lighter construction, and better packability.\r\nOur classic 3D foam-core pad is covered in a stretch fabric for a soft-touch feel that you will want to lounge on all day. And with a cold weather-rated R-Value, you'll sleep through even the chilly nights with ease. Constructed with a cushioned, pillowy sleeping surface and vertical sidewall, the Captain Comfort will have you dreaming of the next day's adventure, and waking up so well rested you'll forget you're not at home in your bed!\"",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/CaptC.png?v=1782485776",
+      "published_at": "2026-10-14T09:48:55-06:00",
+      "detected_at": "2026-10-20T14:07:41.910432+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "PADS",
+        "tags": [],
+        "grams": [
+          3221,
+          5398
+        ],
+        "price_range": [
+          249.95,
+          349.95
+        ],
+        "variants": 2
+      },
+      "status": "vhodny",
+      "model": "Big Agnes Captain Comfort",
+      "rubrika": "karimatky",
+      "priorita": 3,
+      "duvod": "Nová samonafukovací karimatka s vestavěnou pumpou, nerecenzovaná.",
+      "trideno_at": "2026-10-20T14:08:14.093735+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
+    },
+    {
+      "id": "43ac2db96d2ca802",
+      "url": "https://bigagnes.com/products/anthracite-quilt-45",
+      "title": "Anthracite Quilt 45°",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "With a temperature rating that will keep you happy all summer long and built from the same feature set as our premium Fly Creek model, the Anthracite Quilt brings the best in hybrid versatility. And with Fireline™ Pro Eco recycled synthetic insulation and durable moisture repellent coating, you'll have all you need for warmer-weather camping. Hang out by the fire in quilt mode - then when it gets late, simply retire to your tent, turn the Flipit™ Footbox inside out, and zip up for a cozy night's sleep.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/AnthraciteQuilt_Open_NoPad.png?v=1792179491",
+      "published_at": "2026-10-14T07:16:48-06:00",
+      "detected_at": "2026-10-20T14:07:41.910525+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "BAGS",
+        "tags": [],
+        "grams": [
+          771,
+          1021
+        ],
+        "price_range": [
+          109.95,
+          119.95
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Spacák / deka, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093755+00:00"
+    },
+    {
+      "id": "d32d0a4eda56c4bc",
+      "url": "https://bigagnes.com/products/greystone-quilt-40",
+      "title": "Greystone Quilt 40°",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "We've brought a little of Grandma's comfort to the backcountry with our versatile Greystone Quilt. \n A sleeping bag when you need one and a quilt when you don't, and based on our eminent sleeping bag line, the Greystone Quilt is light, packable, and fully-featured with premium 650-fill Downtek™, Big Agnes' Signature Quilting construction, and water-resistant coating. Use as a quilt next to the fire then move into sleeping bag-mode when it's time to turn in by turning the Flipit™ Footbox and zipping up. For a versatile option for those warm weather months, reach for the Greystone Quilt",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/GreystoneQuilt_Open_NoPad.png?v=1792179578",
+      "published_at": "2026-10-14T07:16:24-06:00",
+      "detected_at": "2026-10-20T14:07:41.910615+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "BAGS",
+        "tags": [],
+        "grams": [
+          590
+        ],
+        "price_range": [
+          219.95,
+          229.95
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Spacák / deka, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093767+00:00"
+    },
+    {
+      "id": "602d2bb6804de9c5",
+      "url": "https://bigagnes.com/products/captain-comfort-pillow",
+      "title": "Captain Comfort Pillow",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Are you one of those folks who brings their favorite pillow from home to the campsite? \r\n Fear the camping version no longer with our new Captain Comfort Pillow. Built with a plush 3D foam core and comfy stretch fabric, this pillow brings all the comfort of home to wherever you setup camp. A removable, washable cover and stuff sack add convenience and rich features for those who prioritize a cozy place for their noggin. \r\n Leave no comfort at home with the new Captain Comfort Pillow.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/CaptComfort_Pillow.png?v=1792180986",
+      "published_at": "2026-10-14T07:15:17-06:00",
+      "detected_at": "2026-10-20T14:07:41.910702+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "",
+        "tags": [],
+        "grams": [
+          454
+        ],
+        "price_range": [
+          89.95,
+          89.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Polštář, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093779+00:00"
+    },
+    {
+      "id": "7c025aa0743a9a57",
+      "url": "https://bigagnes.com/products/greystone-doublewide-20",
+      "title": "Greystone Doublewide 20",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Your very own doublewide backcountry bed! \n Our two-person Greystone is part of our Doublewide Series, eliminating the need to zip two bags together so there’s nothing keeping you apart from your cuddle bug at camp. Light-weight and fully insulated with 650 Downtek™ PFC-Free water-repellent down creates a sleeping bag for two at less weight and bulk than packing two separate bags. Our tried and true Pad Cinch System makes connecting two pads or securing a doublewide pad easier and faster than ever. Now with a full zip off option, you can use the top quilted layer like a comforter or zip together to create a single bag when camping solo. \n Whether you need room for two, or just prefer sleeping in lightweight, packable doublewide luxury, the Greystone Doublewide 20° is the most versatile sleep system out there.",
+      "thumbnail": "",
+      "published_at": "2026-10-14T07:14:43-06:00",
+      "detected_at": "2026-10-20T14:07:41.910793+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "BAGS",
+        "tags": [],
+        "grams": [
+          1814
+        ],
+        "price_range": [
+          599.95,
+          599.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Spacák, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093798+00:00"
+    },
+    {
+      "id": "98dbd1998f0ffa14",
+      "url": "https://bigagnes.com/products/dream-island-twenty-degree",
+      "title": "Dream Island 20",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Spread out in the this deluxe doublewide camp bed! \n Our Dream Island is part of our Doublewide Series, eliminating the need to zip two bags together so there’s nothing keeping you apart from your cuddle bug at camp. Full insulation with luxurious Fireline™ Max Eco synthetic down and extra an large design make for ultimate camp comfort with your tent-mate. Our tried and true Pad Cinch System makes connecting two pads or securing a doublewide pad easier and faster than ever. Now with a full zip off option, you can use the top quilted layer like a comforter or zip together to create a single bag when camping solo. \n With plenty of room for two, you can't beat the Dream Island 20° for ultimate doublewide backcountry comfort.",
+      "thumbnail": "",
+      "published_at": "2026-10-14T07:13:50-06:00",
+      "detected_at": "2026-10-20T14:07:41.910880+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "BAGS",
+        "tags": [],
+        "grams": [
+          3175
+        ],
+        "price_range": [
+          329.95,
+          329.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Spacák, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093809+00:00"
+    },
+    {
+      "id": "acd19a8abf48721a",
+      "url": "https://bigagnes.com/products/split-mountain",
+      "title": "Split Mountain",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "Big Agnes is excited to introduce our approachable family camping Split Mountain Series. With Big Agnes-quality at a great price point, the Split Mountain is for everyone from the technical backpacker getting their family into camping to the avid base camp mountain biker with dogs in tow, and everyone in between. Built with quality and ease of use front of mind, and complete with our \"\"Y\"\" shaped pole system giving the tent a unique and comfortable architecture, the Split Mountain is comfortable, standable, and easy to set-up even for one adult. Get out there this summer with the whole crew with the Split Mountain.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/SplitMtn_2.png?v=1782486063",
+      "published_at": "2026-10-14T07:10:55-06:00",
+      "detected_at": "2026-10-20T14:07:41.910952+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [],
+        "grams": [
+          3901,
+          5352
+        ],
+        "price_range": [
+          449.95,
+          549.95
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stan, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093819+00:00"
+    },
+    {
+      "id": "d3f87c1636351cdf",
+      "url": "https://bigagnes.com/products/pitchpine-vst-1-5-dyneema",
+      "title": "Pitchpine VST 1.5 with Dyneema®",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "We've taken innovation to the max with our cutting-edge Pitchpine VST 1.5 with Dyneema®, the world’s strongest fiber™. Constructed with Dyneema®, an ultra-high-molecular-weight polyethylene that is 15 times stronger than steel yet light enough to float on water, it's the most innovative fabric on the market today. And we've married that with our ground-breaking VST line, incorporating Dyneema's® Composite Fabric in the Pitchpine 1.5's rainfly, granting an astounding 20,000mm waterproof coating without intentionally added PFAS. Moreover, this tent is engineered to provide maximum usable space for you and your gear. Extra 0.5 sizing creates dedicated protected space for your pack, or a four legged friend. And we've left nothing on the table with a Hybrid Single/Double Wall construction, DAC Featherlite pole technology, and an integrated ventilation system promoting airflow while reducing condensation. Take it to the limit with the Pitchpine VST 1.5 with Dyneema®",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/PitchP_Dyneema.png?v=1782485814",
+      "published_at": "2026-10-14T07:10:24-06:00",
+      "detected_at": "2026-10-20T14:07:41.911036+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [],
+        "grams": [
+          635
+        ],
+        "price_range": [
+          749.95,
+          749.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stan, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093828+00:00"
+    },
+    {
+      "id": "7ea1eaab678f1fec",
+      "url": "https://bigagnes.com/products/string-ridge-vst-2-5-dyneema",
+      "title": "String Ridge VST 2.5 with Dyneema®",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "Looking for a cutting-edge ultralight tent? Look no further than the String Ridge VST with Dyneema®. Combining innovative materials with user-first design to create the ideal ultralight shelter, the String Ridge VST with Dyneema® is engineered to provide maximum usable space for you and your gear. And these tents are even lighter and stronger than before. Constructed with Dyneema® fabric that is 15 times stronger than steel yet light enough to float on water, it's the most innovative fabric on the market today. And we use that in the rainfly to achieve a remarkable 20,000mm water column rating without intentionally added PFAS. Hybrid Single/Double Wall construction and an integrated ventilation system promotes airflow while reducing condensation. The String Ridge VST gives you the best of both worlds: weight stats you can only get with a Dyneema® trekking pole shelter, combined with a stable, reliable design, all with extra 0.5 sizing creating dedicated protected space for your gear, or a four legged friend. Go farther and stronger with the String Ridge VST with Dyneema®.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/String2.5_Dyneema.png?v=1782485958",
+      "published_at": "2026-10-14T07:05:26-06:00",
+      "detected_at": "2026-10-20T14:07:41.911120+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [],
+        "grams": [
+          771
+        ],
+        "price_range": [
+          774.95,
+          774.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stan, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093837+00:00"
+    },
+    {
+      "id": "e1620b4f308c35c4",
+      "url": "https://bigagnes.com/products/string-ridge-vst-1-5-dyneema",
+      "title": "String Ridge VST 1.5 with Dyneema®",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "Looking for a cutting-edge ultralight tent? Look no further than the String Ridge VST with Dyneema®. Combining innovative materials with user-first design to create the ideal ultralight shelter, the String Ridge VST with Dyneema® is engineered to provide maximum usable space for you and your gear. And these tents are even lighter and stronger than before. Constructed with Dyneema® fabric that is 15 times stronger than steel yet light enough to float on water, it's the most innovative fabric on the market today. And we use that in the rainfly to achieve a remarkable 20,000mm water column rating without intentionally added PFAS. Hybrid Single/Double Wall construction and an integrated ventilation system promotes airflow while reducing condensation. The String Ridge VST gives you the best of both worlds: weight stats you can only get with a Dyneema® trekking pole shelter, combined with a stable, reliable design, all with extra 0.5 sizing creating dedicated protected space for your gear, or a four legged friend. Go farther and stronger with the String Ridge VST with Dyneema®.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/String1.5_Dyneema.png?v=1782485861",
+      "published_at": "2026-10-14T07:04:44-06:00",
+      "detected_at": "2026-10-20T14:07:41.911201+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [],
+        "grams": [
+          454
+        ],
+        "price_range": [
+          674.95,
+          674.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stan, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093847+00:00"
+    },
+    {
+      "id": "8fec2756396ebfd5",
+      "url": "https://bigagnes.com/products/twentymile-ul-hiking-seat",
+      "title": "Twentymile UL Hiking Seat",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "When a small comfort can go a long way, don't leave home without the Twentymile Hiking Seat.\r\nMade from ultralight but durable PE foam, and just as at home on a bleacher bench as a hunting blind, the Twentymile Hiking seat takes almost no room, but might just be the most versatile piece of gear in your pack",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/20mi_Seat.png?v=1782475942",
+      "published_at": "2026-10-14T07:03:37-06:00",
+      "detected_at": "2026-10-20T14:07:41.911310+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "PADS",
+        "tags": [],
+        "grams": [
+          45
+        ],
+        "price_range": [
+          24.95,
+          24.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Sedátko, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093856+00:00"
+    },
+    {
+      "id": "6c6c40561cc5857f",
+      "url": "https://bigagnes.com/products/seven-lakes-cedar",
+      "title": "Seven Lakes",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "From the rainy Cascades to the Desert Southwest, our new Seven Lakes backpacking series has you covered.\r\nConstructed with a 75D polyester ripstop tent body, 20D ripstop rainfly, and a storm-worthy architecture, the Seven Lakes is built simply, but for whatever you find on your journeys. And the comfort-first floor plan fits a wide range of sleeping pads. From rain to shine, and from close to home to far afoot, the Seven Lakes will meet you wherever your feet take you.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/SevenLakes2GrayViolet3-FlyOpen_1.jpg?v=1790869532",
+      "published_at": "2026-10-14T07:02:53-06:00",
+      "detected_at": "2026-10-20T14:07:41.911386+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [],
+        "grams": [
+          2268,
+          2812
+        ],
+        "price_range": [
+          399.95,
+          449.95
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stan, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093864+00:00"
+    },
+    {
+      "id": "4b398f14db643584",
+      "url": "https://bigagnes.com/products/twentymile-ul-pad",
+      "title": "Twentymile UL",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "When bombproof and maintenance-free are the name of the game, reach for the Twentymile UL sleeping pad. Built from closed-cell PE foam, and coming in at a weight that the minimalist thru-hiker can sink their teeth into, the Twentymile UL may be no-frills, but it has everything you need for sleeping in the dirt. Durable and never prone to leaking, these pads are also a great option for outfitters, rental fleets, and anyone who needs their sleeping pad to simply work.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/20miUL.png?v=1782485010",
+      "published_at": "2026-10-14T07:02:52-06:00",
+      "detected_at": "2026-10-20T14:07:41.911468+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "PADS",
+        "tags": [],
+        "grams": [
+          227,
+          318,
+          386
+        ],
+        "price_range": [
+          59.95,
+          109.95
+        ],
+        "variants": 3
+      },
+      "status": "vhodny",
+      "model": "Big Agnes Twentymile UL",
+      "rubrika": "karimatky",
+      "priorita": 3,
+      "duvod": "Pěnová karimatka z uzavřených buněk, nerecenzovaná.",
+      "trideno_at": "2026-10-20T14:08:14.093873+00:00"
+    },
+    {
+      "id": "a70c9ac62715611a",
+      "url": "https://bigagnes.com/products/fly-creek-hv-ul2-bikepack-solution-dye-footprint",
+      "title": "Fly Creek HV UL2 Bikepack Solution Dye Footprint",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "To extend the life of your tent floor, we recommend using a Big Agnes footprint or ground cloth. The Big Agnes footprint also enables you to pitch a lightweight, Fast Fly shelter while leaving the tent body behind. The Fast Fly configuration requires the footprint, tent fly, poles, and stakes.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/products/Fly-Creek-HV-UL2-Bikepack-Solution-Dye-01.png?v=1779299468",
+      "published_at": "2026-10-09T09:02:49-06:00",
+      "detected_at": "2026-10-20T14:07:41.911588+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [
+          "related-fly-creek-hv-ul2-bikepack-solution-dye",
+          "related-fly-creek-hv-ul2-solution-dye",
+          "related-fly-creek-ul-two"
+        ],
+        "grams": [
+          181
+        ],
+        "price_range": [
+          63.75,
+          63.75
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Podložka pod stan, příslušenství.",
+      "trideno_at": "2026-10-20T14:08:14.093888+00:00"
+    },
+    {
+      "id": "4e1da41099a737d1",
+      "url": "https://bigagnes.com/products/mtnglo®-pump-and-lantern",
+      "title": "mtnGLO® Pump and Lantern",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Meet our mtnGLO® Pump and Light Mini's older sibling, the mtnGLO® Pump and Lantern With the same inflation and vacuum functionality but longer battery life and lighting options the mtnGLO® Pump and Lantern is your next must-have piece of gear. Pump up and deflate everything from your favorite river tube to your go-to Big Agnes pad, and shine a light on it all from the frontcountry to the wilds with the mtnGLO® Pump and Lantern.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/WebImages.png?v=1790782388",
+      "published_at": "2026-09-30T14:43:58-06:00",
+      "detected_at": "2026-10-20T14:07:41.911724+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "ACCESSORIES",
+        "tags": [
+          "related-campmeister-deluxe-insulated",
+          "related-captain-comfort-dc",
+          "related-mtnglo®-pump-and-light-mini"
+        ],
+        "grams": [
+          181
+        ],
+        "price_range": [
+          49.95,
+          49.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pumpa / lampa, příslušenství.",
+      "trideno_at": "2026-10-20T14:08:14.093896+00:00"
+    },
+    {
+      "id": "52305592fc5c60ef",
+      "url": "https://bigagnes.com/products/mtnglo®-pump-and-light-mini",
+      "title": "mtnGLO® Pump and Light Mini",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Lungs tapped from a long hike in? And losing sun? The mtnGLO® Pump and Light Mini has you covered. This little multi-tool functions as an air pump or a vacuum pump, and comes with five nozzles, letting you inflate everything from a pool floaty to your favorite Big Agnes sleeping pad, all in a minuscule 1.6oz package you won't even notice in your pack. And with three light settings with hours of run time, you can shine a light on everything from alpine bocce to your favorite book. It might just become your next must-have piece of gear.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/WebImages3.png?v=1790782388",
+      "published_at": "2026-09-30T14:43:57-06:00",
+      "detected_at": "2026-10-20T14:07:41.911864+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "ACCESSORIES",
+        "tags": [
+          "related-divide-insulated",
+          "related-mtnglo®-pump-and-lantern",
+          "related-rapide-alpenglow-wr",
+          "related-rapide-sl-insulated"
+        ],
+        "grams": [
+          91
+        ],
+        "price_range": [
+          39.95,
+          39.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pumpa / multifunkční nástroj, příslušenství.",
+      "trideno_at": "2026-10-20T14:08:14.093905+00:00"
+    },
+    {
+      "id": "8b9b02729a8f55c7",
+      "url": "https://bigagnes.com/products/ez-pack-stuff-sack",
+      "title": "EZ Pack Stuff Sack",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "The EZ Pack Stuff Sack makes packing up in the morning easier than ever.\r\nDesigned for efficiency, this tent bag opens from the side, allowing you to easily insert your stakes, poles, and rolled-up tent. Extra space and a dual buckle closure system eliminate the need to perfectly roll up your tent so it will fit in its tiny stuff sack, so you can get back to enjoying the outdoors more quickly.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/EZpackStuffSack3.png?v=1779220605",
+      "published_at": "2026-09-18T09:02:30-06:00",
+      "detected_at": "2026-10-20T14:07:41.911994+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "ACCESSORIES",
+        "tags": [
+          "recommended-bikepack-dry-bag",
+          "recommended-compression-stuff-sack",
+          "recommended-stuff-sack",
+          "recommended-super-light-girdle"
+        ],
+        "grams": [
+          45
+        ],
+        "price_range": [
+          44.95,
+          54.95
+        ],
+        "variants": 3
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pytel na stan, příslušenství.",
+      "trideno_at": "2026-10-20T14:08:14.093914+00:00"
+    },
+    {
+      "id": "ea48da7b17d1a024",
+      "url": "https://bigagnes.com/products/big-six-alpenglow",
+      "title": "Big Six Camp Chair - Alpenglow",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "When you're used to camping in comfort, the Big Six Camp Chair is your jam. \nDesigned with deluxe chillin' in mind, the Big Six has a tall back, wide seat, and sits an accessible 20\"\" / 51cm off the ground. It's quick and easy to set up and packable enough for stashing in your truck, trunk, or travel bag for wherever you're going to need it.\nCelebrate our 25th anniversary with this limited edition alpenglow print! \nBig Agnes - Est. 2001\nMay be covered by one or more Pats. 10,531,740 and 10,285,503",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/BigSix_AlpenglowChair.png?v=1779224848",
+      "published_at": "2026-09-16T11:34:45-06:00",
+      "detected_at": "2026-10-20T14:07:41.912135+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "FURNITURE",
+        "tags": [
+          "AltText.ai",
+          "recommended-big-six-armchair",
+          "recommended-big-six-camp-chair",
+          "recommended-mica-basin-camp-chair",
+          "related-big-six-chair-cover"
+        ],
+        "grams": [
+          1447
+        ],
+        "price_range": [
+          249.95,
+          249.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kempingová židle, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093923+00:00"
+    },
+    {
+      "id": "e23bb3f0ff4808ac",
+      "url": "https://zpacks.com/products/zpacks-zip-pouch",
+      "title": "Zpacks Zip Pouch",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Dial in your organization without piling on the ounces. Made from rugged Ultra TenX fabric, our ultralight Zip Pouches deliver exceptional tear and abrasion resistance in a simple, streamlined design built for life on the move.\n Available in a range of sizes, they keep everything from cash and cards to phones, sunglasses, and travel documents from getting lost in the shuffle. Choose the size that fits your essentials or mix and match to create a packing system that works as well on a thru-hike as it does in your carry-on.\n Water-resistant zippers help protect against splashes, while convenient pull-tab loops make opening easy and provide attachment points for a leash or carabiner. Spend less time digging through your pack and more time enjoying what’s ahead.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/zpacks-tenx-zip-pouches.webp?v=1792158181",
+      "published_at": "2026-10-06T11:21:11-04:00",
+      "detected_at": "2026-10-20T14:07:55.344202+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "Accessories : Resale Accessories",
+        "tags": [],
+        "grams": [
+          6,
+          10,
+          13,
+          20,
+          24
+        ],
+        "price_range": [
+          14.95,
+          24.95
+        ],
+        "variants": 20
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Malá organizérová kapsa, doplněk.",
+      "trideno_at": "2026-10-20T14:08:14.093931+00:00"
+    },
+    {
+      "id": "44c95e4003ff1528",
+      "url": "https://zpacks.com/products/toaks-titanium-backpacking-stove",
+      "title": "Toaks Titanium Backpacking Stove",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Built for big miles and a lighter pack, TOAKS’ Ultralight Titanium Backpacking Stove has a laser-welded design which cuts unnecessary weight while delivering the durability long-distance hikers demand. \n Three folding legs tuck tightly against the body for compact storage, then rotate upward and swing into place when it’s time to cook. A burner diffuser and etched titanium screen improve fuel efficiency and wind resistance, making the most of your fuel when a hot meal is worth every ounce. \n The Soto Windmaster has a similar fuel efficient design, with the convenience of a built in igniter.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/zpacks-toaks-titanium-backpacking-stove-01.webp?v=1790884422",
+      "published_at": "2026-09-24T11:48:56-04:00",
+      "detected_at": "2026-10-20T14:07:55.344239+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "Accessories : Resale Accessories",
+        "tags": [
+          "criteo-exclude"
+        ],
+        "grams": [
+          47
+        ],
+        "price_range": [
+          29.95,
+          29.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Vařič, mimo rubriky.",
+      "trideno_at": "2026-10-20T14:08:14.093940+00:00"
+    },
+    {
+      "id": "e6df94de5028eade",
+      "url": "https://zpacks.com/products/zpacks-down-mittens",
+      "title": "Zpacks Down Mittens",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Keep your hands warm when temperatures drop without weighing down your pack. The Zpacks Down Mittens deliver an excellent warmth-to-weight ratio for cold mornings, high-elevation camps, and nights around the campsite.\n The fully reversible design lets you choose which color you prefer, while the soft, lightweight construction packs down small when not in use. Integrated snaps allow the mittens to clip together for storage, helping keep the pair organized inside your pack.\n Whether you’re warming up after a long day on trail or adding extra protection on a frigid morning, the Zpacks Down Mittens are a simple, ultralight way to keep cold hands from slowing you down.\nTreat these mittens like sleeping bags for your hands. They are great for around camp, sleeping, or even hiking, but it is not advised to wear them while using trekking poles due to abrasion.\n Complete your down insulation system with our ultralight Down Jacket , Down Booties , and Down Hood .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-1026-DownMIttens-2.webp?v=1791306419",
+      "published_at": "2026-09-21T13:06:48-04:00",
+      "detected_at": "2026-10-20T14:07:55.344378+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "Clothing : Branded",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [
+          20,
+          24,
+          28
+        ],
+        "price_range": [
+          89.95,
+          89.95
+        ],
+        "variants": 6
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Rukavice, oblečení.",
+      "trideno_at": "2026-10-20T14:08:14.093948+00:00"
+    },
+    {
+      "id": "cc821f635a5b8b43",
+      "url": "https://zpacks.com/products/bagger-30l-travel-backpack",
+      "title": "Bagger 30L Travel Backpack",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Bagger is back with streamlined features to take you from your flight, to the trail, to town in one compact and organized package. The dimensions are sized just right to slide under an airline seat and can even count as your free personal item on budget airlines and small planes. The 30L volume is big enough to spend a week hiking and hosteling with ultralight gear and clothing, while never worrying about checking a bag or losing sight of your valuables.\nThe Venom Stretch-Mesh center pocket swallows excess gear and the stretchy side pockets can hold up to 4x 1L water bottles. A convenient top pocket is perfect for quick access items like toiletries, sunglasses, or small electronics. An internal stretch-mesh sleeve is a safe place to stow a laptop, or to organize clothing. A fully zippered external sleeve against your back is a secondary spot to quickly tuck a laptop, and holds an included foam sit pad against your back for padding.\nThe Bagger is the one-bag to go wherever adventure takes you.",
+      "thumbnail": "",
+      "published_at": "2026-09-17T10:36:12-04:00",
+      "detected_at": "2026-10-20T14:07:55.344407+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [],
+        "price_range": [
+          249.0,
+          359.0
+        ],
+        "variants": 60
+      },
+      "status": "vhodny",
+      "model": "Zpacks Bagger 30L",
+      "rubrika": "batohy",
+      "priorita": 2,
+      "duvod": "Cestovní batoh 30 l, lifestyle/cestovní produkt, max priorita 2; nerecenzovaný.",
+      "trideno_at": "2026-10-20T14:08:14.093957+00:00",
+      "novinka": "_novinky/2026-10-20-zpacks-bagger-30l.md",
+      "novinka_at": "2026-10-20T14:09:11.404215+00:00"
+    },
+    {
+      "id": "7e2ef5aa0705aaac",
+      "url": "https://zpacks.com/products/bagger-30l-body",
+      "title": "Bagger 30L Body",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "This page is the Bagger 30L BODY ONLY. The complete backpack including detachable shoulder straps and a detachable belt can be found HERE.",
+      "thumbnail": "",
+      "published_at": "2026-09-17T10:18:07-04:00",
+      "detected_at": "2026-10-20T14:07:55.344522+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [
+          274
+        ],
+        "price_range": [
+          189.05,
+          189.05
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pouze tělo batohu bez popruhů (dummy stránka), ostatní díl kompletního batohu Bagger 30L; není samostatný recenzovatelný produkt.",
+      "trideno_at": "2026-10-20T14:08:18.509525+00:00"
+    },
+    {
+      "id": "c5aa9440e8deb76a",
+      "url": "https://zpacks.com/products/duplexl-pro-tent",
+      "title": "DupleXL Pro Tent",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "The DupleXL Pro takes everything hikers love about our Duplex line and evolves it into a shelter that truly allows a taller backpacker the room to stretch out. The 8-foot (2.44 m) usable floor length and internal struts deliver serious interior space and a comfortable fit for hikers up to 6'6\". The 40\" (102 cm) wide floor has enough space for a larger solo hiker to spread out without giving up the ultralight weight, compact footprint, or effortless pitch that makes the Duplex legendary.\n Built from waterproof, trail-proven Dyneema® Composite Fabric, the DupleXL Pro is made for big miles in demanding conditions. Its fully symmetrical design lets you pitch and sleep in either direction based on the wind, slope, or view, while zippered storm doors with peak vents provide protection when the weather turns and airflow when it doesn’t. Roll the doors back and secure them with magnetic toggles for wide-open views, or deploy them for protected vestibule space.\n An optional flat groundsheet is available for added protection here .\nOur Pivot line is another good choice to consider with 1P, 2P, and 3P tents for larger, taller hikers.\n *THE DUPLEXL PRO DOES NOT SUPPORT OUR DUPLEX FLEX KIT",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0826-DuplexLPro-1-Olive.webp?v=1789562991",
+      "published_at": "2026-09-17T09:00:05-04:00",
+      "detected_at": "2026-10-20T14:07:55.344711+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "Shelters : Tents : Plex",
+        "tags": [
+          "1 person",
+          "1p tent",
+          "2 person",
+          "2 person tent",
+          "2P",
+          "2P Tent",
+          "big",
+          "duo",
+          "duo plex",
+          "duomid",
+          "duoplex",
+          "dyneema tent",
+          "long",
+          "single tent",
+          "solo tent",
+          "tall",
+          "tall person tent",
+          "tall tarp",
+          "tarp for tall guy",
+          "tent",
+          "tent for tall guy",
+          "two person tent"
+        ],
+        "grams": [
+          541,
+          622
+        ],
+        "price_range": [
+          849.0,
+          849.0
+        ],
+        "variants": 3
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stan, mimo rubriky batohů, bot a karimatek.",
+      "trideno_at": "2026-10-20T14:08:18.509574+00:00"
+    },
+    {
+      "id": "e4ef00325ded7746",
+      "url": "https://zpacks.com/products/arc-pro-backpacks",
+      "title": "Arc Pro Backpacks",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "This is a dummy page.\nComplete Arc Pro Backpacks with belt and straps can be found here .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0826-ArcPro-50L-Hero-Green.webp?v=1787928418",
+      "published_at": "2026-09-15T16:08:11-04:00",
+      "detected_at": "2026-10-20T14:07:55.344741+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "Dummy",
+        "tags": [
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          606
+        ],
+        "price_range": [
+          449.0,
+          449.0
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dummy stránka kategorie Arc Pro bez konkrétního produktu.",
+      "trideno_at": "2026-10-20T14:08:18.509593+00:00"
+    },
+    {
+      "id": "9246bfb2c7a12e2e",
+      "url": "https://zpacks.com/products/arc-pro-70l-backpack",
+      "title": "Arc Pro 70L Backpack",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Arc Pro is what happens when a proven long-distance backpack gets stripped down and rebuilt around durability, simplicity, and effortless access. Delivering a technical look and serious trail performance, the Arc Pro is built with rugged Ultra 100X and Ultra TenX fabric for the demands of long-distance hiking.\n Venom Stretch Mesh center, side, and bottom pockets keep frequently used gear easily accessible, and a zippered 3D mesh sleeve gives you a convenient spot to quickly stow the included foam sit pad.\n Underneath the streamlined exterior is our proven curved carbon fiber Arc Frame and adjustable torso height system, designed to keep weight off your back while delivering the ventilation, adjustability, and carrying comfort long-distance hikers depend on. With interchangeable shoulder straps and belts, plus tons of modular  add-ons , the Arc Pro is tough where it needs to be, simple where it should be, and cleaner-looking from every angle. It’s the pack you’ll wonder how you lived without.\n Also available in 50L and 60L versions.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0826-ArcPro-50L-Hero-Silver.webp?v=1787928419",
+      "published_at": "2026-09-15T12:48:50-04:00",
+      "detected_at": "2026-10-20T14:07:55.344770+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "Backpacks : Frame : Arc Frame",
+        "tags": [
+          "70L",
+          "hike",
+          "strong material",
+          "thru",
+          "thru-hike",
+          "ultra",
+          "ultra 100",
+          "ultra 100x",
+          "ultra 200",
+          "ultra x",
+          "waterproof"
+        ],
+        "grams": [],
+        "price_range": [
+          449.0,
+          499.0
+        ],
+        "variants": 180
+      },
+      "status": "vhodny",
+      "model": "Zpacks Arc Pro 70L",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Konkrétní trekový batoh Zpacks Arc Pro 70L, v rubrice batohů, zatím nerecenzovaný; zájem u dlouhodobých trekařů.",
+      "trideno_at": "2026-10-20T14:08:18.509608+00:00",
+      "novinka": "_novinky/2026-10-20-zpacks-arc-pro-70l.md",
+      "novinka_at": "2026-10-20T14:09:45.194630+00:00"
+    },
+    {
+      "id": "a45e109b3feae751",
+      "url": "https://zpacks.com/products/arc-pro-60l-backpack",
+      "title": "Arc Pro 60L Backpack",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Arc Pro is what happens when a proven long-distance backpack gets stripped down and rebuilt around durability, simplicity, and effortless access. Delivering a technical look and serious trail performance, the Arc Pro is built with rugged Ultra 100X and Ultra TenX fabric for the demands of long-distance hiking.\n Venom Stretch Mesh center, side, and bottom pockets keep frequently used gear easily accessible, and a zippered 3D mesh sleeve gives you a convenient spot to quickly stow the included foam sit pad.\n Underneath the streamlined exterior is our proven curved carbon fiber Arc Frame and adjustable torso height system, designed to keep weight off your back while delivering the ventilation, adjustability, and carrying comfort long-distance hikers depend on. With interchangeable shoulder straps and belts, plus tons of modular  add-ons , the Arc Pro is tough where it needs to be, simple where it should be, and cleaner-looking from every angle. It’s the pack you’ll wonder how you lived without.\n Also available in 50L and 70L versions.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0826-ArcPro-50L-Hero-Green.webp?v=1787928418",
+      "published_at": "2026-09-15T12:42:49-04:00",
+      "detected_at": "2026-10-20T14:07:55.344797+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "Backpacks : Frame : Arc Frame",
+        "tags": [
+          "60L pack",
+          "abrasion resistant",
+          "framed backpack",
+          "hike",
+          "strong material",
+          "thru-hike",
+          "ultra",
+          "ultra 100",
+          "ultra 100x",
+          "ultra 200",
+          "ultra x",
+          "waterproof"
+        ],
+        "grams": [],
+        "price_range": [
+          449.0,
+          499.0
+        ],
+        "variants": 180
+      },
+      "status": "vhodny",
+      "model": "Zpacks Arc Pro 60L",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Konkrétní trekový batoh Zpacks Arc Pro 60L, v rubrice batohů, zatím nerecenzovaný.",
+      "trideno_at": "2026-10-20T14:08:18.509641+00:00"
+    },
+    {
+      "id": "2c37be8b2acd5f14",
+      "url": "https://zpacks.com/products/arc-pro-70l-backpack-body",
+      "title": "Arc Pro 70L Backpack Body",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Arc Pro 70L Backpack BODY ONLY. Belt and straps sold separately.\nThe complete backpack with belt and straps can be found Here .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0826-ArcPro-50L-Hero-Silver.webp?v=1787928419",
+      "published_at": "2026-09-15T11:47:12-04:00",
+      "detected_at": "2026-10-20T14:07:55.344825+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          452,
+          461,
+          470
+        ],
+        "price_range": [
+          329.1,
+          329.1
+        ],
+        "variants": 15
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dummy stránka pouze pro tělo batohu Arc Pro 70L bez popruhů, duplicitní k plnému batohu.",
+      "trideno_at": "2026-10-20T14:08:18.509664+00:00"
+    },
+    {
+      "id": "acd1e80cd42c6685",
+      "url": "https://zpacks.com/products/arc-pro-60l-backpack-body",
+      "title": "Arc Pro 60L Backpack Body",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Arc Pro 60L Backpack BODY ONLY. Belt and straps sold separately.\nThe complete backpack with belt and straps can be found Here .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0826-ArcPro-50L-Hero-Green.webp?v=1787928418",
+      "published_at": "2026-09-15T11:42:26-04:00",
+      "detected_at": "2026-10-20T14:07:55.344851+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          435,
+          444,
+          453
+        ],
+        "price_range": [
+          329.1,
+          329.1
+        ],
+        "variants": 15
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dummy stránka pouze pro tělo batohu Arc Pro 60L bez popruhů, duplicitní k plnému batohu.",
+      "trideno_at": "2026-10-20T14:08:18.509679+00:00"
+    },
+    {
+      "id": "7bbbee16cb7d214f",
+      "url": "https://zpacks.com/products/arc-pro-50l-backpack-body",
+      "title": "Arc Pro 50L Backpack Body",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Arc Pro 50L Backpack BODY ONLY. Belt and straps sold separately.\nThe complete backpack with belt and straps can be found Here .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0826-ArcPro-60L-Hero-Red.webp?v=1787928419",
+      "published_at": "2026-09-15T10:44:20-04:00",
+      "detected_at": "2026-10-20T14:07:55.344879+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          418,
+          427,
+          436
+        ],
+        "price_range": [
+          329.1,
+          329.1
+        ],
+        "variants": 15
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dummy stránka pouze pro tělo batohu Arc Pro 50L bez popruhů; kompletní verze 50L v nabídce není.",
+      "trideno_at": "2026-10-20T14:08:18.509691+00:00"
     }
   ]
 }
