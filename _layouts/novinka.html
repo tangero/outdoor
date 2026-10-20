@@ -2,7 +2,6 @@
 layout: default
 ---
 
-{% include rubriky-pruh.html %}
 
 {% assign recenze = site.posts | where: "model", page.model | first %}
 {% assign rubrika = site.data.rubriky | where: "name", page.rubrika | first %}

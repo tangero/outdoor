@@ -40,6 +40,10 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   v `_posts/`. Permalink `/:categories/:title/` → např. `/batohy/osprey-exos-48-osprey-exos-58/`.
   Krátké **novinky** výrobců jsou samostatná kolekce `_novinky/` (`/novinky/<slug>/`,
   layout `novinka`) — nejsou v `site.posts`, přehledech, stránkování ani RSS.
+- **Hlavička a patička (`_layouts/default.html`, styly `hl-*` a `pt-*` na konci `main.scss`):** rubriky
+  z `_data/rubriky.yml` (jen neprázdné), `/srovnani/` (`_pages/srovnani.html`), hledání lunr (`_includes/search-lunr.html`).
+  Patička: autoři, kontakt `patrick@vibecoding.cz`, odkazy na naše další weby (natvrdo v layoutu).
+  Pozor: `assets/js/mediumish.js` skrývá při posunu všechny `<nav>`, v patičce proto `<nav>` nepoužívej.
 - **Titulka (`index.html`, jen na `/`):** nejnovější recenze, pruh novinek, blok pro každou
   rubriku s články (všechny letošní, aspoň 4; nad čtyři v řadě `hp-rubrika__vice`), ručně vybrané (`featured: true`), pruh značek; pod tím stránkovaný
   výpis všech článků. Styly `hp-*` na konci `assets/css/main.scss`, karta `_includes/hp-karta.html`,

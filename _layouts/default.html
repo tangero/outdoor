@@ -33,7 +33,7 @@ ga('send', 'pageview');
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{layout}}">
+<body class="{{layout}}" id="top">
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
@@ -41,57 +41,40 @@ ga('send', 'pageview');
 	</noscript>
 
 
-<!-- Begin Menu Navigation
+<!-- Hlavička: rubriky, srovnání, hledání (styly hl-* na konci main.scss)
 ================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+<a class="hl-preskocit" href="#obsah">Přeskočit na obsah</a>
+<nav class="navbar navbar-expand-lg navbar-light fixed-top mediumnavigation nav-down hl" aria-label="Hlavní navigace">
+    <div class="container hl__lista">
+        <a class="hl__znacka" href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/{{ site.logo }}" alt="" width="38" height="38">
+            <span>{{ site.name }}</span>
+        </a>
 
-    <div class="container pr-0">
+        <button class="navbar-toggler hl__menu" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarMediumish" aria-expanded="false" aria-label="Menu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-    <!-- Begin Logo -->
-    <a class="navbar-brand d-flex align-items-center" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" class="mr-2" style="max-height: 50px;">
-    <h1 class="sitetitle mb-0" style="font-family: 'Righteous', cursive;">{{ site.name }}</h1>
-    </a>
-    <!-- End Logo -->
-
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarMediumish">
-
-        <!-- Begin Menu -->
-
-            <ul class="navbar-nav ml-auto">
-
-                {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Titulka</a>
-                </li>
-
-                <li class="nav-item{% if page.url contains '/novinky/' %} active{% endif %}">
-                <a class="nav-link" href="{{ site.baseurl }}/novinky/">Novinky</a>
-                </li>
-
-                <li class="nav-item{% if page.url == '/znacky/' %} active{% endif %}">
-                <a class="nav-link" href="{{ site.baseurl }}/znacky/">Značky</a>
-                </li>
-
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">O webu</a>
-                </li>
-
-                {% include search-lunr.html %}
-
+        <div class="collapse navbar-collapse" id="navbarMediumish">
+            <ul class="navbar-nav hl__odkazy">
+                {%- for rubrika in site.data.rubriky -%}
+                {%- assign pocet = site.posts | where_exp: "p", "p.categories contains rubrika.name" | size -%}
+                {%- if pocet > 0 -%}
+                {%- assign predpona = "/" | append: rubrika.name | append: "/" -%}
+                {%- assign url_zacatek = page.url | slice: 0, predpona.size -%}
+                <li class="nav-item"><a class="nav-link{% if url_zacatek == predpona or page.categories contains rubrika.name %} active{% endif %}" href="{{ site.baseurl }}/{{ rubrika.name }}/">{{ rubrika.title }}</a></li>
+                {%- endif -%}
+                {%- endfor %}
+                <li class="hl__oddelovac" aria-hidden="true"></li>
+                <li class="nav-item"><a class="nav-link{% if page.url == '/srovnani/' %} active{% endif %}" href="{{ site.baseurl }}/srovnani/">Srovnání</a></li>
+                <li class="nav-item"><a class="nav-link{% if page.url contains '/novinky/' %} active{% endif %}" href="{{ site.baseurl }}/novinky/">Novinky</a></li>
+                <li class="nav-item"><a class="nav-link{% if page.url == '/znacky/' %} active{% endif %}" href="{{ site.baseurl }}/znacky/">Značky</a></li>
             </ul>
-
-        <!-- End Menu -->
-
-    </div>
-
+            <div class="hl__vpravo">
+                {% include search-lunr.html %}
+                <a class="hl__o-webu{% if page.url == '/about' %} active{% endif %}" href="{{ site.baseurl }}/about">O webu</a>
+            </div>
+        </div>
     </div>
 </nav>
 <!-- End Navigation
@@ -112,9 +95,9 @@ ga('send', 'pageview');
 
 <!-- Content
 ================================================== -->
-<div class="main-content">
+<main class="main-content" id="obsah">
     {{ content }}
-</div>
+</main>
 
 {% if site.mailchimp-list %}
 <!-- Bottom Alert Bar
@@ -134,42 +117,56 @@ ga('send', 'pageview');
     
 </div>
 
-<!-- Categories Jumbotron
+<!-- Patička: o webu, rubriky, naše další weby (styly pt-* na konci main.scss)
 ================================================== -->
-<div class="jumbotron fortags">
-	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center text-center h-100">
-            <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Prozkoumejte <span class="d-none d-md-inline">→</span></h2>
-            </div>
-		</div>
-		<div class="col-md-8 p-5 align-self-center text-center">
-            {% for rubrika in site.data.rubriky %}
-                {% assign category_posts = site.posts | where_exp: "p", "p.categories contains rubrika.name" %}
-                {% if category_posts.size > 0 %}
-                <a class="mt-1 mb-1 mr-2 btn btn-light" href="{{ site.baseurl }}/{{ rubrika.name }}/">
-                    {% if rubrika.icon %}
-                        <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="{{ rubrika.title }}" style="height: 24px; width: auto; margin-right: 5px; filter: brightness(0) invert(1);">
-                    {% endif %}
-                    {{ rubrika.title }}
-                </a>
-                {% endif %}
-            {% endfor %}
-		</div>
-	</div>
-</div>
-
-<!-- Begin Footer
-================================================== -->
-<footer class="footer">
+<footer class="pt">
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+        <div class="pt__mrizka">
+            <div class="pt__web">
+                <a class="pt__znacka" href="{{ site.baseurl }}/">
+                    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="" width="34" height="34">
+                    <span>{{ site.name }}</span>
+                </a>
+                <p class="pt__popis">Recenze a srovnání batohů, bot a karimatek pro treky, túry a vícedenní přechody. U každé recenze najdete zdroje a srovnání s modely v kategorii.</p>
+                <p class="pt__autori">Web píšou <a href="{{ site.baseurl }}/about">Martin Plachta</a> a <a href="{{ site.baseurl }}/about">Patrick Zandl</a>.</p>
+                <div class="pt__tlacitka">
+                    <a class="pt__tlacitko pt__tlacitko--hlavni" href="mailto:patrick@vibecoding.cz">Napište nám</a>
+                    <a class="pt__tlacitko" href="{{ site.baseurl }}/about">O webu</a>
+                </div>
             </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
-                vytvořil Martin Plachta
+
+            <div class="pt__sloupec pt__sloupec--recenze">
+                <p class="pt__nadpis" id="pt-recenze">Recenze</p>
+                <ul aria-labelledby="pt-recenze">
+                    {%- for rubrika in site.data.rubriky -%}
+                    {%- assign pocet = site.posts | where_exp: "p", "p.categories contains rubrika.name" | size -%}
+                    {%- if pocet > 0 %}
+                    <li><a href="{{ site.baseurl }}/{{ rubrika.name }}/">{{ rubrika.title }} <span class="pt__pocet">{{ pocet }}</span></a></li>
+                    {%- endif -%}
+                    {%- endfor %}
+                    <li><a href="{{ site.baseurl }}/srovnani/">Srovnávací tabulky</a></li>
+                    <li><a href="{{ site.baseurl }}/novinky/">Novinky výrobců</a></li>
+                    <li><a href="{{ site.baseurl }}/znacky/">Značky</a></li>
+                </ul>
             </div>
+
+            <div class="pt__sloupec">
+                <p class="pt__nadpis" id="pt-weby">Naše další weby</p>
+                <ul class="pt__weby" aria-labelledby="pt-weby">
+                    <li><a href="https://www.prijimackynaskolu.cz/"><b>Přijímačky na školu</b><span>výběr střední školy a přijímačky</span></a></li>
+                    <li><a href="https://www.topflix.cz/"><b>Topflix</b><span>na co se dívat na Netflixu</span></a></li>
+                    <li><a href="https://www.zitraslavni.cz/"><b>Zítraslavní.cz</b><span>autorské scribetony</span></a></li>
+                    <li><a href="https://www.vibecoding.cz/"><b>Vibecoding.cz</b><span>workshopy a návody pro vývojáře</span></a></li>
+                    <li><a href="https://www.marigold.cz/"><b>Marigold.cz</b><span>technologie, byznys a společnost</span></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="pt__spodek">
+            <span>© {{ site.time | date: "%Y" }} {{ site.name }}</span>
+            <a href="{{ site.baseurl }}/feed.xml">RSS</a>
+            <a href="https://buymeacoffee.com/vybaveni" target="_blank" rel="noopener">Kupte nám kafe</a>
+            <a class="pt__nahoru" href="#top">Nahoru <span aria-hidden="true">↑</span></a>
         </div>
     </div>
 </footer>

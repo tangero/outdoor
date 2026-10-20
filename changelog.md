@@ -1,5 +1,11 @@
 # Mediumish Jekyll Theme - Change Log
 
+## 2026-10-20 (Vybavení do přírody)
+- Nová hlavička: rubriky, Srovnání, Novinky a Značky v jedné liště, české hledání, odkaz na přeskočení na obsah. Pruh ikon rubrik zůstal jen na titulce, v rubrikách a na stránkách značek a srovnání.
+- Nová patička: o webu, autoři (Martin Plachta, Patrick Zandl), kontakt, rubriky s počty recenzí a naše další weby. Pás „Prozkoumejte“ s fotkou zrušen.
+- Rozcestník srovnávacích tabulek `/srovnani/`.
+- Starý článek o Lowe Alpine AirZone Trek 45:55 a samostatné články o Osprey Talon 22 a Gregory Paragon 58 přesměrované na novější recenze.
+
 ## 2026-10-19 (Vybavení do přírody)
 - Nová podoba článku: rozhodovací karta recenze, navigace po oddílech, žebříček kategorie, alternativy, seznam zdrojů (plugin `_plugins/srovnani.rb`, styly `cl-*`).
 - Blok „Naše akce“ z vibecoding.cz (`assets/js/promo.js`) místo Google AdSense; AdSense vypnutý.

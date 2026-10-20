@@ -8,7 +8,6 @@ post_class: post-template
 Článek. Recenze (má `model`) dostane rozhodovací kartu, rychlou navigaci, boční žebříček
 kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovnani.
 {% endcomment %}
-{% include rubriky-pruh.html %}
 {%- assign recenze = page.model -%}
 {%- assign s = page.srovnani -%}
 {%- assign rubrika = page.categories | first -%}

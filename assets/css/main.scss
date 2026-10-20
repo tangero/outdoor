@@ -278,9 +278,6 @@ tr:hover {
     .hp-rubrika { grid-template-columns: 1fr; }
 }
 @media (max-width: 575px) {
-    /* název webu se jinak na telefonu nevejde vedle loga */
-    .mediumnavigation .sitetitle { font-size: 1.3rem; }
-    .mediumnavigation .navbar-brand img { max-height: 36px !important; }
     .rubriky-pruh { gap: .25rem 1.25rem; }
     .hp-novinky:not(.hp-novinky--mrizka) {
         display: flex;
@@ -435,3 +432,143 @@ tr:hover {
 }
 /* Fotku produktu má recenze už v kartě; tutéž fotku hned pod úvodem nezdvojujeme */
 .cl--recenze .cl-text > p:nth-child(-n+3) > img:only-child { display: none; }
+
+/* =====================================================================
+   Hlavička (hl-*) a patička (pt-*), rozcestník srovnání (srv-*)
+   ===================================================================== */
+.hl-preskocit {
+    position: absolute; left: 1rem; top: -3rem; z-index: 1040;
+    padding: .5rem .9rem; border-radius: 8px; background: var(--hp-akcent); color: #fff;
+}
+.hl-preskocit:focus { top: .5rem; color: #fff; }
+
+.mediumnavigation.hl { padding: 0; background: #fff; box-shadow: none; border-bottom: 1px solid var(--hp-linka); }
+.hl__lista { min-height: 64px; flex-wrap: wrap; }
+.hl__znacka { flex-shrink: 0; display: flex; align-items: center; gap: .6rem; margin-right: 1.5rem; color: var(--hp-text); padding: .5rem 0; }
+.hl__znacka:hover { color: var(--hp-text); text-decoration: none; }
+.hl__znacka img { width: 38px; height: 38px; }
+.hl__znacka span { font-family: 'Righteous', system-ui, sans-serif; font-size: 1.35rem; letter-spacing: -.01em; line-height: 1; white-space: nowrap; }
+.hl__menu { border: 0; padding: .5rem; min-width: 44px; min-height: 44px; border-radius: 10px; }
+.hl__menu:focus { outline: 0; }
+.hl__menu:focus-visible { outline: 2px solid var(--hp-akcent); outline-offset: 2px; }
+.hl__odkazy { align-items: center; gap: .15rem; }
+.hl .hl__odkazy .nav-link {
+    padding: .5rem .75rem; border-radius: 8px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: .95rem; font-weight: 500; color: var(--hp-text); white-space: nowrap;
+    transition: background-color .2s, color .2s;
+}
+.hl .hl__odkazy .nav-link:hover { color: var(--hp-akcent); background: var(--hp-plocha); }
+.hl .hl__odkazy .nav-link.active { color: var(--hp-akcent); background: #e9f4ee; }
+.hl__oddelovac { width: 1px; height: 20px; background: var(--hp-linka); margin: 0 .4rem; }
+.hl__vpravo { flex: 1 1 auto; min-width: 0; display: flex; align-items: center; justify-content: flex-end; gap: 1rem; margin-left: 1rem; }
+.hl__o-webu {
+    font-family: -apple-system, system-ui, sans-serif; font-size: .95rem; font-weight: 500; color: var(--hp-tlumeny); white-space: nowrap;
+}
+.hl__o-webu:hover, .hl__o-webu.active { color: var(--hp-akcent); text-decoration: none; }
+.hl-hledani { position: relative; display: flex; align-items: center; flex: 0 1 210px; min-width: 120px; }
+.hl-hledani__ikona { position: absolute; left: .8rem; color: var(--hp-tlumeny); pointer-events: none; }
+.mediumnavigation .hl-hledani .form-control {
+    width: 100%; min-width: 0; height: 40px; padding-left: 2.3rem;
+    border: 1px solid var(--hp-linka); border-radius: 10px; background: var(--hp-plocha);
+    font-family: -apple-system, system-ui, sans-serif; font-size: .875rem; color: var(--hp-text);
+    transition: border-color .2s, background-color .2s;
+}
+.mediumnavigation .hl-hledani .form-control:focus { background: #fff; border-color: var(--hp-akcent); box-shadow: 0 0 0 3px rgba(10, 125, 85, .15); }
+.site-content { margin-top: 64px; }
+
+@media (max-width: 1199px) {
+    .hl__znacka { margin-right: .75rem; }
+    .hl__znacka span { font-size: 1.2rem; }
+    .hl .hl__odkazy .nav-link { padding: .5rem .45rem; }
+}
+@media (max-width: 991px) {
+    .hl__znacka span { font-size: 1.2rem; }
+    .hl__znacka img { width: 32px; height: 32px; }
+    .navbar-expand-lg > .container.hl__lista { min-height: 60px; padding-left: 15px; padding-right: 15px; }
+    .navbar-collapse { padding: .25rem 0 1rem; border-top: 1px solid var(--hp-linka); }
+    .hl__odkazy { align-items: stretch; gap: 0; }
+    .hl .hl__odkazy .nav-link { padding: .7rem .25rem; font-size: 1.05rem; }
+    .hl .hl__odkazy .nav-link.active { background: none; }
+    .hl__oddelovac { width: auto; height: 1px; margin: .35rem 0; }
+    .hl__vpravo { flex-direction: column; align-items: stretch; gap: .5rem; margin: .5rem 0 0; }
+    .hl-hledani { flex-basis: auto; }
+    .mediumnavigation .hl-hledani .form-control { height: 44px; font-size: 1rem; }
+    .hl__o-webu { padding: .7rem .25rem; font-size: 1.05rem; color: var(--hp-text); }
+    .site-content { margin-top: 60px; }
+}
+@media (max-width: 575px) {
+    .mediumnavigation .hl__znacka span { font-size: 1.15rem; }
+}
+
+.pt { margin-top: 4rem; background: var(--hp-plocha); border-top: 1px solid var(--hp-linka); color: var(--hp-text); font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.pt a { color: var(--hp-text); }
+.pt a:hover { color: var(--hp-akcent); text-decoration: none; }
+.pt__mrizka { display: grid; grid-template-columns: 1.3fr .8fr 1.4fr; gap: 3.5rem; padding: 3.5rem 0 0; }
+.pt__web { display: flex; flex-direction: column; gap: 1rem; }
+.pt__znacka { display: flex; align-items: center; gap: .6rem; }
+.pt__znacka span { font-family: 'Righteous', system-ui, sans-serif; font-size: 1.3rem; }
+.pt__popis { margin: 0; font-size: .95rem; line-height: 1.6; color: #3d4842; max-width: 36ch; }
+.pt__autori { margin: 0; font-size: .875rem; color: var(--hp-tlumeny); }
+.pt__autori a { font-weight: 600; }
+.pt__tlacitka { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: .25rem; }
+.pt__tlacitko {
+    display: inline-flex; align-items: center; min-height: 44px; padding: 0 1rem;
+    border: 1px solid #cfd5cb; border-radius: 10px; font-size: .9rem; font-weight: 600;
+    transition: background-color .2s, border-color .2s, transform .1s;
+}
+.pt__tlacitko:active { transform: translateY(1px); }
+.pt .pt__tlacitko--hlavni { background: var(--hp-akcent); border-color: var(--hp-akcent); color: #fff; }
+.pt .pt__tlacitko--hlavni:hover { background: #086646; color: #fff; }
+.pt__nadpis { margin: 0 0 .6rem; font-size: .8rem; font-weight: 600; color: var(--hp-tlumeny); }
+.pt__sloupec ul { list-style: none; margin: 0; padding: 0; }
+.pt__sloupec li a { display: inline-block; padding: .35rem 0; font-size: .95rem; }
+.pt__pocet { color: var(--hp-tlumeny); font-variant-numeric: tabular-nums; }
+.pt .pt__weby li + li { border-top: 1px solid var(--hp-linka); }
+.pt .pt__weby a { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; padding: .65rem 0; }
+.pt__weby b { font-weight: 600; white-space: nowrap; }
+.pt__weby span { color: var(--hp-tlumeny); font-size: .875rem; text-align: right; }
+.pt__spodek {
+    display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.5rem;
+    margin-top: 3rem; padding: 1.25rem 0 1.75rem; border-top: 1px solid var(--hp-linka);
+    font-size: .8rem; color: var(--hp-tlumeny);
+}
+.pt .pt__spodek a { color: var(--hp-tlumeny); }
+.pt .pt__spodek a:hover { color: var(--hp-akcent); }
+.pt__nahoru { margin-left: auto; }
+.pt a:focus-visible, .hl a:focus-visible { outline: 2px solid var(--hp-akcent); outline-offset: 3px; border-radius: 4px; }
+
+@media (max-width: 991px) {
+    .pt__mrizka { grid-template-columns: 1fr 1fr; gap: 2.5rem; }
+    .pt__web { grid-column: 1 / -1; }
+}
+@media (max-width: 575px) {
+    .pt__mrizka { grid-template-columns: 1fr; gap: 2rem; padding-top: 2.25rem; }
+    .pt__sloupec--recenze ul { display: grid; grid-template-columns: 1fr 1fr; column-gap: 1rem; }
+    .pt .pt__weby a { flex-direction: column; gap: .1rem; }
+    .pt__weby span { text-align: left; }
+    .pt__nahoru { margin-left: 0; }
+}
+
+.srv-uvod { color: var(--hp-tlumeny); max-width: 60ch; }
+.srv-mrizka { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
+.srv-karta {
+    display: flex; flex-direction: column; gap: .4rem; padding: 1.25rem;
+    border: 1px solid var(--hp-linka); border-radius: 14px; background: #fff; color: var(--hp-text);
+    transition: box-shadow .2s, transform .2s;
+}
+.srv-karta:hover { color: var(--hp-text); text-decoration: none; box-shadow: var(--hp-stin); transform: translateY(-2px); }
+.srv-karta img { width: 44px; height: 44px; margin-bottom: .4rem; }
+.srv-karta__nazev { font-weight: 600; font-size: 1.1rem; }
+.srv-karta__pocet { color: var(--hp-tlumeny); font-size: .9rem; }
+@media (prefers-reduced-motion: reduce) {
+    .srv-karta, .pt__tlacitko, .hl .hl__odkazy .nav-link { transition: none; }
+    .srv-karta:hover { transform: none; }
+}
+
+/* výsledky hledání (modální okno z lunrsearchengine.js) */
+#lunrsearchresults .modal-body ul { list-style: none; padding: 0; }
+#lunrsearchresults .lunrsearchresult + .lunrsearchresult { border-top: 1px solid var(--hp-linka); }
+#lunrsearchresults .lunrsearchresult a { padding: .75rem 0; }
+#lunrsearchresults .lunrsearchresult .title { color: var(--hp-akcent); font-weight: 600; }
+#lunrsearchresults .lunrsearchresult .url { color: var(--hp-tlumeny); }

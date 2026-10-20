@@ -10,8 +10,9 @@
 </style>
 
 
-<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+<form class="bd-search hl-hledani" role="search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <svg class="hl-hledani__ikona" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    <input type="search" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Model nebo značka" aria-label="Hledat model nebo značku"/>
 </form>
 
 <div id="lunrsearchresults">

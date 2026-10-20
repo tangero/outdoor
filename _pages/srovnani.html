@@ -1,0 +1,29 @@
+---
+layout: default
+title: Srovnávací tabulky
+permalink: /srovnani/
+description: "Batohy, boty a karimatky z našich recenzí v přehledných tabulkách: hmotnost, objem, R-faktor a hodnocení vedle sebe."
+---
+
+{% include rubriky-pruh.html %}
+
+<section class="hp-sekce">
+    <header class="hp-sekce__hlava">
+        <h1>Srovnávací tabulky</h1>
+    </header>
+    <p class="srv-uvod">Všechny recenzované modely rubriky v jedné tabulce, abyste je mohli porovnat podle hmotnosti, objemu nebo izolace.</p>
+    <div class="srv-mrizka">
+        {%- for rubrika in site.data.rubriky -%}
+        {%- assign prehled = "/" | append: rubrika.name | append: "/prehled/" -%}
+        {%- assign stranka = site.pages | where: "url", prehled | first -%}
+        {%- assign pocet = site.posts | where_exp: "p", "p.categories contains rubrika.name" | where_exp: "p", "p.model" | size -%}
+        {%- if stranka and pocet > 0 %}
+        <a class="srv-karta" href="{{ site.baseurl }}{{ prehled }}">
+            <img src="{{ site.baseurl }}{{ rubrika.icon }}" alt="" aria-hidden="true">
+            <span class="srv-karta__nazev">{{ stranka.title }}</span>
+            <span class="srv-karta__pocet">{{ pocet }} modelů</span>
+        </a>
+        {%- endif -%}
+        {%- endfor %}
+    </div>
+</section>
