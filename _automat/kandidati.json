@@ -15139,7 +15139,9 @@
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Speed hiking bota pro terénní túry, novinka FW26.",
-      "trideno_at": "2026-10-19T05:00:34.996912+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996912+00:00",
+      "novinka": "_novinky/2026-10-22-garmont-9-81-etere-max-gtx.md",
+      "novinka_at": "2026-10-22T14:23:04.520331+00:00"
     },
     {
       "id": "8d7634bde33639cf",
@@ -17309,7 +17311,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Trailová běžecká bota, dámská verze, nerecenzováno.",
-      "trideno_at": "2026-10-19T05:01:01.125642+00:00"
+      "trideno_at": "2026-10-19T05:01:01.125642+00:00",
+      "novinka": "_novinky/2026-10-22-scarpa-golden-gate-lt-wp.md",
+      "novinka_at": "2026-10-22T14:22:54.905762+00:00"
     },
     {
       "id": "9c2c744a8c8c52d0",
@@ -18254,7 +18258,9 @@
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Pěnová karimatka z uzavřených buněk, nerecenzovaná.",
-      "trideno_at": "2026-10-20T14:08:14.093873+00:00"
+      "trideno_at": "2026-10-20T14:08:14.093873+00:00",
+      "novinka": "_novinky/2026-10-22-big-agnes-twentymile-ul.md",
+      "novinka_at": "2026-10-22T14:22:44.375164+00:00"
     },
     {
       "id": "a70c9ac62715611a",
@@ -19240,6 +19246,44 @@
       "priorita": 1,
       "duvod": "Článek o výletu, není produkt.",
       "trideno_at": "2026-10-21T14:21:55.731758+00:00"
+    },
+    {
+      "id": "ff3aec2b94256c45",
+      "url": "https://www.osprey.com/my/en/stories/backpacking/lessons-of-the-wild",
+      "title": "Two Chicago Teenagers and the Lessons of the Wild",
+      "brand": "Osprey",
+      "strategy": "exa",
+      "category_hint": "batohy",
+      "snippet": "Two Chicago Teenagers and the Lessons of the Wild\n\n# Two Chicago Teenagers and the Lessons of the Wild \n\nA learning experience beyond the classroom with Osprey Ambassador, Isaí Madriz.\n\n 16 min read \n\n \n\n Isaí Madriz \n\n Oct 22, 2026 \n\nThis story was written by Franco Torres, Stefen Del Toro and Isaí Madriz.\n\nWhen Franco, Stefen and I began our journey through Voyageurs National Park, I knew the expedition would challenge them physically. What I did not know was how differently each of them would experience the same landscape—and how much they would learn from it. \n\nFor me, the trip was an opportunity to mentor two young people in an environment far removed from the conveniences of everyday life. For 17-year-old Franco, the expedition became a lesson in slowing down and truly observing the natural world. For 16-year-old Stefen, it became a test of physical and mental endurance. Although we traveled together, each of us experienced a different journey. \n\nWe began with a lesson on packing equipment and understanding the weight and space limitations on a real unassisted expedition scenario. After each of us selected our equipment and packed our respective belongings, we drove overnight to the put- in and got our boats loaded and ready. \n\nThe water shimmered beneath the morning sun. Coming from Chicago, Franco and Stefen were accustomed to buildings, cars, traffic, and the constant presence of people. They had never needed to walk for miles carrying a heavy backpack for hours. Thi",
+      "thumbnail": "https://www.osprey.com/media/magefan_blog/22_Madriz_Mentorship_IMG_9544_2.jpg",
+      "published_at": "2026-10-22T00:00:00.000Z",
+      "detected_at": "2026-10-22T14:22:23.854233+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o zážitku z cesty, ne recenze konkrétního produktu.",
+      "trideno_at": "2026-10-22T14:22:32.270200+00:00"
+    },
+    {
+      "id": "e9d36e7b533268b3",
+      "url": "https://www.mammut.com/us/en/stories-guides/duedado-im-nirgendwo",
+      "title": "DüDaDo im Nirgendwo | Mammut",
+      "brand": "Mammut",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "DüDaDo im Nirgendwo | Mammut\n\nDüDaDo \n\nim \n\nNirgendwo\n\nIn the summer of 2024, my partner Anja and I began establishing a new route on the Epp Pillar in the north face of the Scheideggwetterhorn. This pillar, high above the Grosse Scheidegg and characterised by its exceptional high-alpine limestone, had been on my radar for a long time.\n\nIn 2009, Nicolas Zambetti and Deni Burdet, together with their partners, laid an important foundation for modern alpine sport climbing here. With “Into the Wild” – 450 metres long and graded up to 7b+ – they established a remarkable route for its time. It was a true pioneering achievement, finding a feasible way both to the wall and through it. Until then, the only route in this part of the mountain had been the rarely, if ever, repeated Northeast Ridge of the Scheideggwetterhorn, first climbed by Martin Epp and Jr. Talbot in 1963. Thanks to an article about “Into the Wild” in the SAC magazine Die Alpen – at the time still one of the few sources of up-to-date information about newly established alpine routes – I found myself at this very place only a year later, at just 18 years old. Together with Nicolas Hojac, I made the first repeat of this adventurous route. I managed to free-climb every pitch on my first attempt (Team OnSight/Flash). It was an incredible experience, and one that has probably shaped me to this day.\n\nBeyond the climbing difficulty itself, what defines this place above all is its remoteness and challenging access. Back then,",
+      "thumbnail": "https://images.ctfassets.net/l595fda2nfqd/1RyAcTOKrLtAnZfQKjToVV/4a661ef2d9019548ac89a6474e16b26f/f1aa83ea-96d7-4842-bc25-bdcfc5023dfa.jpg?fm=jpg&w=512&q=80",
+      "published_at": "2026-10-21T00:00:00.000Z",
+      "detected_at": "2026-10-22T14:22:25.705485+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o horolezecké výstupu, ne o konkrétním produktu z rubrik.",
+      "trideno_at": "2026-10-22T14:22:32.270255+00:00"
     }
   ]
 }
