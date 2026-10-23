@@ -17836,7 +17836,7 @@
         ],
         "variants": 3
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Big Agnes Zoom UL Insulated",
       "rubrika": "karimatky",
       "priorita": 4,
@@ -17845,7 +17845,9 @@
       "novinka": "neplatna",
       "novinka_problemy": [
         "zmiňuje vznik textu nebo podklady"
-      ]
+      ],
+      "pokus_at": "2026-10-23T10:39:07.184158+00:00",
+      "soubor": "_posts/karimatky/2026-10-23-big-agnes-zoom-ul-insulated.md"
     },
     {
       "id": "bec655d50092171d",
