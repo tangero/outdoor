@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Recenze a novinky outdoorového vybavení
+description: "Nezávislé recenze, srovnání a novinky outdoorového vybavení: batohy, trekové boty, karimatky a stany. Co vzít na trek, túru i do hor."
 ---
 
 {% if page.url == "/" %}
 
 {% include rubriky-pruh.html %}
+
+<h1 class="hp-h1">Recenze a srovnání outdoorového vybavení</h1>
 
 {% assign recenze = site.posts | where_exp: "p", "p.model" %}
 {% assign hlavni = recenze.first %}

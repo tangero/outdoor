@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Power banky"
-description: "Jak vybrat power banku na cesty a expedice"
+description: "Powerbanky do přírody: jak vybrat kapacitu, hmotnost a odolnost na vícedenní treky a výpravy bez elektřiny."
 name: "powerbanky"
 permalink: /powerbanky/
 ---

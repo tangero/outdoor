@@ -581,3 +581,6 @@ tr:hover {
 #lunrsearchresults .lunrsearchresult a { padding: .75rem 0; }
 #lunrsearchresults .lunrsearchresult .title { color: var(--hp-akcent); font-weight: 600; }
 #lunrsearchresults .lunrsearchresult .url { color: var(--hp-tlumeny); }
+
+/* SEO: viditelný, ale nenápadný H1 na titulce */
+.hp-h1 { font-size: 1.35rem; font-weight: 700; margin: 1rem 0 .5rem; }

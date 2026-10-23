@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Stany"
-description: "Jak vybrat stan"
+description: "Recenze a novinky turistických stanů: lehké stany na treky, bivaky a vícedenní přechody."
 name: "stany"
 permalink: /stany/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Boty"
-description: "Boty na cesty"
+description: "Recenze trekových bot a pohorek Scarpa, Garmont, Salomon, Tecnica a dalších: na turistiku, via ferraty, vysokohorskou turistiku i trail."
 name: "boty"
 permalink: /boty/
 ---

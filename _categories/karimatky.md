@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Karimatky"
-description: "Jak vybrat karimatku na cesty do přírody"
+description: "Recenze a srovnání karimatek: nafukovací, samonafukovací i pěnové modely Sea to Summit, Therm-a-Rest a dalších podle hmotnosti a R-hodnoty."
 name: "karimatky"
 permalink: /karimatky/
 ---

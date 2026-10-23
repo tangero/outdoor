@@ -5,10 +5,12 @@ description: "Do přírody? Trail, trek? Poradím."
 logo: 'assets/img/vybaveni.webp'
 favicon: 'assets/images/favicon.ico'
 baseurl:
+url: "https://www.vybavenidoprirody.com"
+lang: cs_CZ
 google_analytics: G-JQBZM81GGK
 disqus: false
 mailchimp-list: false
-include: ["_pages"]
+include: ["_pages", "_redirects"]
 
 # Build settings
 markdown: kramdown
