@@ -15181,7 +15181,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Klasická trekingová bota, nová verze FW26.",
-      "trideno_at": "2026-10-19T05:00:34.996925+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996925+00:00",
+      "novinka": "_novinky/2026-10-23-garmont-lagorai-3-gtx.md",
+      "novinka_at": "2026-10-23T14:05:27.555184+00:00"
     },
     {
       "id": "4a5fd1b61c0cf242",
@@ -15221,7 +15223,9 @@
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Technická turistická bota pro denní túry, novinka FW26.",
-      "trideno_at": "2026-10-19T05:00:34.996936+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996936+00:00",
+      "novinka": "_novinky/2026-10-23-garmont-akron-gtx.md",
+      "novinka_at": "2026-10-23T14:05:38.524953+00:00"
     },
     {
       "id": "2810e2478d5c1246",
@@ -15260,7 +15264,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Turistický scarpin mid-cut pro denní túry, nový model.",
-      "trideno_at": "2026-10-19T05:00:34.996947+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996947+00:00",
+      "novinka": "_novinky/2026-10-23-garmont-oron-mid-wp.md",
+      "novinka_at": "2026-10-23T14:05:47.194286+00:00"
     },
     {
       "id": "74c8a4f73f8c80e8",
@@ -19286,6 +19292,46 @@
       "priorita": 1,
       "duvod": "Článek o horolezecké výstupu, ne o konkrétním produktu z rubrik.",
       "trideno_at": "2026-10-22T14:22:32.270255+00:00"
+    },
+    {
+      "id": "211e65e2c0406ea5",
+      "url": "https://www.blackdiamondequipment.com/products/mens-recon-stretch-pants-past-season",
+      "title": "Men's Recon Stretch Pants - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "For the skier or rider who demands comfort and mobility for big backcountry missions and days in bounds, the Recon Pant delivers.\n With 4-way stretch fabric and a movement-focused patterning for added mobility, this pant moves with you in the mountains. At the same time, the Recon’s 3L BD.dry™ waterproof/breathable solution keeps you dry on deep days. The Recon features two zippered thigh pockets (with a low-profile electronics pocket on the right side). A contoured waistband provides extra coverage and the ability to dial in fit with Velcro adjusts on the sides, snap closure, and belt loops. An integrated RECCO reflector adds a safety feature to the pants, while the instep patches guard against ski edges. The Recon’s offset side vents allow you to dump heat on the skin track, and the high-mounted snow gaiter keeps out the snow.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/741034_0002_M_Recon_Stretch_Pants_Black_03.jpg?v=1762448348",
+      "published_at": "2026-10-22T10:24:32-06:00",
+      "detected_at": "2026-10-23T14:04:12.534297+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Ski Pants",
+        "tags": [
+          "Men's-Pants-Relaxed-Alpha",
+          "no-restock",
+          "past-season",
+          "YCRF_apparel",
+          "YGroup_MReconPant"
+        ],
+        "grams": [
+          680,
+          690,
+          700,
+          710
+        ],
+        "price_range": [
+          314.3,
+          314.3
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské kalhoty (oblečení), nepatří do žádné rubriky webu ani nejde o batoh, boty nebo karimatku.",
+      "trideno_at": "2026-10-23T14:05:16.085920+00:00"
     }
   ]
 }
