@@ -6,9 +6,11 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
 
-<title>{{ page.title }} | {{site.name}}</title>
-
+{%- comment -%}<title> generuje jekyll-seo-tag (dřív byl v hlavičce dvakrát).{%- endcomment -%}
 {% seo %}
+{%- if paginator and paginator.page > 1 %}
+<meta name="robots" content="noindex,follow">
+{%- endif %}
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     

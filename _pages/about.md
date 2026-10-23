@@ -3,6 +3,7 @@ layout: page
 title: O webu
 permalink: /about
 comments: false
+description: "Kdo píše Vybavení do přírody, jak vznikají recenze outdoorového vybavení a jak hodnotíme batohy, boty a karimatky."
 ---
 
 <div class="row justify-content-between">
