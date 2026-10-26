@@ -85,15 +85,17 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
      `novy → vhodny | zamitnuty | duplicitni` (duplicita proti `_posts` i frontě).
   3. `recenze.py` (út a pá 6:00 UTC, 2 kusy) vezme `vhodny` podle priority a střídá
      rubriky (první je ta s nejstarším posledním článkem, v rubrice se střídají značky;
-     `--rubrika` omezí výběr): rešerše (stránka výrobce + nezávislé testy přes TinyFish Search/Fetch,
-     záložně Exa) → text (Sonnet, strukturovaný výstup) → kontrola faktů (Haiku, až
-     2 kola oprav) → `_posts/<rubrika>/` + záznam do `_data/products.yml`. Workflow
-     commitne články i stav fronty rovnou do `master` (majitel je prochází a opravuje
-     dodatečně). Značky z posledních 14 dní dostávají přednost až po ostatních.
+     `--rubrika` omezí výběr): rešerše (stránka výrobce + nezávislé testy a srovnání přes
+     TinyFish Search/Fetch, záložně Exa) → text s redakčním verdiktem (Sonnet, strukturovaný
+     výstup) → kontrola faktů a redakční kvality (Haiku, až 2 kola oprav) →
+     `_posts/<rubrika>/` + záznam do `_data/products.yml`. Workflow commitne články i stav
+     fronty rovnou do `master` (majitel je prochází a opravuje dodatečně). Značky z posledních
+     14 dní dostávají přednost až po ostatních.
   4. `novinky.py` (denně po třídění, 3 kusy, ~0,012 USD/ks, vlastní strop 0,5 USD/týden)
-     napíše krátké představení čerstvých kandidátů (ne starých draftů) jen podle stránky
-     výrobce → `_novinky/`, commit do `master`. Stav kandidáta nemění (recenze může
-     přijít později), zapíše jen `novinka`.
+     napíše krátké představení čerstvých kandidátů (ne starých draftů) podle stránky výrobce,
+     katalogu a existujících recenzí; závěrečný „Náš pohled“ doporučí použití a případnou
+     alternativu, ale bez známky → `_novinky/`, commit do `master`. Stav kandidáta nemění
+     (recenze může přijít později), zapíše jen `novinka`.
   - Společné funkce (stahování stránek TinyFish → Exa → requests, volání Claude,
     náklady) v `scripts/automat_lib.py`. Náklady po ISO týdnech v `_automat/naklady.json`,
     strop `AUTOMAT_TYDENNI_LIMIT_USD` (výchozí 2 USD); mimořádný limit pro konkrétní
@@ -108,9 +110,16 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
   - boty: `vaha`, `tvar` (`nízké`/`střední`/`vysoké`, přehled podle něj seskupuje), `pohlavi`, `material`, `urceni`
   - karimatky: `vaha`, `R-faktor`, `tloustka` (cm), `typ` (`nafukovací`/`samonafukovací`/`pěnová`)
   Automatické recenze mají navíc `automat: true` a `zdroje` (seznam URL, na webu se nezobrazuje).
-- **Recenze jsou rešeršní:** fakta jen z podkladů, srovnání jen s parametry z tabulky
-  už recenzovaných, žádné vymyšlené osobní zážitky. **AI se na webu zatím nezmiňuje**
-  (rozhodnutí majitele, označení se dořeší s právníkem) — validace v `recenze.py` to hlídá.
+- **Recenze jsou rešeršní a názorové:** fakta jen z podkladů, o alternativách jen z tabulky
+  už recenzovaných a nezávislých zdrojů, žádné vymyšlené osobní zážitky. Redakční hodnocení
+  („za nás“, „podle nás“) je naopak povinné: konkrétní použití, kompromis, volba mezi produktem
+  a alternativou a jednoznačný verdikt v závěru. Stejnou cenovou kategorii lze tvrdit jen s oběma
+  ověřenými cenami ve srovnatelné podobě; nepřepočítáváme měny vlastním kurzem.
+- **Novinky nemají známku, ale mají „Náš pohled“:** krátké doporučení použití a hlavního
+  kompromisu z dostupných parametrů; alternativa jen z existujících recenzí, bez domnělých cen
+  a vlastních zkušeností. Povinný blok hlídá validace v `novinky.py`.
+- **AI se na webu zatím nezmiňuje** (rozhodnutí majitele, označení se dořeší s právníkem) —
+  validace v `recenze.py` a `novinky.py` to hlídá.
 - **Ruční recenze → aktualizuj linker:** `ruby scripts/generate_products.rb` a nové
   položky přenes do `_data/products.yml` (plugin čte jen ten). Automat zapisuje sám.
 - **Nový sledovaný výrobce:** záznam do `_automat/zdroje.yml`. Nejdřív zkus, jestli

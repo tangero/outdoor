@@ -3,9 +3,9 @@
 Automatické psaní recenzí z kandidátů ve stavu `vhodny` (_automat/kandidati.json).
 
 Postup pro každý produkt:
-  1. rešerše – stránka výrobce + nezávislé testy (TinyFish Search/Fetch, záložně Exa),
-  2. text recenze ve stylu webu (Sonnet) se strukturovanými parametry,
-  3. kontrola faktů proti zdrojům (Haiku), při závažném problému jedna oprava,
+  1. rešerše – stránka výrobce + nezávislé testy a srovnání (TinyFish Search/Fetch, záložně Exa),
+  2. text recenze s redakčním verdiktem (Sonnet) a strukturovanými parametry,
+  3. kontrola faktů a redakční kvality (Haiku), při závažném problému až dvě opravy,
   4. zápis do _posts/<rubrika>/ a do _data/products.yml (automatické prolinkování).
 
 Bez aspoň dvou nezávislých zdrojů se recenze nepíše (stav `malo_zdroju`, nový pokus za 14 dní).
@@ -62,14 +62,19 @@ REQUIRED_BY_RUBRIKA = {
 }
 
 SYSTEM_WRITER = """Jsi redaktor českého webu Vybavení do přírody (vybavenidoprirody.com) a píšeš recenze
-outdoorového vybavení. Recenze je rešeršní: vychází výhradně z podkladů, které dostaneš
+outdoorového vybavení. Recenze je rešeršní: fakta vycházejí výhradně z podkladů, které dostaneš
 (stránka výrobce a nezávislé testy), a ze srovnání s produkty, které web už recenzoval.
+Tvým úkolem není neutrálně opsat parametry, ale pomoci čtenáři rozhodnout se.
 
 Pravidla:
 - Každé číslo a každé tvrzení o produktu musí mít oporu v podkladech. Co v podkladech není,
   nepiš; raději parametr vynech (null) nebo napiš, že ho výrobce neuvádí.
 - Nepiš vymyšlené osobní zážitky („nosil jsem“, „na našem testu“). Zkušenosti testerů
   z podkladů můžeš převyprávět („testeři oceňují…“, „v dlouhodobém testu se ukázalo…“).
+- Redakční názor není osobní zkušenost. Doložené vlastnosti vyhodnoť jako svůj názor
+  („Za nás…“, „Podle nás…“, „My bychom zvolili…“) a vždy ukaž, z jakých faktů vychází.
+  Nepřebírej názor testerů bezmyslenkovitě: pokud se jejich zkušenosti navzájem liší
+  nebo odporují tvrzením výrobce, řekni to.
 - Nezmiňuj, že text vznikl automaticky nebo z rešerše, a neodkazuj na „podklady“.
 - Nezmiňuj interní věci webu: tabulku recenzovaných produktů, rubriku, hodnoticí
   rubriku ani kalibraci hodnocení. Čtenáři můžeš hodnocení v závěru krátce zdůvodnit
@@ -77,9 +82,10 @@ Pravidla:
   recenzí.
 - Pohlaví (sex/pohlavi) urči podle toho, jaké verze výrobce nabízí (viz varianty
   v katalogu a podklady), ne podle jedné konkrétní varianty v URL.
-- Piš česky, přirozeně, věcně a srozumitelně pro turistu, který vybírá vybavení. Bez
-  marketingových superlativů, bez anglicismů, kde existuje český výraz. Jednotky metrické
-  (g, l, cm, °C).
+- Piš česky, přirozeně, výstižně a srozumitelně pro turistu, který vybírá vybavení.
+  Bez marketingových superlativů a bez anglicismů, kde existuje český výraz. Jednotky metrické
+  (g, l, cm, °C). Můžeš být ostrý a koupi nedoporučit, ale nehledej kontroverzi za každou cenu.
+  Místo obecného „je drahý“ vysvětli, co za příplatek čtenář dostane a co naopak ne.
 - Rozsah těla recenze 600–900 slov. Struktura jako na webu:
   úvodní 1–2 odstavce (pro koho produkt je a v čem vyniká), potom nadpisy úrovně ###:
   „Klíčové parametry a technologie“, „Výhody“, „Nevýhody“, „Srovnání s konkurencí“,
@@ -87,7 +93,20 @@ Pravidla:
   Obrázek do textu nevkládej.
 - Ve srovnání s konkurencí používej přednostně produkty z tabulky už recenzovaných
   (stejný název modelu, aby se automaticky prolinkovaly). O srovnávaných produktech uváděj
-  jen to, co stojí v tabulce (parametry, pro, proti), nic dalšího jim nepřisuzuj.
+  jen to, co stojí v tabulce nebo v nezávislých podkladech, nic dalšího jim nepřisuzuj.
+  Pojmenuj 2–3 nejrelevantnější alternativy, pokud jsou v těchto údajích. U každé napiš,
+  v čem je lepší či horší a pro koho bychom ji zvolili místo recenzovaného produktu.
+- Pokud je v podkladech cena recenzovaného produktu i alternativy, porovnej, co nabízí
+  ve stejné nebo podobné cenové hladině. Ceny uváděj s měnou a srovnatelně: nesrovnávej
+  slevu s běžnou cenou a nepřepočítávej měny bez kurzu v podkladech. Tvrzení o stejné cenové
+  kategorii bez obou ověřených cen je zakázané. Pokud ceny konkurence ověřené nemáš,
+  jednou větou to přiznej a srovnej pouze použití a parametry, ne cenovou výhodnost.
+- Oddíly „Pro koho je ideální?“ a „Kdo by měl zvážit jinou variantu?“ piš jako konkrétní
+  rozhodovací rady podle délky a náročnosti túr, nosnosti, terénu, hmotnosti či rozpočtu.
+  Nepoužívej obecné „pro ty, kdo hledají kvalitu“.
+- První věta „Závěrečného zhodnocení“ musí obsahovat jasný redakční verdikt („Za nás…“):
+  produkt koupit, koupit jen pro konkrétní použití, nebo raději zvolit pojmenovanou alternativu.
+  Pak vysvětli proč a připomeň hlavní kompromis. Neutrální shrnutí vlastností není verdikt.
 - Titulek ve tvaru „<Model>: <krátký výstižný podtitulek>“.
 - pro / proti: jedna věta s výčtem 3–5 bodů oddělených čárkou.
 
@@ -100,14 +119,34 @@ Hodnocení 0–10 (krok 0,5) podle stejné rubriky pro celou rubriku webu:
 6 a méně průměr nebo zásadní problémy. Drž se škály stávajících hodnocení v tabulce.
 """
 
-SYSTEM_CHECK = """Kontroluješ fakta v recenzi outdoorového vybavení proti podkladům.
+SYSTEM_CHECK = """Kontroluješ fakta a redakční užitečnost recenze outdoorového vybavení.
 Projdi každé konkrétní tvrzení v recenzi (čísla, materiály, technologie, vlastnosti, ohlasy
-testů, srovnání) a ověř, že má oporu v podkladech nebo v tabulce už recenzovaných produktů.
-Za problém považuj: tvrzení bez opory, číslo odlišné od zdroje, vymyšlenou osobní zkušenost
-autora, zmínku o automatickém vzniku textu nebo o interních věcech webu (tabulka
-recenzovaných produktů, hodnoticí rubrika, váhy kritérií) – to vše je „vysoka“.
-Krátké zdůvodnění hodnocení vlastnostmi produktu („hodnocení snižuje hmotnost“) problém není. Obecné rady k výběru vybavení problém nejsou.
-Závažnost „vysoka“ = chybné nebo vymyšlené faktum o produktu; „nizka“ = nepřesná formulace.
+testů, ceny a srovnání) a ověř, že má oporu v podkladech nebo v tabulce už recenzovaných produktů.
+Redakční hodnocení doložených vlastností („za nás je příplatek zbytečný“) není vymyšlený fakt
+ani vlastní zkušenost; kontroluj ale, zda z uvedených faktů rozumně vychází.
+
+Povinné jsou nadpisy úrovně ### „Klíčové parametry a technologie“, „Výhody“, „Nevýhody“,
+„Srovnání s konkurencí“, „Pro koho je ideální?“, „Kdo by měl zvážit jinou variantu?“
+a „Závěrečné zhodnocení“. Srovnání má pojmenovat 2–3 relevantní alternativy, pokud jsou
+v podkladech nebo tabulce, a říct, pro koho který produkt zvolit. První věta závěru musí
+obsahovat redakční verdikt („Za nás…“) a jasně doporučit koupi, koupi jen pro konkrétní
+použití, nebo pojmenovanou alternativu.
+
+Za závažný problém („vysoka“) považuj:
+- tvrzení bez opory, číslo odlišné od zdroje, vymyšlenou osobní zkušenost autora, zmínku
+  o automatickém vzniku textu nebo o interních věcech webu (tabulka recenzovaných produktů,
+  hodnoticí rubrika, váhy kritérií),
+- nepodložené cenové srovnání, označení alternativy za stejně drahou bez obou cen,
+  smíšení slevy a běžné ceny nebo vlastní převod měn,
+- chybějící povinný oddíl, konkrétní doporučení pro čtenáře nebo jednoznačný verdikt v závěru,
+- srovnání, které jen vypíše parametry a neřekne, kdy zvolit recenzovaný produkt a kdy alternativu,
+- obecné hodnocení typu „dobrá volba“ bez toho, pro koho a z jakého důvodu.
+
+Krátké zdůvodnění hodnocení vlastnostmi produktu („hodnocení snižuje hmotnost“) problém není.
+Obecné rady k výběru vybavení problém nejsou. Poctivé přiznání chybějících cen konkurence také
+problém není; v takovém případě ale nesmí následovat závěr o cenové výhodnosti těchto produktů.
+Závažnost „nizka“ = nepřesná formulace nebo slabší výklad, který nemění faktické či praktické
+doporučení čtenáři.
 """
 
 CHECK_SCHEMA = {
@@ -293,14 +332,23 @@ def research(c: dict, variants: list[str] | None = None) -> tuple[list[dict], li
         sources.append({"url": c["url"], "title": (page or {}).get("title") or c["title"],
                         "text": "\n".join(extra + [maker_text])[:SOURCE_CHARS], "druh": "vyrobce"})
 
-    urls: list[str] = []
-    for q in (f"{model} review", f"{model} test"):
+    result_sets = []
+    seen = set()
+    for q in (f"{model} review", f"{model} test", f"{model} vs", f"{model} alternatives"):
+        found = []
         for r in lib.tinyfish_search(q):
             u = r["url"]
             d = domain(u)
-            if d == maker or any(s in d for s in SKIP_DOMAINS) or u in urls:
+            if d == maker or any(s in d for s in SKIP_DOMAINS) or u in seen:
                 continue
-            urls.append(u)
+            seen.add(u)
+            found.append(u)
+        result_sets.append(found)
+    urls: list[str] = []
+    while any(result_sets):
+        for found in result_sets:
+            if found:
+                urls.append(found.pop(0))
     independent = []
     if urls:
         pages = lib.fetch_pages(urls[:MAX_SOURCES * 2], max_chars=SOURCE_CHARS)
@@ -358,7 +406,8 @@ def format_sources(sources: list[dict]) -> str:
 
 def write_review(c: dict, sources: list[dict], reviews: list[dict]) -> dict:
     rubrika = c["rubrika"]
-    system = SYSTEM_WRITER + "\n\nUkázka stylu existující recenze z rubriky:\n<ukazka>\n" \
+    system = SYSTEM_WRITER + "\n\nUkázka jazyka existující recenze z rubriky; " \
+        "neopisuj její obsah a u verdiktu dodrž výše uvedená nová pravidla:\n<ukazka>\n" \
         + style_sample(reviews, rubrika) + "\n</ukazka>"
     user = (f"Napiš recenzi produktu {c['model']} do rubriky {rubrika}.\n\n"
             f"Už recenzované produkty v rubrice (pro srovnání a kalibraci hodnocení):\n"
@@ -381,9 +430,10 @@ def check_review(draft: dict, sources: list[dict], reviews: list[dict], rubrika:
 
 def fix_review(c: dict, draft: dict, problems: list[dict], sources: list[dict], reviews: list[dict]) -> dict:
     rubrika = c["rubrika"]
-    user = (f"Oprav recenzi produktu {c['model']}. Kontrola faktů našla tyto problémy:\n"
+    user = (f"Oprav recenzi produktu {c['model']}. Kontrola faktů a redakční kvality našla tyto problémy:\n"
             + "\n".join(f"- „{p['tvrzeni']}“: {p['problem']}" for p in problems)
-            + "\n\nProblematická tvrzení oprav podle podkladů, nebo je odstraň. Zbytek textu zachovej.\n\n"
+            + "\n\nChybná tvrzení oprav podle podkladů nebo je odstraň; chybějící praktické závěry doplň. "
+            "Zbytek textu zachovej.\n\n"
             f"<recenze>\n{json.dumps(draft, ensure_ascii=False, indent=1)}\n</recenze>\n\n"
             f"Už recenzované produkty:\n<recenzovane>\n{peers_table(reviews, rubrika)}\n</recenzovane>\n\n"
             f"Podklady:\n{format_sources(sources)}")
@@ -502,13 +552,25 @@ def validate(c: dict, draft: dict) -> list[str]:
     for k in REQUIRED_BY_RUBRIKA[c["rubrika"]]:
         if draft["parametry"].get(k) in (None, ""):
             errors.append(f"chybí parametr {k}")
-    words = len(draft["telo"].split())
+    body = draft["telo"]
+    words = len(body.split())
     if words < 400:
         errors.append(f"krátký text ({words} slov)")
     if not 0 <= float(draft["hodnoceni"]) <= 10:
         errors.append("hodnocení mimo 0–10")
+    headings = (
+        "Klíčové parametry a technologie", "Výhody", "Nevýhody", "Srovnání s konkurencí",
+        "Pro koho je ideální?", "Kdo by měl zvážit jinou variantu?", "Závěrečné zhodnocení",
+    )
+    for heading in headings:
+        if not re.search(rf"^###\s+{re.escape(heading)}\s*$", body, flags=re.M):
+            errors.append(f"chybí oddíl {heading}")
+    conclusion = re.search(r"^###\s+Závěrečné zhodnocení\s*$", body, flags=re.M)
+    if conclusion and not re.search(r"\b(?:za nás|podle nás|my bychom|doporučujeme|nedoporučujeme)\b",
+                                    body[conclusion.end():], flags=re.I):
+        errors.append("v závěru chybí explicitní redakční verdikt")
     # „podklad“ nekontrolujeme – u bot běžně znamená povrch terénu.
-    if re.search(r"\bAI\b|umělá inteligence|automaticky vygener|jazykový model", draft["telo"]):
+    if re.search(r"\bAI\b|umělá inteligence|automaticky vygener|jazykový model", body):
         errors.append("text zmiňuje AI")
     return errors
 
@@ -545,7 +607,7 @@ def process(c: dict, reviews: list[dict], dry_run: bool, variants: list[str] | N
         c["problemy"] = problems[:5]
         if dry_run:
             save_dry_run(c, draft, image, "NEPROSLO")
-        return f"neprošlo kontrolou faktů ({len(problems)} problémů)"
+        return f"neprošlo kontrolou faktů a redakční kvality ({len(problems)} problémů)"
 
     errors = validate(c, draft)
     if errors:
