@@ -2,7 +2,7 @@ name: Type-on-strap CI (GitHub Pages)
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   ruby:

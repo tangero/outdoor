@@ -15305,7 +15305,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Lehká nízká turistická bota pro denní túry, nový model.",
-      "trideno_at": "2026-10-19T05:00:34.996959+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996959+00:00",
+      "novinka": "_novinky/2026-10-24-garmont-oron-wp.md",
+      "novinka_at": "2026-10-24T09:11:41.852051+00:00"
     },
     {
       "id": "714dddd5fa4b897a",
@@ -15344,7 +15346,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Lehká turistická bota pro denní túry, nový model.",
-      "trideno_at": "2026-10-19T05:00:34.996969+00:00"
+      "trideno_at": "2026-10-19T05:00:34.996969+00:00",
+      "novinka": "_novinky/2026-10-24-garmont-oron.md",
+      "novinka_at": "2026-10-24T09:11:59.331729+00:00"
     },
     {
       "id": "3a2c2696f8b6eb65",
@@ -16684,7 +16688,9 @@
       "rubrika": "boty",
       "priorita": 2,
       "duvod": "Zimní turistická bota pro sníh, relevantní pro rubriku boty, ale spíše okrajová.",
-      "trideno_at": "2026-10-19T05:00:47.994357+00:00"
+      "trideno_at": "2026-10-19T05:00:47.994357+00:00",
+      "novinka": "_novinky/2026-10-24-keen-revel-iv-high-polar.md",
+      "novinka_at": "2026-10-24T09:12:06.910844+00:00"
     },
     {
       "id": "4510f9fc73098a44",
@@ -19332,6 +19338,25 @@
       "priorita": 1,
       "duvod": "Lyžařské kalhoty (oblečení), nepatří do žádné rubriky webu ani nejde o batoh, boty nebo karimatku.",
       "trideno_at": "2026-10-23T14:05:16.085920+00:00"
+    },
+    {
+      "id": "278f78e93246fbfb",
+      "url": "https://us.lowa.com/blogs/adventures/two-left-feet-on-mexicos-highest-peak",
+      "title": "Two Left Feet on Mexico's Highest Peak | LOWA Ambassador Blog",
+      "brand": "Lowa",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "Two Left Feet on Mexico's Highest Peak | LOWA Ambassador Blog\n\n# Two Left Feet on Mexico's Highest Peak\n\nOctober 22, 2026\n\nby Sunny Stroeer \n\nIt's the night before our summit push on Pico de Orizaba - 18,491 feet, the highest mountain in Mexico, third highest in North America - and I'm lying in my bivy outside the Piedra Grande hut at 14,000 feet, staring at two left boots.\n\nLet me back up.\n\nPaul and I are a LOWA family. I'm on the LOWA athlete team, and Paul's been in the outdoor industry long enough that between the two of us we have close to a dozen pairs of LOWA mountain boots - basically the whole lineup, which is an incredible privilege but also means our gear room looks like a LOWA warehouse exploded in it. I say this because it becomes relevant soon.\n\nFirst, context: I run AWExpeditions, a women's mountaineering company, and this trip was a guide development climb - five of us girls heading up the Jamapa Glacier route to scout the mountain and grow as a leadership team. Paul and I had just gotten back from ice climbing in Bozeman, we were in the process of moving, and our gear room was an absolute disaster. Gear and boots were strewn everywhere. I packed at the last minute because, hey, that's how life goes.\n\nHere's the irony: Paul has done this before. He grabbed my LOWA Alpine Ice boots once thinking they were his, only to discover at the remote trailhead that we had planned the weekend around that his feet don't squeeze into my size 9s. So when I packed for Orizaba",
+      "thumbnail": "http://us.lowa.com/cdn/shop/articles/Blog_Two_Left_Feet_Sunny_Stroeer.png?v=1792695892",
+      "published_at": "2026-10-22T00:00:00.000Z",
+      "detected_at": "2026-10-24T09:11:22.285362+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Blogový článek o výstupu na Pico de Orizaba, nejde o konkrétní produkt ani o model boty.",
+      "trideno_at": "2026-10-24T09:11:27.411017+00:00"
     }
   ]
 }

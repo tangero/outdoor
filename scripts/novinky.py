@@ -3,9 +3,10 @@
 Krátké novinky o nových produktech výrobců (kolekce _novinky/).
 
 Bere čerstvé kandidáty z fronty (stav `vhodny`, ne převzaté staré drafty), kteří ještě
-nemají novinku ani recenzi. Podkladem je jen stránka výrobce a data z katalogu, proto
-jde o krátké představení novinky, ne o recenzi. Stav kandidáta se nemění (recenze může
-přijít později), jen se zapíše `novinka` a `novinka_at`.
+nemají novinku ani recenzi. Podkladem je stránka výrobce, data z katalogu a tabulka
+existujících recenzí pro případné alternativy. Jde o krátké představení s redakčním
+pohledem, ne o recenzi se známkou. Stav kandidáta se nemění (recenze může přijít
+později), jen se zapíše `novinka` a `novinka_at`.
 
 Použití:
     python scripts/novinky.py --pocet 3 [--dry-run] [--verbose]
@@ -22,7 +23,7 @@ import yaml
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import automat_lib as lib  # noqa: E402
 from automat_lib import log  # noqa: E402
-from recenze import find_image, page_images, slugify, IMG_IN_TEXT  # noqa: E402
+from recenze import find_image, page_images, peers_table, slugify, IMG_IN_TEXT  # noqa: E402
 
 NOVINKY_DIR = "_novinky"
 WEEKLY_LIMIT_USD = float(os.environ.get("NOVINKY_TYDENNI_LIMIT_USD", "0.5"))
@@ -32,18 +33,28 @@ MAX_AGE_DAYS = 60   # starší produkt už není novinka
 MAX_ATTEMPTS = 3    # dočasné chyby (API, síť) se zkoušejí znovu v dalších bězích
 
 SYSTEM = """Píšeš krátké novinky pro český web o outdoorovém vybavení (batohy, boty, karimatky).
-Novinka představuje nový produkt výrobce čtenářům, kteří ho ještě neznají.
+Novinka představuje nový produkt čtenářům a pomáhá jim prvním redakčním pohledem pochopit,
+zda se jím mají zabývat.
 
 Pravidla:
-- Vycházej výhradně z podkladů (stránka výrobce, data z katalogu). Nic si nedomýšlej:
-  žádné vlastní zkušenosti, testy, dojmy z nošení ani srovnání s produkty, které v podkladech nejsou.
-- Jde o představení, ne o recenzi: nehodnoť, nepiš klady a zápory, nedávej známku.
+- Vycházej výhradně z podkladů (stránka výrobce, data z katalogu a dodaná tabulka už
+  recenzovaných produktů). Nic si nedomýšlej: žádné vlastní zkušenosti, testy ani dojmy z nošení.
+- Jde o představení, ne plnou recenzi: nedávej známku, ale krátké redakční hodnocení je povinné.
   Tvrzení výrobce uváděj jako tvrzení výrobce („podle výrobce“, „výrobce uvádí“).
-- Nezmiňuj, jak text vznikl, ani podklady jako takové.
-- Délka těla 120–220 slov, česky, věcně, bez reklamních superlativů a vykřičníků.
+  Závěry, které z parametrů teprve usuzuješ, označ jako náš pohled, ne jako vyzkoušenou skutečnost.
+- Nezmiňuj, jak text vznikl, ani podklady a interní tabulky jako takové.
+- Délka těla 150–260 slov, česky, věcně a výstižně, bez reklamních superlativů a vykřičníků.
 - Tělo: krátký úvodní odstavec (co to je a pro koho), pak odrážky „Hlavní parametry“
   (jen to, co v podkladech je: hmotnost, objem, materiály, membrána, podešev, varianty,
-  cena) a jedna až dvě věty na závěr, čím se produkt liší nebo kam míří.
+  cena). Na závěr samostatný odstavec začínající přesně „**Náš pohled:**“.
+- V „Našem pohledu“ napiš 2–4 věty: pro jaké konkrétní použití produkt podle nás dává smysl,
+  jaký je hlavní kompromis a zda ho má čtenář zvážit, raději zvolit alternativu, nebo počkat
+  na nezávislé zkušenosti. Neopakuj jen úvod a parametry. Když za cenu nabízí málo, řekni to.
+- Alternativu pojmenuj jen tehdy, když je v tabulce už recenzovaných produktů; použij její
+  přesný název a pouze parametry, klady a zápory z tabulky. Cenově ji srovnej, jen pokud jsou
+  ověřené ceny obou produktů ve srovnatelné podobě. Jinak netvrď, že jde o stejnou cenovou
+  kategorii. Pokud relevantní alternativa nebo ceny chybí, dej místo domněnky praktickou radu,
+  co si ověřit před koupí.
 - Hmotnost uváděj tak, jak ji uvádí výrobce, včetně toho, k čemu se vztahuje (pár, jedna bota, velikost).
 - Cenu uveď jen tehdy, když je v podkladech, s měnou.
 - Titulek: „Model: krátký podtitulek“ v sentence case (velké jen první písmeno a vlastní jména).
@@ -128,10 +139,13 @@ def describe(c: dict) -> str:
 
 def validate(draft: dict) -> list[str]:
     errors = []
-    words = len(draft["telo"].split())
+    body = draft["telo"]
+    words = len(body.split())
     if not 90 <= words <= 320:
         errors.append(f"délka {words} slov")
-    if re.search(r"\bAI\b|umělá inteligence|automaticky vygener|jazykový model|podklad", draft["telo"]):
+    if not re.search(r"\*\*Náš pohled:\*\*\s*\S", body):
+        errors.append("chybí redakční blok Náš pohled")
+    if re.search(r"\bAI\b|umělá inteligence|automaticky vygener|jazykový model|podklad", body):
         errors.append("zmiňuje vznik textu nebo podklady")
     if not draft["dost_podkladu"]:
         errors.append("málo podkladů")
@@ -167,7 +181,10 @@ def process(c: dict, dry_run: bool) -> str:
         c["novinka"] = "chybi_obrazek"
         return "chybí obrázek"
     user = (f"Katalogová data:\n{describe(c)}\n\n"
-            f"Stránka výrobce:\n<stranka>\n{text[:PAGE_CHARS]}\n</stranka>\n\nNapiš novinku.")
+            f"Stránka výrobce:\n<stranka>\n{text[:PAGE_CHARS]}\n</stranka>\n\n"
+            f"Už recenzované produkty pro případnou alternativu:\n"
+            f"<recenzovane>\n{peers_table(lib.load_reviews(), c['rubrika'])}\n</recenzovane>\n\n"
+            "Napiš novinku.")
     draft = lib.claude_json(lib.MODEL_WRITER, SYSTEM, user, SCHEMA, "novinka", effort="low", max_tokens=4000)
     errors = validate(draft)
     path, content = build(c, draft, image)

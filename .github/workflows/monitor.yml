@@ -1,8 +1,8 @@
 name: Automat recenzí
 
 # Jeden workflow pro celý automat (ručně spustitelný i z jiné větve):
-#   denně      – monitoring výrobců + třídění kandidátů + novinky → commit do master
-#   út a pá    – napsání recenzí → commit článků i stavu fronty do master
+#   denně      – monitoring výrobců + třídění kandidátů + novinky → commit do main
+#   út a pá    – napsání recenzí → commit článků i stavu fronty do main
 #   ručně      – režim monitor / recenze / test (test nic necommituje, výstupy dá jako artefakt)
 
 on:

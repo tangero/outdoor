@@ -3,6 +3,7 @@
  * (správa v admin/promo na vibecoding.cz). Bez odpovědi zůstane blok skrytý.
  * Kontejner: <section id="vdp-promo" class="cl-promo" hidden></section> na začátku boční lišty;
  * na úzkém displeji (lišta je až pod článkem) se přesune do textu za úvodní odstavec.
+ * Novinka (layout novinka) má kontejner pod textem a nepřesouvá se (nemá .cl-text).
  */
 (function () {
   var box = document.getElementById('vdp-promo');
@@ -102,6 +103,9 @@
             var iu = new URL(e.impressionUrl, ZDROJ);
             iu.searchParams.set('site', 'vybavenidoprirody');
             iu.searchParams.set('surface', 'article');
+            // Bez view_id endpoint beacon odmítne (400) a zobrazení se nezapíše
+            iu.searchParams.set('view_id', window.crypto && crypto.randomUUID
+              ? crypto.randomUUID() : Date.now() + '-' + Math.random().toString(36).slice(2));
             navigator.sendBeacon(iu.toString());
           } catch (_) {}
         }, { threshold: [0.5] });
