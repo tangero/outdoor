@@ -1,5 +1,10 @@
 # Mediumish Jekyll Theme - Change Log
 
+## 2026-10-26 (Vybavení do přírody)
+- Statistiky reklamy: beacon zobrazení posílá `view_id` (bez něj ho vibecoding.cz odmítal a zobrazení se od 20. 10. nepočítala). Blok „Naše akce“ je i pod textem novinek.
+- Build zrychlen ze 7 min na Cloudflare na desítky sekund: `product_linker.rb` sestavuje vzory produktů jednou za build. Výstup webu beze změny (1251 odkazů na produkty).
+- Cloudflare Pages: náhledové buildy vypnuté, commity jen do `_automat/`, `_drafts/`, `scripts/`, `.github/` a dokumentace build nespouštějí.
+
 ## 2026-10-20 (Vybavení do přírody)
 - Nová hlavička: rubriky, Srovnání, Novinky a Značky v jedné liště, české hledání, odkaz na přeskočení na obsah. Pruh ikon rubrik zůstal jen na titulce, v rubrikách a na stránkách značek a srovnání.
 - Nová patička: o webu, autoři (Martin Plachta, Patrick Zandl), kontakt, rubriky s počty recenzí a naše další weby. Pás „Prozkoumejte“ s fotkou zrušen.

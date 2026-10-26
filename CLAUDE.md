@@ -140,9 +140,13 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
 - **PR z Actions:** vyžaduje v Settings → Actions → General zapnuté „Allow GitHub
   Actions to create and approve pull requests". Bez toho workflow jen pushne větev
   `recenze/…` a vypíše varování.
-- **Build je pomalý kvůli `product_linker.rb`** (prochází celé HTML každé stránky);
-  bez něj ~5 s. Na ladění šablon stačí build bez linkeru: dočasný config
-  `plugins_dir: <složka jen s fix_categories.rb>` a `-d` mimo `_site`.
+- **`product_linker.rb` musí zůstat rychlý.** Prochází celé HTML každé stránky; vzory
+  produktů sestavuje jednou za build a regex pouští jen na text, který název obsahuje
+  (`include?`). Původní verze sestavovala vzory pro každý textový uzel: build 4 min lokálně,
+  7 min na Cloudflare, teď ~7 s. Po změně pluginu porovnej `_site` před a po (`diff -r`).
+- **Fronta buildů Cloudflare je jedna pro celý účet** (všech 10 Pages projektů). Náhledové
+  buildy jsou vypnuté; commity měnící jen `_automat/`, `_drafts/`, `scripts/`, `.github/`,
+  `CLAUDE.md` nebo `changelog.md` build nespustí (Build watch paths v nastavení projektu).
 - **`site.categories` v Liquidu nefunguje** — překrývá ho kolekce `_categories`.
   Články rubriky ber jako `site.posts | where_exp: "p", "p.categories contains rubrika.name"`.
 - **GitHub Pages** (`tangero.github.io/outdoor`, legacy build) není produkce a jeho
