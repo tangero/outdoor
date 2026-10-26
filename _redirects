@@ -1,0 +1,7 @@
+# Cloudflare Pages: trvalá přesměrování (301). Nahrazují dřívější meta-refresh stránky v _pages/.
+# Pozor: varianty s velkými písmeny (např. /batohy/Lowe-Alpine-Airzone-Trek-45-55/) sem nepatří,
+# Pages by je mohl spárovat i s novou malou adresou. Pro ně je pravidlo v Cloudflare Redirect Rules.
+/batohy/gregory-paragon-58/ /batohy/gregory-paragon-48-gregory-paragon-58/ 301
+/batohy/gregory-paragon-58 /batohy/gregory-paragon-48-gregory-paragon-58/ 301
+/batohy/osprey-talon-22/ /batohy/osprey-talon-22-osprey-talon-33-osprey-talon-44-osprey-talon-55/ 301
+/batohy/osprey-talon-22 /batohy/osprey-talon-22-osprey-talon-33-osprey-talon-44-osprey-talon-55/ 301

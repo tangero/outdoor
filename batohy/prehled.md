@@ -2,6 +2,7 @@
 layout: default
 title: "Přehled batohů"
 permalink: /batohy/prehled/
+description: "Přehled všech recenzovaných batohů v jedné tabulce: rozdělení podle objemu, hmotnost, zádový systém a hodnocení. Rychlé srovnání před nákupem."
 ---
 <h1>Přehled batohů</h1>
 

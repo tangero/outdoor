@@ -21,6 +21,8 @@ module Jekyll
         next unless node.text?
         next if node.parent.name == 'a' # Přeskočit text v odkazech
         next if ['h1', 'h2', 'h3', 'h4', 'h5', 'h6'].include?(node.parent.name) # Přeskočit nadpisy
+        # Nikdy neodkazovat v <head> (title, JSON-LD), skriptech, stylech ani uvnitř odkazů
+        next if node.ancestors.any? { |a| %w[head title script style noscript a button textarea].include?(a.name) }
 
         original_text = node.text
         text = original_text.dup

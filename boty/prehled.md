@@ -2,6 +2,7 @@
 layout: default
 title: "Přehled bot"
 permalink: /boty/prehled/
+description: "Přehled recenzovaných trekových bot a pohorek v tabulce: typ, použití, membrána a hodnocení. Najděte vhodné boty na turistiku i via ferraty."
 ---
 
 <h1>Přehled bot</h1>

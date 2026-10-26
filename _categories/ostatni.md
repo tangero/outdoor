@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Ostatní"
-description: "Obecné novinky, tipy a zajímavosti ze světa outdooru."
+description: "Tipy a návody ze světa outdooru: gear listy, úprava vody, vložky do bot a další praktické rady na cesty do přírody."
 name: "ostatni"
 permalink: /ostatni/
 ---

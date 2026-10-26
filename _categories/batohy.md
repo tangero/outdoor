@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Batohy"
-description: "Jak vybrat ten správný batoh na vaše cesty."
+description: "Recenze a srovnání turistických batohů Osprey, Gregory, Deuter a dalších: denní, vícedenní i expediční batohy podle objemu a hmotnosti."
 name: "batohy"
 permalink: /batohy/
 ---

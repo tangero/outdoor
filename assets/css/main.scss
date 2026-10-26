@@ -778,3 +778,6 @@ tr:hover {
 @media (prefers-reduced-motion: reduce) {
     .kat-tlacitko, .kat-tabulka tbody tr, .kat-radek__nazev { transition: none; }
 }
+
+/* SEO: viditelný, ale nenápadný H1 na titulce */
+.hp-h1 { font-size: 1.35rem; font-weight: 700; margin: 1rem 0 .5rem; }

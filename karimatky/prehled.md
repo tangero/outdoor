@@ -2,6 +2,7 @@
 layout: default
 title: "Přehled karimatek"
 permalink: /karimatky/prehled/
+description: "Přehled recenzovaných karimatek v tabulce: typ, hmotnost, R-hodnota a hodnocení. Srovnání nafukovacích, samonafukovacích i pěnových karimatek."
 ---
 
 <h1>Přehled karimatek</h1>

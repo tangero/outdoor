@@ -1,0 +1,32 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+# {{ site.name }}
+
+> Český nezávislý web s recenzemi, srovnáními a novinkami outdoorového vybavení: batohy, trekové boty a pohorky, karimatky, stany. Recenze shrnují parametry výrobce a zkušenosti uživatelů z českých i zahraničních zdrojů; každá má verdikt, hodnocení, pro a proti a alternativy.
+
+Jazyk: čeština. Web: {{ site.url }}/
+
+## Rubriky
+{%- assign kol = site.collections | where: "label", "categories" | first -%}
+{%- for c in kol.docs %}
+- [{{ c.title }}]({{ c.url | absolute_url }}): {{ c.description }}
+{%- endfor %}
+
+## Přehledy a srovnání
+- [Přehled batohů]({{ "/batohy/prehled/" | absolute_url }}): tabulka batohů podle objemu
+- [Přehled bot]({{ "/boty/prehled/" | absolute_url }}): tabulka trekových bot a pohorek
+- [Přehled karimatek]({{ "/karimatky/prehled/" | absolute_url }}): tabulka karimatek podle typu
+- [Srovnání]({{ "/srovnani/" | absolute_url }}): srovnání modelů
+
+## Nejnovější recenze
+{% for p in site.posts limit:30 %}
+- [{{ p.title }}]({{ p.url | absolute_url }})
+{%- endfor %}
+
+## Další
+- [O webu]({{ "/about" | absolute_url }})
+- [RSS]({{ "/feed.xml" | absolute_url }})
+- [Sitemap]({{ "/sitemap.xml" | absolute_url }})
