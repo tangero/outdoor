@@ -6,6 +6,7 @@
 - Rozcestník srovnávacích tabulek `/srovnani/`.
 - Promo z vibecoding.cz: obrázkové bannery z admin/promo, blok nahoře v boční liště (lepí se při posunu), na mobilu za úvodním odstavcem článku.
 - Starý článek o Lowe Alpine AirZone Trek 45:55 a samostatné články o Osprey Talon 22 a Gregory Paragon 58 přesměrované na novější recenze.
+- Stránky rubrik (`/batohy/`, `/boty/`, `/karimatky/`) jako katalog: tabulka všech recenzí s fotkou, parametry a známkou, filtry (objem, hmotnost, střih, výška boty, typ, R-faktor, značka) s počty, řazení, „Načíst další“ a filtry v adrese (`?objem=36-64`). Nahoře rychlá rada z průvodce, pod katalogem obecné články a celý průvodce výběrem s kapitolami. Stany a power banky ukazují místo katalogu výzvu a průvodce. Pruh ikon rubrik na stránkách rubrik odpadl (rubriky jsou v hlavičce).
 - Měření návštěvnosti Google Analytics 4 (`G-JQBZM81GGK`, `google_analytics` v `_config.yml`); značka se načítá jen na produkční doméně. Starý kód Universal Analytics odstraněn.
 
 ## 2026-10-19 (Vybavení do přírody)
