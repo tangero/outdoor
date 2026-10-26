@@ -24,6 +24,9 @@ layout: default
     {% if page.odkaz_vyrobce %}
     <p><a class="hp-odkaz" href="{{ page.odkaz_vyrobce }}" rel="nofollow noopener" target="_blank">Stránka produktu u výrobce <span aria-hidden="true">↗</span></a></p>
     {% endif %}
+
+    {%- comment -%} Promo z vibecoding.cz (assets/js/promo.js) {%- endcomment %}
+    <section id="vdp-promo" class="cl-promo cl-promo--novinka" aria-label="Naše akce" hidden></section>
 </article>
 
 {% assign dalsi = site.novinky | sort: "date" | reverse | where_exp: "n", "n.url != page.url" %}
@@ -40,3 +43,5 @@ layout: default
     </div>
 </section>
 {% endif %}
+
+<script src="{{ site.baseurl }}/assets/js/promo.js?v={{ site.time | date: '%s' }}" defer></script>
