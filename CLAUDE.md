@@ -31,7 +31,7 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
 ## Architektura a stack
 
 - **Hosting: Cloudflare Pages**, projekt `outdoor` (`outdoor-ekv.pages.dev`,
-  doména www.vybavenidoprirody.com, DNS na Cloudflare). Každý push do `master`
+  doména www.vybavenidoprirody.com, DNS na Cloudflare). Každý push do `main`
   se sám sestaví a nasadí (Jekyll 4 včetně `_plugins/`). Ověření: `npx wrangler pages
   deployment list --project-name outdoor`.
 - **Jekyll 4 + kramdown (GFM)**, šablona Mediumish (Bootstrap, jQuery, lunr.js).
@@ -89,12 +89,12 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
      TinyFish Search/Fetch, záložně Exa) → text s redakčním verdiktem (Sonnet, strukturovaný
      výstup) → kontrola faktů a redakční kvality (Haiku, až 2 kola oprav) →
      `_posts/<rubrika>/` + záznam do `_data/products.yml`. Workflow commitne články i stav
-     fronty rovnou do `master` (majitel je prochází a opravuje dodatečně). Značky z posledních
+     fronty rovnou do `main` (majitel je prochází a opravuje dodatečně). Značky z posledních
      14 dní dostávají přednost až po ostatních.
   4. `novinky.py` (denně po třídění, 3 kusy, ~0,012 USD/ks, vlastní strop 0,5 USD/týden)
      napíše krátké představení čerstvých kandidátů (ne starých draftů) podle stránky výrobce,
      katalogu a existujících recenzí; závěrečný „Náš pohled“ doporučí použití a případnou
-     alternativu, ale bez známky → `_novinky/`, commit do `master`. Stav kandidáta nemění
+     alternativu, ale bez známky → `_novinky/`, commit do `main`. Stav kandidáta nemění
      (recenze může přijít později), zapíše jen `novinka`.
   - Společné funkce (stahování stránek TinyFish → Exa → requests, volání Claude,
     náklady) v `scripts/automat_lib.py`. Náklady po ISO týdnech v `_automat/naklady.json`,
@@ -130,12 +130,12 @@ gh workflow run monitor.yml --ref <větev> -f rezim=test -f pocet=1   # celý au
 
 ## Pozor na
 
-- **Bot commituje do `master` denně** (`_automat/`). Lokální klon bývá pozadu —
+- **Bot commituje do `main` denně** (`_automat/`). Lokální klon bývá pozadu —
   začínej `git pull --rebase`. `_automat/stav.json` a `kandidati.json` ručně
   neupravuj, pokud nevíš proč; stav zdroje se resetuje `--init-state`.
 - **Jekyll publikuje všechno bez podtržítka**, co není v `exclude` v `_config.yml`.
   Interní soubory (skripty, data automatu) patří do `_automat/` nebo do `exclude`.
-- **`workflow_dispatch` jde jen pro workflow, který už je na `master`** — proto je
+- **`workflow_dispatch` jde jen pro workflow, který už je na `main`** — proto je
   celý automat v jednom `monitor.yml` (dá se pustit `--ref <větev>`).
 - **PR z Actions:** vyžaduje v Settings → Actions → General zapnuté „Allow GitHub
   Actions to create and approve pull requests". Bez toho workflow jen pushne větev
