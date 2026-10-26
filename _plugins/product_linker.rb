@@ -6,7 +6,16 @@ module Jekyll
       # Načtení produktů z _data/products.yml
       products = site.data['products']
       return content if products.nil?
-      
+
+      # Celý dokument: doctype, <html lang> a <head> nechat beze změny, linkovat jen obsah <body>
+      # (DocumentFragment by je zahodil a stránka by se vykreslovala v quirks módu)
+      body_open = content.match(/<body\b[^>]*>/i)
+      body_close = content.rindex(%r{</body>}i)
+      if body_open && body_close && body_close > body_open.end(0)
+        inner = link_products(content[body_open.end(0)...body_close], site, current_url)
+        return content[0...body_open.end(0)] + inner + content[body_close..]
+      end
+
       # Normalizace aktuální URL (odstranění index.html pokud existuje)
       normalized_current = current_url.sub(/index\.html$/, '')
       
