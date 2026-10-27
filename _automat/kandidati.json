@@ -1479,12 +1479,13 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.970520+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "La Sportiva Ultra Raptor II GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Trailová běžecká bota, nerecenzovaný model.",
-      "trideno_at": "2026-10-19T05:01:38.126069+00:00"
+      "trideno_at": "2026-10-19T05:01:38.126069+00:00",
+      "pokus_at": "2026-10-27T06:05:27.766662+00:00"
     },
     {
       "id": "c61b073108f995b1",
@@ -3409,13 +3410,13 @@
       "published_at": "",
       "detected_at": "2026-04-29T10:55:24.324220+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Deuter Vertrail",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Konkrétní trailový běžecký batoh Deuter, nový model, není mezi recenzovanými.",
       "trideno_at": "2026-10-19T16:02:53.377397+00:00",
-      "pokus_at": "2026-10-19T17:27:52.282889+00:00"
+      "pokus_at": "2026-10-27T06:04:44.168637+00:00"
     },
     {
       "id": "f9953d8bb2509012",
@@ -18747,14 +18748,16 @@
         ],
         "variants": 180
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Zpacks Arc Pro 70L",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní trekový batoh Zpacks Arc Pro 70L, v rubrice batohů, zatím nerecenzovaný; zájem u dlouhodobých trekařů.",
       "trideno_at": "2026-10-20T14:08:18.509608+00:00",
       "novinka": "_novinky/2026-10-20-zpacks-arc-pro-70l.md",
-      "novinka_at": "2026-10-20T14:09:45.194630+00:00"
+      "novinka_at": "2026-10-20T14:09:45.194630+00:00",
+      "pokus_at": "2026-10-27T06:09:42.108338+00:00",
+      "soubor": "_posts/batohy/2026-10-27-zpacks-arc-pro-70l.md"
     },
     {
       "id": "a45e109b3feae751",
@@ -19185,14 +19188,16 @@
         ],
         "variants": 3
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Sea to Summit Comfort Deluxe Self-Inflating",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Samonafukovací karimatka, ale jde o použitý kus (Like New, Past Season) a model v seznamu recenzí není; zvážit jen pokud je to stejný model jako nový produkt.",
       "trideno_at": "2026-10-21T14:21:55.731688+00:00",
       "novinka": "_novinky/2026-10-21-sea-to-summit-comfort-deluxe-self-inflating.md",
-      "novinka_at": "2026-10-21T14:22:07.909474+00:00"
+      "novinka_at": "2026-10-21T14:22:07.909474+00:00",
+      "pokus_at": "2026-10-27T06:06:01.003301+00:00",
+      "soubor": "_posts/karimatky/2026-10-27-sea-to-summit-comfort-deluxe-self-inflating.md"
     },
     {
       "id": "154bca96499d06de",

@@ -10,6 +10,15 @@
         "recenze-oprava": 2.14505,
         "novinka": 0.27396
       }
+    },
+    "2026-W44": {
+      "usd": 0.63464,
+      "volani": 10,
+      "polozky": {
+        "recenze-psani": 0.23558,
+        "recenze-kontrola": 0.04818,
+        "recenze-oprava": 0.35088
+      }
     }
   }
 }
