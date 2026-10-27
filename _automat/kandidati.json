@@ -19362,6 +19362,251 @@
       "priorita": 1,
       "duvod": "Blogový článek o výstupu na Pico de Orizaba, nejde o konkrétní produkt ani o model boty.",
       "trideno_at": "2026-10-24T09:11:27.411017+00:00"
+    },
+    {
+      "id": "b9617bc09519c75e",
+      "url": "https://www.keenfootwear.com/products/little-kids-seacamp-ii-cnx-thistle-star-white",
+      "title": "Little Kids' Seacamp II CNX  |  Thistle/Star White",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The original hybrid water sandal for kids, made lighter and more flexible. A water-friendly fave from winter vacation to summer camp.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/1e0e924044089bf081cc9a5e97533d7acae225b4.jpg?v=1769637248",
+      "published_at": "2026-10-26T20:35:28-07:00",
+      "detected_at": "2026-10-27T09:13:28.969246+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Sandal",
+        "tags": [
+          "1032163",
+          "activity:Walk>Back-to-School",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "activity:Water>Summer Camp",
+          "Contoured Fit",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:purple",
+          "gender:Kids'>Little Kids'",
+          "KEEN.CNX Low-Profile Sole",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:c-seacamp-ii-cnx-ss13seat",
+          "Reflective",
+          "shoetype:Sandal",
+          "size_guide:little kids",
+          "YCRF_Footwear",
+          "YGroup_c-seacamp-ii-cnx"
+        ],
+        "grams": [],
+        "price_range": [
+          36.0,
+          36.0
+        ],
+        "variants": 6
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dětská vodní sandál pro děti, mimo rubriky pro dospělé outdoorové boty a nepatří do rubrik webu.",
+      "trideno_at": "2026-10-27T09:14:16.155260+00:00"
+    },
+    {
+      "id": "19adc818b37154e4",
+      "url": "https://www.keenfootwear.com/products/big-kids-newport-h2-pebble-glow",
+      "title": "Big Kids' Newport H2  |  Pebble Glow",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The original hybrid sandal that was born for adventure, just like your kiddo. This rugged sandal with quick-dry webbing is perfect in and out of the water.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/f437b3cd0a445f3defd19edef86432b563b0d4d1_b9ad29fd-d624-4e7e-a364-4fcff62859db.jpg?v=1783372769",
+      "published_at": "2026-10-26T11:50:31-07:00",
+      "detected_at": "2026-10-27T09:13:28.969334+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Sandal",
+        "tags": [
+          "1030793",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "activity:Walk>Back-to-School",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "activity:Water>Summer Camp",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:blue",
+          "gender:Kids'>Big Kids'",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:y-newport-h2-9212",
+          "Original Fit",
+          "Reflective",
+          "shoetype:Sandal",
+          "size_guide:big kids",
+          "YCRF_Footwear",
+          "YGroup_y-newport-h2"
+        ],
+        "grams": [
+          719,
+          722,
+          724,
+          726,
+          728
+        ],
+        "price_range": [
+          30.0,
+          30.0
+        ],
+        "variants": 7
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dětský sandál, určený pro děti a nespadá do rubrik boty pro dospělé; mimo rozsah webu.",
+      "trideno_at": "2026-10-27T09:14:16.155298+00:00"
+    },
+    {
+      "id": "07655f01bc59d4db",
+      "url": "https://bigagnes.com/products/pack-rain-cover",
+      "title": "Pack Rain Cover",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Pack like a pro with a rain cover for your Big Agnes pack. The Rain Cover is designed to keep your pack sheltered from the elements while out on the trail. The 40L Rain Cover fits the Prospector 40L and Sun Dog 40L, sold separately. The 60L Rain Cover fits the Garnet 60L and Parkview 60L, sold separately.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/products/Pack-Covers-20-25-orange-side.png?v=1779298990",
+      "published_at": "2026-10-26T13:38:23-06:00",
+      "detected_at": "2026-10-27T09:13:49.348491+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "ACCESSORIES",
+        "tags": [
+          "AltText.ai",
+          "discontinued",
+          "DISCOUNT ELIGIBLE"
+        ],
+        "grams": [
+          113
+        ],
+        "price_range": [
+          19.97,
+          19.97
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Doplněk, pláštěnka na batoh, nejde o batoh.",
+      "trideno_at": "2026-10-27T09:14:16.155308+00:00"
+    },
+    {
+      "id": "b0c89b740e474167",
+      "url": "https://bigagnes.com/products/awall-sage-canyon-plus-deluxe",
+      "title": "Accessory Wall Sage Canyon Shelter Plus And Deluxe",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "When you're looking for extra coverage, the Sage Canyon Accessory Wall Plus & Deluxe easily attaches to any side of your Sage Canyon Shelter Plus or Deluxe for added privacy and protection from the elements.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/products/Sage-Canyon-Shelter-Deluxe-07-accessory-mesh.png?v=1779223847",
+      "published_at": "2026-10-26T13:20:16-06:00",
+      "detected_at": "2026-10-27T09:13:49.348565+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [
+          "AltText.ai",
+          "discontinued"
+        ],
+        "grams": [
+          363
+        ],
+        "price_range": [
+          29.97,
+          29.97
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Příslušenství ke stanu, mimo rubriky.",
+      "trideno_at": "2026-10-27T09:14:16.155315+00:00"
+    },
+    {
+      "id": "d99215c0d6d44847",
+      "url": "https://bigagnes.com/products/columbine-skirt",
+      "title": "Columbine Skirt",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Designed by women, for women, the Columbine Skirt has a flattering fit that keeps your lower half happy and warm. Pair over base layers when out snowshoeing, sitting by the campfire or brave the cold with boots and tights. This ultralight insulated skirt is designed to regulate your core temperature and move moisture for performance without compromise by using extremely breathable 4-way stretch fabrics that wear close to the body, providing maximum comfort and thermal efficiency in a wide range of conditions.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/Columbine-Skirt-Black-Front.png?v=1779223582",
+      "published_at": "2026-10-26T13:19:22-06:00",
+      "detected_at": "2026-10-27T09:13:49.348651+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "APPAREL",
+        "tags": [
+          "discontinued",
+          "recommended-womens-larkspur-jacket",
+          "recommended-womens-larkspur-vest",
+          "recommended-womens-luna-jacket",
+          "recommended-womens-twilight-insulated-pants"
+        ],
+        "grams": [
+          454
+        ],
+        "price_range": [
+          23.98,
+          23.98
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, sukně, mimo rubriky.",
+      "trideno_at": "2026-10-27T09:14:16.155323+00:00"
+    },
+    {
+      "id": "6733d89e1b867320",
+      "url": "https://bigagnes.com/products/c-bar-2-footprint",
+      "title": "C Bar 2 Footprint",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "To extend the life of your tent floor, we recommend using a Big Agnes footprint or ground cloth. The Big Agnes footprint also enables you to pitch a lightweight, Fast Fly shelter while leaving the tent body behind. The Fast Fly configuration requires the footprint, tent fly, poles, and stakes.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/products/C-Bar-2-Footprint-01.png?v=1662655756",
+      "published_at": "2026-10-26T13:17:26-06:00",
+      "detected_at": "2026-10-27T09:13:49.348701+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [
+          "discontinued",
+          "related-c-bar-2"
+        ],
+        "grams": [
+          181
+        ],
+        "price_range": [
+          16.0,
+          16.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Podložka pod stan, doplněk mimo rubriky karimatek.",
+      "trideno_at": "2026-10-27T09:14:16.155330+00:00"
     }
   ]
 }
