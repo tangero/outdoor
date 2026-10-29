@@ -19760,6 +19760,147 @@
       "priorita": 1,
       "duvod": "Článek o samostatné turistice, nejde o produkt.",
       "trideno_at": "2026-10-28T09:10:47.751266+00:00"
+    },
+    {
+      "id": "58186eee7a9e6dc8",
+      "url": "https://www.keenfootwear.com/products/womens-vista-energy-carbon-fiber-toe-magnet-rhubarb",
+      "title": "Women's Vista Energy (Carbon Toe)  |  Magnet/Rhubarb",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Designed for a woman’s foot and built with game-changing cushioning, this low work sneaker keeps you supported for your whole shift and beyond.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/36acbd4da74e231ddcb526cd9c75025fd460a6f7.jpg?v=1763397867",
+      "published_at": "2026-10-28T10:42:35-07:00",
+      "detected_at": "2026-10-29T09:09:42.804332+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Work > Footwear > Shoe",
+        "tags": [
+          "1026662",
+          "activity:Work",
+          "activity:Work>Warehouse & Transportation",
+          "Carbon Toe",
+          "discount-outlet:30",
+          "EH-Rated Electrical Protection",
+          "filtercolor:grey",
+          "filtercolor:pink",
+          "filtercolor:red",
+          "gender:Women's",
+          "KEEN.ReGEN Responsive Midsole",
+          "KonnectFit Heel Stability",
+          "model_number:w-vista-energy-13705",
+          "Non-Metallic",
+          "Non-Mutilating",
+          "Oil- And Slip-Resistant",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "toetype:Carbon Toe",
+          "Work",
+          "YCRF_Footwear",
+          "YGroup_w-vista-energy"
+        ],
+        "grams": [
+          1197,
+          1215,
+          1255,
+          1338,
+          1372
+        ],
+        "price_range": [
+          65.0,
+          65.0
+        ],
+        "variants": 24
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pracovní dámská tenisková obuv (work sneaker) pro sklady, nejde o turistickou ani trailovou botu; městský/pracovní typ.",
+      "trideno_at": "2026-10-29T09:10:24.907478+00:00"
+    },
+    {
+      "id": "0e8463d181371ca3",
+      "url": "https://www.keenfootwear.com/products/little-kids-jasper-ii-kid-rex",
+      "title": "Little Kids' Jasper II  |  Kid Rex",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "A fave for over 10 years for its fun colors and play-anywhere comfort, our original suede leather sneaker for kids is back.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/e5e4b9e4c25dfce49459c78d3a532becf4e974ba_7898d4cc-e978-4baf-adcb-122bc8c52854.jpg?v=1783373256",
+      "published_at": "2026-10-28T09:35:04-07:00",
+      "detected_at": "2026-10-29T09:09:42.804472+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Shoe",
+        "tags": [
+          "1031032",
+          "activity:Walk>Back-to-School",
+          "Contoured Fit",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:green",
+          "filtercolor:misc",
+          "gender:Kids'>Little Kids'",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:c-jasper-ii-13598",
+          "Reflective",
+          "shoetype:Shoe",
+          "size_guide:little kids",
+          "YCRF_Footwear",
+          "YGroup_c-jasper-ii"
+        ],
+        "grams": [],
+        "price_range": [
+          42.0,
+          42.0
+        ],
+        "variants": 6
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dětské městské kožené tenisky, mimo rubriky a nejsou to outdoorové boty do terénu.",
+      "trideno_at": "2026-10-29T09:10:24.907534+00:00"
+    },
+    {
+      "id": "bd3572df301562e0",
+      "url": "https://www.gossamergear.com/products/2025-vagabond-jet",
+      "title": "Vagabond Jet - Previous Model",
+      "brand": "Gossamer Gear",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "This is the previous model of the Vagabond Jet. At 23 liters, it’s 3 liters smaller than the current 26L version and does not have the luggage pass-through, but everything else you love is still here. It’s brand-new, unused stock.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1300/6549/files/VAGABOND-JET_RF_bea27d44-3226-4069-a542-c9514743d1de.png?v=1793216936",
+      "published_at": "2026-10-28T14:45:39-05:00",
+      "detected_at": "2026-10-29T09:10:15.745990+00:00",
+      "data": {
+        "vendor": "Gossamer Gear",
+        "product_type": "",
+        "tags": [
+          ".97",
+          "activity:ultralight-travel",
+          "daypacks",
+          "travel",
+          "travel bag"
+        ],
+        "grams": [
+          700
+        ],
+        "price_range": [
+          87.5,
+          87.5
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Cestovní taška/daypack pro lifestyle a cestování, nejde o turistický batoh; navíc bez jasného modelového názvu pro rubriku batohy.",
+      "trideno_at": "2026-10-29T09:10:24.907552+00:00"
     }
   ]
 }

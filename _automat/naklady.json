@@ -12,13 +12,13 @@
       }
     },
     "2026-W44": {
-      "usd": 0.63623,
-      "volani": 12,
+      "usd": 0.63683,
+      "volani": 13,
       "polozky": {
         "recenze-psani": 0.23558,
         "recenze-kontrola": 0.04818,
         "recenze-oprava": 0.35088,
-        "trideni": 0.00159
+        "trideni": 0.00219
       }
     }
   }
