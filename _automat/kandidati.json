@@ -19905,6 +19905,205 @@
       "priorita": 1,
       "duvod": "Cestovní taška/daypack pro lifestyle a cestování, nejde o turistický batoh; navíc bez jasného modelového názvu pro rubriku batohy.",
       "trideno_at": "2026-10-29T09:10:24.907552+00:00"
+    },
+    {
+      "id": "b724c2bab378d172",
+      "url": "https://www.garmont.com/products/t8-extreme-wp-400g-thinsulate-regular-coyote-003171",
+      "title": "T8 EXTREME WP 400G THINSULATE™ REGULAR",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Il T8 EXTREME WP 400G THINSULATE™   è uno scarpone militare impermeabile, conforme alle normative AR 670-1 e DAFI 36-2903, progettato per affrontare condizioni invernali estreme, caratterizzate da freddo intenso e umidità, inclusa l'esposizione prolungata a neve, neve mista ad acqua e temperature sotto lo zero.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/S71052_U310310_01.jpg?v=1792588009",
+      "published_at": "2026-10-29T10:41:36+01:00",
+      "detected_at": "2026-10-30T09:09:15.681044+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "",
+        "tags": [
+          "Military",
+          "novita_fw26",
+          "Novità",
+          "rel_S71052"
+        ],
+        "grams": [
+          1050,
+          1070,
+          1100,
+          1130,
+          1160
+        ],
+        "price_range": [
+          230.0,
+          230.0
+        ],
+        "variants": 21
+      },
+      "status": "vhodny",
+      "model": "Garmont T8 Extreme WP 400G Thinsulate",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Voděodolná zimní bota pro extrémní terén a sníh, ale vojenský model s úzkým zaměřením, proto nízká priorita.",
+      "trideno_at": "2026-10-30T09:10:22.415987+00:00",
+      "novinka": "_novinky/2026-10-30-garmont-t8-extreme-wp-400g-thinsulate.md",
+      "novinka_at": "2026-10-30T09:10:38.143483+00:00"
+    },
+    {
+      "id": "d75bf9b07fd89b26",
+      "url": "https://www.keenfootwear.com/products/all-gender-providence-phileo-clog-black-black",
+      "title": "All Gender Providence PHILEO Clog  |  Black/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our original Providence clog is back – now in triple black with roughout leather and a jute-infused outsole. Parisian designer Philéo Landowski turned our rugged clog into an all-terrain fashion statement.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/e659d7696784c653e9e86f5ff3e28d8fd7979517.jpg?v=1793039993",
+      "published_at": "2026-10-29T05:36:27-07:00",
+      "detected_at": "2026-10-30T09:09:29.692074+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "All Gender > Footwear > Slip-On",
+        "tags": [
+          "1033312",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:All Gender",
+          "gender:Men's",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:x-providence-phileo-clog-17300",
+          "Original Fit",
+          "shoetype:Shoe",
+          "shoetype:Slip-On",
+          "size_guide:all gender",
+          "YCRF_Footwear",
+          "YGroup_x-providence-phileo-clog"
+        ],
+        "grams": [],
+        "price_range": [
+          210.0,
+          210.0
+        ],
+        "variants": 20
+      },
+      "status": "zamitnuty",
+      "model": "Keen Providence PHILEO Clog",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městský casual pantofel (clog), nepatří do turistických ani trekových bot.",
+      "trideno_at": "2026-10-30T09:10:22.416057+00:00"
+    },
+    {
+      "id": "a90870dddfc845d9",
+      "url": "https://www.keenfootwear.com/products/mens-targher-phileo-hairy-black-black",
+      "title": "Men's Targher PHILEO Shoe  |  Hairy Black/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Hybrid on hybrid. Two KEEN icons – the Targhee hiking boot and Jasper sneaker – in a wholly original hairy creation by Parisian designer Philéo Landowski.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/88310a67901df73224f42a78386e6829009dbb14.jpg?v=1793039993",
+      "published_at": "2026-10-29T05:35:47-07:00",
+      "detected_at": "2026-10-30T09:09:29.692205+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Shoe",
+        "tags": [
+          "1032809",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:Men's",
+          "KEEN.ALL-TERRAIN Traction",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-targher-phileo-16556",
+          "Original Fit",
+          "shoetype:Shoe",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-targher-phileo"
+        ],
+        "grams": [],
+        "price_range": [
+          225.0,
+          225.0
+        ],
+        "variants": 14
+      },
+      "status": "zamitnuty",
+      "model": "Keen Targher PHILEO Shoe",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská lifestyle bota (hybrid sneaker), mimo rubriky webu.",
+      "trideno_at": "2026-10-30T09:10:22.416090+00:00"
+    },
+    {
+      "id": "50e3136e6e375723",
+      "url": "https://www.keenfootwear.com/products/all-gender-evanston-phileo-black",
+      "title": "All Gender Evanston PHILEO Boot  |  Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Evanston reimagined with an exposed steel toe and heel counter, and fold-down collar. Parisian designer Philéo Landowski took our tough leather work boot off the construction site and into the fashion scene.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/7342cdfeca4cc682afb28bebcb1c9c06de8511e7.jpg?v=1793039993",
+      "published_at": "2026-10-29T05:34:52-07:00",
+      "detected_at": "2026-10-30T09:09:29.692308+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "All Gender > Footwear > Boot",
+        "tags": [
+          "1033124",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:black",
+          "gender:All Gender",
+          "gender:Men's",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:x-evanston-phileo-17143",
+          "Original Fit",
+          "shoetype:Boot",
+          "size_guide:all gender",
+          "YCRF_Footwear",
+          "YGroup_x-evanston-phileo"
+        ],
+        "grams": [],
+        "price_range": [
+          335.0,
+          335.0
+        ],
+        "variants": 20
+      },
+      "status": "zamitnuty",
+      "model": "Keen Evanston PHILEO Boot",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Módní městská pracovní bota, nejde o outdoorovou turistickou obuv.",
+      "trideno_at": "2026-10-30T09:10:22.416121+00:00"
+    },
+    {
+      "id": "031f1d7b7414655b",
+      "url": "https://www.osprey.com/stories/ski-snowboard/unexpected",
+      "title": "Expect the Unexpected",
+      "brand": "Osprey",
+      "strategy": "exa",
+      "category_hint": "batohy",
+      "snippet": "Expect the Unexpected\n\n# Expect the Unexpected \n\nHow The Venture Out Project facilitated an unforeseen trip down the slopes full of kindness, community, and cheers.\n\n 10 min read \n\n \n\n Cat Weller \n\n Oct 29, 2026 \n\nSitting alone one night while my wife and kids were sleeping, I was scrolling in the way I try not to scroll when the others are awake. You know—the kind of scrolling where you tell yourself you’re just going to check one thing and suddenly you’re 47 posts deep into the internet.\n\nNothing particularly interesting was passing by until I saw the name Canyon Wildwood show up on one of the many queer sites I follow. I was intrigued. Canyon was promoting a trip with The Venture Out Project (TVOP)(Opens in a new window): an opportunity to ski with others in the Q+ community.\n\nNow, before I go any further, I should tell you that as a 43-year-old woman, I had been skiing exactly once in my life.\n\nIt was in seventh grade.\n\nIt was awful.\n\nAnd I had spent the next 30-ish years feeling very confident that I had experienced enough skiing for one lifetime.\n\nI am also the wife of someone who grew up skiing but hasn’t been on the slopes in decades; the mother of a great 10-year-old skier who never gets to ski; an 11-year-old who has a firm “nope, not for me” policy when it comes to skiing; and a 5-year-old novice who is willing to try pretty much anything new.\n\nSo, naturally, when I saw the post about a family ski adventure, I thought: Absolutely not.\n\nThen I clicked the link.\n\nAt",
+      "thumbnail": "https://www.osprey.com/media/magefan_blog/H63A1385_1.jpg",
+      "published_at": "2026-10-29T00:00:00.000Z",
+      "detected_at": "2026-10-30T09:10:08.847632+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o cestování a lyžování, nejde o produkt.",
+      "trideno_at": "2026-10-30T09:10:22.416149+00:00"
     }
   ]
 }
