@@ -4102,12 +4102,13 @@
       "published_at": "",
       "detected_at": "2026-05-03T10:04:01.844156+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Merrell Moab Speed 2 GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Turistická bota Moab Speed 2 GORE-TEX; v seznamu je Merrell Moab 3, ale Speed 2 je jiný model.",
-      "trideno_at": "2026-10-19T16:03:02.416385+00:00"
+      "trideno_at": "2026-10-19T16:03:02.416385+00:00",
+      "pokus_at": "2026-10-30T06:03:32.645442+00:00"
     },
     {
       "id": "402ee1e8e7852a46",
@@ -6781,13 +6782,14 @@
       "published_at": "",
       "detected_at": "2026-05-22T11:44:30.094735+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Deuter Aircontact Lite 50+10",
       "rubrika": "batohy",
       "priorita": 4,
       "duvod": "Nová velikost řady AirContact Lite, dosud nerecenzovaná varianta 50+10.",
       "trideno_at": "2026-10-19T16:04:12.596251+00:00",
-      "pokus_at": "2026-10-19T17:30:55.926783+00:00"
+      "pokus_at": "2026-10-30T06:04:04.154937+00:00",
+      "soubor": "_posts/batohy/2026-10-30-deuter-aircontact-lite-50-10.md"
     },
     {
       "id": "8fd5de8cb45a9bdd",
@@ -17887,7 +17889,7 @@
         ],
         "variants": 2
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Big Agnes Captain Comfort",
       "rubrika": "karimatky",
       "priorita": 3,
@@ -17896,7 +17898,9 @@
       "novinka": "neplatna",
       "novinka_problemy": [
         "zmiňuje vznik textu nebo podklady"
-      ]
+      ],
+      "pokus_at": "2026-10-30T06:06:47.422968+00:00",
+      "soubor": "_posts/karimatky/2026-10-30-big-agnes-captain-comfort.md"
     },
     {
       "id": "43ac2db96d2ca802",
