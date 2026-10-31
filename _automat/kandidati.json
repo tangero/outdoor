@@ -20104,6 +20104,55 @@
       "priorita": 1,
       "duvod": "Článek o cestování a lyžování, nejde o produkt.",
       "trideno_at": "2026-10-30T09:10:22.416149+00:00"
+    },
+    {
+      "id": "a2eeaddfec60d395",
+      "url": "https://www.keenfootwear.com/products/big-kids-seacamp-ii-cnx-thistle-star-white",
+      "title": "Big Kids' Seacamp II CNX  |  Thistle/Star White",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The original hybrid water sandal for kids, made lighter and more flexible. A water-friendly fave from winter vacation to summer camp.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/8fb9d22871b63573abb1f89073a1bc14b2257b46.jpg?v=1769637407",
+      "published_at": "2026-10-30T08:29:00-07:00",
+      "detected_at": "2026-10-31T09:07:29.433435+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Sandal",
+        "tags": [
+          "1032169",
+          "activity:Walk>Back-to-School",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "activity:Water>Summer Camp",
+          "Contoured Fit",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:purple",
+          "gender:Kids'>Big Kids'",
+          "KEEN.CNX Low-Profile Sole",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:y-seacamp-ii-cnx-ss13seay",
+          "Reflective",
+          "shoetype:Sandal",
+          "size_guide:big kids",
+          "YCRF_Footwear",
+          "YGroup_y-seacamp-ii-cnx"
+        ],
+        "grams": [],
+        "price_range": [
+          36.0,
+          36.0
+        ],
+        "variants": 7
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dětský sandál do vody a do města (Keen Seacamp II CNX), nespadá do rubrik batohy, boty do terénu ani karimatky; navíc jde o městský/lifestyle produkt.",
+      "trideno_at": "2026-10-31T09:08:18.522321+00:00"
     }
   ]
 }
