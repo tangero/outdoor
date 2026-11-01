@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-31T09:08:14.991826+00:00",
+  "last_run": "2026-11-01T09:08:12.377963+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,8 +273,13 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-10-31T09:08:12.204365+00:00",
+      "last_check": "2026-11-01T09:08:09.539451+00:00",
       "items": [
+        {
+          "url": "https://www.osprey.com/nz/en/stories/ski-snowboard/unexpected",
+          "hash": "64f1d9c12ed90110",
+          "detected_at": "2026-11-01T09:08:09.539432+00:00"
+        },
         {
           "url": "https://www.osprey.com/us/es/stories/ski-snowboard/unexpected",
           "hash": "b87afe9d531f7316",
@@ -648,7 +653,7 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-10-31T09:08:12.397789+00:00",
+      "last_check": "2026-11-01T09:08:09.720087+00:00",
       "items": [
         {
           "url": "https://eu.gregorypacks.com/uk-en/gregory-x-garmin.html",
@@ -948,7 +953,7 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-10-31T09:08:12.585892+00:00",
+      "last_check": "2026-11-01T09:08:09.906349+00:00",
       "items": [
         {
           "url": "https://pimcore.deuter.com/deuter-master/en/backpacks/trail",
@@ -1278,7 +1283,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-10-31T09:08:12.765908+00:00",
+      "last_check": "2026-11-01T09:08:10.094367+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/us/",
@@ -1513,7 +1518,7 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-10-31T09:07:12.942968+00:00",
+      "last_check": "2026-11-01T09:07:20.172113+00:00",
       "items": [
         {
           "url": "https://www.blackdiamondequipment.com/products/mens-recon-stretch-pants-past-season",
@@ -1933,7 +1938,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-10-31T09:08:12.935606+00:00",
+      "last_check": "2026-11-01T09:08:10.268619+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -1953,7 +1958,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-10-31T09:08:13.119542+00:00",
+      "last_check": "2026-11-01T09:08:10.476754+00:00",
       "items": [
         {
           "url": "https://ph.salomon.com/products/xt-4-og-bodega",
@@ -2338,7 +2343,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-10-31T09:08:13.300873+00:00",
+      "last_check": "2026-11-01T09:08:10.663031+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/stores/la-sportiva-store-kalymnos",
@@ -2523,7 +2528,7 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-10-31T09:07:34.576395+00:00",
+      "last_check": "2026-11-01T09:07:41.354927+00:00",
       "items": [
         {
           "url": "https://www.scarpa.com/products/4-quattro-pro-le-lightweight-power-and-control-12014-500-1",
@@ -3108,7 +3113,7 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-10-31T09:08:13.482685+00:00",
+      "last_check": "2026-11-01T09:08:10.849051+00:00",
       "items": [
         {
           "url": "https://www.mammut.com/us/en/stories-guides/what-should-you-wear-for-hiking-in-the-fall-an-outfit-guide-for-unpredictable-weather",
@@ -3318,7 +3323,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-10-31T09:08:13.667740+00:00",
+      "last_check": "2026-11-01T09:08:11.068698+00:00",
       "items": [
         {
           "url": "https://us.lowa.com/blogs/adventures/two-left-feet-on-mexicos-highest-peak",
@@ -3538,7 +3543,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-10-31T09:08:13.848821+00:00",
+      "last_check": "2026-11-01T09:08:11.258705+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/women/shoes/agate",
@@ -3698,7 +3703,7 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-10-31T09:07:15.324812+00:00",
+      "last_check": "2026-11-01T09:07:22.582367+00:00",
       "items": [
         {
           "url": "https://www.garmont.com/products/t8-extreme-wp-400g-thinsulate-regular-coyote-003171",
@@ -4053,7 +4058,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-10-31T09:08:14.026439+00:00",
+      "last_check": "2026-11-01T09:08:11.443739+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/blacklight-carbon-pro-binding-interview",
@@ -4178,7 +4183,7 @@
       ]
     },
     "keen": {
-      "last_check": "2026-10-31T09:07:29.433457+00:00",
+      "last_check": "2026-11-01T09:07:36.479304+00:00",
       "items": [
         {
           "url": "https://www.keenfootwear.com/products/big-kids-seacamp-ii-cnx-thistle-star-white",
@@ -4668,7 +4673,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-10-31T09:08:14.204521+00:00",
+      "last_check": "2026-11-01T09:08:11.632837+00:00",
       "items": [
         {
           "url": "https://www.hoka.com/en/id/new-arrivals/",
@@ -4853,7 +4858,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-10-31T09:08:14.400663+00:00",
+      "last_check": "2026-11-01T09:08:11.815208+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/merrell-and-pam-come-together-for-a-collaboration-inspired-by-amphibian-life/",
@@ -5013,7 +5018,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-10-31T09:08:14.583823+00:00",
+      "last_check": "2026-11-01T09:08:11.986742+00:00",
       "items": [
         {
           "url": "https://www.inov-8.com/us/roclite-g-275-womens-trail-running-shoes?colours=867",
@@ -5133,7 +5138,7 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-10-31T09:07:48.423355+00:00",
+      "last_check": "2026-11-01T09:07:50.051927+00:00",
       "items": [
         {
           "url": "https://www.thermarest.com/products/lightning-tails",
@@ -5353,7 +5358,7 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-10-31T09:07:41.686252+00:00",
+      "last_check": "2026-11-01T09:07:45.815501+00:00",
       "items": [
         {
           "url": "https://seatosummit.com/products/clear-stopper-dry-bag-used",
@@ -5633,7 +5638,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-10-31T09:08:14.789688+00:00",
+      "last_check": "2026-11-01T09:08:12.189313+00:00",
       "items": [
         {
           "url": "https://klymit.com/blogs/gift-guides/holiday",
@@ -5823,7 +5828,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-10-31T09:08:14.991798+00:00",
+      "last_check": "2026-11-01T09:08:12.377922+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/11-outerwear/",
@@ -6168,7 +6173,7 @@
       ]
     },
     "big-agnes": {
-      "last_check": "2026-10-31T09:07:53.348136+00:00",
+      "last_check": "2026-11-01T09:07:53.663877+00:00",
       "items": [
         {
           "url": "https://bigagnes.com/products/pack-rain-cover",
@@ -6293,15 +6298,15 @@
       ]
     },
     "nemo": {
-      "last_check": "2026-10-31T09:07:55.555883+00:00",
+      "last_check": "2026-11-01T09:07:55.943472+00:00",
       "items": []
     },
     "hyperlite-mountain-gear": {
-      "last_check": "2026-10-31T09:07:57.800844+00:00",
+      "last_check": "2026-11-01T09:07:58.150339+00:00",
       "items": []
     },
     "zpacks": {
-      "last_check": "2026-10-31T09:08:09.584504+00:00",
+      "last_check": "2026-11-01T09:08:07.180804+00:00",
       "items": [
         {
           "url": "https://zpacks.com/products/zpacks-zip-pouch",
@@ -6366,7 +6371,7 @@
       ]
     },
     "gossamer-gear": {
-      "last_check": "2026-10-31T09:08:11.819421+00:00",
+      "last_check": "2026-11-01T09:08:09.264671+00:00",
       "items": [
         {
           "url": "https://www.gossamergear.com/products/2025-vagabond-jet",
