@@ -20181,6 +20181,456 @@
       "priorita": 1,
       "duvod": "Dětský sandál do vody a do města (Keen Seacamp II CNX), nespadá do rubrik batohy, boty do terénu ani karimatky; navíc jde o městský/lifestyle produkt.",
       "trideno_at": "2026-10-31T09:08:18.522321+00:00"
+    },
+    {
+      "id": "45d66252365d0c74",
+      "url": "https://www.keenfootwear.com/products/big-kids-jasper-ii-kid-rex",
+      "title": "Big Kids' Jasper II  |  Kid Rex",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "A fave for over 10 years for its fun colors and play-anywhere comfort, our original suede leather sneaker for kids is back.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/8772ffee0024818143fa787bca65ce1ed13747eb_aad12055-e25b-4e5c-9c0a-23853d992eb4.jpg?v=1783373256",
+      "published_at": "2026-11-02T16:23:11-08:00",
+      "detected_at": "2026-11-03T09:08:13.356519+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Shoe",
+        "tags": [
+          "1031027",
+          "activity:Walk>Back-to-School",
+          "Contoured Fit",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:green",
+          "filtercolor:misc",
+          "gender:Kids'>Big Kids'",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:y-jasper-ii-13597",
+          "Reflective",
+          "shoetype:Shoe",
+          "size_guide:big kids",
+          "YCRF_Footwear",
+          "YGroup_y-jasper-ii"
+        ],
+        "grams": [],
+        "price_range": [
+          42.0,
+          42.0
+        ],
+        "variants": 7
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dětská městská tenisková bota, mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757178+00:00"
+    },
+    {
+      "id": "c489d32fb67c474c",
+      "url": "https://www.keenfootwear.com/products/little-kids-newport-h2-pebble-glow",
+      "title": "Little Kids' Newport H2  |  Pebble Glow",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The original hybrid sandal that was born for adventure, just like your kiddo. This rugged sandal with quick-dry webbing is perfect in and out of the water.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/de8d4c4617e9de15acf1bc05a59973b3d416cd78.jpg?v=1783372771",
+      "published_at": "2026-11-02T14:58:43-08:00",
+      "detected_at": "2026-11-03T09:08:13.356633+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Sandal",
+        "tags": [
+          "1030789",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "activity:Walk>Back-to-School",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "activity:Water>Summer Camp",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:blue",
+          "gender:Kids'>Little Kids'",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:c-newport-h2-8212",
+          "Original Fit",
+          "Reflective",
+          "shoetype:Sandal",
+          "size_guide:little kids",
+          "YCRF_Footwear",
+          "YGroup_c-newport-h2"
+        ],
+        "grams": [
+          525,
+          526,
+          528,
+          529,
+          531
+        ],
+        "price_range": [
+          30.0,
+          30.0
+        ],
+        "variants": 6
+      },
+      "status": "duplicitni",
+      "model": "Keen Newport H2",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Dětský outdoorový sandál do terénu; produkt patří do rubriky boty, ale je to dětská varianta s okrajovým významem pro web.",
+      "trideno_at": "2026-11-03T09:08:56.757219+00:00"
+    },
+    {
+      "id": "5263b790a1940cbd",
+      "url": "https://www.keenfootwear.com/products/toddlers-newport-h2-charisma-daiquiri-green",
+      "title": "Toddlers' Newport H2  |  Charisma/Daiquiri Green",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The original hybrid sandal that was born for adventure, just like your kiddo. This rugged sandal with quick-dry webbing is perfect in and out of the water.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/4f844cd416693024bbf73daee355a0b54ced485c.jpg?v=1783373258",
+      "published_at": "2026-11-02T10:45:02-08:00",
+      "detected_at": "2026-11-03T09:08:13.356722+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Sandal",
+        "tags": [
+          "1030783",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "activity:Walk>Back-to-School",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "activity:Water>Summer Camp",
+          "Eco Anti-Odor",
+          "filtercolor:purple",
+          "gender:Kids'>Toddler",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:t-newport-h2-12646",
+          "No-Tie Elastic Lace",
+          "Original Fit",
+          "Reflective",
+          "shoetype:Sandal",
+          "size_guide:toddler",
+          "YCRF_Footwear",
+          "YGroup_t-newport-h2"
+        ],
+        "grams": [
+          320
+        ],
+        "price_range": [
+          35.75,
+          35.75
+        ],
+        "variants": 4
+      },
+      "status": "duplicitni",
+      "model": "Keen Newport H2",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Batolecí outdoorový sandál Newport H2; patří do boty, dětská varianta s nízkou prioritou.",
+      "trideno_at": "2026-11-03T09:08:56.757244+00:00"
+    },
+    {
+      "id": "81ac5af0213da15c",
+      "url": "https://www.keenfootwear.com/products/toddlers-seacamp-ii-cnx-rainbow-festival-fuchsia",
+      "title": "Toddlers' Seacamp II CNX  |  Rainbow/Festival Fuchsia",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "The original hybrid water sandal for kids, made lighter and more flexible. A water-friendly fave with the low-profile outsole toddlers love.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/fe15dc0724244bdc613e86c792171e9e93d30b51.jpg?v=1783375539",
+      "published_at": "2026-11-02T09:42:41-08:00",
+      "detected_at": "2026-11-03T09:08:13.356798+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Kids > Footwear > Sandal",
+        "tags": [
+          "1027406",
+          "activity:Walk>Back-to-School",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "activity:Water>Summer Camp",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "filtercolor:misc",
+          "gender:Kids'>Toddler",
+          "KEEN.CNX Low-Profile Sole",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:t-seacamp-ii-cnx-kf1313",
+          "No-Tie Elastic Lace",
+          "Reflective",
+          "shoetype:Sandal",
+          "size_guide:toddler",
+          "YCRF_Footwear",
+          "YGroup_t-seacamp-ii-cnx"
+        ],
+        "grams": [
+          320
+        ],
+        "price_range": [
+          27.5,
+          27.5
+        ],
+        "variants": 4
+      },
+      "status": "vhodny",
+      "model": "Keen Seacamp II CNX",
+      "rubrika": "boty",
+      "priorita": 1,
+      "duvod": "Dětský vodní sandál spíše na pláž a řeku, okrajový produkt pro outdoorové boty.",
+      "trideno_at": "2026-11-03T09:08:56.757260+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
+    },
+    {
+      "id": "a5ab95416fd6c369",
+      "url": "https://www.keenfootwear.com/products/womens-jasper-ruffle-silver-mink-birch",
+      "title": "Women's Jasper Ruffle Sneaker  |  Silver Mink/Birch",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our original climbing-inspired outside sneaker, made unapologetically expressive with ruffled details. An exclamation mark for every day around town.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/ad99216d236f343d2364890e5f15c0e6f57c14d3.jpg?v=1791236378",
+      "published_at": "2026-11-02T07:53:50-08:00",
+      "detected_at": "2026-11-03T09:08:13.356876+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1033923",
+          "activity:Casual",
+          "activity:Casual>City",
+          "Contoured Fit",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:brown",
+          "gender:Women's",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:w-jasper-ruffle-17195",
+          "Recycled P.E.T. Plastic",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-jasper-ruffle"
+        ],
+        "grams": [],
+        "price_range": [
+          150.0,
+          150.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dámská městská tenisková bota (lifestyle), mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757280+00:00"
+    },
+    {
+      "id": "1179046b04d3648e",
+      "url": "https://zpacks.com/products/merino-wool-towels-full-set-of-five",
+      "title": "Merino Wool Camp Towels - Full Set of Five",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "",
+      "thumbnail": "",
+      "published_at": "2026-11-02T15:53:37-05:00",
+      "detected_at": "2026-11-03T09:08:43.183131+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [],
+        "grams": [
+          668
+        ],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 10
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Sada merino ručníků, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757301+00:00"
+    },
+    {
+      "id": "d3be3b65b72172f9",
+      "url": "https://zpacks.com/products/merino-wool-beach-blanket-top-sheet",
+      "title": "Merino Wool Beach Blanket / Top Sheet",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "",
+      "thumbnail": "",
+      "published_at": "2026-11-02T14:09:55-05:00",
+      "detected_at": "2026-11-03T09:08:43.183224+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [
+          387
+        ],
+        "price_range": [
+          99.95,
+          99.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Merino deka na pláž, mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757318+00:00"
+    },
+    {
+      "id": "eb0270b7cdb59df6",
+      "url": "https://zpacks.com/products/merino-wool-camp-towel-full-bath-size",
+      "title": "Merino Wool Camp Towel - Full Bath Size",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "",
+      "thumbnail": "",
+      "published_at": "2026-11-02T14:01:27-05:00",
+      "detected_at": "2026-11-03T09:08:43.183306+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [
+          146
+        ],
+        "price_range": [
+          69.95,
+          69.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Merino ručník, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757340+00:00"
+    },
+    {
+      "id": "0a8b621ff2ea295c",
+      "url": "https://zpacks.com/products/merino-wool-camp-towel-half-bath-size",
+      "title": "Merino Wool Camp Towel - Half Bath Size",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "",
+      "thumbnail": "",
+      "published_at": "2026-11-02T13:53:47-05:00",
+      "detected_at": "2026-11-03T09:08:43.183384+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [
+          76
+        ],
+        "price_range": [
+          49.95,
+          49.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Merino ručník, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757354+00:00"
+    },
+    {
+      "id": "ec7e1c9012d0cb94",
+      "url": "https://zpacks.com/products/merino-wool-camp-towel-hand-towel",
+      "title": "Merino Wool Camp Towel - Hand Towel",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "",
+      "thumbnail": "",
+      "published_at": "2026-11-02T13:47:21-05:00",
+      "detected_at": "2026-11-03T09:08:43.183458+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [
+          42
+        ],
+        "price_range": [
+          34.95,
+          34.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Merino ručník, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757370+00:00"
+    },
+    {
+      "id": "5b2ee32a6ed1b6cb",
+      "url": "https://zpacks.com/products/merino-wool-camp-towel-wash-cloth",
+      "title": "Merino Wool Camp Towel - Wash Cloth",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "",
+      "thumbnail": "",
+      "published_at": "2026-11-02T13:38:48-05:00",
+      "detected_at": "2026-11-03T09:08:43.183531+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "dummy"
+        ],
+        "grams": [
+          17
+        ],
+        "price_range": [
+          24.95,
+          24.95
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Merino žínka, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-03T09:08:56.757386+00:00"
     }
   ]
 }

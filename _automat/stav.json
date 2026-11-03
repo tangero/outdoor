@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-02T09:11:25.706171+00:00",
+  "last_run": "2026-11-03T09:08:49.651552+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,7 +273,7 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-11-02T09:11:22.072346+00:00",
+      "last_check": "2026-11-03T09:08:45.744615+00:00",
       "items": [
         {
           "url": "https://www.osprey.com/nz/en/stories/ski-snowboard/unexpected",
@@ -653,7 +653,7 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-11-02T09:11:22.314756+00:00",
+      "last_check": "2026-11-03T09:08:45.995273+00:00",
       "items": [
         {
           "url": "https://eu.gregorypacks.com/uk-en/gregory-x-garmin.html",
@@ -953,7 +953,7 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-11-02T09:11:22.543958+00:00",
+      "last_check": "2026-11-03T09:08:46.838430+00:00",
       "items": [
         {
           "url": "https://pimcore.deuter.com/deuter-master/en/backpacks/trail",
@@ -1283,7 +1283,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-11-02T09:11:22.834529+00:00",
+      "last_check": "2026-11-03T09:08:47.048259+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/us/",
@@ -1518,7 +1518,7 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-11-02T09:10:31.524327+00:00",
+      "last_check": "2026-11-03T09:07:58.190010+00:00",
       "items": [
         {
           "url": "https://www.blackdiamondequipment.com/products/mens-recon-stretch-pants-past-season",
@@ -1938,7 +1938,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-11-02T09:11:23.024995+00:00",
+      "last_check": "2026-11-03T09:08:47.215715+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -1958,7 +1958,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-11-02T09:11:23.267409+00:00",
+      "last_check": "2026-11-03T09:08:47.416466+00:00",
       "items": [
         {
           "url": "https://ph.salomon.com/products/xt-4-og-bodega",
@@ -2343,7 +2343,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-11-02T09:11:23.490020+00:00",
+      "last_check": "2026-11-03T09:08:47.597250+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/stores/la-sportiva-store-kalymnos",
@@ -2528,7 +2528,7 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-11-02T09:10:52.468830+00:00",
+      "last_check": "2026-11-03T09:08:17.535093+00:00",
       "items": [
         {
           "url": "https://www.scarpa.com/products/4-quattro-pro-le-lightweight-power-and-control-12014-500-1",
@@ -3113,7 +3113,7 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-11-02T09:11:23.738817+00:00",
+      "last_check": "2026-11-03T09:08:47.786336+00:00",
       "items": [
         {
           "url": "https://www.mammut.com/us/en/stories-guides/what-should-you-wear-for-hiking-in-the-fall-an-outfit-guide-for-unpredictable-weather",
@@ -3323,7 +3323,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-11-02T09:11:23.956680+00:00",
+      "last_check": "2026-11-03T09:08:48.022600+00:00",
       "items": [
         {
           "url": "https://us.lowa.com/blogs/adventures/two-left-feet-on-mexicos-highest-peak",
@@ -3543,7 +3543,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-11-02T09:11:24.179251+00:00",
+      "last_check": "2026-11-03T09:08:48.194470+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/women/shoes/agate",
@@ -3703,7 +3703,7 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-11-02T09:10:33.382159+00:00",
+      "last_check": "2026-11-03T09:08:00.683468+00:00",
       "items": [
         {
           "url": "https://www.garmont.com/products/t8-extreme-wp-400g-thinsulate-regular-coyote-003171",
@@ -4058,7 +4058,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-11-02T09:11:24.428424+00:00",
+      "last_check": "2026-11-03T09:08:48.386071+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/blacklight-carbon-pro-binding-interview",
@@ -4183,8 +4183,63 @@
       ]
     },
     "keen": {
-      "last_check": "2026-11-02T09:10:47.587312+00:00",
+      "last_check": "2026-11-03T09:08:13.356897+00:00",
       "items": [
+        {
+          "url": "https://www.keenfootwear.com/products/big-kids-jasper-ii-kid-rex",
+          "hash": "45d66252365d0c74",
+          "detected_at": "2026-11-03T09:08:13.356258+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/big-kids-jasper-ii-blossom-bomb",
+          "hash": "0839d2f4e8042376",
+          "detected_at": "2026-11-03T09:08:13.356526+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/little-kids-newport-h2-pebble-glow",
+          "hash": "c489d32fb67c474c",
+          "detected_at": "2026-11-03T09:08:13.356534+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/little-kids-jasper-ii-blossom-bomb",
+          "hash": "8b84a6fb399c16c2",
+          "detected_at": "2026-11-03T09:08:13.356638+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/big-kids-jasper-ii-black-iris-magnet",
+          "hash": "5c385fde0cfdeb10",
+          "detected_at": "2026-11-03T09:08:13.356644+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/toddlers-newport-h2-charisma-daiquiri-green",
+          "hash": "5263b790a1940cbd",
+          "detected_at": "2026-11-03T09:08:13.356650+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/toddlers-seacamp-ii-cnx-rainbow-festival-fuchsia",
+          "hash": "81ac5af0213da15c",
+          "detected_at": "2026-11-03T09:08:13.356726+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/big-kids-seacamp-ii-cnx-rainbow-glow",
+          "hash": "c0c6d26b14fece17",
+          "detected_at": "2026-11-03T09:08:13.356802+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/big-kids-seacamp-ii-cnx-azure-blue-star-white",
+          "hash": "c0f0e83dcca52a9e",
+          "detected_at": "2026-11-03T09:08:13.356807+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-ruffle-silver-mink-birch",
+          "hash": "a5ab95416fd6c369",
+          "detected_at": "2026-11-03T09:08:13.356811+00:00"
+        },
+        {
+          "url": "https://www.keenfootwear.com/products/womens-jasper-ruffle-cameo-rose-birch",
+          "hash": "ae106d25eba36327",
+          "detected_at": "2026-11-03T09:08:13.356880+00:00"
+        },
         {
           "url": "https://www.keenfootwear.com/products/big-kids-seacamp-ii-cnx-thistle-star-white",
           "hash": "a2eeaddfec60d395",
@@ -4673,7 +4728,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-11-02T09:11:24.629710+00:00",
+      "last_check": "2026-11-03T09:08:48.566877+00:00",
       "items": [
         {
           "url": "https://www.hoka.com/en/id/new-arrivals/",
@@ -4858,7 +4913,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-11-02T09:11:24.880989+00:00",
+      "last_check": "2026-11-03T09:08:48.780933+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/merrell-and-pam-come-together-for-a-collaboration-inspired-by-amphibian-life/",
@@ -5018,7 +5073,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-11-02T09:11:25.134298+00:00",
+      "last_check": "2026-11-03T09:08:49.229510+00:00",
       "items": [
         {
           "url": "https://www.inov-8.com/us/roclite-g-275-womens-trail-running-shoes?colours=867",
@@ -5138,7 +5193,7 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-11-02T09:11:01.974098+00:00",
+      "last_check": "2026-11-03T09:08:27.028526+00:00",
       "items": [
         {
           "url": "https://www.thermarest.com/products/lightning-tails",
@@ -5358,7 +5413,7 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-11-02T09:10:57.967468+00:00",
+      "last_check": "2026-11-03T09:08:22.871080+00:00",
       "items": [
         {
           "url": "https://seatosummit.com/products/clear-stopper-dry-bag-used",
@@ -5638,7 +5693,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-11-02T09:11:25.419453+00:00",
+      "last_check": "2026-11-03T09:08:49.409303+00:00",
       "items": [
         {
           "url": "https://klymit.com/blogs/gift-guides/holiday",
@@ -5828,7 +5883,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-11-02T09:11:25.706135+00:00",
+      "last_check": "2026-11-03T09:08:49.651511+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/11-outerwear/",
@@ -6173,7 +6228,7 @@
       ]
     },
     "big-agnes": {
-      "last_check": "2026-11-02T09:11:05.876181+00:00",
+      "last_check": "2026-11-03T09:08:30.531213+00:00",
       "items": [
         {
           "url": "https://bigagnes.com/products/pack-rain-cover",
@@ -6298,16 +6353,46 @@
       ]
     },
     "nemo": {
-      "last_check": "2026-11-02T09:11:08.146382+00:00",
+      "last_check": "2026-11-03T09:08:32.703872+00:00",
       "items": []
     },
     "hyperlite-mountain-gear": {
-      "last_check": "2026-11-02T09:11:10.234513+00:00",
+      "last_check": "2026-11-03T09:08:34.662104+00:00",
       "items": []
     },
     "zpacks": {
-      "last_check": "2026-11-02T09:11:19.313505+00:00",
+      "last_check": "2026-11-03T09:08:43.183535+00:00",
       "items": [
+        {
+          "url": "https://zpacks.com/products/merino-wool-towels-full-set-of-five",
+          "hash": "1179046b04d3648e",
+          "detected_at": "2026-11-03T09:08:43.182703+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/merino-wool-beach-blanket-top-sheet",
+          "hash": "d3be3b65b72172f9",
+          "detected_at": "2026-11-03T09:08:43.183138+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/merino-wool-camp-towel-full-bath-size",
+          "hash": "eb0270b7cdb59df6",
+          "detected_at": "2026-11-03T09:08:43.183229+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/merino-wool-camp-towel-half-bath-size",
+          "hash": "0a8b621ff2ea295c",
+          "detected_at": "2026-11-03T09:08:43.183310+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/merino-wool-camp-towel-hand-towel",
+          "hash": "ec7e1c9012d0cb94",
+          "detected_at": "2026-11-03T09:08:43.183387+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/merino-wool-camp-towel-wash-cloth",
+          "hash": "5b2ee32a6ed1b6cb",
+          "detected_at": "2026-11-03T09:08:43.183461+00:00"
+        },
         {
           "url": "https://zpacks.com/products/zpacks-zip-pouch",
           "hash": "e23bb3f0ff4808ac",
@@ -6371,7 +6456,7 @@
       ]
     },
     "gossamer-gear": {
-      "last_check": "2026-11-02T09:11:21.843339+00:00",
+      "last_check": "2026-11-03T09:08:45.544170+00:00",
       "items": [
         {
           "url": "https://www.gossamergear.com/products/2025-vagabond-jet",
