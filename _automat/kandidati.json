@@ -115,7 +115,7 @@
       "priorita": 4,
       "duvod": "Konkrétní batoh Osprey Atmos AG 50; řada Atmos AG 65 je recenzována, 50L verze je jiná velikost, ale nová v seznamu.",
       "trideno_at": "2026-10-19T05:01:10.439471+00:00",
-      "pokus_at": "2026-10-19T18:16:56.546925+00:00"
+      "pokus_at": "2026-11-03T06:06:06.583857+00:00"
     },
     {
       "id": "00a05d290c050838",
@@ -287,12 +287,14 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:45.144621+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Scarpa Drago XT",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Konkrétní bota Scarpa Drago XT, nový model v rubrice boty.",
-      "trideno_at": "2026-10-19T05:01:10.439605+00:00"
+      "trideno_at": "2026-10-19T05:01:10.439605+00:00",
+      "pokus_at": "2026-11-03T06:03:47.750159+00:00",
+      "soubor": "_posts/boty/2026-11-03-scarpa-drago-xt.md"
     },
     {
       "id": "85f1ecc37b6bd280",
@@ -809,13 +811,20 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.222134+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Lowe Alpine Escape Tour 55+15",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Trekový batoh, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512154+00:00",
-      "pokus_at": "2026-10-19T17:31:29.956314+00:00"
+      "pokus_at": "2026-11-03T06:09:20.612286+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "\"sex\": \"unisex\" (parametry recenze)",
+          "problem": "Pohlaví produktu není v žádném podkladu ani v tabulce recenzovaných produktů uvedeno. Výrobcova stránka, prodejní stránky ani recenze nic takového neuvádějí, takže jde o tvrzení bez opory.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "d6c8564f1217ea23",
@@ -1364,13 +1373,14 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:43.896430+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Gregory Tempo 6",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Běžecký hydratační batoh, nerecenzovaný model.",
       "trideno_at": "2026-10-19T05:01:38.126033+00:00",
-      "pokus_at": "2026-10-19T17:25:12.779131+00:00"
+      "pokus_at": "2026-11-03T06:18:53.372355+00:00",
+      "soubor": "_posts/batohy/2026-11-03-gregory-tempo-6-h2o.md"
     },
     {
       "id": "9d87da3d1360c7de",
@@ -4717,12 +4727,13 @@
       "published_at": "",
       "detected_at": "2026-05-07T11:09:34.258272+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Lowa Cevedale Pro GTX Mid",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Konkrétní horské turistické boty, v seznamu není.",
-      "trideno_at": "2026-10-19T16:03:15.285786+00:00"
+      "trideno_at": "2026-10-19T16:03:15.285786+00:00",
+      "pokus_at": "2026-11-03T06:08:57.131821+00:00"
     },
     {
       "id": "c14a9d1ce3376298",
@@ -4795,12 +4806,25 @@
       "published_at": "",
       "detected_at": "2026-05-07T11:09:36.078462+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Keen Targhee IV WP",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Turistická bota, IV. generace; recenzovaná je Targhee III WP.",
-      "trideno_at": "2026-10-19T16:03:15.285904+00:00"
+      "trideno_at": "2026-10-19T16:03:15.285904+00:00",
+      "pokus_at": "2026-11-03T06:14:20.659362+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "V tabulce jsme proto vycházeli z naměřených 550 g.",
+          "problem": "Odkaz na interní tabulku recenzovaných produktů, který nepatří do textu recenze pro čtenáře. Je to zmínka o interních podkladech webu.",
+          "zavaznost": "vysoka"
+        },
+        {
+          "tvrzeni": "Výrobcův článek je však marketingový, takže bychom počítali spíše s krátkým rozchozením.",
+          "problem": "Závěr o krátkém rozchození nemá oporu v nezávislých zdrojích. Better Trail popisuje botu jako tuhou přímo z krabice a rozchozenou až po několika krátkých výletech. Trail & Kale výslovně uvádí, že rozchození je reálné a trvá. Doporučení tedy čtenáře mylně uklidňuje.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "c84a1feea9066bce",
@@ -6691,7 +6715,7 @@
       "priorita": 3,
       "duvod": "Nafukovací karimatka Sea to Summit, nebyla dosud recenzována.",
       "trideno_at": "2026-10-19T16:04:03.413094+00:00",
-      "pokus_at": "2026-10-19T18:23:01.693197+00:00"
+      "pokus_at": "2026-11-03T06:13:58.292501+00:00"
     },
     {
       "id": "21f5a76e368edbd3",
@@ -18272,14 +18296,18 @@
         ],
         "variants": 3
       },
-      "status": "vhodny",
+      "status": "neplatna_data",
       "model": "Big Agnes Twentymile UL",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Pěnová karimatka z uzavřených buněk, nerecenzovaná.",
       "trideno_at": "2026-10-20T14:08:14.093873+00:00",
       "novinka": "_novinky/2026-10-22-big-agnes-twentymile-ul.md",
-      "novinka_at": "2026-10-22T14:22:44.375164+00:00"
+      "novinka_at": "2026-10-22T14:22:44.375164+00:00",
+      "pokus_at": "2026-11-03T06:06:35.457028+00:00",
+      "problemy": [
+        "chybí parametr R-faktor"
+      ]
     },
     {
       "id": "a70c9ac62715611a",
