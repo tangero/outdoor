@@ -20631,6 +20631,93 @@
       "priorita": 1,
       "duvod": "Merino žínka, doplněk mimo rubriky.",
       "trideno_at": "2026-11-03T09:08:56.757386+00:00"
+    },
+    {
+      "id": "4e13bd2da01dc348",
+      "url": "https://www.blackdiamondequipment.com/products/womens-diamond-crop-short-sleeve-tee-2nds",
+      "title": "Women's Diamond Crop Short Sleeve Tee 2nds",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "An organic cotton tee with a cropped fit, the Diamond Crop Short Sleeve Tee is a comfortable, everyday basic.The organic cottons gets more comfortable with every wear and the graphic is printed with water-based inks.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/752497_0038_W_Diamond_Crop_SS_Tee_Charcoal_03.jpg?v=1793729764",
+      "published_at": "2026-11-03T11:16:01-07:00",
+      "detected_at": "2026-11-04T09:08:03.076399+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "",
+        "tags": [
+          "no-restock",
+          "past-season",
+          "Women's-Tops-Regular"
+        ],
+        "grams": [
+          115
+        ],
+        "price_range": [
+          45.0,
+          45.0
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Dámské tričko, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-04T09:09:02.295860+00:00"
+    },
+    {
+      "id": "f5147e73b5eae6b0",
+      "url": "https://bigagnes.com/products/salt-creek-sl2-footprint",
+      "title": "Salt Creek SL2 Footprint",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "To extend the life of your tent floor, we recommend using a Big Agnes footprint. The Big Agnes footprint also enables you to pitch a lightweight, Fast Fly shelter while leaving the tent body behind. The Fast Fly configuration requires the footprint, tent fly, poles, and stakes.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/products/Salt-Creek-SL2-Footprint-01.png?v=1779223203",
+      "published_at": "2026-11-03T08:55:11-07:00",
+      "detected_at": "2026-11-04T09:08:38.148517+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [
+          "related-salt-creek-sl2"
+        ],
+        "grams": [
+          181
+        ],
+        "price_range": [
+          60.0,
+          60.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Podložka pod stan, doplněk mimo rubriky batohy, boty, karimatky.",
+      "trideno_at": "2026-11-04T09:09:02.295902+00:00"
+    },
+    {
+      "id": "ef2bf03b844645a5",
+      "url": "https://www.osprey.com/stories/activism-community/resilience-preservation",
+      "title": "Resilience and Preservation in Southwest Colorado",
+      "brand": "Osprey",
+      "strategy": "exa",
+      "category_hint": "batohy",
+      "snippet": "Resilience and Preservation in Southwest Colorado\n\n# Resilience and Preservation in Southwest Colorado \n\nSpend a week with the Southwest Conservation Corps as they attend to Canyons of the Ancients National Monument during a stormy summer.\n\n 9 min read \n\n \n\n Jacob Mandell \n\n Nov 03, 2026 \n\nIn July 2026, the Southwest Conservation Corp(Opens in a new window)'s Montezuma County Camping Youth Crew was contracted by Canyons of the Ancients National Monument (Opens in a new window) to install buck and rail fences and perform light trailwork across the monument in an effort to preserve some of the fragile desert ecosystems and archaeological sites from user-created roads or trails. I, as the Youth Crew Field Supervisor, spent my summer bouncing between crews as needed to assist with more technical projects or give the adult crew leaders a much-earned break. I was excited to visit a NPS site I hadn’t even heard of until I moved to Durango, CO and check in with the crew leaders about how their season was progressing. \n\nThe Montezuma County Camping Youth Crew gathers at Canyons of the Ancients National Monument's Sand Canyon Trailhead for a briefing on the project at hand.\n\nMidweek, a torrential downpour erupted as we passed through Cortez, CO, on our way back to camp for the night, and we were forced to wait out the worst of the rain and hail in a Wendy’s parking lot. When most of the heavy precipitation had passed, we continued on, all the while still receiving flash flood warnings,",
+      "thumbnail": "https://www.osprey.com/media/magefan_blog/SCC27-3_2.jpg",
+      "published_at": "2026-11-03T13:00:00.000Z",
+      "detected_at": "2026-11-04T09:08:55.004696+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o ochraně přírody, nejde o produkt.",
+      "trideno_at": "2026-11-04T09:09:02.295929+00:00"
     }
   ]
 }
