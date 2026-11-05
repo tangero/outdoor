@@ -20718,6 +20718,196 @@
       "priorita": 1,
       "duvod": "Článek o ochraně přírody, nejde o produkt.",
       "trideno_at": "2026-11-04T09:09:02.295929+00:00"
+    },
+    {
+      "id": "ef2409257c777888",
+      "url": "https://www.scarpa.com/products/ice-climbing-movement-and-precision-on-vertical-ice-id003",
+      "title": "Ice Climbing",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Master your movement on ice.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/Mountain_20Days_202027_Blocco_20Atelier_Ice_20Climbing_PDP_3000x3000_5663b0ad-a109-4ed3-9626-b913eabadf8d.png?v=1793626946",
+      "published_at": "2026-11-05T08:49:31+01:00",
+      "detected_at": "2026-11-05T09:08:39.121459+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "",
+        "tags": [
+          "EXPERIENCE",
+          "judgme_excluded"
+        ],
+        "grams": [],
+        "price_range": [
+          150.0,
+          220.0
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie/kurz lezeckého vybavení (ledolezení), nejde o konkrétní produkt v rubrikách.",
+      "trideno_at": "2026-11-05T09:09:17.036848+00:00"
+    },
+    {
+      "id": "6348930e2ea8c0cc",
+      "url": "https://www.scarpa.com/products/dry-tooling-precision-and-control-on-rock-id005",
+      "title": "Dry Tooling",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Develop your skills with ice axes and crampons.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/Mountain_20Days_202027_Blocco_20Atelier_Dry_20tooling_PDP_3000x3000_8c417917-a3af-465c-a4e3-c9e2de3db1ed.png?v=1793627044",
+      "published_at": "2026-11-05T08:49:08+01:00",
+      "detected_at": "2026-11-05T09:08:39.121583+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "",
+        "tags": [
+          "EXPERIENCE",
+          "judgme_excluded"
+        ],
+        "grams": [],
+        "price_range": [
+          150.0,
+          220.0
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie/kurz lezeckého vybavení (dry tooling), nejde o konkrétní produkt v rubrikách.",
+      "trideno_at": "2026-11-05T09:09:17.036904+00:00"
+    },
+    {
+      "id": "a8c6640139b776eb",
+      "url": "https://www.scarpa.com/products/goulotte-alpine-climbing-through-ice-and-vertical-terrain-id006",
+      "title": "Goulotte",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Climb steep ice and technical alpine routes.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/Mountain_20Days_202027_Blocco_20Atelier_Goulottes_PDP_3000x3000_ef91c6e6-f072-4892-adcb-e7c1d09ec127.png?v=1793627037",
+      "published_at": "2026-11-05T08:42:36+01:00",
+      "detected_at": "2026-11-05T09:08:39.121693+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "",
+        "tags": [
+          "EXPERIENCE",
+          "judgme_excluded"
+        ],
+        "grams": [],
+        "price_range": [
+          300.0,
+          370.0
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Kategorie/popis lezení v ledu a alpinistických cestách, nikoli produkt v rubrikách.",
+      "trideno_at": "2026-11-05T09:09:17.036934+00:00"
+    },
+    {
+      "id": "738fc0d7067a746e",
+      "url": "https://www.scarpa.com/products/guida-city-gtx-waterproof-boot-with-outdoor-look-32658-200-9",
+      "title": "Guida City GTX",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Waterproof winter boot with urban look inspired by outdoor style",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/32658-200-9_00_GUI-CIT-GTX_Nat-Rop.jpg?v=1793722340",
+      "published_at": "2026-11-04T11:56:39+01:00",
+      "detected_at": "2026-11-05T09:08:39.121774+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Lifestyle",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          239.95,
+          239.95
+        ],
+        "variants": 24
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lifestyle zimní městská bota, mimo rubriky turistických/trailových bot.",
+      "trideno_at": "2026-11-05T09:09:17.036963+00:00"
+    },
+    {
+      "id": "d24ee5bc6fe96cca",
+      "url": "https://www.scarpa.com/products/mojito-city-mid-gtx-wool-comfortable-and-waterproof-mid-cut-winter-shoe-32685-200-4",
+      "title": "Mojito City Mid GTX Wool",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Mid-cut winter shoe, waterproof and warm, perfect for the city",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/32685-200-4_01_MOJ-CIT-MID-GTX-WOO_Tem.jpg?v=1793722333",
+      "published_at": "2026-11-04T11:55:44+01:00",
+      "detected_at": "2026-11-05T09:08:39.121839+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "Lifestyle",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          199.95,
+          199.95
+        ],
+        "variants": 24
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská zimní obuv (lifestyle), mimo rubriky.",
+      "trideno_at": "2026-11-05T09:09:17.036994+00:00"
+    },
+    {
+      "id": "9ecff322ed09445c",
+      "url": "https://bigagnes.com/products/blacktail-three-warm-olive",
+      "title": "Blacktail 3 - Warm Olive",
+      "brand": "Big Agnes",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "Blacktail tents are a tried and true Big Agnes classic - light enough for the backcountry, and strong enough for the front country. \n The Blacktail checks every box - lightweight design for backpackers who want a super comfortable tent after a long day on the trail, and excellent value for car campers looking for an easy to set up shelter with a small footprint. Burly recycled fabric means that you won't have to sacrifice durability for weight savings or sustainability - you get it all! Spacious sleeping areas and easy access through two side-entry doors and vestibules make early morning entry and exit with a tentmate a breeze when nature calls. \n No matter where your adventure takes you, camp comfy in a Blacktail!",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0647/7171/9417/files/Blacktail-4-03.png?v=1779220227",
+      "published_at": "2026-11-04T12:48:54-07:00",
+      "detected_at": "2026-11-05T09:08:53.394689+00:00",
+      "data": {
+        "vendor": "Big Agnes",
+        "product_type": "TENTS",
+        "tags": [
+          "recommended-c-bar-three",
+          "recommended-crag-lake-sl3",
+          "recommended-salt-creek-three",
+          "related-blacktail-three-footprint"
+        ],
+        "grams": [
+          2767
+        ],
+        "price_range": [
+          349.95,
+          349.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stan, mimo rubriky batohů, bot a karimatek.",
+      "trideno_at": "2026-11-05T09:09:17.037016+00:00"
     }
   ]
 }
