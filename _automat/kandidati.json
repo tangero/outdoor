@@ -234,7 +234,7 @@
       "priorita": 4,
       "duvod": "Trailová běžecká bota La Sportiva Cyklon, nový model v rubrice boty.",
       "trideno_at": "2026-10-19T05:01:10.439580+00:00",
-      "pokus_at": "2026-10-20T10:36:46.029712+00:00"
+      "pokus_at": "2026-11-06T06:06:37.590097+00:00"
     },
     {
       "id": "0322c4dfb2bb2531",
@@ -637,7 +637,7 @@
       "priorita": 4,
       "duvod": "Stránka konkrétního trekkingového batohu, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512043+00:00",
-      "pokus_at": "2026-10-20T10:38:46.659707+00:00"
+      "pokus_at": "2026-11-06T06:05:44.423919+00:00"
     },
     {
       "id": "2b145296588c67bc",
@@ -838,13 +838,14 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.224265+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Lowe Alpine Escape Trek 60:70",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Trekový batoh, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512168+00:00",
-      "pokus_at": "2026-10-19T17:46:58.153790+00:00"
+      "pokus_at": "2026-11-06T06:07:43.164330+00:00",
+      "soubor": "_posts/batohy/2026-11-06-lowe-alpine-escape-trek-60-70.md"
     },
     {
       "id": "55f3e037531ed61b",
@@ -15079,14 +15080,16 @@
         ],
         "variants": 15
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Garmont Nebraska 3 GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Trekingová bota pro vícedenní túry, novinka FW26.",
       "trideno_at": "2026-10-19T05:00:34.996887+00:00",
       "novinka": "_novinky/2026-10-19-garmont-nebraska-3-gtx.md",
-      "novinka_at": "2026-10-19T16:07:50.538902+00:00"
+      "novinka_at": "2026-10-19T16:07:50.538902+00:00",
+      "pokus_at": "2026-11-06T06:03:55.684191+00:00",
+      "soubor": "_posts/boty/2026-11-06-garmont-nebraska-3-gtx.md"
     },
     {
       "id": "f5a72841d2666cd7",
