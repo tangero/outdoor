@@ -21289,6 +21289,102 @@
       "priorita": 1,
       "duvod": "Článek, není produkt.",
       "trideno_at": "2026-11-06T09:09:33.834108+00:00"
+    },
+    {
+      "id": "8627fd1bbef9a477",
+      "url": "https://www.keenfootwear.com/products/womens-uneek-360-birch-roasted-pecan",
+      "title": "Women's UNEEK 360 Sneaker  |  Birch/Roasted Pecan",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Our original open-air sneaker goes modular, lighter (no solvents!), and ultra-adaptable with a removable engineered knit liner and precision cord design for movement on multiple axes. Simple design, minimal parts.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/b644d2fd66ffcf14f757785d1adb0783e01c5c3f.jpg?v=1769631791",
+      "published_at": "2026-11-06T09:58:52-08:00",
+      "detected_at": "2026-11-07T09:07:07.975561+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1031939",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Casual>Travel",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:brown",
+          "gender:Women's",
+          "model_number:w-uneek-360-16077",
+          "Original Fit",
+          "Recycled P.E.T. Plastic",
+          "shoetype:Shoe",
+          "shoetype:Slip-On",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-uneek-360"
+        ],
+        "grams": [],
+        "price_range": [
+          114.0,
+          114.0
+        ],
+        "variants": 13
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská tenisková bota (sneaker), mimo rubriky boty pro terén.",
+      "trideno_at": "2026-11-07T09:07:44.837330+00:00"
+    },
+    {
+      "id": "84229a26c6d5d396",
+      "url": "https://zpacks.com/products/wallet-zip-pouch",
+      "title": "Wallet Zip Pouch",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Zpacks Wallet Zip Pouch is sized just right to fit folded cash and credit cards in a durable package with no added fuss. It is also handy for organizing other small items like a repair kit or headphones.\nIf you are counting grams on trail, try the Wallet Stuff Sack . If you want a more traditional ultralight wallet for every day carry, check out our Minimalist Tri-Fold Wallet . \n Need a different size?  Check out the rest of our Zip Pouch collection.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0926-ColoredZipPouches-XS-3.webp?v=1791298007",
+      "published_at": "2026-11-06T15:06:58-05:00",
+      "detected_at": "2026-11-07T09:07:35.466543+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [],
+        "grams": [
+          6
+        ],
+        "price_range": [
+          17.95,
+          17.95
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Peněženka/pouzdro, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-07T09:07:44.837362+00:00"
+    },
+    {
+      "id": "6cd1f9e36c051124",
+      "url": "https://www.osprey.com/stories/activism-community/southwest-flood-relief",
+      "title": "Southwest Flood Relief",
+      "brand": "Osprey",
+      "strategy": "exa",
+      "category_hint": "batohy",
+      "snippet": "Southwest Flood Relief\n\n# Southwest Flood Relief \n\nThe Southwest is our home, and many neighboring communities are facing the impacts of historic flooding. As recovery efforts continue, explore ways to help those affected.\n\n 1 min read \n\n Osprey Packs \n\n Nov 06, 2026 \n\n#### Follow the links below for donation and volunteer opportunities aiding local relief and rebuilding efforts.\n\nSupport flood recovery efforts in Colorado(Opens in a new window)\n\nSupport flood recovery efforts in New Mexico (Opens in a new window)\n\nSupport flood recovery efforts in Arizona (Opens in a new window)\n\nSupport flood recovery efforts in Utah (Opens in a new window)\n\nSupport flood recovery efforts on the Navajo Nation(Opens in a new window)",
+      "thumbnail": "https://www.osprey.com/media/magefan_blog/Flood_2.jpg",
+      "published_at": "2026-11-06T13:00:00.000Z",
+      "detected_at": "2026-11-07T09:07:38.120418+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o charitativní akci firmy, není produkt.",
+      "trideno_at": "2026-11-07T09:07:44.837370+00:00"
     }
   ]
 }
