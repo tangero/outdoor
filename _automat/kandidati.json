@@ -998,7 +998,7 @@
       "priorita": 5,
       "duvod": "Nová generace trekových batohů AirContact, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512256+00:00",
-      "pokus_at": "2026-10-19T18:14:04.655419+00:00"
+      "pokus_at": "2026-11-10T06:09:23.180664+00:00"
     },
     {
       "id": "4fbc8e1f7338276a",
@@ -1341,7 +1341,7 @@
       "priorita": 3,
       "duvod": "Běžecký batoh na trail, nerecenzovaný model.",
       "trideno_at": "2026-10-19T05:01:38.126010+00:00",
-      "pokus_at": "2026-10-20T10:37:27.526164+00:00"
+      "pokus_at": "2026-11-10T06:03:45.834971+00:00"
     },
     {
       "id": "cbec56f85aeada64",
@@ -2757,7 +2757,7 @@
       "priorita": 4,
       "duvod": "Trailová běžecká bota Hoka, konkrétní produkt, zatím nerecenzováno.",
       "trideno_at": "2026-10-19T16:02:27.581500+00:00",
-      "pokus_at": "2026-10-20T10:38:21.915952+00:00"
+      "pokus_at": "2026-11-10T06:03:20.758210+00:00"
     },
     {
       "id": "972d630eaf0e98e2",
@@ -3100,7 +3100,7 @@
       "priorita": 4,
       "duvod": "Nová verze trekové boty Forge GTX, dosud nerecenzovaná generace.",
       "trideno_at": "2026-10-19T16:02:43.621404+00:00",
-      "pokus_at": "2026-10-20T10:39:06.225020+00:00"
+      "pokus_at": "2026-11-10T06:03:59.343677+00:00"
     },
     {
       "id": "3b5307bd3baaeb1c",
@@ -6021,12 +6021,13 @@
       "published_at": "",
       "detected_at": "2026-05-19T12:10:26.116108+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "La Sportiva Prodigio Pro",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Závodní trailová běžecká bota, nový model zájmu.",
-      "trideno_at": "2026-10-19T16:03:55.054284+00:00"
+      "trideno_at": "2026-10-19T16:03:55.054284+00:00",
+      "pokus_at": "2026-11-10T06:08:43.796069+00:00"
     },
     {
       "id": "77a7c693e8440d0e",
@@ -6211,13 +6212,14 @@
       "published_at": "",
       "detected_at": "2026-05-21T12:14:09.839993+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Black Diamond Dawn Patrol 25",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Skialpinistický/horský batoh, nový model v nabídce.",
       "trideno_at": "2026-10-19T16:03:55.054655+00:00",
-      "pokus_at": "2026-10-19T17:30:19.186100+00:00"
+      "pokus_at": "2026-11-10T06:04:19.280807+00:00",
+      "soubor": "_posts/batohy/2026-11-10-black-diamond-dawn-patrol-25.md"
     },
     {
       "id": "27a80636b0f03dcb",
@@ -7326,12 +7328,20 @@
       "published_at": "",
       "detected_at": "2026-05-22T11:44:34.302973+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Lowa Renegade Evo GTX Lo",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Trekové boty; nová verze Renegade, zatím nerecenzovaná (na webu je Renegade GTX Mid).",
-      "trideno_at": "2026-10-19T16:04:30.804878+00:00"
+      "trideno_at": "2026-10-19T16:04:30.804878+00:00",
+      "pokus_at": "2026-11-10T06:09:43.685266+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "Lowa Innox Pro GTX Lo (790 g, nízké, unisex) ... Je prodyšnější a lehčí na krátké, snadné trasy, kožené Renegade je odolnější a stabilnější.",
+          "problem": "Tabulka uvádí Innox 790 g, Renegade Evo GTX Lo podle výrobce 460 g, takže Innox není lehčí. Tvrzení o nižší hmotnosti Innoxu odporuje údajům a zavádí čtenáře při srovnání.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "ebd9e72ce6ac1efe",
@@ -18829,14 +18839,16 @@
         ],
         "variants": 180
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Zpacks Arc Pro 60L",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní trekový batoh Zpacks Arc Pro 60L, v rubrice batohů, zatím nerecenzovaný.",
       "trideno_at": "2026-10-20T14:08:18.509641+00:00",
       "novinka": "_novinky/2026-10-21-zpacks-arc-pro-60l.md",
-      "novinka_at": "2026-10-21T14:22:29.390055+00:00"
+      "novinka_at": "2026-10-21T14:22:29.390055+00:00",
+      "pokus_at": "2026-11-10T06:13:45.633116+00:00",
+      "soubor": "_posts/batohy/2026-11-10-zpacks-arc-pro-60l.md"
     },
     {
       "id": "2c37be8b2acd5f14",

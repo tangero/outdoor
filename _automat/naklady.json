@@ -32,6 +32,15 @@
         "trideni": 0.00382,
         "novinka": 0.03303
       }
+    },
+    "2026-W46": {
+      "usd": 0.98723,
+      "volani": 16,
+      "polozky": {
+        "recenze-psani": 0.33774,
+        "recenze-kontrola": 0.07055,
+        "recenze-oprava": 0.57894
+      }
     }
   }
 }
