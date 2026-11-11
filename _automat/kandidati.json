@@ -22052,6 +22052,958 @@
       "priorita": 1,
       "duvod": "Blog o záruce, není produkt.",
       "trideno_at": "2026-11-10T09:08:52.828085+00:00"
+    },
+    {
+      "id": "ad2b9d906a21291d",
+      "url": "https://www.blackdiamondequipment.com/products/mens-momentum-harness-package-past-season",
+      "title": "Men's Momentum Harness Package - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Black Diamond Momentum Harness is for all-around climbers who value versatility and demand comfort and performance.\n A pre-threaded Speed Adjust waistbelt buckle saves time and eliminates error when tying in, while Dual Core Construction™ puts an emphasis on comfort, even when you're posted up at a hanging belay. Four pressure-molded gear loops accommodate quickdraws and cams allowing you to switch between disciplines easily. TrakFIT leg-loops quickly adjust to accommodate different layering configurations, and the haul loop make this our most popular all-rounder. The Harness package comes with a Momentum Harness, ATC-XP Belay Device, Rocklock Carabiner, Mojo Chalk Bag, and a Refillable White Gold Chalk Shot.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/650007_0000_M_MOMENTUM_HARNESS_PACKAGE_NO_COLOR_01.jpg?v=1742402341",
+      "published_at": "2026-11-10T10:45:49-07:00",
+      "detected_at": "2026-11-11T09:07:45.680385+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Harnesses",
+        "tags": [
+          "equipment",
+          "Men's-Harnesses",
+          "no-restock"
+        ],
+        "grams": [
+          700,
+          720,
+          740,
+          760
+        ],
+        "price_range": [
+          49.98,
+          59.97
+        ],
+        "variants": 6
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Horolezecký úvazek, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507235+00:00"
+    },
+    {
+      "id": "582a06679225e202",
+      "url": "https://www.blackdiamondequipment.com/products/capitan-helmet",
+      "title": "Capitan Helmet",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Engineered to handle the abuse only its namesake big wall can dish out, the Capitan is Black Diamond’s bomber, ultra-durable helmet,\n featuring added coverage on both the sides and back, while maintaining a sleek, cradle fit for all-day comfort. Featuring a 2-piece ABS shell construction that allows for an optimized fit and dual colorways, the Capitan also boasts a fusion of EPP foam and an EPS foam puck, which meets the proposed UIAA increased side and back protection requirements. The Capitan’s vents provide ample breathability when temps heat up and a low-profile suspension system dials in the fit. The integrated headlamp clips with an elastic keeper on the back secure your light so you can push through the night.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/620221_9196_CAPITAN_HELMET_Octane_Black_01.jpg?v=1772556845",
+      "published_at": "2026-11-10T10:44:09-07:00",
+      "detected_at": "2026-11-11T09:07:45.680502+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Helmets",
+        "tags": [
+          "equipment",
+          "Helmet",
+          "no-restock"
+        ],
+        "grams": [
+          412,
+          464
+        ],
+        "price_range": [
+          34.98,
+          41.97
+        ],
+        "variants": 12
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Horolezecká přilba, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507268+00:00"
+    },
+    {
+      "id": "fba6fc2ff181d4e1",
+      "url": "https://www.blackdiamondequipment.com/products/quickdraw-pro-carbon-probe-320",
+      "title": "Quickdraw Pro Carbon Probe 320",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Constructed of carbon tubing, stainless steel cable, and the tried-and-true Quickdraw Pro Locking Mechanism,\n the Quickdraw Carbon Pro 320 is the lightest and stiffest full-length probe (320 cm) in the Black Diamond Snow Safety offering. Revised in 2023 to meet UIAA standards, the Quickdraw Carbon Pro Probe offers the ideal mix of weight and performance for avid backcountry travelers, seasoned guides, and snow safety professionals.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/109005_0000_QUICKDRAW_PRO_CARBON_PROBE_320_NO_COLOR_01.jpg?v=1742402179",
+      "published_at": "2026-11-10T10:32:33-07:00",
+      "detected_at": "2026-11-11T09:07:45.680623+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Snow Safety",
+        "tags": [
+          "equipment",
+          "no-restock"
+        ],
+        "grams": [
+          350
+        ],
+        "price_range": [
+          149.95,
+          149.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lavinová sonda, vybavení mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507282+00:00"
+    },
+    {
+      "id": "6a55bd55d7b86a51",
+      "url": "https://www.blackdiamondequipment.com/products/pursuit-shock-trekking-poles",
+      "title": "Pursuit Shock Trekking Poles",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Packed with comfort-focused features like ergonomic cork grips and Bloom grip extensions, plus our uniquely designed, streamlined shock, the Pursuit Shock is a premium pole option for any hiker.\n BD proprietary grip geometry and shape, with two grip sizes optimized for larger and smaller hands, make for more comfortable hand positions as well as reduces hand fatigue. Natural cork grips manage moisture while extensions – made from Bloom, an algae infused foam – provide additional hand positions on steep ascents. Hidden beneath the grip and the grip extension is a newly designed shock system that dampens vibrations to help reduce joint pain. Also included are Solution 2.0 wrist straps, made from post-consumer recycled fi bers, and a thoughtfully-designed, soft-touch FlickLock+ for quick and easy adjustments.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/110068_9481_PURSUIT_SHOCK_TREKKING_POLES_Steel_Grey-Foam_Green_01.jpg?v=1742402587",
+      "published_at": "2026-11-10T10:31:21-07:00",
+      "detected_at": "2026-11-11T09:07:45.680739+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Hiking Poles",
+        "tags": [
+          "equipment",
+          "no-restock",
+          "Trekking-pole-sizing-alpha"
+        ],
+        "grams": [
+          570,
+          620
+        ],
+        "price_range": [
+          94.98,
+          113.97
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Trekingové hole, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507295+00:00"
+    },
+    {
+      "id": "889e8022752893cf",
+      "url": "https://www.blackdiamondequipment.com/products/glidelite-mix-fixed-length-sts-climbing-skins-135mm",
+      "title": "Glidelite Mix Fixed Length STS Climbing Skins 135mm",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Engineered for long approaches and extended ski tours where both glide and performance are paramount;\n the Black Diamond Glidelite Mohair Mix Skins have been refined with a progressive plush construction that maintains the optimal balance of grip vs. glide while increasing suppleness and durability. The next evolution of our STS Tail hardware reduces weight and packable size, increases the adjustable length from 10cm to 20cm, and is field replaceable. Tried and true BD Gold Label Adhesive ensures a skin to ski bond, lap after lap, even in the harshest of conditions. Glidelite Mix Climbing Skins provide the ultimate performance and freedom of travel through the backcountry.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/163920_0000_GLIDELITE_MIX_FL_135_MM_NO_COLOR_01.jpg?v=1742402543",
+      "published_at": "2026-11-10T10:30:27-07:00",
+      "detected_at": "2026-11-11T09:07:45.680870+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Climbing Skins",
+        "tags": [
+          "Climbing-Skins-alpha",
+          "equipment",
+          "no-restock"
+        ],
+        "grams": [
+          1020,
+          1060,
+          1080,
+          1120
+        ],
+        "price_range": [
+          94.98,
+          132.97
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpové pásy, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507306+00:00"
+    },
+    {
+      "id": "3f0e1129e4843487",
+      "url": "https://www.blackdiamondequipment.com/products/womens-mission-leather-low-waterproof-approach-shoes",
+      "title": "Women's Mission Leather Low WaterProof Approach Shoes",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Built to provide support and protection every step of the way, the Mission Leather Low WP is a durable, waterproof approach shoe that can handle season after season of mountain treks.\n Featuring a waterproof/breathable BD.dry lining combined with a high-grade Nubuck leather upper, this shoe keeps you dry while moving through stream crossings or snow fields. The climbing forefoot and toecap construction, which features our BlackLabel-Mountain sticky rubber adds precision when the trail kicks up into a scramble. Deep, high traction lugs provide grip in mud, and the fully gusseted tongue is padded for maximum comfort while keeping dirt and debris out. A tuned EVA midsole provides ample stiffness and precision when aiding through vertical terrain or Via Ferratas, and multiple webbing loops give you tagging options when the approach ends and the climbing begins.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/580033_9298_W_MISSION_LEATHER_LW_WP_APPROACH_SHOES_Mulberry-Black_01.jpg?v=1742402468",
+      "published_at": "2026-11-10T10:30:05-07:00",
+      "detected_at": "2026-11-11T09:07:45.680912+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Shoes",
+        "tags": [
+          "Approach-Footwear",
+          "no-restock",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          990,
+          1041,
+          1049,
+          1058,
+          1061
+        ],
+        "price_range": [
+          92.48,
+          110.97
+        ],
+        "variants": 9
+      },
+      "status": "vhodny",
+      "model": "Black Diamond Mission Leather Low WP",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Voděodolné přístupové turistické boty z nubuku, spadají do rubriky turistických bot; model dosud nerecenzovaný.",
+      "trideno_at": "2026-11-11T09:08:45.507317+00:00",
+      "novinka": "_novinky/2026-11-11-black-diamond-mission-leather-low-wp.md",
+      "novinka_at": "2026-11-11T09:09:03.037604+00:00"
+    },
+    {
+      "id": "5db070076505bc58",
+      "url": "https://www.blackdiamondequipment.com/products/contact-strap-crampons-past-season",
+      "title": "Contact Strap Crampons - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Designed for ice and snow travel, the lightweight Black Diamond Contact crampon is ideal for mountaineers, skiers and hikers.\nIts stainless steel construction won't rust and avoids environmentally toxic coatings that wear off in the mountains. The compact, 10-point design offers easy walking, while the fast-adjust attachment system accommodates almost any footwear. ABS plates included.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/400069_0000_CONTACT_STRAP_CRAMPONS_no_color_01_0a8efc04-85d3-44eb-a35e-bbf24378df41.jpg?v=1771888784",
+      "published_at": "2026-11-10T10:28:22-07:00",
+      "detected_at": "2026-11-11T09:07:45.681030+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Crampons",
+        "tags": [
+          "equipment",
+          "no-restock"
+        ],
+        "grams": [
+          1120
+        ],
+        "price_range": [
+          94.98,
+          113.97
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Nástavce na boty (cepíny), mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507346+00:00"
+    },
+    {
+      "id": "1a7abf7ccc48746d",
+      "url": "https://www.blackdiamondequipment.com/products/eldorado-tent-ground-cloth",
+      "title": "Eldorado Tent Ground Cloth",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "stany",
+      "snippet": "A lightweight, protective ground cloth for the Eldorado Tent.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/810025_0000_ELDORADO_TENT_GROUND_CLOTH_NO_COLOR_01.jpg?v=1742403482",
+      "published_at": "2026-11-10T10:27:53-07:00",
+      "detected_at": "2026-11-11T09:07:45.681124+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Accessories",
+        "tags": [
+          "equipment",
+          "no-restock"
+        ],
+        "grams": [
+          265
+        ],
+        "price_range": [
+          39.98,
+          39.98
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Podložka pod stan, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507365+00:00"
+    },
+    {
+      "id": "149c72b6534cf86f",
+      "url": "https://www.blackdiamondequipment.com/products/womens-project-lined-flannel-past-season",
+      "title": "Women's Project Lined Flannel - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Lined Project Flannel is the ideal layer for crisp climbing conditions, whether it's worn solo or over a hoody for added warmth.\n Constructed with a brushed organic cotton outer layer and a cozy, recycled polyester sherpa fleece lining, this is the most insulated flannel in the line. Nylon lining in the sleeves and a boxy fit make it easy to wear with other bulky layers. Additional features include an easy-to-operate snap closure and a single front chest pocket.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/744068_9626_W_PROJECT_LINED_FLANNEL_Charcoal-Pine_Smoke_01.jpg?v=1771611475",
+      "published_at": "2026-11-10T10:26:54-07:00",
+      "detected_at": "2026-11-11T09:07:45.681282+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Shirts",
+        "tags": [
+          "Climbing Clothing",
+          "no-restock",
+          "The Road Trip Collection",
+          "Women's-Tops-Relaxed",
+          "YGroup_WProjectLined"
+        ],
+        "grams": [
+          800,
+          820,
+          830,
+          850,
+          870
+        ],
+        "price_range": [
+          56.0,
+          90.0
+        ],
+        "variants": 17
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507380+00:00"
+    },
+    {
+      "id": "6896882ff95452ae",
+      "url": "https://www.blackdiamondequipment.com/products/fisherman-cap-past-season",
+      "title": "Fisherman Cap - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "An essential in any season, the BD beanie is iconic, serving up warmth, comfort, and style whenever and wherever there's a chill.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/723051_3010_FISHERMAN_CAP_Tundra_01.jpg?v=1782853437",
+      "published_at": "2026-11-10T10:26:24-07:00",
+      "detected_at": "2026-11-11T09:07:45.681393+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Beanies",
+        "tags": [
+          "no-restock"
+        ],
+        "grams": [
+          70
+        ],
+        "price_range": [
+          31.5,
+          31.5
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Čepice, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507394+00:00"
+    },
+    {
+      "id": "9363066078bd8f7b",
+      "url": "https://www.blackdiamondequipment.com/products/mens-sequence-pants-past-season",
+      "title": "Men's Sequence Pants - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "A lightweight pant that does it all, the Sequence is inspired by days spent at the crag but fits the bill for any outdoor activity.\n With a simple, straightforward fit, set-in front pockets that can fit topos, keys, or a tube of sunscreen, and a comfortable, lined waistband, the Sequence puts comfort and freedom of movement first. A synthetic ripstop fabric makes these pants feel light and breathable without compromising durability.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/750148_0038_M_Sequence_Pants_Charcoal_03.jpg?v=1787243960",
+      "published_at": "2026-11-10T10:25:44-07:00",
+      "detected_at": "2026-11-11T09:07:45.681558+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Pants",
+        "tags": [
+          "Men's-Pants-Regular-Alpha",
+          "no-restock",
+          "past-season",
+          "YCRF_apparel",
+          "YGroup_MSequence"
+        ],
+        "grams": [
+          310,
+          330,
+          340,
+          360
+        ],
+        "price_range": [
+          49.5,
+          59.4
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507407+00:00"
+    },
+    {
+      "id": "8aa8e03185334623",
+      "url": "https://www.blackdiamondequipment.com/products/mens-diamond-patch-short-sleeve-pocket-tee-2nds",
+      "title": "Men's Diamond Patch Short Sleeve Pocket Tee 2nds",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "This basic tee has a regular fit and comfortable feel, classic in every way. Made with a stretch jersey cotton that moves with you, this tee is designed to work as hard as you do, plus the graphic is printed with water-based inks.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/752485_1024_M_Diamond_Patch_Short_Sleeve_Pocket_Tee_Off_White_03.jpg?v=1778527404",
+      "published_at": "2026-11-10T10:24:24-07:00",
+      "detected_at": "2026-11-11T09:07:45.681697+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "",
+        "tags": [
+          "Men's-Tops-Regular",
+          "no-restock"
+        ],
+        "grams": [
+          180,
+          248
+        ],
+        "price_range": [
+          45.0,
+          45.0
+        ],
+        "variants": 10
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Tričko, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507419+00:00"
+    },
+    {
+      "id": "5e43909294ef9af7",
+      "url": "https://www.blackdiamondequipment.com/products/mens-recon-stretch-pro-shell-past-season",
+      "title": "Men's Recon Stretch Pro Shell - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "A bomber 3-layer shell built to blend both the movement of four-way stretch with the ultimate protection of BD.dry™ for the harshest winter conditions,\n the Recon Stretch Pro Shell seals out moisture on storm days but keeps you dry on the skintrack without sacrificing durability. Reinforced forearms, elbows and hips add protection in high-wear areas from packs, tree branches and other on-mountain obstacles. The snow helmet compatible hood and internal removable powder skirt also adds armor against the elements while charging deep in the backcountry.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/745018_2016_M_RECON_STRETCH_PRO_SHELL_Khaki_02.jpg?v=1758215059",
+      "published_at": "2026-11-10T10:23:44-07:00",
+      "detected_at": "2026-11-11T09:07:45.681841+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Ski Jackets",
+        "tags": [
+          "Men's-Tops-Regular",
+          "no-restock",
+          "Skiing and Snowboarding"
+        ],
+        "grams": [
+          930,
+          940,
+          950,
+          960
+        ],
+        "price_range": [
+          237.5,
+          332.5
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařská bunda, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507431+00:00"
+    },
+    {
+      "id": "adbbc80c6f2e1a40",
+      "url": "https://www.blackdiamondequipment.com/products/fritschi-scout-11-100-mm",
+      "title": "Fritschi Scout 11 100 mm",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Scout 11 is a lightweight frame binding with excellent all-mountain performance. Like a traditional alpine binding, the Scout 11 has a lateral release at the toe and a frontal release at the heel.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/101683_0002_FRITSCHI_SCOUT_11_BIND_100_MM_Black_3.jpg?v=1750784152",
+      "published_at": "2026-11-10T10:22:44-07:00",
+      "detected_at": "2026-11-11T09:07:45.681948+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Binding",
+        "tags": [
+          "equipment"
+        ],
+        "grams": [
+          2090,
+          2115,
+          2122
+        ],
+        "price_range": [
+          209.98,
+          251.97
+        ],
+        "variants": 3
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské vázání, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507444+00:00"
+    },
+    {
+      "id": "1ce7e802bd44c143",
+      "url": "https://www.blackdiamondequipment.com/products/mens-solution-150-merino-baselayer-crew",
+      "title": "Men's Solution 150 Merino Baselayer Crew",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Designed for high-output activity in the mountains, the Solution 150 Merino Baselayer Crew builds the foundation for your skin-to-environment layering system.\n Featuring innovative patented NuYarn stretch merino wool—a fabric that’s stronger, warmer, and dries faster than other merino wool fabrics by utilizing the technology of wrapping a nylon core with extra-fine merino fiber—the Solution 150 Baselayer Crew offers superior thermoregulation and moisture management and is naturally bacteria and odor resistant. The baselayer’s flatlock stitching provides seams that don’t chafe, while the crew’s shoulder panel is designed to eliminate pressure points while carrying a pack. Also, integrated thumb-holes make pulling on additional layers easy without bunch up your sleeves.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/760020_4002_M_SOLUTION_150_MERINO_BASE_CREW_ASTRAL_BLUE_03.jpg?v=1746824101",
+      "published_at": "2026-11-10T10:17:43-07:00",
+      "detected_at": "2026-11-11T09:07:45.682078+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "",
+        "tags": [
+          "Men's-Tops-Slim",
+          "no-restock",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          193,
+          207,
+          223,
+          273
+        ],
+        "price_range": [
+          81.0,
+          81.0
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Funkční prádlo, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507454+00:00"
+    },
+    {
+      "id": "6fb98cfce43c6c99",
+      "url": "https://www.blackdiamondequipment.com/products/smashlock-lower-125",
+      "title": "Smashlock Lower 125",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Replacement lower compatible with Trail Pro Trekking Poles.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/011536_0000_Smashlock_Lower_125_No_Color_01.jpg?v=1750063437",
+      "published_at": "2026-11-10T10:16:58-07:00",
+      "detected_at": "2026-11-11T09:07:45.682179+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Spare Part",
+        "tags": [
+          "no-restock"
+        ],
+        "grams": [
+          140
+        ],
+        "price_range": [
+          11.97,
+          11.97
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Náhradní díl k holi, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507488+00:00"
+    },
+    {
+      "id": "460e3fc0131e2c45",
+      "url": "https://www.blackdiamondequipment.com/products/mens-solution-150-merino-baselayer-crew-half-zip-hoody",
+      "title": "Men's Solution 150 Merino Baselayer Crew Half Zip Hoody",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Designed for high-output activity in the mountains,\n the Solution 150 Merino ½ Zip Hoody features innovative patented NuYarn stretch merino wool—a fabric that’s stronger, warmer, and dries faster than other merino wool fabrics by utilizing the technology of wrapping a nylon core with extra-fine merino fiber. The hoody offers superior thermoregulation and moisture management and is naturally bacteria and odor resistant. The flatlock stitching provides seams that don’t chafe, while the hoody’s shoulder panel is designed to eliminate pressure points while carrying a pack. Also, integrated thumb-holes make pulling on additional layers easy without bunching up your sleeves.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/760022_0002_M_SOLUTION_WOOL_BASELAYER_HALF_ZIP_HOODY_BLACK_02.jpg?v=1746833908",
+      "published_at": "2026-11-10T10:15:48-07:00",
+      "detected_at": "2026-11-11T09:07:45.682320+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Hoodies",
+        "tags": [
+          "Men's-Tops-Slim",
+          "no-restock"
+        ],
+        "grams": [
+          220,
+          234,
+          253,
+          275
+        ],
+        "price_range": [
+          72.5,
+          87.0
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507499+00:00"
+    },
+    {
+      "id": "fca9343a0d55c53a",
+      "url": "https://www.blackdiamondequipment.com/products/mens-dawn-patrol-hybrid-pants-past-season",
+      "title": "Men's Dawn Patrol Hybrid Pants - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Dawn Patrol Hybrid Pants are built for going deep in the backcountry. \nBy utilizing our proprietary BD.dry™ waterproof/breathable solution on key areas that require protection, while featuring a breathable softshell fabric on crucial panels that are prone to overheating, the Dawn Patrol Hybrid Pant brings exactly what you need to a day of touring—uphill performance and freedom, downhill security for getting pitted. Side-zip vents add temperature regulation and two thigh pockets—one being a dedicated pocket for electronics—and a smaller upper right hip pocket allow you to stow backcountry essentials. An integrated RECCO reflector adds to the pants’ snow safety capabilities, while the instep patches guard against ski edges and crampon points. There is a stretch gaiter and the cuffs feature dual snap closures to accommodate both racing and touring boots. The integrated belt provides waist adjustment along with internal loops to allow for suspender compatibility.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/741050_4015_M_DAWN_PATROL_HYBRID_PANTS_Kingfisher_01.jpg?v=1758215203",
+      "published_at": "2026-11-10T10:14:34-07:00",
+      "detected_at": "2026-11-11T09:07:45.682455+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Ski Pants",
+        "tags": [
+          "no-restock",
+          "Skiing and Snowboarding"
+        ],
+        "grams": [
+          530,
+          560,
+          590,
+          620
+        ],
+        "price_range": [
+          162.5,
+          265.3
+        ],
+        "variants": 8
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské kalhoty, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507509+00:00"
+    },
+    {
+      "id": "88cdefac35ae67de",
+      "url": "https://www.blackdiamondequipment.com/products/ski-skin-tail-kit-past-season",
+      "title": "Ski Skin Tail Kit - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "This kit contains two replacement tail straps, clips, and hardware.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/163862_0000_SKI_SKIN_TAIL_KIT_NO_COLOR_01.jpg?v=1742402105",
+      "published_at": "2026-11-10T10:05:59-07:00",
+      "detected_at": "2026-11-11T09:07:45.682581+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Climbing Skins",
+        "tags": [
+          "equipment"
+        ],
+        "grams": [
+          80
+        ],
+        "price_range": [
+          12.48,
+          12.48
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Náhradní díly na pásy, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507519+00:00"
+    },
+    {
+      "id": "8110208e36e5dc48",
+      "url": "https://www.blackdiamondequipment.com/products/dawn-patrol-15-backpack-past-season",
+      "title": "Dawn Patrol 15 Backpack - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Made with 100% recycled, main body fabrics, the Dawn Patrol 15 is purpose-built short missions off-piste, all-day lift laps and big freeride lines.\n The snow safety pocket stores your avalanche safety kit, and an oversized insulated shoulder pocket holds a hydration tube, soft flask, or radio. The pack’s form-fitting suspension provides a contoured, body-hugging fit, while the main zippered panel opens for quick access to your gear. Exterior attachment points for skis, snowboard, helmet, and piolet accommodate the needs of skiers and riders.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/681287_2007_DAWN_PATROL_15_BACKPACK_Amber_01.jpg?v=1742402270",
+      "published_at": "2026-11-10T10:04:45-07:00",
+      "detected_at": "2026-11-11T09:07:45.682610+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Ski Packs",
+        "tags": [
+          "Crag-Ascent-Snow-Packs",
+          "equipment",
+          "no-restock"
+        ],
+        "grams": [
+          950
+        ],
+        "price_range": [
+          111.97,
+          111.97
+        ],
+        "variants": 6
+      },
+      "status": "duplicitni",
+      "model": "Black Diamond Dawn Patrol 15",
+      "rubrika": "batohy",
+      "priorita": 2,
+      "duvod": "Skialpový/freeride batoh; batoh do terénu, ale užší zaměření a sezónní model, proto nižší priorita.",
+      "trideno_at": "2026-11-11T09:08:45.507530+00:00"
+    },
+    {
+      "id": "2fb832303b3efffc",
+      "url": "https://www.blackdiamondequipment.com/products/ascension-skins-past-season",
+      "title": "Ascension Skins - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "From one-lap dawn patrols to 10,000-foot days, the Black Diamond Ascension Ski Skins offer standard-setting traction on the uphill with efficient glide thanks to our plush material.\n Now available in fixed lengths, with pre-installed, redesigned tip and tail attachments, the Ascensions skins are intuitive and easy to use and feature our patented STS tail attachment system, which provides up to 10cm of adjustability for using with different skis in your quiver or for easy tensioning. Redesigned low profile tip hardware prevents snow build-up under skins a wide range of modern ski tip shapes. We also gave the skins a pre-trimmed, bikini-style tail for reduced drag and weight.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/163785_0000_ASCENSION_NYLON_CLIMBING_SKINS_NO_COLOR_01.jpg?v=1742402319",
+      "published_at": "2026-11-10T10:03:43-07:00",
+      "detected_at": "2026-11-11T09:07:45.682714+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Climbing Skins",
+        "tags": [
+          "Climbing-Skins",
+          "equipment"
+        ],
+        "grams": [
+          1060,
+          1080,
+          1100,
+          1120,
+          1160
+        ],
+        "price_range": [
+          101.97,
+          101.97
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpové pásy, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507549+00:00"
+    },
+    {
+      "id": "e11886bc36d0cfac",
+      "url": "https://www.blackdiamondequipment.com/products/glidelite-mix-trim-to-length-sts-climbing-skins",
+      "title": "Glidelite Mix Trim to Length STS Climbing Skins",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Engineered for long approaches and extended ski tours where both glide and performance are paramount;\n the Black Diamond Glidelite Mohair Mix Skins maintain the optimal balance of grip vs. glide while increasing suppleness and durability. The next evolution of our STS Tail hardware reduces weight and packable size, increases the adjustable length from 10cm to 20cm, andis field replaceable. Gold Label Adhesive ensures a skin to ski bond, lap after lap, even in the harshest of conditions. Glidelite Mix Climbing Skins provide the ultimate performance and freedom of travel through the backcountry.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/163875_0000_GLIDELITE_MIX_FL_110_MM_NO_COLOR_01_cac8a59d-7704-4115-bbd1-14136506dbed.jpg?v=1742402218",
+      "published_at": "2026-11-10T10:01:47-07:00",
+      "detected_at": "2026-11-11T09:07:45.682838+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Climbing Skins",
+        "tags": [
+          "equipment",
+          "no-restock"
+        ],
+        "grams": [
+          1060,
+          1220
+        ],
+        "price_range": [
+          99.98,
+          153.97
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Skialpové pásy, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507559+00:00"
+    },
+    {
+      "id": "3dbeb3cc7191add8",
+      "url": "https://www.scarpa.com/products/telemark-free-heel-full-control-id002",
+      "title": "Telemark",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Balance and control through every turn.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/Mountain_20Days_202027_Blocco_20Atelier_Telemark_PDP_3000x3000_f65c7674-6839-4e71-ad0c-787823976e82.png?v=1793626955",
+      "published_at": "2026-11-11T09:04:09+01:00",
+      "detected_at": "2026-11-11T09:08:03.305732+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "",
+        "tags": [
+          "EXPERIENCE",
+          "judgme_excluded"
+        ],
+        "grams": [],
+        "price_range": [
+          120.0,
+          120.0
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka kategorie/marketingu, ne konkrétní produkt.",
+      "trideno_at": "2026-11-11T09:08:45.507570+00:00"
+    },
+    {
+      "id": "1e22235c4b4c0fce",
+      "url": "https://www.scarpa.com/products/freeride-beyond-the-groomed-slopes-id004",
+      "title": "Freeride",
+      "brand": "Scarpa",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Find your line. Refine your technique.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0900/8827/6350/files/Mountain_20Days_202027_Blocco_20Atelier_Freeride_PDP_3000x3000_efa31af9-4be0-48b2-81e1-68450b58b827.png?v=1793627050",
+      "published_at": "2026-11-11T09:04:07+01:00",
+      "detected_at": "2026-11-11T09:08:03.305844+00:00",
+      "data": {
+        "vendor": "Calzaturificio SCARPA ",
+        "product_type": "",
+        "tags": [
+          "EXPERIENCE",
+          "judgme_excluded"
+        ],
+        "grams": [],
+        "price_range": [
+          120.0,
+          175.0
+        ],
+        "variants": 4
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Stránka kategorie/marketingu, ne konkrétní produkt.",
+      "trideno_at": "2026-11-11T09:08:45.507580+00:00"
+    },
+    {
+      "id": "5b0504f6ccbb6f04",
+      "url": "https://www.hyperlitemountaingear.com/products/gridline-anorak-womens",
+      "title": "Gridline Anorak Women's",
+      "brand": "Hyperlite Mountain Gear",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Gridline Anorak is built for days when a fickle forecast can’t be trusted. Ultralight, fully waterproof, and genuinely breathable, it keeps weather out without trapping heat in, and it moves with you whether you’re scrambling, climbing, or grinding out miles. Every detail earns its place: dump heat on the climbs, seal up when the wind picks up, and dial in the fit as conditions change. When the skies clear, it packs down small and disappears into your pack until you need it again.\n KEY FEATURES\n This jacket is made with ultralight, durable 3-layer Dyneema® ripstop waterproof-breathable fabric and fully taped seams.\n A deep two-way chest zipper and generous pit zips let you dump heat fast when you’re working hard.\n A chest pocket protects small essentials with a zipper tucked under a welt, so water runs off instead of getting in.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/3004/4846/files/hyperlite-mountain-gear-apparel-gridline-anorak-women-s-phantom-black-x-small-1265183397.jpg?v=1793292129",
+      "published_at": "2026-11-10T09:03:40-05:00",
+      "detected_at": "2026-11-11T09:08:19.701891+00:00",
+      "data": {
+        "vendor": "Hyperlite Mountain Gear",
+        "product_type": "Apparel",
+        "tags": [],
+        "grams": [
+          193,
+          196,
+          201,
+          204,
+          207
+        ],
+        "price_range": [
+          450.0,
+          450.0
+        ],
+        "variants": 12
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, mimo rubriky.",
+      "trideno_at": "2026-11-11T09:08:45.507590+00:00"
+    },
+    {
+      "id": "420d86af2a98331c",
+      "url": "https://www.hyperlitemountaingear.com/products/gridline-anorak-mens",
+      "title": "Gridline Anorak Men's",
+      "brand": "Hyperlite Mountain Gear",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The Gridline Anorak is built for days when a fickle forecast can’t be trusted. Ultralight, fully waterproof, and genuinely breathable, it keeps weather out without trapping heat in, and it moves with you whether you’re scrambling, climbing, or grinding out miles. Every detail earns its place: dump heat on the climbs, seal up when the wind picks up, and dial in the fit as conditions change. When the skies clear, it packs down small and disappears into your pack until you need it again.\n KEY FEATURES\n This jacket is made with ultralight, durable 3-layer Dyneema® ripstop waterproof-breathable fabric and fully taped seams.\n A deep two-way chest zipper and generous pit zips let you dump heat fast when you’re working hard.\n A chest pocket protects small essentials with a zipper tucked under a welt, so water runs off instead of getting in.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/3004/4846/files/hyperlite-mountain-gear-apparel-gridline-anorak-men-s-black-small-1263903383.jpg?v=1792600930",
+      "published_at": "2026-11-10T09:03:39-05:00",
+      "detected_at": "2026-11-11T09:08:19.701972+00:00",
+      "data": {
+        "vendor": "Hyperlite Mountain Gear",
+        "product_type": "Apparel",
+        "tags": [],
+        "grams": [
+          207,
+          213,
+          218,
+          221,
+          232
+        ],
+        "price_range": [
+          450.0,
+          450.0
+        ],
+        "variants": 10
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (anorak), nepatří do rubrik batohy, boty ani karimatky.",
+      "trideno_at": "2026-11-11T09:08:47.963860+00:00"
+    },
+    {
+      "id": "b35bae4a88ecdb1a",
+      "url": "https://www.osprey.com/stories/bike/more-than-biking",
+      "title": "It’s About Much More Than Biking",
+      "brand": "Osprey",
+      "strategy": "exa",
+      "category_hint": "batohy",
+      "snippet": "It’s About Much More Than Biking\n\n# It’s About Much More Than Biking \n\nBuilding a welcoming community that fosters confident, caring and brave young people with Durango Devo.\n\n 8 min read \n\n Nate Greason \n\n Nov 10, 2026 \n\nIf you ask 10 people in Durango, Colorado what Durango Devo(Opens in a new window) is, you’ll probably get 10 different responses. In general, folks will probably tell you that it’s a youth mountain biking organization. Some people may emphasize the organization’s racing success and famous alumni (Tour de France star Sepp Kuss, Olympians like Howard Grotts, Riley Amos, and Chris Blevins, and upcoming rippers like Bailey Cioppa and Ivan Sippy). Others might mention Devo’s youngest riders, the ultra-cute Push Bikers and Preschoolers that are a feature on Durango-area trails. Still others might talk about community events Devo throws.\n\nI stepped into my role as Devo’s Executive Director nearly two years ago. In that time, I’ve been continually amazed by the fact that “Durango Devo” means very different things to different folks in our community. In getting to know the organization more fully, I’ve come to understand that Devo’s amorphous identity is simply the logical result of a simple fact: Devo wears a lot of hats in Durango.\n\nDevo is a youth development organization. Our mission is to “build lifelong cyclists, one ride at a time.” For 20 years, we’ve achieved this mission by running team-based, fun-focused cycling programs for Durango’s young shredders. Cur",
+      "thumbnail": "https://www.osprey.com/media/magefan_blog/2026_TSTC-44-3_2.jpg",
+      "published_at": "2026-11-10T13:00:00.000Z",
+      "detected_at": "2026-11-11T09:08:29.039683+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o komunitním projektu, nikoli konkrétní produkt.",
+      "trideno_at": "2026-11-11T09:08:47.963899+00:00"
     }
   ]
 }
