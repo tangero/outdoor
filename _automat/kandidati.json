@@ -23004,6 +23004,194 @@
       "priorita": 1,
       "duvod": "Článek o komunitním projektu, nikoli konkrétní produkt.",
       "trideno_at": "2026-11-11T09:08:47.963899+00:00"
+    },
+    {
+      "id": "e35b9c2b9d6b06af",
+      "url": "https://www.blackdiamondequipment.com/products/womens-recon-lt-stretch-pants-past-season",
+      "title": "Women's Recon LT Stretch Pants - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Built for the backcountry, the Recon Stretch LT Pants provide dependable weather protection in harsh winter conditions.\n Featuring a slimmed down fit when compared to our Recon Stretch line, the Recon Stretch LT Pants combine BD.dry waterproof/ breathable solution with a lightweight ripstop fabric for a best-in-class three-layer combo of durability, protection, and minimal weight.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/741024_0003_W_Recon_LT_Stretch_Pants_Carbon_03_1525ad91-9f58-4e07-a805-8c655f32e815.jpg?v=1784660678",
+      "published_at": "2026-11-11T13:47:14-07:00",
+      "detected_at": "2026-11-12T09:08:02.540938+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Ski Pants",
+        "tags": [
+          "Designed for the Deep",
+          "New Arrivals",
+          "no-restock",
+          "Skiing and Snowboarding",
+          "Women's-Bottoms-Slim-Alpha",
+          "YCRF_apparel"
+        ],
+        "grams": [
+          498,
+          524,
+          550,
+          576,
+          602
+        ],
+        "price_range": [
+          189.5,
+          214.5
+        ],
+        "variants": 10
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Lyžařské kalhoty (oblečení), mimo rubriky.",
+      "trideno_at": "2026-11-12T09:08:56.762569+00:00"
+    },
+    {
+      "id": "3b4e23bb152d0c4c",
+      "url": "https://www.blackdiamondequipment.com/products/womens-mini-stacked-pullover-hoody-past-season",
+      "title": "Women's Mini Stacked Pullover Hoody - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Celebrating the name that says it all in comfort and style, this pullover hoody has all the features of a long-standing classic.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/752502_1024_W_Mini_Stacked_Po_Hoody_Off_White_03_4cc1e2cc-b062-4a36-8148-8077edd04f94.jpg?v=1784739212",
+      "published_at": "2026-11-11T11:40:35-07:00",
+      "detected_at": "2026-11-12T09:08:02.541255+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Hoodies",
+        "tags": [
+          "Back-In-Session",
+          "New Arrivals",
+          "Women's-Tops-Regular",
+          "YCRF_apparel",
+          "YGroup_WMiniStack"
+        ],
+        "grams": [
+          535
+        ],
+        "price_range": [
+          71.4,
+          71.4
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Mikina, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-12T09:08:56.762618+00:00"
+    },
+    {
+      "id": "5c9221a87323d221",
+      "url": "https://www.blackdiamondequipment.com/products/womens-coefficient-lt-pants-past-season",
+      "title": "Women's Coefficient LT Pants - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "A baselayer or midlayer for anything from ski tours to alpine ascents, or even just kicking it around camp, the Coefficient LT Bottom features Polartec® Power Grid® fleece with a gridded interior for increased wicking performance and added breathability.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/760005_0002_W_Coefficient_LT_Pants_Black_03_e1cbe491-4c65-4298-bad3-4c5816ab95d6.jpg?v=1787156628",
+      "published_at": "2026-11-11T11:40:29-07:00",
+      "detected_at": "2026-11-12T09:08:02.541490+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Pants",
+        "tags": [
+          "Skiing and Snowboarding",
+          "Women's-Bottoms-Slim-Alpha",
+          "YCRF_apparel",
+          "YGroup_WCoeffPants"
+        ],
+        "grams": [
+          300
+        ],
+        "price_range": [
+          64.5,
+          64.5
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Termo kalhoty/spodní vrstva, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-12T09:08:56.762644+00:00"
+    },
+    {
+      "id": "6b1c679e07212516",
+      "url": "https://www.blackdiamondequipment.com/products/atc-pilot-belay-device",
+      "title": "ATC-Pilot Belay Device",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The lightweight Black Diamond ATC Pilot represents an advance in technology for the world of assisted braking devices.\n Providing an added level of security to your belay, the ATC Pilot threads similarly to other tubular belay devices and accommodates ropes from 8.7-10.5mm. The durable steel braking surface has no moving parts, and the smooth and secure control allows for gradual lowering. With an easy rope payout, the ATC Pilot makes single-pitch projecting burns less tiring for the belayer and more secure for the climber.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/620087_0002_ATC_PILOT_BLACK_01_df727584-860e-473e-8adc-e46f080cbb5f.jpg?v=1776208146",
+      "published_at": "2026-11-11T10:42:01-07:00",
+      "detected_at": "2026-11-12T09:08:02.541714+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Belay and Rappel",
+        "tags": [
+          "Back-In-Session",
+          "Belay and Rappel",
+          "equipment",
+          "grigri"
+        ],
+        "grams": [
+          140
+        ],
+        "price_range": [
+          54.95,
+          54.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Jisticí lezecké vybavení, mimo rubriky.",
+      "trideno_at": "2026-11-12T09:08:56.762661+00:00"
+    },
+    {
+      "id": "fcff29e39d49128a",
+      "url": "https://www.blackdiamondequipment.com/products/mens-mini-stacked-pullover-hoody-past-season",
+      "title": "Men's Mini Stacked Pullover Hoody - Past Season",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Celebrating the name that says it all in comfort and style, this pullover hoody has all the features of a long-standing classic.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/752488_1014_M_Mini_Stacked_Pullover_Hoody_Nickel_Heather_03.jpg?v=1784735998",
+      "published_at": "2026-11-11T10:13:30-07:00",
+      "detected_at": "2026-11-12T09:08:02.541957+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "Hoodies",
+        "tags": [
+          "Back-In-Session",
+          "Men's-Tops-Regular",
+          "New Arrivals",
+          "YCRF_apparel",
+          "YGroup_MMiniStack"
+        ],
+        "grams": [
+          607
+        ],
+        "price_range": [
+          71.4,
+          71.4
+        ],
+        "variants": 5
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Pánská mikina, oblečení mimo rubriky.",
+      "trideno_at": "2026-11-12T09:08:56.762682+00:00"
     }
   ]
 }
