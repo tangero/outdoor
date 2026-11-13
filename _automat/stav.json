@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-12T09:08:51.730090+00:00",
+  "last_run": "2026-11-13T09:08:57.230125+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,8 +273,13 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-11-12T09:08:48.688341+00:00",
+      "last_check": "2026-11-13T09:08:54.236818+00:00",
       "items": [
+        {
+          "url": "https://www.osprey.com/us/es/stories/bike/more-than-biking",
+          "hash": "c267fcb63eec517c",
+          "detected_at": "2026-11-13T09:08:54.236798+00:00"
+        },
         {
           "url": "https://www.osprey.com/ec/es/stories/bike/more-than-biking",
           "hash": "d9fd64130836a059",
@@ -778,7 +783,7 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-11-12T09:08:48.876400+00:00",
+      "last_check": "2026-11-13T09:08:54.424771+00:00",
       "items": [
         {
           "url": "https://eu.gregorypacks.com/uk-en/gregory-x-garmin.html",
@@ -1078,7 +1083,7 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-11-12T09:08:49.064884+00:00",
+      "last_check": "2026-11-13T09:08:54.632796+00:00",
       "items": [
         {
           "url": "https://pimcore.deuter.com/deuter-master/en/backpacks/trail",
@@ -1408,7 +1413,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-11-12T09:08:49.311934+00:00",
+      "last_check": "2026-11-13T09:08:54.819248+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/us/",
@@ -1643,7 +1648,7 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-11-12T09:08:02.541982+00:00",
+      "last_check": "2026-11-13T09:08:07.069718+00:00",
       "items": [
         {
           "url": "https://www.blackdiamondequipment.com/products/womens-recon-lt-stretch-pants-past-season",
@@ -2208,7 +2213,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-11-12T09:08:49.518696+00:00",
+      "last_check": "2026-11-13T09:08:55.017384+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -2228,7 +2233,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-11-12T09:08:49.706380+00:00",
+      "last_check": "2026-11-13T09:08:55.208671+00:00",
       "items": [
         {
           "url": "https://ph.salomon.com/products/xt-4-og-bodega",
@@ -2613,7 +2618,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-11-12T09:08:49.909651+00:00",
+      "last_check": "2026-11-13T09:08:55.402065+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/stores/la-sportiva-store-kalymnos",
@@ -2798,7 +2803,7 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-11-12T09:08:21.220061+00:00",
+      "last_check": "2026-11-13T09:08:26.097649+00:00",
       "items": [
         {
           "url": "https://www.scarpa.com/products/telemark-free-heel-full-control-id002",
@@ -3423,7 +3428,7 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-11-12T09:08:50.110418+00:00",
+      "last_check": "2026-11-13T09:08:55.626060+00:00",
       "items": [
         {
           "url": "https://www.mammut.com/us/en/stories-guides/what-should-you-wear-for-hiking-in-the-fall-an-outfit-guide-for-unpredictable-weather",
@@ -3633,7 +3638,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-11-12T09:08:50.344889+00:00",
+      "last_check": "2026-11-13T09:08:55.819416+00:00",
       "items": [
         {
           "url": "https://us.lowa.com/blogs/adventures/two-left-feet-on-mexicos-highest-peak",
@@ -3853,7 +3858,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-11-12T09:08:50.548751+00:00",
+      "last_check": "2026-11-13T09:08:56.019249+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/women/shoes/agate",
@@ -4013,7 +4018,7 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-11-12T09:08:04.755841+00:00",
+      "last_check": "2026-11-13T09:08:09.410668+00:00",
       "items": [
         {
           "url": "https://www.garmont.com/products/t8-extreme-wp-400g-thinsulate-regular-coyote-003171",
@@ -4368,7 +4373,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-11-12T09:08:50.751890+00:00",
+      "last_check": "2026-11-13T09:08:56.214465+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/blacklight-carbon-pro-binding-interview",
@@ -4493,7 +4498,7 @@
       ]
     },
     "keen": {
-      "last_check": "2026-11-12T09:08:16.883349+00:00",
+      "last_check": "2026-11-13T09:08:21.760829+00:00",
       "items": [
         {
           "url": "https://www.keenfootwear.com/products/womens-uneek-360-birch-roasted-pecan",
@@ -5043,7 +5048,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-11-12T09:08:50.969474+00:00",
+      "last_check": "2026-11-13T09:08:56.446862+00:00",
       "items": [
         {
           "url": "https://www.hoka.com/en/id/new-arrivals/",
@@ -5228,7 +5233,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-11-12T09:08:51.151639+00:00",
+      "last_check": "2026-11-13T09:08:56.633298+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/merrell-and-pam-come-together-for-a-collaboration-inspired-by-amphibian-life/",
@@ -5388,7 +5393,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-11-12T09:08:51.359330+00:00",
+      "last_check": "2026-11-13T09:08:56.832709+00:00",
       "items": [
         {
           "url": "https://www.inov-8.com/us/roclite-g-275-womens-trail-running-shoes?colours=867",
@@ -5508,7 +5513,7 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-11-12T09:08:30.425265+00:00",
+      "last_check": "2026-11-13T09:08:35.748759+00:00",
       "items": [
         {
           "url": "https://www.thermarest.com/products/lightning-tails",
@@ -5728,8 +5733,163 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-11-12T09:08:26.350361+00:00",
+      "last_check": "2026-11-13T09:08:31.515217+00:00",
       "items": [
+        {
+          "url": "https://seatosummit.com/products/spark-pro-down-sleeping-bag-incorrect-packaging-past-season",
+          "hash": "fccd86357e1fe08c",
+          "detected_at": "2026-11-13T09:08:31.511865+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/detour-stainless-steel-collapsible-bowl-past-season",
+          "hash": "e3e3c2b9a3d1c907",
+          "detected_at": "2026-11-13T09:08:31.512002+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/frontier-ultralight-1-3l-pot-cook-set-3-piece-past-season",
+          "hash": "3800248fb259bdb4",
+          "detected_at": "2026-11-13T09:08:31.512551+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/evac-dry-bag-past-season",
+          "hash": "b916510823bfaa2d",
+          "detected_at": "2026-11-13T09:08:31.512582+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/evac-compression-dry-bag-ul-past-season",
+          "hash": "e1ce4f415cf2bb3a",
+          "detected_at": "2026-11-13T09:08:31.512802+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/evac-compression-dry-bag-hd-past-season",
+          "hash": "f87831bcea6ceb85",
+          "detected_at": "2026-11-13T09:08:31.513013+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/passage-dinnerware-set",
+          "hash": "393d30b432135e01",
+          "detected_at": "2026-11-13T09:08:31.513225+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/frontier-ultralight-6-piece-cookset",
+          "hash": "40938d9785d37b6d",
+          "detected_at": "2026-11-13T09:08:31.513460+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/mesh-stuff-sack",
+          "hash": "a735b592e6d96594",
+          "detected_at": "2026-11-13T09:08:31.513503+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/telos-bikepacking-tr2-two-person-freestanding-tent",
+          "hash": "d4e73bf5823bf74a",
+          "detected_at": "2026-11-13T09:08:31.513674+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/alto-lightfoot-footprint",
+          "hash": "f26d89a5c13e29d3",
+          "detected_at": "2026-11-13T09:08:31.513696+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/alto-bigfoot-footprint",
+          "hash": "a32dfd8ea9ebb068",
+          "detected_at": "2026-11-13T09:08:31.513851+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/aeros-lumbar-support-inflatable-pillow",
+          "hash": "0fe8a3667abacd37",
+          "detected_at": "2026-11-13T09:08:31.513999+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/ether-light-xt-extreme-insulated-air-sleeping-pad",
+          "hash": "bf484a71791a689b",
+          "detected_at": "2026-11-13T09:08:31.514119+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/ether-light-xt-insulated-sleeping-pad",
+          "hash": "eed82effece78404",
+          "detected_at": "2026-11-13T09:08:31.514229+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/foam-core-pillow-past-season",
+          "hash": "4a0e61ef2e516f7a",
+          "detected_at": "2026-11-13T09:08:31.514245+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/airlite-towel-past-season",
+          "hash": "f7cec9abb65959e3",
+          "detected_at": "2026-11-13T09:08:31.514414+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/delta-self-inflating-seat",
+          "hash": "f555d27f2113fbc5",
+          "detected_at": "2026-11-13T09:08:31.514429+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/ultra-sil-kitchen-sink-past-season",
+          "hash": "129aa77c00af2762",
+          "detected_at": "2026-11-13T09:08:31.514540+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/comfort-deluxe-self-inflating-sleeping-pad-past-season",
+          "hash": "5a454e4385f03af9",
+          "detected_at": "2026-11-13T09:08:31.514555+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/comfort-light-insulated-pad",
+          "hash": "5d3c59bec572c66a",
+          "detected_at": "2026-11-13T09:08:31.514659+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/ultralight-insulated-mat",
+          "hash": "c7fa95c75b2cac30",
+          "detected_at": "2026-11-13T09:08:31.514674+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/reflective-accessory-cord",
+          "hash": "e0452e6c3bf89481",
+          "detected_at": "2026-11-13T09:08:31.514689+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/aquaslings",
+          "hash": "dba0ee9e3aaf0c0f",
+          "detected_at": "2026-11-13T09:08:31.514702+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/solution-eclipse-paddle-gloves",
+          "hash": "417974a0ae759c0d",
+          "detected_at": "2026-11-13T09:08:31.514810+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/solution-inflatable-paddle-float",
+          "hash": "84c574e0068ba4dd",
+          "detected_at": "2026-11-13T09:08:31.514880+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/escapist-tarp",
+          "hash": "1aaba6954abfd0bb",
+          "detected_at": "2026-11-13T09:08:31.515004+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/ultra-sil-folding-bucket-past-season",
+          "hash": "40c35e435a29a4c4",
+          "detected_at": "2026-11-13T09:08:31.515017+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/reactor-fleece-sleeping-bag-liner",
+          "hash": "2be30ecb849f44f0",
+          "detected_at": "2026-11-13T09:08:31.515032+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/telos-freestanding-ultralight-tent-green",
+          "hash": "ee46aaba4d7e0165",
+          "detected_at": "2026-11-13T09:08:31.515047+00:00"
+        },
+        {
+          "url": "https://seatosummit.com/products/telos-tr2-and-tr2-plus-fly",
+          "hash": "d22d8886c5e99351",
+          "detected_at": "2026-11-13T09:08:31.515064+00:00"
+        },
         {
           "url": "https://seatosummit.com/products/tek-towel",
           "hash": "e0d05b773d0faed1",
@@ -6083,7 +6243,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-11-12T09:08:51.546712+00:00",
+      "last_check": "2026-11-13T09:08:57.035930+00:00",
       "items": [
         {
           "url": "https://klymit.com/blogs/gift-guides/holiday",
@@ -6273,7 +6433,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-11-12T09:08:51.730040+00:00",
+      "last_check": "2026-11-13T09:08:57.230079+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/11-outerwear/",
@@ -6618,7 +6778,7 @@
       ]
     },
     "big-agnes": {
-      "last_check": "2026-11-12T09:08:34.443875+00:00",
+      "last_check": "2026-11-13T09:08:39.437590+00:00",
       "items": [
         {
           "url": "https://bigagnes.com/products/blacktail-three-warm-olive",
@@ -6753,11 +6913,11 @@
       ]
     },
     "nemo": {
-      "last_check": "2026-11-12T09:08:36.654722+00:00",
+      "last_check": "2026-11-13T09:08:41.500280+00:00",
       "items": []
     },
     "hyperlite-mountain-gear": {
-      "last_check": "2026-11-12T09:08:38.662477+00:00",
+      "last_check": "2026-11-13T09:08:43.495760+00:00",
       "items": [
         {
           "url": "https://www.hyperlitemountaingear.com/products/gridline-anorak-womens",
@@ -6772,8 +6932,53 @@
       ]
     },
     "zpacks": {
-      "last_check": "2026-11-12T09:08:46.377064+00:00",
+      "last_check": "2026-11-13T09:08:51.584496+00:00",
       "items": [
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-burnt-orange-large",
+          "hash": "78983dede0dfe6d3",
+          "detected_at": "2026-11-13T09:08:51.583268+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-burnt-orange-medium",
+          "hash": "01c2c26c2f6183c9",
+          "detected_at": "2026-11-13T09:08:51.583421+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-black-extra-large",
+          "hash": "25d49054bc59872d",
+          "detected_at": "2026-11-13T09:08:51.583561+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-azure-blue-xx-large",
+          "hash": "e90bfd61ac414151",
+          "detected_at": "2026-11-13T09:08:51.583682+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-azure-blue-large",
+          "hash": "f0437eec7ed020f2",
+          "detected_at": "2026-11-13T09:08:51.583815+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-navy-blue-extra-large",
+          "hash": "ef0a5284d77960d6",
+          "detected_at": "2026-11-13T09:08:51.583949+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-navy-blue-small",
+          "hash": "d30ca7783ccb928f",
+          "detected_at": "2026-11-13T09:08:51.584086+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-navy-blue-medium",
+          "hash": "c871a14996b9313f",
+          "detected_at": "2026-11-13T09:08:51.584216+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-navy-blue-xx-large",
+          "hash": "deaad1170ae4269b",
+          "detected_at": "2026-11-13T09:08:51.584346+00:00"
+        },
         {
           "url": "https://zpacks.com/products/wallet-zip-pouch",
           "hash": "84229a26c6d5d396",
@@ -6872,7 +7077,7 @@
       ]
     },
     "gossamer-gear": {
-      "last_check": "2026-11-12T09:08:48.464088+00:00",
+      "last_check": "2026-11-13T09:08:53.914578+00:00",
       "items": [
         {
           "url": "https://www.gossamergear.com/products/2025-vagabond-jet",
