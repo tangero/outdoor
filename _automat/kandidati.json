@@ -76,7 +76,7 @@
       "priorita": 4,
       "duvod": "Konkrétní turistický batoh, řada AirContact není mezi recenzovanými v této variantě.",
       "trideno_at": "2026-10-19T05:01:01.125851+00:00",
-      "pokus_at": "2026-10-20T10:36:38.101969+00:00"
+      "pokus_at": "2026-11-13T06:07:55.025643+00:00"
     },
     {
       "id": "a40593d7ebab5670",
@@ -859,12 +859,14 @@
       "published_at": "",
       "detected_at": "2026-04-23T19:05:44.222824+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Lowe Alpine Sirac 65",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Trekový batoh, v databázi zatím není.",
-      "trideno_at": "2026-10-19T05:01:23.512185+00:00"
+      "trideno_at": "2026-10-19T05:01:23.512185+00:00",
+      "pokus_at": "2026-11-13T06:08:42.204378+00:00",
+      "soubor": "_posts/batohy/2026-11-13-lowe-alpine-sirac-65.md"
     },
     {
       "id": "d6e62e47b8c8895c",
@@ -1496,7 +1498,7 @@
       "priorita": 4,
       "duvod": "Trailová běžecká bota, nerecenzovaný model.",
       "trideno_at": "2026-10-19T05:01:38.126069+00:00",
-      "pokus_at": "2026-10-27T06:05:27.766662+00:00"
+      "pokus_at": "2026-11-13T06:06:51.025535+00:00"
     },
     {
       "id": "c61b073108f995b1",
@@ -3537,13 +3539,13 @@
       "published_at": "",
       "detected_at": "2026-04-30T10:55:05.328026+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Osprey Soelden 32",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní skialpový/turistický batoh Osprey, nový model, není recenzován.",
       "trideno_at": "2026-10-19T16:02:53.377638+00:00",
-      "pokus_at": "2026-10-19T17:31:48.490474+00:00"
+      "pokus_at": "2026-11-13T06:07:14.250273+00:00"
     },
     {
       "id": "ea95f9c25681c4f4",
@@ -4119,7 +4121,7 @@
       "priorita": 4,
       "duvod": "Turistická bota Moab Speed 2 GORE-TEX; v seznamu je Merrell Moab 3, ale Speed 2 je jiný model.",
       "trideno_at": "2026-10-19T16:03:02.416385+00:00",
-      "pokus_at": "2026-10-30T06:03:32.645442+00:00"
+      "pokus_at": "2026-11-13T06:07:28.460798+00:00"
     },
     {
       "id": "402ee1e8e7852a46",
@@ -5580,12 +5582,13 @@
       "published_at": "",
       "detected_at": "2026-05-11T12:10:29.613941+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Tecnica Forge Hike Mid GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Konkrétní turistická bota (dámská verze), nerecenzovaný model.",
-      "trideno_at": "2026-10-19T16:03:37.282711+00:00"
+      "trideno_at": "2026-10-19T16:03:37.282711+00:00",
+      "pokus_at": "2026-11-13T06:08:20.138102+00:00"
     },
     {
       "id": "b3b22c211d82187a",
@@ -21771,14 +21774,16 @@
         ],
         "variants": 2
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Sea to Summit Comfort Plus Insulated Air",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Konkrétní nafukovací izolovaná karimatka, v seznamu recenzovaných modelů Comfort Plus chybí.",
       "trideno_at": "2026-11-10T09:08:52.827957+00:00",
       "novinka": "_novinky/2026-11-10-sea-to-summit-comfort-plus-insulated-air.md",
-      "novinka_at": "2026-11-10T09:09:09.487097+00:00"
+      "novinka_at": "2026-11-10T09:09:09.487097+00:00",
+      "pokus_at": "2026-11-13T06:03:40.685753+00:00",
+      "soubor": "_posts/karimatky/2026-11-13-sea-to-summit-comfort-plus-insulated-air.md"
     },
     {
       "id": "d332c923e93ce55c",
