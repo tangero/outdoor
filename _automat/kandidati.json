@@ -25394,6 +25394,123 @@
       "priorita": 1,
       "duvod": "Oblečení (péřová bunda) ve výprodeji, mimo rubriky.",
       "trideno_at": "2026-11-13T09:09:19.530750+00:00"
+    },
+    {
+      "id": "f93136921090dbff",
+      "url": "https://www.keenfootwear.com/products/womens-ks86-fig-star-white",
+      "title": "Women's KS86 Sneaker  |  Fig/Star White",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "We took a trail runner from our archives, the A86, and reimagined it for life today. Aggressive trail tread and all-day sneaker comfort paired with retro suede craftsmanship.​",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/files/9998272a46ad74e7fa310b48cf3cc62de3d8b3d2_87caf1d8-7f5b-4095-8fc0-ddef4c218439.jpg?v=1783372769",
+      "published_at": "2026-11-16T11:13:03-08:00",
+      "detected_at": "2026-11-17T09:08:26.901613+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Womens > Footwear > Shoe",
+        "tags": [
+          "1031094",
+          "activity:Casual",
+          "activity:Casual>City",
+          "activity:Casual>Travel",
+          "Eco Anti-Odor",
+          "Environmentally Preferred Leather",
+          "filtercolor:pink",
+          "filtercolor:red",
+          "gender:Women's",
+          "model_number:w-ks86-15455",
+          "Original Fit",
+          "shoetype:Shoe",
+          "size_guide:womens",
+          "YCRF_Footwear",
+          "YGroup_w-ks86"
+        ],
+        "grams": [],
+        "price_range": [
+          66.0,
+          66.0
+        ],
+        "variants": 14
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Městská tenisková bota (sneaker), nepatří do rubriky boty pro terén.",
+      "trideno_at": "2026-11-17T09:09:04.090189+00:00"
+    },
+    {
+      "id": "074cbbfc30a4fb99",
+      "url": "https://zpacks.com/products/clearance-zpacks-vertice-rain-jacket-azure-blue-mens-small",
+      "title": "Clearance Zpacks Vertice Rain Jacket - Azure Blue - Men's Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Zpacks Vertice Rain Jacket from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/products/mens-vertice-rain-jacket-azure-xlarge.jpg?v=1715001737",
+      "published_at": "2026-11-16T13:59:34-05:00",
+      "detected_at": "2026-11-17T09:08:54.270929+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          152
+        ],
+        "price_range": [
+          269.0,
+          269.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (bunda), mimo rubriky, navíc výprodejová položka.",
+      "trideno_at": "2026-11-17T09:09:04.090235+00:00"
+    },
+    {
+      "id": "803a677e74357208",
+      "url": "https://zpacks.com/products/clearance-zpacks-vertice-rain-jacket-burnt-orange-mens-small",
+      "title": "Clearance Zpacks Vertice Rain Jacket - Burnt Orange - Men's Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Zpacks Vertice Rain Jacket from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-VerticeRainJacketMens-04_2048x_60945862-e227-4c88-9db9-31a1da712a27.jpg?v=1730212701",
+      "published_at": "2026-11-16T13:57:58-05:00",
+      "detected_at": "2026-11-17T09:08:54.271146+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          152
+        ],
+        "price_range": [
+          269.0,
+          269.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (bunda), mimo rubriky, navíc výprodejová položka.",
+      "trideno_at": "2026-11-17T09:09:04.090259+00:00"
     }
   ]
 }
