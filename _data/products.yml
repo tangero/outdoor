@@ -405,3 +405,9 @@
   url: "/batohy/lowe-alpine-sirac-65/"
   variants:
   - Lowe Alpine Sirac
+- name: Sea to Summit Comfort Light Insulated Air
+  url: "/karimatky/sea-to-summit-comfort-light-insulated-air/"
+- name: Lowe Alpine Sirac ND65
+  url: "/batohy/lowe-alpine-sirac-nd65/"
+  variants:
+  - Lowe Alpine Sirac ND

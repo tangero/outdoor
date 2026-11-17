@@ -1646,12 +1646,14 @@
       "published_at": "",
       "detected_at": "2026-04-24T10:21:07.819284+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Lowe Alpine Sirac ND65",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Trekový batoh, dámská verze; model nebyl dosud recenzován.",
-      "trideno_at": "2026-10-19T05:01:45.888639+00:00"
+      "trideno_at": "2026-10-19T05:01:45.888639+00:00",
+      "pokus_at": "2026-11-17T06:22:45.420856+00:00",
+      "soubor": "_posts/batohy/2026-11-17-lowe-alpine-sirac-nd65.md"
     },
     {
       "id": "b131154f040ff5f2",
@@ -3429,7 +3431,7 @@
       "priorita": 4,
       "duvod": "Konkrétní trailový běžecký batoh Deuter, nový model, není mezi recenzovanými.",
       "trideno_at": "2026-10-19T16:02:53.377397+00:00",
-      "pokus_at": "2026-10-27T06:04:44.168637+00:00"
+      "pokus_at": "2026-11-17T06:04:34.738349+00:00"
     },
     {
       "id": "f9953d8bb2509012",
@@ -6294,12 +6296,13 @@
       "published_at": "",
       "detected_at": "2026-05-21T12:14:13.861323+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Tecnica Forge 3.0 GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Nová generace trekové boty, zájem čtenářů.",
-      "trideno_at": "2026-10-19T16:03:55.054836+00:00"
+      "trideno_at": "2026-10-19T16:03:55.054836+00:00",
+      "pokus_at": "2026-11-17T06:03:48.317004+00:00"
     },
     {
       "id": "3a7d8a8d3bd931f1",
@@ -7396,12 +7399,40 @@
       "published_at": "",
       "detected_at": "2026-05-22T11:44:32.678666+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Salomon Speedcross 5 GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Trailová běžecká bota; stejný produkt jako men's varianta, barevná varianta.",
-      "trideno_at": "2026-10-19T16:04:30.804962+00:00"
+      "trideno_at": "2026-10-19T16:04:30.804962+00:00",
+      "pokus_at": "2026-11-17T06:10:02.240733+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "Salomon Alphacross 4 (304 g) ... v naší tabulce je hodnocena 8.",
+          "problem": "Odkaz na interní tabulku recenzovaných produktů. Podle zadání jde o interní věc webu, která nemá být v textu pro čtenáře zmiňována.",
+          "zavaznost": "vysoka"
+        },
+        {
+          "tvrzeni": "Tabulka u ní zároveň uvádí menší prodyšnost za teplého počasí, takže v tomto ohledu nepřinese oproti Speedcrossu zásadní výhodu.",
+          "problem": "Odkaz na interní tabulku recenzovaných produktů. Údaj o prodyšnosti sám o sobě odpovídá podkladu, ale formulace odkazuje na interní zdroj.",
+          "zavaznost": "vysoka"
+        },
+        {
+          "tvrzeni": "Tabulka ji uvádí jako univerzálnější a rychleschnoucí, ale s nižší stabilitou v extrémně náročném terénu.",
+          "problem": "Odkaz na interní tabulku recenzovaných produktů, což je interní věc webu.",
+          "zavaznost": "vysoka"
+        },
+        {
+          "tvrzeni": "Tabulka u ní uvádí vynikající trakci a hodí se spíš na technické a skalnaté stezky na krátké až střední vzdálenosti.",
+          "problem": "Odkaz na interní tabulku recenzovaných produktů, což je interní věc webu.",
+          "zavaznost": "vysoka"
+        },
+        {
+          "tvrzeni": "Scarpa má podle tabulky užší střih, zejména ve středu nohy.",
+          "problem": "Odkaz na interní tabulku recenzovaných produktů. Údaj o užším středu nohy je v tabulce, ale zmínka o tabulce do textu pro čtenáře nepatří.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "a700d990a563bac9",
@@ -7472,13 +7503,13 @@
       "published_at": "",
       "detected_at": "2026-05-23T10:25:42.090557+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "chybi_obrazek",
       "model": "Osprey Aether Pro 75",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Trekový batoh větší velikosti, nerecenzováno (na webu Aether není).",
       "trideno_at": "2026-10-19T16:04:30.805082+00:00",
-      "pokus_at": "2026-10-19T17:48:38.774887+00:00"
+      "pokus_at": "2026-11-17T06:13:50.050203+00:00"
     },
     {
       "id": "9efadf62a9b40ae9",
@@ -7760,12 +7791,20 @@
       "published_at": "",
       "detected_at": "2026-05-24T10:41:15.966352+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Lowa Renegade Evo GTX Mid",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Nová verze oblíbeného trekového modelu Renegade; v seznamu je pouze Renegade GTX Mid, Evo verze je nová.",
-      "trideno_at": "2026-10-19T16:04:40.341818+00:00"
+      "trideno_at": "2026-10-19T16:04:40.341818+00:00",
+      "pokus_at": "2026-11-17T06:16:51.384956+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "Levnější model Merrell Moab 3 je podle nezávislého testu lehčí a levnější, ale pro náročný terén a těžší zátěž slabší. Pro příležitostné lehké túry bychom volili spíš Merrell.",
+          "problem": "Tvrzení, že Merrell je lehčí než Lowa, neodpovídá tabulce (Moab 850 g) ani údaji výrobce pro Evo (590 g). Nezávislý test (Switchback) porovnával Moab s předchozím Renegade GTX Mid (cca 1180 g), nikoli s Evo. Srovnání je tedy přeneseno na jiný model a vede k chybnému závěru o hmotnosti.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "8e65fdb2022f3aaf",
@@ -24031,14 +24070,22 @@
         ],
         "variants": 1
       },
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Sea to Summit Ether Light XT Extreme Insulated Air",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Nafukovací karimatka, extrémní verze; jiný model než recenzovaný Ether Light XT Insulated.",
       "trideno_at": "2026-11-13T09:09:11.714862+00:00",
       "novinka": "_novinky/2026-11-13-sea-to-summit-ether-light-xt-extreme-insulated-air.md",
-      "novinka_at": "2026-11-13T09:09:31.395953+00:00"
+      "novinka_at": "2026-11-13T09:09:31.395953+00:00",
+      "pokus_at": "2026-11-17T06:05:17.270926+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "Jeden tester ji používal na sněhu při teplotách od asi −17 do −7 °C (v původním měření „teens and single digits“ °F, tedy zhruba 10–19 °F bez záporného znaménka v jednotkách Fahrenheita)",
+          "problem": "Fahrenheitový údaj neodpovídá zdroji. Big Outside uvádí „teens and single digits“, tedy přibližně 1–19 °F, nikoli 10–19 °F. Uvedené Celsius rozmezí přitom odpovídá i single digits, takže text sám sobě odporuje a parenteze je nesrozumitelná.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "eed82effece78404",
@@ -24463,14 +24510,16 @@
         ],
         "variants": 1
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Sea to Summit Comfort Light Insulated Air",
       "rubrika": "karimatky",
       "priorita": 3,
       "duvod": "Nafukovací karimatka; není mezi recenzovanými (recenze je u Comfort Plus Insulated Air).",
       "trideno_at": "2026-11-13T09:09:11.714971+00:00",
       "novinka": "_novinky/2026-11-13-sea-to-summit-comfort-light-insulated-air.md",
-      "novinka_at": "2026-11-13T09:09:41.034711+00:00"
+      "novinka_at": "2026-11-13T09:09:41.034711+00:00",
+      "pokus_at": "2026-11-17T06:14:52.849883+00:00",
+      "soubor": "_posts/karimatky/2026-11-17-sea-to-summit-comfort-light-insulated-air.md"
     },
     {
       "id": "c7fa95c75b2cac30",
