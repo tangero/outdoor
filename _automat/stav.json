@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-18T09:08:39.943525+00:00",
+  "last_run": "2026-11-19T09:08:58.373541+00:00",
   "sources": {
     "zpacks-news": {
       "last_check": "2026-04-23T18:48:07.145642+00:00",
@@ -273,7 +273,7 @@
       ]
     },
     "osprey": {
-      "last_check": "2026-11-18T09:08:36.994002+00:00",
+      "last_check": "2026-11-19T09:08:55.225948+00:00",
       "items": [
         {
           "url": "https://www.osprey.com/us/es/stories/bike/more-than-biking",
@@ -783,7 +783,7 @@
       ]
     },
     "gregory": {
-      "last_check": "2026-11-18T09:08:37.178921+00:00",
+      "last_check": "2026-11-19T09:08:55.427032+00:00",
       "items": [
         {
           "url": "https://eu.gregorypacks.com/uk-en/gregory-x-garmin.html",
@@ -1083,7 +1083,7 @@
       ]
     },
     "deuter": {
-      "last_check": "2026-11-18T09:08:37.378005+00:00",
+      "last_check": "2026-11-19T09:08:55.613279+00:00",
       "items": [
         {
           "url": "https://pimcore.deuter.com/deuter-master/en/backpacks/trail",
@@ -1413,7 +1413,7 @@
       ]
     },
     "lowe-alpine": {
-      "last_check": "2026-11-18T09:08:37.560871+00:00",
+      "last_check": "2026-11-19T09:08:55.804146+00:00",
       "items": [
         {
           "url": "https://lowealpine.com/us/",
@@ -1648,7 +1648,7 @@
       ]
     },
     "black-diamond": {
-      "last_check": "2026-11-18T09:07:53.373061+00:00",
+      "last_check": "2026-11-19T09:08:11.630638+00:00",
       "items": [
         {
           "url": "https://www.blackdiamondequipment.com/products/hydra-ice-tool-will-gadd-edition",
@@ -2218,7 +2218,7 @@
       ]
     },
     "bach": {
-      "last_check": "2026-11-18T09:08:37.760515+00:00",
+      "last_check": "2026-11-19T09:08:55.989994+00:00",
       "items": [
         {
           "url": "https://www.bachpacks.com/",
@@ -2238,7 +2238,7 @@
       ]
     },
     "salomon": {
-      "last_check": "2026-11-18T09:08:37.968591+00:00",
+      "last_check": "2026-11-19T09:08:56.181135+00:00",
       "items": [
         {
           "url": "https://ph.salomon.com/products/xt-4-og-bodega",
@@ -2623,7 +2623,7 @@
       ]
     },
     "la-sportiva": {
-      "last_check": "2026-11-18T09:08:38.162063+00:00",
+      "last_check": "2026-11-19T09:08:56.374241+00:00",
       "items": [
         {
           "url": "https://www.lasportiva.com/en/stores/la-sportiva-store-kalymnos",
@@ -2808,7 +2808,7 @@
       ]
     },
     "scarpa": {
-      "last_check": "2026-11-18T09:08:11.621319+00:00",
+      "last_check": "2026-11-19T09:08:29.480799+00:00",
       "items": [
         {
           "url": "https://www.scarpa.com/products/veloce-v-lv-built-for-training-low-volume-70117-000-1",
@@ -3443,8 +3443,18 @@
       ]
     },
     "mammut": {
-      "last_check": "2026-11-18T09:08:38.390213+00:00",
+      "last_check": "2026-11-19T09:08:56.632229+00:00",
       "items": [
+        {
+          "url": "https://www.mammut.com/at/de/stories-guides/which-avalanche-transceiver-is-right-for-you",
+          "hash": "fc6e809f19dd20b7",
+          "detected_at": "2026-11-19T09:08:56.632005+00:00"
+        },
+        {
+          "url": "https://www.mammut.com/at/de/stories-guides/how-to-lace-hiking-boots-the-perfect-fit-for-every-trail",
+          "hash": "ba51aafa912b534a",
+          "detected_at": "2026-11-19T09:08:56.632214+00:00"
+        },
         {
           "url": "https://www.mammut.com/us/en/stories-guides/how-to-lace-hiking-boots-the-perfect-fit-for-every-trail",
           "hash": "d06c9fbddae98ea8",
@@ -3673,7 +3683,7 @@
       ]
     },
     "lowa": {
-      "last_check": "2026-11-18T09:08:38.580815+00:00",
+      "last_check": "2026-11-19T09:08:56.824864+00:00",
       "items": [
         {
           "url": "https://us.lowa.com/blogs/adventures/two-left-feet-on-mexicos-highest-peak",
@@ -3893,7 +3903,7 @@
       ]
     },
     "tecnica": {
-      "last_check": "2026-11-18T09:08:38.771465+00:00",
+      "last_check": "2026-11-19T09:08:57.059114+00:00",
       "items": [
         {
           "url": "https://www.blizzard-tecnica.com/global/en/collection/women/shoes/agate",
@@ -4053,7 +4063,7 @@
       ]
     },
     "garmont": {
-      "last_check": "2026-11-18T09:07:55.538984+00:00",
+      "last_check": "2026-11-19T09:08:13.541259+00:00",
       "items": [
         {
           "url": "https://www.garmont.com/products/t8-extreme-wp-400g-thinsulate-regular-coyote-003171",
@@ -4408,7 +4418,7 @@
       ]
     },
     "dynafit": {
-      "last_check": "2026-11-18T09:08:38.955865+00:00",
+      "last_check": "2026-11-19T09:08:57.406231+00:00",
       "items": [
         {
           "url": "https://www.dynafit.com/blacklight-carbon-pro-binding-interview",
@@ -4533,8 +4543,13 @@
       ]
     },
     "keen": {
-      "last_check": "2026-11-18T09:08:07.414427+00:00",
+      "last_check": "2026-11-19T09:08:25.629959+00:00",
       "items": [
+        {
+          "url": "https://www.keenfootwear.com/products/mens-clearwater-cnx-sky-captain-black",
+          "hash": "7d8772f30a4bbefe",
+          "detected_at": "2026-11-19T09:08:25.629538+00:00"
+        },
         {
           "url": "https://www.keenfootwear.com/products/womens-astoria-west-sandal-grey-coral",
           "hash": "654f6c29127c2278",
@@ -5643,7 +5658,7 @@
       ]
     },
     "hoka": {
-      "last_check": "2026-11-18T09:08:39.138817+00:00",
+      "last_check": "2026-11-19T09:08:57.588970+00:00",
       "items": [
         {
           "url": "https://www.hoka.com/en/id/new-arrivals/",
@@ -5828,7 +5843,7 @@
       ]
     },
     "merrell": {
-      "last_check": "2026-11-18T09:08:39.349038+00:00",
+      "last_check": "2026-11-19T09:08:57.777672+00:00",
       "items": [
         {
           "url": "https://www.merrell.com/US/en/merrell-and-pam-come-together-for-a-collaboration-inspired-by-amphibian-life/",
@@ -5988,7 +6003,7 @@
       ]
     },
     "inov-8": {
-      "last_check": "2026-11-18T09:08:39.533790+00:00",
+      "last_check": "2026-11-19T09:08:57.966898+00:00",
       "items": [
         {
           "url": "https://www.inov-8.com/us/roclite-g-275-womens-trail-running-shoes?colours=867",
@@ -6108,7 +6123,7 @@
       ]
     },
     "therm-a-rest": {
-      "last_check": "2026-11-18T09:08:19.918878+00:00",
+      "last_check": "2026-11-19T09:08:38.279577+00:00",
       "items": [
         {
           "url": "https://www.thermarest.com/products/lightning-tails",
@@ -6328,7 +6343,7 @@
       ]
     },
     "sea-to-summit": {
-      "last_check": "2026-11-18T09:08:16.078759+00:00",
+      "last_check": "2026-11-19T09:08:34.615679+00:00",
       "items": [
         {
           "url": "https://seatosummit.com/products/spark-pro-down-sleeping-bag-incorrect-packaging-past-season",
@@ -6838,7 +6853,7 @@
       ]
     },
     "klymit": {
-      "last_check": "2026-11-18T09:08:39.715111+00:00",
+      "last_check": "2026-11-19T09:08:58.160449+00:00",
       "items": [
         {
           "url": "https://klymit.com/blogs/gift-guides/holiday",
@@ -7028,7 +7043,7 @@
       ]
     },
     "pajak": {
-      "last_check": "2026-11-18T09:08:39.943476+00:00",
+      "last_check": "2026-11-19T09:08:58.373494+00:00",
       "items": [
         {
           "url": "https://pajaksport.com/11-outerwear/",
@@ -7373,7 +7388,7 @@
       ]
     },
     "big-agnes": {
-      "last_check": "2026-11-18T09:08:23.375737+00:00",
+      "last_check": "2026-11-19T09:08:41.740423+00:00",
       "items": [
         {
           "url": "https://bigagnes.com/products/blacktail-three-warm-olive",
@@ -7508,12 +7523,17 @@
       ]
     },
     "nemo": {
-      "last_check": "2026-11-18T09:08:25.110529+00:00",
+      "last_check": "2026-11-19T09:08:43.678491+00:00",
       "items": []
     },
     "hyperlite-mountain-gear": {
-      "last_check": "2026-11-18T09:08:27.002103+00:00",
+      "last_check": "2026-11-19T09:08:45.572211+00:00",
       "items": [
+        {
+          "url": "https://www.hyperlitemountaingear.com/products/unbound-removable-hip-belt",
+          "hash": "4601c6d367747200",
+          "detected_at": "2026-11-19T09:08:45.571601+00:00"
+        },
         {
           "url": "https://www.hyperlitemountaingear.com/products/gridline-anorak-womens",
           "hash": "5b0504f6ccbb6f04",
@@ -7527,8 +7547,73 @@
       ]
     },
     "zpacks": {
-      "last_check": "2026-11-18T09:08:34.607541+00:00",
+      "last_check": "2026-11-19T09:08:52.916073+00:00",
       "items": [
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-small",
+          "hash": "17683a3426091ae8",
+          "detected_at": "2026-11-19T09:08:52.914140+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-medium",
+          "hash": "88fdca516b0cb5b1",
+          "detected_at": "2026-11-19T09:08:52.914354+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-large",
+          "hash": "95eaf0599a12ec76",
+          "detected_at": "2026-11-19T09:08:52.914514+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-extra-large",
+          "hash": "5dedb0560eb7f192",
+          "detected_at": "2026-11-19T09:08:52.914699+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-black-medium",
+          "hash": "21cb998ee587c616",
+          "detected_at": "2026-11-19T09:08:52.914856+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-gray-small",
+          "hash": "bca8dd853eb06640",
+          "detected_at": "2026-11-19T09:08:52.915000+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-gray-medium",
+          "hash": "eab16c34cf2960f0",
+          "detected_at": "2026-11-19T09:08:52.915138+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-gray-extra-large",
+          "hash": "56af6ad4c73e9b24",
+          "detected_at": "2026-11-19T09:08:52.915275+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-olive-drab-small",
+          "hash": "5b3070c1a39e2682",
+          "detected_at": "2026-11-19T09:08:52.915415+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-olive-drab-medium",
+          "hash": "2745c819076a9339",
+          "detected_at": "2026-11-19T09:08:52.915555+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-azure-blue-extra-large",
+          "hash": "70b1bc9f04688c07",
+          "detected_at": "2026-11-19T09:08:52.915720+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-black-small",
+          "hash": "d6ac2cf4f9988d50",
+          "detected_at": "2026-11-19T09:08:52.915856+00:00"
+        },
+        {
+          "url": "https://zpacks.com/products/hood-visor-clip",
+          "hash": "7b2ee763a50e0bf3",
+          "detected_at": "2026-11-19T09:08:52.915980+00:00"
+        },
         {
           "url": "https://zpacks.com/products/clearance-zpacks-vertice-rain-jacket-azure-blue-mens-small",
           "hash": "074cbbfc30a4fb99",
@@ -7682,7 +7767,7 @@
       ]
     },
     "gossamer-gear": {
-      "last_check": "2026-11-18T09:08:36.819498+00:00",
+      "last_check": "2026-11-19T09:08:54.980651+00:00",
       "items": [
         {
           "url": "https://www.gossamergear.com/products/2025-vagabond-jet",

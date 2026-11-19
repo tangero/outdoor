@@ -26251,7 +26251,9 @@
       "rubrika": "boty",
       "priorita": 2,
       "duvod": "Dětská výkonná turistická bota, okrajová cílovka.",
-      "trideno_at": "2026-11-18T09:09:00.253384+00:00"
+      "trideno_at": "2026-11-18T09:09:00.253384+00:00",
+      "novinka": "_novinky/2026-11-19-keen-zionic-waterproof.md",
+      "novinka_at": "2026-11-19T09:09:21.497386+00:00"
     },
     {
       "id": "8267b9cabf0f0299",
@@ -26292,7 +26294,9 @@
       "rubrika": "boty",
       "priorita": 2,
       "duvod": "Voděodolná lifestyle bota s trail DNA, městský produkt.",
-      "trideno_at": "2026-11-18T09:09:00.253397+00:00"
+      "trideno_at": "2026-11-18T09:09:00.253397+00:00",
+      "novinka": "_novinky/2026-11-19-keen-tts-moc-waterproof.md",
+      "novinka_at": "2026-11-19T09:09:32.325358+00:00"
     },
     {
       "id": "f5067b69d9d9f286",
@@ -26971,7 +26975,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Pánská turistická bota do terénu, nový model, nebyl recenzován.",
-      "trideno_at": "2026-11-18T09:09:14.249073+00:00"
+      "trideno_at": "2026-11-18T09:09:14.249073+00:00",
+      "novinka": "_novinky/2026-11-19-keen-hightrail-vent.md",
+      "novinka_at": "2026-11-19T09:09:43.025673+00:00"
     },
     {
       "id": "39a4a84fe088d08e",
@@ -28975,6 +28981,578 @@
       "priorita": 1,
       "duvod": "Článek, ne produkt.",
       "trideno_at": "2026-11-18T09:09:26.668992+00:00"
+    },
+    {
+      "id": "7d8772f30a4bbefe",
+      "url": "https://www.keenfootwear.com/products/mens-clearwater-cnx-sky-captain-black",
+      "title": "Men's Clearwater CNX  |  Sky Captain/Black",
+      "brand": "Keen",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "So light you'll almost forget you're wearing them. Whether on the water, in the water, or near the water, our minimal men's hybrid sandal has you covered.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0607/3263/7348/products/d6a482efb0579b5d324fedb82d5fad9a8ff7248d.jpg?v=1680549021",
+      "published_at": "2026-11-18T11:08:18-08:00",
+      "detected_at": "2026-11-19T09:08:25.629917+00:00",
+      "data": {
+        "vendor": "KEEN",
+        "product_type": "Mens > Footwear > Sandal",
+        "tags": [
+          "1027407",
+          "activity:Trail",
+          "activity:Trail>Day Hike",
+          "activity:Water",
+          "activity:Water>Beach",
+          "activity:Water>River",
+          "Contoured Fit",
+          "Easy-On Bungee Cinch",
+          "Eco Anti-Odor",
+          "filtercolor:blue",
+          "gender:Men's",
+          "KEEN.CNX Low-Profile Sole",
+          "KEEN.PROTECT Toe Bumper",
+          "model_number:m-clearwater-cnx-lp25",
+          "Razor-Siped Traction",
+          "shoetype:Sandal",
+          "size_guide:mens",
+          "YCRF_Footwear",
+          "YGroup_m-clearwater-cnx"
+        ],
+        "grams": [
+          1312,
+          1313,
+          1325,
+          1326,
+          1330
+        ],
+        "price_range": [
+          97.5,
+          97.5
+        ],
+        "variants": 14
+      },
+      "status": "duplicitni",
+      "model": "Keen Clearwater CNX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Pánská hybridní sandál do terénu a na vodu (tag Trail, Day Hike, River), spadá do rubriky bot jako sandály do terénu; není mezi recenzovanými modely.",
+      "trideno_at": "2026-11-19T09:09:08.543891+00:00"
+    },
+    {
+      "id": "4601c6d367747200",
+      "url": "https://www.hyperlitemountaingear.com/products/unbound-removable-hip-belt",
+      "title": "Unbound Removable Hip Belt",
+      "brand": "Hyperlite Mountain Gear",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Give yourself some fit adaptability with our Unbound Removable Hip Belt. As your body changes during long treks or thru-hikes, easily switch out belts to maintain the perfect fit. Designed with the same pockets and high-quality materials as the original, these interchangeable belts ensure comfort and support every step of the way. On long-distance trips like thru hikes, your physical weight can change enough to require a smaller belt size to achieve the desired fit. These are the solution. Same pockets and materials as the original belt the  Unbound  pack is shipped with.\n Key Features\n Compatible with Unbound, Ice Pack, Halka, Waypoint, Crux, Headwall and Prism Pack.\n Durable #5 YKK zipper ensures smooth and reliable use.\n Removable design offers flexibility for different needs.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/3004/4846/files/hyperlite-mountain-gear-accessories-unbound-removable-hip-belt-s-1268374706.jpg?v=1795040471",
+      "published_at": "2026-11-18T15:11:46-05:00",
+      "detected_at": "2026-11-19T09:08:45.572203+00:00",
+      "data": {
+        "vendor": "Hyperlite Mountain Gear",
+        "product_type": "Accessories",
+        "tags": [
+          "bundle-sale-accessory",
+          "no-retail",
+          "pro-accessories"
+        ],
+        "grams": [
+          167
+        ],
+        "price_range": [
+          49.0,
+          49.0
+        ],
+        "variants": 3
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Příslušenství k batohu (odnímatelný pás), nejde o samotný batoh.",
+      "trideno_at": "2026-11-19T09:09:08.543950+00:00"
+    },
+    {
+      "id": "17683a3426091ae8",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-small",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Olive Drab - Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-25_2048x_ae9eeebb-70e6-41c9-b890-2fcd0504807b.webp?v=1795035003",
+      "published_at": "2026-11-18T15:55:43-05:00",
+      "detected_at": "2026-11-19T09:08:52.914345+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          324
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.543980+00:00"
+    },
+    {
+      "id": "88fdca516b0cb5b1",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-medium",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Olive Drab - Medium",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-25_2048x_ae9eeebb-70e6-41c9-b890-2fcd0504807b.webp?v=1795035003",
+      "published_at": "2026-11-18T15:54:39-05:00",
+      "detected_at": "2026-11-19T09:08:52.914507+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          337
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544001+00:00"
+    },
+    {
+      "id": "95eaf0599a12ec76",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-large",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Olive Drab - Large",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-25_2048x_ae9eeebb-70e6-41c9-b890-2fcd0504807b.webp?v=1795035003",
+      "published_at": "2026-11-18T15:51:56-05:00",
+      "detected_at": "2026-11-19T09:08:52.914691+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          359
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544021+00:00"
+    },
+    {
+      "id": "5dedb0560eb7f192",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-olive-drab-extra-large",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Olive Drab - Extra Large",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-25_2048x_ae9eeebb-70e6-41c9-b890-2fcd0504807b.webp?v=1795035003",
+      "published_at": "2026-11-18T15:50:42-05:00",
+      "detected_at": "2026-11-19T09:08:52.914850+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          392
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544040+00:00"
+    },
+    {
+      "id": "21cb998ee587c616",
+      "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-black-medium",
+      "title": "Clearance Travel & Trail Hiking Pants - Men's - Black - Medium",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-12_2025-ThermalBottoms-25.webp?v=1765565054",
+      "published_at": "2026-11-18T14:57:48-05:00",
+      "detected_at": "2026-11-19T09:08:52.914993+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          301
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544060+00:00"
+    },
+    {
+      "id": "bca8dd853eb06640",
+      "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-gray-small",
+      "title": "Clearance Travel & Trail Hiking Pants - Men's - Gray - Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-11.webp?v=1774014806",
+      "published_at": "2026-11-18T14:55:18-05:00",
+      "detected_at": "2026-11-19T09:08:52.915132+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          287
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544086+00:00"
+    },
+    {
+      "id": "eab16c34cf2960f0",
+      "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-gray-medium",
+      "title": "Clearance Travel & Trail Hiking Pants - Men's - Gray - Medium",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-11.webp?v=1774014806",
+      "published_at": "2026-11-18T14:53:58-05:00",
+      "detected_at": "2026-11-19T09:08:52.915269+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          301
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544107+00:00"
+    },
+    {
+      "id": "56af6ad4c73e9b24",
+      "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-gray-extra-large",
+      "title": "Clearance Travel & Trail Hiking Pants - Men's - Gray - Extra Large",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-11.webp?v=1774014806",
+      "published_at": "2026-11-18T14:52:47-05:00",
+      "detected_at": "2026-11-19T09:08:52.915410+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          343
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544126+00:00"
+    },
+    {
+      "id": "5b3070c1a39e2682",
+      "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-olive-drab-small",
+      "title": "Clearance Travel & Trail Hiking Pants - Men's - Olive Drab- - Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-1.webp?v=1774014560",
+      "published_at": "2026-11-18T14:51:26-05:00",
+      "detected_at": "2026-11-19T09:08:52.915549+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          287
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544145+00:00"
+    },
+    {
+      "id": "2745c819076a9339",
+      "url": "https://zpacks.com/products/clearance-travel-trail-hiking-pants-mens-olive-drab-medium",
+      "title": "Clearance Travel & Trail Hiking Pants - Men's - Olive Drab - Medium",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-1.webp?v=1774014560",
+      "published_at": "2026-11-18T14:50:04-05:00",
+      "detected_at": "2026-11-19T09:08:52.915714+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          301
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (výprodejové outdoorové kalhoty), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544162+00:00"
+    },
+    {
+      "id": "70b1bc9f04688c07",
+      "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-azure-blue-extra-large",
+      "title": "Clearance Zpacks Down Jacket - Azure Blue - Extra Large",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Zpacks Down Jacket from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/products/down-jacket_2048x_a06ca831-da4c-4e23-abf0-e43a77a5ec7a.jpg?v=1637345033",
+      "published_at": "2026-11-18T14:47:25-05:00",
+      "detected_at": "2026-11-19T09:08:52.915849+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          231
+        ],
+        "price_range": [
+          337.0,
+          337.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (péřová bunda), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544177+00:00"
+    },
+    {
+      "id": "d6ac2cf4f9988d50",
+      "url": "https://zpacks.com/products/clearance-zpacks-down-jacket-black-small",
+      "title": "Clearance Zpacks Down Jacket - Black - Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Zpacks Down Jacket from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/zpacks-goose_down-blk_2048x_b042a8f4-ead9-4375-8d7c-06aeb72b96d6.jpg?v=1738090231",
+      "published_at": "2026-11-18T14:45:48-05:00",
+      "detected_at": "2026-11-19T09:08:52.915974+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          174
+        ],
+        "price_range": [
+          337.0,
+          337.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení (péřová bunda), mimo rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544193+00:00"
+    },
+    {
+      "id": "7b2ee763a50e0bf3",
+      "url": "https://zpacks.com/products/hood-visor-clip",
+      "title": "Hood / Visor Clip",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "This is a replacement clip that comes on our Vertice Rain Jacket and our Covertible Groundsheet-Poncho to clip the hood to your hat visor so that it stays put in the wind.\nThe clip is removeable and is normally attached to a 3/4\" wide piece of binding tape which is sewn to the hood.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0726-BathtubGroundsheetPoncho-17.webp?v=1788267362",
+      "published_at": "2026-11-18T09:01:49-05:00",
+      "detected_at": "2026-11-19T09:08:52.916065+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [],
+        "grams": [
+          1
+        ],
+        "price_range": [
+          0.95,
+          0.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Náhradní doplněk (klip na kapuci), nejde o produkt rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544211+00:00"
+    },
+    {
+      "id": "fc6e809f19dd20b7",
+      "url": "https://www.mammut.com/at/de/stories-guides/which-avalanche-transceiver-is-right-for-you",
+      "title": "Welches LVS-Gerät? » dein Guide für Lawinensuchgeräte | Mammut",
+      "brand": "Mammut",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "Welches LVS-Gerät? » dein Guide für Lawinensuchgeräte | Mammut\n\n11/26\n\nWer sich abseits gesicherter Pisten bewegt – ob auf Skitour, beim Freeriden oder auf einer Schneeschuhwanderung – sollte sich unbedingt mit dem Thema Lawinensicherheit auseinandersetzen. Das Herzstück jeder Lawinenausrüstung ist das Lawinenverschüttetensuchgerät, kurz LVS-Gerät. Es kann im Ernstfall über Leben und Tod entscheiden. Aber LVS ist nicht gleich LVS: Die Geräte unterscheiden sich in Funktionsumfang, Bedienbarkeit und Leistung. Hier erfährst du, was ein LVS-Gerät ist, wie es funktioniert und worauf du bei der Auswahl achten solltest.\n\n## Was genau ist ein LVS-Gerät?\n\nLVS steht für Lawinenverschüttetensuchgerät – umgangssprachlich auch Lawinenpiepser oder Lawinensuchgerät genannt. Es ist ein elektronisches Gerät mit einer Doppelfunktion: Es kann sowohl senden als auch empfangen. Im Sendemodus strahlt es kontinuierlich ein Signal auf der international genormten Frequenz von 457 kHz aus. Wird eine Person verschüttet, schalten die anderen Gruppenmitglieder bzw. die Bergrettung ihr Gerät in den Suchmodus um und können so dem Signal folgen, um die verschüttete Person zu orten.\n\nJede Person, die sich in lawinengefährdetem Gelände aufhält, trägt ein LVS-Gerät am Körper. Es ist ein unverzichtbarer Teil der Lawinenausrüstung und ermöglicht die Ortung. Die eigentliche Bergung erfolgt dann durch die Kamerad:innen und Bergretter:innen vor Ort, die mit Lawinensonde und Lawinenschaufel die verschüttete Person l",
+      "thumbnail": "https://images.ctfassets.net/l595fda2nfqd/KSshi41Get8RBYAObPFce/41b65dc77e3000055e684570e27d8948/2__2_.jpg?fm=jpg&w=512&q=80",
+      "published_at": "2026-11-18T16:08:04.000Z",
+      "detected_at": "2026-11-19T09:08:56.632202+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o lavinových vyhledávačích, nejde o produkt rubriky.",
+      "trideno_at": "2026-11-19T09:09:08.544229+00:00"
     }
   ]
 }
