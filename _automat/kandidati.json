@@ -27229,7 +27229,11 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Dámská turistická bota do terénu, nový model.",
-      "trideno_at": "2026-11-18T09:09:14.249135+00:00"
+      "trideno_at": "2026-11-18T09:09:14.249135+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
     },
     {
       "id": "07a68f21944a6a88",
@@ -27515,7 +27519,9 @@
       "rubrika": "boty",
       "priorita": 2,
       "duvod": "Dětský terénní sandál, okrajová kategorie pro dětskou rubriku.",
-      "trideno_at": "2026-11-18T09:09:14.249186+00:00"
+      "trideno_at": "2026-11-18T09:09:14.249186+00:00",
+      "novinka": "_novinky/2026-11-20-keen-zionic-adv.md",
+      "novinka_at": "2026-11-20T09:09:18.994003+00:00"
     },
     {
       "id": "1532fa792f459f5f",
@@ -28466,7 +28472,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Lehká outdoorová bota popisovaná jako hiking shoe, ale s městským využitím.",
-      "trideno_at": "2026-11-18T09:09:26.668877+00:00"
+      "trideno_at": "2026-11-18T09:09:26.668877+00:00",
+      "novinka": "_novinky/2026-11-20-keen-uneek-nxis.md",
+      "novinka_at": "2026-11-20T09:09:28.682628+00:00"
     },
     {
       "id": "c8162cbdae6512ce",
@@ -28554,7 +28562,9 @@
       "rubrika": "boty",
       "priorita": 2,
       "duvod": "Voděodolná outdoorová tenisová bota s městským zaměřením, max priorita 2.",
-      "trideno_at": "2026-11-18T09:09:26.668902+00:00"
+      "trideno_at": "2026-11-18T09:09:26.668902+00:00",
+      "novinka": "_novinky/2026-11-20-keen-jasper-ii-waterproof.md",
+      "novinka_at": "2026-11-20T09:09:40.868316+00:00"
     },
     {
       "id": "060019f71a607178",
@@ -29553,6 +29563,134 @@
       "priorita": 1,
       "duvod": "Článek o lavinových vyhledávačích, nejde o produkt rubriky.",
       "trideno_at": "2026-11-19T09:09:08.544229+00:00"
+    },
+    {
+      "id": "2cb5a7306593d907",
+      "url": "https://www.blackdiamondequipment.com/products/ski-skin-tail-clips",
+      "title": "Ski Skin Tail Clips",
+      "brand": "Black Diamond",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "2 replacement metal tail clips",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0880/2195/8973/files/163930_0000_Ski_Skin_Tail_Clips_NO_COLOR_01.jpg?v=1795113273",
+      "published_at": "2026-11-19T11:37:30-07:00",
+      "detected_at": "2026-11-20T09:08:03.486748+00:00",
+      "data": {
+        "vendor": "Black Diamond",
+        "product_type": "",
+        "tags": [
+          "equipment"
+        ],
+        "grams": [
+          454
+        ],
+        "price_range": [
+          14.95,
+          14.95
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Náhradní kovové špičky pro skialp pásy, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-20T09:08:55.385773+00:00"
+    },
+    {
+      "id": "46a66233c3d30519",
+      "url": "https://www.mammut.com/us/en/stories-guides/which-avalanche-transceiver-is-right-for-you",
+      "title": "Which avalanche transceiver should you choose? » tips & infos | Mammut",
+      "brand": "Mammut",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "Which avalanche transceiver should you choose? » tips & infos | Mammut\n\n11/26\n\nWhether ski touring, freeriding, or snowshoeing – anyone venturing off designated slopes needs to make avalanche safety a priority. The heart of every avalanche safety kit is the avalanche transceiver, also known as avalanche beacon or avalanche safety device. In an emergency, it can make the difference between life and death. However, not all transceivers are the same. They differ in range, ease of use and performance. Here you'll learn what a transceiver is, how it works and what to look for when choosing one.\n\n## What exactly is an avalanche transceiver? \n\nAn avalanche transceiver is an electronic device which can both transmit and receive a signal. In transmit mode, it sends out a continuous signal on the internationally standardized frequency of 457 kHz. If someone gets buried in an avalanche, the remaining group can switch to search mode and follow the signal emitted by the buried person’s transceiver to locate them.\n\nWhen traversing areas with a high avalanche risk, a transceiver is an essential part of your avalanche equipment . Worn directly on the body, it enables your group to locate you in case of an emergency. The actual rescuing is carried out by your buddies and rescue services on site by using a probe and shovel to locate and dig out the buried person. A good understanding of how to use your transceiver is as important as regular practice – so if you’re planning to use it for the fi",
+      "thumbnail": "https://images.ctfassets.net/l595fda2nfqd/KSshi41Get8RBYAObPFce/41b65dc77e3000055e684570e27d8948/2__2_.jpg?fm=jpg&w=512&q=80",
+      "published_at": "2026-11-18T16:08:04.000Z",
+      "detected_at": "2026-11-20T09:08:49.109687+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o lavinových vyhledávačích, není to konkrétní produkt.",
+      "trideno_at": "2026-11-20T09:08:55.385808+00:00"
+    },
+    {
+      "id": "c8fdfddf53a2e214",
+      "url": "https://www.mammut.com/no/en/stories-guides/how-to-climb-an-overhang",
+      "title": "Overhang climbing » technique, tips & training | Mammut",
+      "brand": "Mammut",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "Overhang climbing » technique, tips & training | Mammut\n\n11/26\n\nThe wall looms over you, your arms grow heavy, each pull takes more strength than the last – it’s the challenge that makes overhang climbing so appealing. An overhang requires more than just brute strength: To climb it well, you need the right technique, body tension, proper footwork, and a good feel for movement sequences. At the same time, mistakes in an overhang can quickly lead to exhaustion or frustration. Here you’ll learn what matters most when climbing overhangs, how to train for them, and what gear will ensure you’re fully prepped for the task ahead.\n\n## What is an overhang, and why is it challenging? \n\nWe call it an overhang when the wall is inclined at an angle steeper than 90 degrees – meaning it slopes over the climber. The steeper the incline, the greater the challenge: Your body weight not only pulls you downward, but also away from the wall. This means that with every pull, you have to actively work against losing your grip on the wall. As such, your arms bear a significantly larger portion of your body weight than on a vertical route.\n\nThat’s why overhang climbing is so physically demanding, and proper technique plays an even more important role. If you rely solely on your arms to pull yourself up, you’ll quickly reach your limit. If, on the other hand, you use your feet, hips, and core, you can conserve energy and master even steeper sections.\n\n1 399 kr 1 399 kr\n\n1 799 kr 1 799 kr\n\n3 999 kr 3 99",
+      "thumbnail": "https://images.ctfassets.net/l595fda2nfqd/6uYyRy1Ci9XjnjYSXU4SNC/64ee95a2e38d6c96f32b010c3878702b/9.jpg?fm=jpg&w=512&q=80",
+      "published_at": "2026-11-19T12:52:52.000Z",
+      "detected_at": "2026-11-20T09:08:49.109757+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o lezení v převisu, není to produkt.",
+      "trideno_at": "2026-11-20T09:08:55.385816+00:00"
+    },
+    {
+      "id": "db52573d8520f140",
+      "url": "https://www.mammut.com/at/de/stories-guides/avalanche-transceiver-training-and-search-technique-practical-tips",
+      "title": "LVS-Training: Sicherheit & Verschüttetensuche » Schritt für Schritt | Mammut",
+      "brand": "Mammut",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "LVS-Training: Sicherheit & Verschüttetensuche » Schritt für Schritt | Mammut\n\n11/26\n\nWer im Ernstfall eine verschüttete Person finden und retten will, muss die Suche beherrschen – und zwar unter Stress und Kälte, in einem Lawinenfeld, in dem jede Minute zählt. Umso wichtiger ist es, die LVS-Suche regelmässig zu trainieren, damit du im Ernstfall die richtigen Handgriffe und die Technik abrufen kannst. Wir zeigen dir mithilfe von Videos und Beschreibungen Schritt für Schritt, wie die Verschüttetensuche abläuft, wie du dein LVS-Gerät richtig anlegst und wie du den gesamten Ablauf gezielt trainieren kannst.\n\nWichtiger Hinweis: Dieser Beitrag vermittelt Grundlagen, er ersetzt aber weder einen Lawinenkurs noch eine vergleichbare professionelle Ausbildung. Unterwegs zu sein in lawinengefährdetem Gelände erfordert fundiertes Wissen über Lawinen und Verschüttetenrettung ebenso wie regelmässiges Training und Erfahrung im Backcountry.\n\n## Schritt 1: Den Lawinenpiepser richtig anlegen & einschalten\n\nBevor es an die Technik für die Verschüttetensuche geht, ist es wichtig zu wissen, wie du das LVS-Gerät korrekt trägst bzw. anlegst. Dieser Punkt wird oft unterschätzt, ist aber entscheidend: Sitzt dein Piepser nämlich falsch, kann er durch eine Lawine von deinem Körper gerissen werden. Deshalb gilt folgendes:\n\n- Direkt am Körper tragen: Das LVS-Gerät wird unter den äussersten Bekleidungsschichten getragen, niemals im Rucksack. Denn auch der kann bei einem Lawinenabgang weggerissen werden. Di",
+      "thumbnail": "https://images.ctfassets.net/l595fda2nfqd/8xcvnMxsLX53x04Li6Uwe/c87f497930632fa0efa1bbbbaf7d02ff/3.jpg?fm=jpg&w=512&q=80",
+      "published_at": "2026-11-18T16:19:50.000Z",
+      "detected_at": "2026-11-20T09:08:49.109840+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o výcviku LVS, není to produkt.",
+      "trideno_at": "2026-11-20T09:08:55.385822+00:00"
+    },
+    {
+      "id": "51fd2bd2fbf03cda",
+      "url": "https://www.hoka.com/en/us/black-friday-cyber-monday/?LSNSUBSITE=LSNSUBSITE&ranEAID=t*64622QPuc&ranMID=43729&ranSiteID=t.64622QPuc-OYxcUDWKpSJyX5GbcxnEbA",
+      "title": "Black Friday & Cyber Monday Holiday Sale",
+      "brand": "Hoka",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "Lace up for big savings this Black Friday and Cyber Monday with HOKA. From everyday runs to rugged trail adventures, our performance-driven shoes are built with signature cushioning to keep you moving in comfort. Whether you’re chasing a new PR, exploring the backcountry, or gearing up for your next hike, you’ll find Black Friday and Cyber Monday deals on men’s and women’s running shoes, trail shoes, and hiking boots.",
+      "thumbnail": "",
+      "published_at": "2026-11-19T09:27:57.000Z",
+      "detected_at": "2026-11-20T09:08:49.871713+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Výprodejová stránka, ne konkrétní produkt.",
+      "trideno_at": "2026-11-20T09:08:55.385828+00:00"
+    },
+    {
+      "id": "b99f67c9ea55c014",
+      "url": "https://www.merrell.com/US/en/early-holiday-sale/?clickref=1011lDNe3pEx",
+      "title": "Early Holiday Sale - Up to 40% off selected styles | Merrell",
+      "brand": "Merrell",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "Early Holiday Sale - Up to 40% off selected styles | Merrell\n# Early Holiday Sale: Up to 40% off Select Styles! Price as marked.\n*\n### Men's Jungle Moc\nSale Price$81.99 Regular Price$110.00\nWishlist Added to Wishlist\nQuick Add\n8 Colors\n*\n### Men's Jungle Moc\nSale Price$81.99 Regular Price$110.00\nWishlist Added to Wishlist\nQuick Add\n8 Colors\n*\n### Women's Jungle Moc\nSale Price$81.99 Regular Price$110.00\nWishlist Added to Wishlist\nQuick Add\n9 Colors\n*\n### Women's Jungle Moc\nSale Price$81.99 Regular Price$110.00\nWishlist Added to Wishlist\nQuick Add\n9 Colors\n*\n### Women's Moab Speed 2 Mid GORE-TEX®\nSale Price$137.99 Regular Price$185.00\nWishlist Added to Wishlist\nQuick Add\n8 Colors\n*\n### Women's Moab Speed 2 Mid GORE-TEX®\nSale Price$137.99 Regular Price$185.00\nWishlist Added to Wishlist\nQuick Add\n8 Colors\n*\n### Men's Moab Speed 2 Mid GORE-TEX®\nSale Price$137.99 Regular Price$185.00\nWishlist Added to Wishlist\nQuick Add\n5 Colors\n*\n### Men's Moab Speed 2 Mid GORE-TEX®\nSale Price$137.99 Regular Price$185.00\nWishlist Added to Wishlist\nQuick Add\n5 Colors\n*\n### Men's Jungle Moc Ice+\nSale Price$75.99 Regular Price$110.00\nWishlist Added to Wishlist\nQuick Add\n3 Colors\n*\n### Men's Jungle Moc Ice+\nSale Price$75.99 Regular Price$110.00\nWishlist Added to Wishlist\nQuick Add\n3 Colors\n*\n### Men's Jungle Moc Ice+\nSale Price$75.99 Regular Price$110.00\nWishlist Added to Wishlist\nQuick Add\n3 Colors\n*\n### Women's Encore Ice 5\nSale Price$99.99 Regular Price$150.00\nWishlist Added to Wishlist\nQuick Add\n9",
+      "thumbnail": "",
+      "published_at": "2026-11-19T09:27:57.000Z",
+      "detected_at": "2026-11-20T09:08:50.071917+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Výprodejová stránka; městské pantofle Jungle Moc nejsou do terénu.",
+      "trideno_at": "2026-11-20T09:08:55.385835+00:00"
     }
   ]
 }
