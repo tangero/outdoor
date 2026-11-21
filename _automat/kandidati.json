@@ -28668,7 +28668,9 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Lehký sandál vhodný na trail a do vody, nový model bez recenze.",
-      "trideno_at": "2026-11-18T09:09:26.668920+00:00"
+      "trideno_at": "2026-11-18T09:09:26.668920+00:00",
+      "novinka": "_novinky/2026-11-21-keen-whisper.md",
+      "novinka_at": "2026-11-21T09:08:27.469810+00:00"
     },
     {
       "id": "566675c60cefa369",
@@ -28723,7 +28725,11 @@
       "rubrika": "boty",
       "priorita": 3,
       "duvod": "Hybridní sandál pro trail a vodu, nebyl dosud recenzován.",
-      "trideno_at": "2026-11-18T09:09:26.668928+00:00"
+      "trideno_at": "2026-11-18T09:09:26.668928+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
     },
     {
       "id": "a56cec2ccb21a3a7",
@@ -29691,6 +29697,25 @@
       "priorita": 1,
       "duvod": "Výprodejová stránka; městské pantofle Jungle Moc nejsou do terénu.",
       "trideno_at": "2026-11-20T09:08:55.385835+00:00"
+    },
+    {
+      "id": "66af7e126f012620",
+      "url": "https://www.mammut.com/at/de/stories-guides/how-to-climb-an-overhang",
+      "title": "Überhang klettern » Technik, Tipps & Training | Mammut",
+      "brand": "Mammut",
+      "strategy": "exa",
+      "category_hint": "boty",
+      "snippet": "Überhang klettern » Technik, Tipps & Training | Mammut\n\n11/26\n\nDie Wand neigt sich über dich, die Arme werden schwer, jeder Zug kostet mehr Kraft als der letzte – und genau darin liegt der Reiz. Überhänge gehören zu den faszinierendsten Herausforderungen beim Klettern. Sie verlangen mehr als rohe Kraft: Wer einen Überhang sauber klettern will, braucht Technik, Körperspannung, die richtige Fussarbeit und ein gutes Gespür für Bewegungsabläufe. Gleichzeitig können Fehler im Überhang schnell zu Erschöpfung oder Frustration führen. Hier erfährst du, worauf es beim Überhangklettern ankommt, wie du dafür trainierst und mit welcher Ausrüstung du bestens vorbereitet bist.\n\n## Was ist mit einem Überhang gemeint und warum ist er anspruchsvoll?\n\nVon einem Überhang spricht man, wenn die Wand steiler als 90 Grad geneigt ist, sich also über die kletternde Person neigt. Je stärker die Neigung, desto grösser die Herausforderung: Dein Körpergewicht zieht dich nicht nur nach unten, sondern auch von der Wand weg. Das bedeutet, dass du bei jedem Zug aktiv dagegen arbeiten musst, die Haftung an der Wand zu verlieren. Deine Arme tragen dabei einen deutlich grösseren Anteil deines Körpergewichts als in einer senkrechten Route.\n\nDeshalb ist das Überhangklettern so kräfteraubend und die richtige Technik spielt eine umso wichtigere Rolle. Wer sich nur mit den Armen nach oben zieht, ist schnell am Limit. Wer hingegen Füsse, Hüfte und Rumpf einsetzt, kann Kraft sparen und auch steilere Passagen meistern.",
+      "thumbnail": "https://images.ctfassets.net/l595fda2nfqd/6uYyRy1Ci9XjnjYSXU4SNC/64ee95a2e38d6c96f32b010c3878702b/9.jpg?fm=jpg&w=512&q=80",
+      "published_at": "2026-11-19T12:52:52.000Z",
+      "detected_at": "2026-11-21T09:08:10.156093+00:00",
+      "data": {},
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Článek o technice lezení v převisech, nejde o produkt; navíc lezecká tematika mimo rubriky.",
+      "trideno_at": "2026-11-21T09:08:15.078542+00:00"
     }
   ]
 }
