@@ -115,7 +115,7 @@
       "priorita": 4,
       "duvod": "Konkrétní batoh Osprey Atmos AG 50; řada Atmos AG 65 je recenzována, 50L verze je jiná velikost, ale nová v seznamu.",
       "trideno_at": "2026-10-19T05:01:10.439471+00:00",
-      "pokus_at": "2026-11-03T06:06:06.583857+00:00"
+      "pokus_at": "2026-11-24T06:08:33.010215+00:00"
     },
     {
       "id": "00a05d290c050838",
@@ -6724,7 +6724,7 @@
       "priorita": 3,
       "duvod": "Nafukovací karimatka Sea to Summit, nebyla dosud recenzována.",
       "trideno_at": "2026-10-19T16:04:03.413094+00:00",
-      "pokus_at": "2026-11-03T06:13:58.292501+00:00"
+      "pokus_at": "2026-11-24T06:09:08.621959+00:00"
     },
     {
       "id": "21f5a76e368edbd3",
@@ -15216,14 +15216,16 @@
         ],
         "variants": 15
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Garmont 9.81 Etere Max GTX",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Speed hiking bota pro terénní túry, novinka FW26.",
       "trideno_at": "2026-10-19T05:00:34.996912+00:00",
       "novinka": "_novinky/2026-10-22-garmont-9-81-etere-max-gtx.md",
-      "novinka_at": "2026-10-22T14:23:04.520331+00:00"
+      "novinka_at": "2026-10-22T14:23:04.520331+00:00",
+      "pokus_at": "2026-11-24T06:09:40.855391+00:00",
+      "soubor": "_posts/boty/2026-11-24-garmont-9-81-etere-max-gtx.md"
     },
     {
       "id": "8d7634bde33639cf",
@@ -25866,14 +25868,16 @@
         ],
         "variants": 13
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Keen Targhee II WP",
       "rubrika": "boty",
       "priorita": 4,
       "duvod": "Turistická bota z populární řady; verze II nebyla recenzována (recenze je u Targhee III WP).",
       "trideno_at": "2026-11-18T09:09:00.253305+00:00",
       "novinka": "_novinky/2026-11-18-keen-targhee-ii-wp.md",
-      "novinka_at": "2026-11-18T09:09:49.781361+00:00"
+      "novinka_at": "2026-11-18T09:09:49.781361+00:00",
+      "pokus_at": "2026-11-24T06:03:35.707983+00:00",
+      "soubor": "_posts/boty/2026-11-24-keen-targhee-ii-wp.md"
     },
     {
       "id": "c938da563417f0c1",

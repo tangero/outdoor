@@ -411,3 +411,9 @@
   url: "/batohy/lowe-alpine-sirac-nd65/"
   variants:
   - Lowe Alpine Sirac ND
+- name: Keen Targhee II WP
+  url: "/boty/keen-targhee-ii-wp/"
+- name: Garmont 9.81 Etere Max GTX
+  url: "/boty/garmont-9-81-etere-max-gtx/"
+  variants:
+  - Garmont
