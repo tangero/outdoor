@@ -29720,6 +29720,696 @@
       "priorita": 1,
       "duvod": "Článek o technice lezení v převisech, nejde o produkt; navíc lezecká tematika mimo rubriky.",
       "trideno_at": "2026-11-21T09:08:15.078542+00:00"
+    },
+    {
+      "id": "2e24fc2bb883919e",
+      "url": "https://www.garmont.com/products/t8-extreme-evo-gtx-wide-coyote-002784",
+      "title": "T8 EXTREME EVO GTX® WIDE",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Per le missioni più estreme che richiedono un'elevata protezione. Stivali isolanti e impermeabili ideali per le attività in climi freddi .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/6_1a6dba98-7431-4478-a9b8-d3ddca788256.png?v=1792419099",
+      "published_at": "2026-11-23T16:46:42+01:00",
+      "detected_at": "2026-11-24T09:08:35.140763+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "TACTICAL",
+        "tags": [
+          "BF26",
+          "Military",
+          "promo",
+          "rel_t8-extreme-evo-gtx-wide"
+        ],
+        "grams": [],
+        "price_range": [
+          176.0,
+          176.0
+        ],
+        "variants": 21
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Taktická vojenská obuv, mimo rubriky turistických a horských bot.",
+      "trideno_at": "2026-11-24T09:09:35.863169+00:00"
+    },
+    {
+      "id": "4afca1232aa6c973",
+      "url": "https://www.garmont.com/products/vetta-tech-gtx-chateau-grey-dewberry-violet-002833",
+      "title": "VETTA TECH GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarponi da trekking, ideali per vie ferrate ed escursioni su terreni misti e su roccia",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/671a173f00f220897b519c72_4ab3fef4-fa9f-48d3-a984-bc0e9928c4f4.jpg?v=1781018939",
+      "published_at": "2026-11-23T11:47:50+01:00",
+      "detected_at": "2026-11-24T09:08:35.140929+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "HIKING",
+        "tags": [
+          "BF26",
+          "promo",
+          "rel_vetta-tech-gtx",
+          "saldi_estivi",
+          "trekking_hiking"
+        ],
+        "grams": [],
+        "price_range": [
+          136.5,
+          136.5
+        ],
+        "variants": 12
+      },
+      "status": "vhodny",
+      "model": "Garmont Vetta Tech GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trekingová bota, jde o jinou verzi než recenzovaný Vetta GTX.",
+      "trideno_at": "2026-11-24T09:09:35.863232+00:00",
+      "novinka": "_novinky/2026-11-24-garmont-vetta-tech-gtx.md",
+      "novinka_at": "2026-11-24T09:09:51.077158+00:00"
+    },
+    {
+      "id": "dd557bc53bbe1d57",
+      "url": "https://www.garmont.com/products/engage-mid-gtx-steel-grey-primerose-green-002840",
+      "title": "ENGAGE MID GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarpe da hiking leggere e impermeabili , ideali per chi pratica attività outdoor a ritmo sostenuto .\nLe Garmont ENGAGE MID GTX® offrono un perfetto equilibrio tra stabilità , aderenza e protezione alla caviglia , risultando perfette su terreni sconnessi , sentieri tecnici e dislivelli impegnativi . Il design mid-cut garantisce maggiore supporto , mentre la membrana GORE-TEX® mantiene il piede asciutto anche in condizioni difficili.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/66aa172e2026286328e456aa_d28dfbbd-05ca-43ec-b411-cd107e0ca09c.jpg?v=1781019008",
+      "published_at": "2026-11-23T11:47:49+01:00",
+      "detected_at": "2026-11-24T09:08:35.141077+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "LIGHT HIKING",
+        "tags": [
+          "outlet",
+          "promo",
+          "rel_engage-mid-gtx"
+        ],
+        "grams": [],
+        "price_range": [
+          130.0,
+          130.0
+        ],
+        "variants": 15
+      },
+      "status": "duplicitni",
+      "model": "Garmont Engage Mid GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Lehká turistická bota s membránou GTX, nerecenzovaný model.",
+      "trideno_at": "2026-11-24T09:09:35.863264+00:00"
+    },
+    {
+      "id": "b89030ed31953611",
+      "url": "https://www.garmont.com/products/ascent-gtx-vallarta-blue-yellow-002739",
+      "title": "ASCENT GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarponi semi ramponabili, ideali per arrampicate e vie ferrate",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/651d64a6be7ea0069bfb6eed.jpg?v=1781019157",
+      "published_at": "2026-11-23T11:47:49+01:00",
+      "detected_at": "2026-11-24T09:08:35.141249+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "MOUNTAINEERING",
+        "tags": [
+          "BF26",
+          "promo",
+          "rel_ascent-gtx",
+          "saldi_estivi"
+        ],
+        "grams": [],
+        "price_range": [
+          92.0,
+          92.0
+        ],
+        "variants": 21
+      },
+      "status": "duplicitni",
+      "model": "Garmont Ascent GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Semi-ramponabilní horská bota pro vysokohorské túry a vía ferrata.",
+      "trideno_at": "2026-11-24T09:09:35.863291+00:00"
+    },
+    {
+      "id": "591b1b2f74f06a80",
+      "url": "https://www.garmont.com/products/tikal-4s-g-dry-wms-brown-002578",
+      "title": "TIKAL 4S G-DRY WMS",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarpe basse che combinano la tecnologia delle calzature da montagna con lo stile e il comfort delle scarpe da tutti i giorni",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/6220fbe700f220da87cd5643.jpg?v=1781019394",
+      "published_at": "2026-11-23T11:47:47+01:00",
+      "detected_at": "2026-11-24T09:08:35.141390+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "MOUNTAIN LEISURE",
+        "tags": [
+          "outlet",
+          "promo",
+          "rel_tikal-4s-g-dry-wms"
+        ],
+        "grams": [],
+        "price_range": [
+          98.0,
+          98.0
+        ],
+        "variants": 12
+      },
+      "status": "vhodny",
+      "model": "Garmont Tikal 4S G-Dry",
+      "rubrika": "boty",
+      "priorita": 2,
+      "duvod": "Lifestyle nízká bota s horskou technologií, městský charakter, max priorita 2.",
+      "trideno_at": "2026-11-24T09:09:35.863313+00:00",
+      "novinka": "_novinky/2026-11-24-garmont-tikal-4s-g-dry.md",
+      "novinka_at": "2026-11-24T09:10:51.554341+00:00"
+    },
+    {
+      "id": "e015db83eea16e3f",
+      "url": "https://www.garmont.com/products/dragontail-tech-gtx-grey-red-002472",
+      "title": "DRAGONTAIL TECH GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarpe basse da approach, ideali per avvicinamento tecnico, roccia, ghiaioni e percorsi misti",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/651e8afd202628a65940729a.jpg?v=1781019420",
+      "published_at": "2026-11-23T11:47:47+01:00",
+      "detected_at": "2026-11-24T09:08:35.141477+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "APPROACH",
+        "tags": [
+          "BF26",
+          "promo",
+          "rel_dragontail-tech-gtx",
+          "saldi_estivi",
+          "trekking_hiking"
+        ],
+        "grams": [],
+        "price_range": [
+          123.5,
+          123.5
+        ],
+        "variants": 15
+      },
+      "status": "vhodny",
+      "model": "Garmont Dragontail Tech GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Approach bota, jiná verze než recenzovaný Dragontail LT.",
+      "trideno_at": "2026-11-24T09:09:35.863337+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
+    },
+    {
+      "id": "7bf98626e03f3a5e",
+      "url": "https://www.garmont.com/products/vetta-gtx-castelrock-grey-jaffa-orange-002425",
+      "title": "VETTA GTX®",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Scarponcini da trekking, ideali per avvicinamento e vie ferrate",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/6225c627be7ea00caaeacf39.jpg?v=1781019447",
+      "published_at": "2026-11-23T11:47:46+01:00",
+      "detected_at": "2026-11-24T09:08:35.141570+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "APPROACH",
+        "tags": [
+          "outlet",
+          "promo",
+          "rel_vetta-gtx"
+        ],
+        "grams": [],
+        "price_range": [
+          107.5,
+          107.5
+        ],
+        "variants": 15
+      },
+      "status": "duplicitni",
+      "model": "Garmont Vetta GTX",
+      "rubrika": "boty",
+      "priorita": 3,
+      "duvod": "Trekingová bota Vetta GTX, již recenzovaný model.",
+      "trideno_at": "2026-11-24T09:09:35.863361+00:00",
+      "duplicita": "_posts/boty/2025-02-21-garmont-vetta-gtx.md"
+    },
+    {
+      "id": "d26c3173805df1b1",
+      "url": "https://www.garmont.com/products/t8-bifida-regular-coyote-002585",
+      "title": "T8 BIFIDA REGULAR",
+      "brand": "Garmont",
+      "strategy": "shopify",
+      "category_hint": "boty",
+      "snippet": "Stivali tattici, ideali per il trasporto di carichi pesanti e per il servizio in condizioni impegnative",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1041/7435/4781/files/63dcf53100f2200dff37c3e7.webp?v=1795431039",
+      "published_at": "2026-11-23T11:45:08+01:00",
+      "detected_at": "2026-11-24T09:08:35.141726+00:00",
+      "data": {
+        "vendor": "Garmont Outdoor",
+        "product_type": "TACTICAL",
+        "tags": [
+          "BF26",
+          "Military",
+          "promo",
+          "rel_S71001",
+          "rel_t8-bifida-regular",
+          "saldi_estivi"
+        ],
+        "grams": [
+          1013
+        ],
+        "price_range": [
+          136.0,
+          136.0
+        ],
+        "variants": 23
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Taktická vojenská obuv, mimo rubriky.",
+      "trideno_at": "2026-11-24T09:09:35.863388+00:00"
+    },
+    {
+      "id": "b71aae4df33bc015",
+      "url": "https://seatosummit.com/products/view-dry-sack",
+      "title": "View Dry Sack (Past Season)",
+      "brand": "Sea to Summit",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "We took the versatile and durable Lightweight Dry Sack and added a TPU window that offers excellent visibility, making it perfect for groups sharing common gear. Made from a lightweight 70D waterproof, durable nylon fabric with a white interior lining, they also have a TPU window for greater visibility. Using the same hypalon non-wicking, roll-top closure as our other dry sacks, and featuring a D-ring attachment point at the buckle, they're also available in multiple colors for packing organization. Just ideal for backpacking, cycle touring, travel, ski touring and more.\n Features \n Waterproof – rated to 10,000mm hydrostatic head\n Quality materials – packable 70D nylon, fully taped seams and a TPU window which will not yellow or crack\n Easy to find contents – white interior coating and large ‘window’ for greater interior visibility\n Functional - hypalon roll-top closure does not wick moisture, D-ring for easy attachment\n Features the patent-pending, 5/8 inch (15mm) Field Repair Buckle with stainless steel pins\n Size Guide \n 1 liter:   a phone (in a waterproof case), snacks, wallet & keys\n 2 liter:   first aid essentials, gloves or a beanie\n 4 liter:   a shell jacket and gloves/hat, or a down sweater\n 8 liter:   a puffy jacket or a compact sleeping bag\n 13 liter:   clothes for a paddle or overland trip or a three-season sleeping bag\n 20 liter:   general gear for a paddle trip\n 35 liter:   general paddle or overland gear for a larger group",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/2467/2501/products/easy-visibility-lightweight-dry-sack_a95cb96c-a08d-4bad-a642-0e767058438c.jpg?v=1621526704",
+      "published_at": "2026-11-23T11:33:06-07:00",
+      "detected_at": "2026-11-24T09:08:55.221967+00:00",
+      "data": {
+        "vendor": "Sea to Summit",
+        "product_type": "Dry Bags",
+        "tags": [
+          "50BFCM_22",
+          "50DEC_PLP",
+          "60_JAN_PLP",
+          "Backpacking",
+          "Beach Life",
+          "bf-core",
+          "bundle_deal",
+          "Camping",
+          "CAN_EMPLOYEE_EXTRA_DISCOUNT",
+          "CAN_GUIDE_EXTRA_DISCOUNT",
+          "CAN_OUTDOOR_EXTRA_DISCOUNT",
+          "celigoInventorySync",
+          "Dry Bags",
+          "EMPLOYEE_EXTRA_DISCOUNT",
+          "FINALSALE",
+          "GUIDE_EXTRA_DISCOUNT",
+          "Hiking",
+          "Hunt & Fish",
+          "locally",
+          "MOST_EXPENSIVE",
+          "Mountaineering",
+          "oos",
+          "OUTDOOR_EXTRA_DISCOUNT",
+          "Overland",
+          "Overland & Van Life",
+          "REI_EXTRA_DISCOUNT",
+          "REIDryStorageStuffSackSpecial",
+          "removeproduct",
+          "rtly-non-returnable",
+          "Surfing"
+        ],
+        "grams": [
+          96
+        ],
+        "price_range": [
+          20.97,
+          20.97
+        ],
+        "variants": 3
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Vodotěsný vak, doplněk mimo rubriky.",
+      "trideno_at": "2026-11-24T09:09:35.863405+00:00"
+    },
+    {
+      "id": "d7b56ee33ecda1b9",
+      "url": "https://seatosummit.com/products/reactor-extreme-sleeping-bag-liner",
+      "title": "Reactor Extreme Sleeping Bag Liner",
+      "brand": "Sea to Summit",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "An essential component in your sleep system, the Reactor Extreme liner with Thermolite® Pro fabric utilizes innovative infra red-absorbing ceramic pigments to give your system the thermal boost needed in colder-weather adventures.\n The soft, wicking stretch-knit fabric provides unmatched comfort and freedom of movement while still allowing the Reactor Extreme liner to fit any sleeping bag. Additionally, the drawcord footbox offers plenty of ventilation and the versatility of walking around camp while still wearing your liner if needed.\n Features \n Thermal boost to retain heat and warmth. As the core of your sleep system the Reactor liner extends the performance of your sleeping bag and sleeping mat in the coldest of conditions\n Thermolite® Pro technology using knitted, hollow-core fibers and infrared-absorbing ceramic pigments to reflect your body's heat back for enhanced warmth and comfort\n Drawcord footbox and shoulder openings can be opened or closed for optimal comfort and integrates perfectly with the footbox of our Free-Flow Zip system in select Sea to Summit sleeping bags\n HeiQ Fresh odor control technology helps keep the liner fresh even after extended use\n Knitted fabric provides incredible stretch and freedom of movement in this mummy-shaped liner and works perfectly with sleeping bags of any shape\n Sea to Summit Guarantee is offered for the Lifetime of this product",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/2467/2501/files/ReactorExtremeSleepingBagLinerMummyWithDrawcordCompact_ASL031071-190802_PRIMARY_WBG.jpg?v=1703699176",
+      "published_at": "2026-11-23T11:32:52-07:00",
+      "detected_at": "2026-11-24T09:08:55.222017+00:00",
+      "data": {
+        "vendor": "Sea to Summit",
+        "product_type": "Sleeping Bag Liners",
+        "tags": [
+          "24NewProduct",
+          "25Drop",
+          "Backpacking",
+          "bb_ColdClimate",
+          "bb_ExtremeCold",
+          "bb_FreeFlow",
+          "bb_Lightweight",
+          "bb_ModerateWeight",
+          "bb_Mummy",
+          "bb_no_FreeFlow",
+          "bb_Relaxed",
+          "bb_SemiRectangular",
+          "BF-40",
+          "bf-core",
+          "bf-headstart",
+          "bf-liners",
+          "BF-Sleep",
+          "Bike Packing",
+          "Camping",
+          "CAN_EMPLOYEE_EXTRA_DISCOUNT",
+          "CAN_GUIDE_EXTRA_DISCOUNT",
+          "CAN_OUTDOOR_EXTRA_DISCOUNT",
+          "Compact",
+          "EMPLOYEE_EXTRA_DISCOUNT",
+          "FINALSALE",
+          "FIRSTSUMMIT",
+          "GUIDE_EXTRA_DISCOUNT",
+          "Lightweight",
+          "MOST_EXPENSIVE",
+          "Mummy"
+        ],
+        "grams": [
+          362,
+          384
+        ],
+        "price_range": [
+          39.98,
+          42.48
+        ],
+        "variants": 2
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Vložka do spacáku, mimo rubriky.",
+      "trideno_at": "2026-11-24T09:09:35.863420+00:00"
+    },
+    {
+      "id": "945b5374a008e04b",
+      "url": "https://nemoequipment.com/products/astro-lightweight-insulated-sleeping-pad-series",
+      "title": "Astro™ Insulated Lightweight Sleeping Pad",
+      "brand": "Nemo",
+      "strategy": "shopify",
+      "category_hint": "karimatky",
+      "snippet": "Astro brings lightweight comfort, durability, and much-appreciated slumber to any overnight adventure. This updated model features a full suite of more sustainable materials, with a 100% bluesign® APPROVED, 75D recycled polyester fabric shell and 100% post-consumer recycled Primaloft® insulation.\n Astro maintains its legacy lateral baffles, which are more comfortable and prevent the pad from curling under the body. The Pillow Baffle™ at the head end bolsters your camp pillow and helps it not slide off in the middle of the night. Our super-efficient Vortex™ pump sack works seamlessly with our Laylow™ zero-profile, micro-adjustable valve for easy inflation and personalized comfort, and helps keep moisture out of your pad. Astro makes a great go-to pad for adventures anywhere.",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0582/1136/9133/files/hse7qlz3hqfhaouwtoqq.jpg?v=1776198389",
+      "published_at": "2026-11-23T09:59:48-05:00",
+      "detected_at": "2026-11-24T09:09:04.982535+00:00",
+      "data": {
+        "vendor": "NEMO Equipment",
+        "product_type": "Sleeping Pads",
+        "tags": [
+          "R-Value 1.5"
+        ],
+        "grams": [],
+        "price_range": [
+          112.5,
+          119.95
+        ],
+        "variants": 2
+      },
+      "status": "vhodny",
+      "model": "Nemo Astro Insulated",
+      "rubrika": "karimatky",
+      "priorita": 4,
+      "duvod": "Izolovaná samonafukovací karimatka, nový model Nemo.",
+      "trideno_at": "2026-11-24T09:09:35.863434+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
+    },
+    {
+      "id": "a884181efa9b7fcf",
+      "url": "https://nemoequipment.com/products/resolve-15-liter-endless-promise-daypack-2025",
+      "title": "Resolve™ 15L Endless Promise® Technical Active Daypack",
+      "brand": "Nemo",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "A simplified pack for swift ascents, the fully recyclable Resolve™ 15L daypack features a revolutionary set of NEMO-exclusive fabrics for an abrasion-resistant, water-resistant exterior and a groundbreaking foam alternative with excellent cushioning and wicking properties. Designed for a fine-tuned, active fit, Resolve includes wide straps and a padded frame that comfortably mold to the body, enabling the pack to move with you on the trail.\n Beyond functionality and high performance, as part of our Endless Promise® collection , the Resolve series delivers a very distinct and essential advantage: It is designed to stay out of the landfill, forever. Durable, adjustable, and easily repairable, Endless Promise packs are intended to remain in use as long as possible — but when they do finally reach their limit, NEMO has taken responsibility for ensuring that they can be fully recycled.\n This recyclability design challenge sparked two major material innovations. First, our new CERO™ fabric is woven from solution-dyed fibers, has a tear strength up to 3x higher than the industry standard, and is also up to 20x more water-resistant than other packs on the market — perfect for those unplanned downpours! It’s also made entirely of recycled (and recyclable) PET.\n Likewise, instead of traditional unrecyclable foams for cushioning, we’ve introduced CCubed™, a recycled and recyclable material that avoids harmful off-gassing seen with EVAs. In addition, CCubed cushioning is 97% air which, u",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0582/1136/9133/files/ew36nebnffsledfqqv9j.png?v=1746637561",
+      "published_at": "2026-11-23T09:59:38-05:00",
+      "detected_at": "2026-11-24T09:09:04.982626+00:00",
+      "data": {
+        "vendor": "NEMO Equipment",
+        "product_type": "Carry Systems",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          74.95,
+          99.95
+        ],
+        "variants": 3
+      },
+      "status": "vhodny",
+      "model": "Nemo Resolve 15L",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Denní turistický batoh, nový model 2025.",
+      "trideno_at": "2026-11-24T09:09:35.863456+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
+    },
+    {
+      "id": "98d27cc49384a80e",
+      "url": "https://nemoequipment.com/products/resolve-womens-35-liter-endless-promise-daypack-2025",
+      "title": "Resolve™ Women’s 35L Endless Promise® Technical Active Daypack",
+      "brand": "Nemo",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Configurable for both day hikes and overnights, the fully recyclable Resolve™ daypack features a revolutionary set of NEMO-exclusive fabrics for an abrasion-resistant, water-resistant exterior and a groundbreaking foam alternative with excellent cushioning and wicking properties. Designed for a fine-tuned, active fit, Resolve includes an adjustable back panel with wide straps that comfortably mold to the shoulders, enabling the pack to move with you on the trail.\n Beyond functionality and high performance, as part of our Endless Promise® collection , the Resolve series delivers a very distinct and essential advantage: It is designed to stay out of the landfill, forever. Durable, adjustable, and easily repairable, Endless Promise packs are intended to remain in use as long as possible — but when they do finally reach their limit, NEMO has taken responsibility for ensuring that they can be fully recycled.\n From this recyclability design challenge came two major material innovations. First, our new CERO™ fabric is woven from solution-dyed fibers, has a tear strength up to 3x higher than the industry standard, and is also up to 20x more water-resistant than other packs on the market — perfect for those unplanned downpours! It’s also made entirely of a recyclable polymer.\n Likewise, instead of traditional unrecyclable foams for cushioning, we’ve introduced CCubed™, a 100% recycled and recyclable material that avoids harmful off-gassing seen with EVAs. In addition, CCubed cushionin",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0582/1136/9133/files/q4mvgdwbozpyksnsz5kp.jpg?v=1746637562",
+      "published_at": "2026-11-23T09:59:28-05:00",
+      "detected_at": "2026-11-24T09:09:04.982708+00:00",
+      "data": {
+        "vendor": "NEMO Equipment",
+        "product_type": "Carry Systems",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          99.95,
+          99.95
+        ],
+        "variants": 2
+      },
+      "status": "vhodny",
+      "model": "Nemo Resolve 35L",
+      "rubrika": "batohy",
+      "priorita": 3,
+      "duvod": "Turistický batoh 35 l, dámská verze, nový model 2025.",
+      "trideno_at": "2026-11-24T09:09:35.863475+00:00",
+      "novinka": "neplatna",
+      "novinka_problemy": [
+        "zmiňuje vznik textu nebo podklady"
+      ]
+    },
+    {
+      "id": "bfe439a275470cce",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-gray-small",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Gray - Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Convertible Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-11.webp?v=1774014806",
+      "published_at": "2026-11-23T10:34:00-05:00",
+      "detected_at": "2026-11-24T09:09:14.470064+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          324
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, výprodejová položka.",
+      "trideno_at": "2026-11-24T09:09:35.863494+00:00"
+    },
+    {
+      "id": "ecbbfdc6b3650309",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-black-large",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Black - Large",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Convertible Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-1126-TravelandTrailConvertibleBlackHikingPants-1.webp?v=1795034614",
+      "published_at": "2026-11-23T10:31:11-05:00",
+      "detected_at": "2026-11-24T09:09:14.470265+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          359
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, výprodejová položka.",
+      "trideno_at": "2026-11-24T09:09:35.863515+00:00"
+    },
+    {
+      "id": "9a692ec6da2d5656",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-black-medium",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Black - Medium",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Convertible Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-1126-TravelandTrailConvertibleBlackHikingPants-2.webp?v=1795034614",
+      "published_at": "2026-11-23T10:30:12-05:00",
+      "detected_at": "2026-11-24T09:09:14.470432+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          337
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, výprodejová položka.",
+      "trideno_at": "2026-11-24T09:09:35.863523+00:00"
+    },
+    {
+      "id": "452feaaeae779efb",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-black-small",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Black - Small",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Convertible Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-1126-TravelandTrailConvertibleBlackHikingPants-1.webp?v=1795034614",
+      "published_at": "2026-11-23T10:28:54-05:00",
+      "detected_at": "2026-11-24T09:09:14.470594+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          324
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, výprodejová položka.",
+      "trideno_at": "2026-11-24T09:09:35.863531+00:00"
+    },
+    {
+      "id": "664e5b9378e86d6d",
+      "url": "https://zpacks.com/products/clearance-travel-trail-convertible-hiking-pants-mens-gray-medium",
+      "title": "Clearance Travel & Trail Convertible Hiking Pants - Men's - Gray - Medium",
+      "brand": "Zpacks",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "Please make sure to read our  Bargain Item Policy  before purchasing any bargain bin items. \n Brand-new Travel & Trail Convertible Hiking Pants from our previous-season design, now available at a special clearance price. Limited quantities available while supply lasts! \n Click here to see the Updated Version .",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0004/4652/9572/files/Zpacks-0310-HikingPants-1.webp?v=1774014560",
+      "published_at": "2026-11-23T10:18:58-05:00",
+      "detected_at": "2026-11-24T09:09:14.470749+00:00",
+      "data": {
+        "vendor": "Zpacks",
+        "product_type": "",
+        "tags": [
+          "all-bargains",
+          "clothing-bargains",
+          "criteo-exclude",
+          "dummy"
+        ],
+        "grams": [
+          337
+        ],
+        "price_range": [
+          107.0,
+          107.0
+        ],
+        "variants": 1
+      },
+      "status": "zamitnuty",
+      "model": "",
+      "rubrika": "zadna",
+      "priorita": 1,
+      "duvod": "Oblečení, výprodejová položka.",
+      "trideno_at": "2026-11-24T09:09:35.863539+00:00"
     }
   ]
 }
