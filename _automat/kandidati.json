@@ -30410,6 +30410,68 @@
       "priorita": 1,
       "duvod": "Oblečení, výprodejová položka.",
       "trideno_at": "2026-11-24T09:09:35.863539+00:00"
+    },
+    {
+      "id": "b4501eaaa51fe5d4",
+      "url": "https://nemoequipment.com/products/vantage-26-liter-endless-promise-backpack-2025",
+      "title": "Vantage™ 26L Endless Promise® Everyday Adventure Daypack",
+      "brand": "Nemo",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The fully recyclable Vantage™ daypack is a commuter’s workhorse, featuring a revolutionary set of NEMO-exclusive fabrics for an abrasion-resistant, water-resistant exterior and a groundbreaking foam alternative with excellent cushioning and wicking properties. Designed with multipurpose in mind, Vantage can transition from work to play with ease. Its large exterior pocket can easily hold a helmet or shoes when commuting, and extra layers when you’re on the trail. \n Beyond functionality and high performance, as part of our Endless Promise® collection , the Vantage series delivers a very distinct and essential advantage: It is designed to stay out of the landfill, forever. Durable, adjustable, and easily repairable, Endless Promise packs are intended to remain in use as long as possible — but when they do finally reach their limit, NEMO has taken responsibility for ensuring that they can be fully recycled.\n From this recyclability design challenge came two major material innovations. First, our new CERO™ fabric is woven from recycled yarns, has a tear strength up to 2x higher than the industry standard, and is also up to 1.5x more water-resistant than other packs on the market — perfect for those unplanned downpours! It’s also made entirely of recycled (and recyclable) PET. \nLikewise, instead of traditional unrecyclable foams for cushioning, we’ve introduced CCubed™, a recycled and recyclable material that avoids harmful off-gassing seen with EVAs. In addition, CCubed cushionin",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0582/1136/9133/files/tzlyhthi9p7altybqj5u.jpg?v=1746479169",
+      "published_at": "2026-11-25T14:21:09-05:00",
+      "detected_at": "2026-11-26T09:08:50.100454+00:00",
+      "data": {
+        "vendor": "NEMO Equipment",
+        "product_type": "Carry Systems",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          74.95,
+          74.95
+        ],
+        "variants": 2
+      },
+      "status": "vhodny",
+      "model": "Nemo Vantage 26L",
+      "rubrika": "batohy",
+      "priorita": 2,
+      "duvod": "Konkrétní denní batoh Nemo Vantage 26L, ale primárně určený na dojíždění a každodenní použití, proto max. priorita 2; nebyl dosud recenzován.",
+      "trideno_at": "2026-11-26T09:09:11.043325+00:00",
+      "novinka": "_novinky/2026-11-26-nemo-vantage-26l.md",
+      "novinka_at": "2026-11-26T09:09:47.796084+00:00"
+    },
+    {
+      "id": "399a78d8775f6ca9",
+      "url": "https://nemoequipment.com/products/vantage-20-liter-endless-promise-backpack-2025",
+      "title": "Vantage™ 20L Endless Promise® Everyday Adventure Daypack",
+      "brand": "Nemo",
+      "strategy": "shopify",
+      "category_hint": "batohy",
+      "snippet": "The fully recyclable Vantage™ daypack is a go-to bag for everyday life, featuring a revolutionary set of NEMO-exclusive fabrics for an abrasion-resistant, water-resistant exterior and a groundbreaking foam alternative with excellent cushioning and wicking properties. Designed with multipurpose in mind, Vantage can transition from work to play to woods with ease.\n Beyond functionality and high performance, as part of our Endless Promise® collection , the Vantage series delivers a very distinct and essential advantage: It is designed to stay out of the landfill, forever. Durable, adjustable, and easily repairable, Endless Promise packs are intended to remain in use as long as possible — but when they do finally reach their limit, NEMO has taken responsibility for ensuring that they can be fully recycled.\n From this recyclability design challenge came two major material innovations. First, our new CERO™ fabric is woven from recycled yarns, has a tear strength up to 2x higher than the industry standard, and is also up to 1.5x more water-resistant than other packs on the market — perfect for those unplanned downpours! It’s also made entirely of recycled (and recyclable) PET.\n Likewise, instead of traditional unrecyclable foams for cushioning, we’ve introduced CCubed™, a recycled and recyclable material that avoids harmful off-gassing seen with EVAs. In addition, CCubed cushioning is 97% air which, unlike foam, allows it to quickly wick away sweat and help it evaporate. Body-mapped",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0582/1136/9133/files/ownset2e0f81pn3ardwd.jpg?v=1746479169",
+      "published_at": "2026-11-25T14:20:59-05:00",
+      "detected_at": "2026-11-26T09:08:50.100479+00:00",
+      "data": {
+        "vendor": "NEMO Equipment",
+        "product_type": "Carry Systems",
+        "tags": [],
+        "grams": [],
+        "price_range": [
+          99.95,
+          99.95
+        ],
+        "variants": 2
+      },
+      "status": "vhodny",
+      "model": "Nemo Vantage 20L",
+      "rubrika": "batohy",
+      "priorita": 2,
+      "duvod": "Konkrétní denní batoh Nemo Vantage 20L pro každodenní použití a lehký outdoor, spadá do rubriky batohy, ale je spíše lifestyle produkt; nebyl dosud recenzován.",
+      "trideno_at": "2026-11-26T09:09:11.043371+00:00",
+      "novinka": "_novinky/2026-11-26-nemo-vantage-20l.md",
+      "novinka_at": "2026-11-26T09:09:58.369401+00:00"
     }
   ]
 }
