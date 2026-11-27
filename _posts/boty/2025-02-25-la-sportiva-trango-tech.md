@@ -1,6 +1,7 @@
 ---
 layout: post
-title: La Sportiva Trango Tech - Lehká a obratná bota pro technický terén
+title: "La Sportiva Trango Tech Leather GTX: bota na ferraty a mačky"
+description: "Recenze La Sportiva Trango Tech Leather GTX: lehká kožená bota na ferraty, skálu a poloautomatické mačky. Komu sedne úzký střih a kdy vzít jinou botu."
 categories: boty
 model: La Sportiva Trango Tech Leather GTX
 znacka: "La Sportiva"
@@ -8,69 +9,83 @@ feature-img:
 thumbnail: https://www.nuoviorizzontisport.com/wp-content/uploads/2020/09/news-la-sportiva-trango-tech-leather-gtx-1-2020.jpg
 vaha: 640
 tvar: vysoké
-material: Kombinace kůže (Nubuck) a mikrovlákna, membrána Gore-Tex Performance Comfort
-urceni: Technicky náročné trasy, via ferraty, lehčí horolezectví, vícedélkové lezení
-pohlavi: mužské
-pro: Lehkost, precizní fit, vynikající trakce, voděodolnost a prodyšnost, skvělá podpora kotníku, dobré i pro nástupy.
-proti: Užší střih nemusí sedět každému, vyšší cena, menší odolnost oproti těžším modelům, obtížnější nazouvání, vyšší opotřebení.
+material: nubuková kůže s mikrovláknem, membrána GORE-TEX Performance Comfort, mezipodešev z PU s výztuhou ze skelných vláken, podešev Vibram Cube
+urceni: via ferraty, skalnaté horské túry, letní a jarní alpinismus s poloautomatickými mačkami, sněhová pole
+pohlavi: mužské i ženské
+pro: Nízká hmotnost na botu do maček, přesné a stabilní vedení ve skále, přilnavá podešev s lezeckou zónou, spolehlivá membrána, jde podrazit.
+proti: Úzký a menší střih, tvrdý došlap mimo hory, jen částečná gumová obsázka, kůže se snadno odírá, chybí poutko na patě.
 hodnoceni: 8
+last_modified_at: 2026-11-27
+zdroje:
+- https://www.lasportiva.com/en/boots-mountaineering-trango-tech-leather-gtx-man-zfms116
+- https://www.lasportiva.com/en/man/footwear/mountaineering
+- https://www.livefortheoutdoors.com/hiking/walking-boots/la-sportiva-trango-tech-leather-gtx-review/
+- https://alpineclub.org.nz/review/la-sportiva-trango-tech-leather-gtx
+- https://www.jeger.no/jaktstoevler/la-sportiva-trango-tech-leather-gtx
+- https://www.hudy.cz/trango-tech-leather-gtx-men
+- https://8a.cz/panske-boty-na-vysokohorskou-turistiku
+- https://www.bergfreunde.de/la-sportiva-trango-tech-leather-gtx-bergschuhe-bewertung/
+- https://www.gorstaci.com/iskustva-s-gojzericama-trango-tech-leather-gtx/
+- https://shogookuda.com/la-sportiva/trango-tech-leather-gtx/
 ---
 
-La Sportiva Trango Tech Leather GTX jsou oblíbené boty mezi outdoorovými nadšenci a horolezci, a to z dobrého důvodu. Kombinují lehkost, pohodlí a technické vlastnosti, které oceníte na náročných túrách, via ferratách a dokonce i při lehčím alpském lezení ve smíšeném terénu. Jejich obliba pramení z precizního střihu, který poskytuje vynikající cit pro terén, a zároveň dostatečnou oporu a ochranu kotníku. Jsou ideální volbou pro ty, kteří hledají univerzální botu, která zvládne jak dlouhé nástupy, tak i technické pasáže. Jsou to boty pro zkušené turisty a horolezce, kteří se pohybují v náročném terénu a vyžadují od své obuvi maximální výkon a spolehlivost.
+La Sportiva Trango Tech Leather GTX je lehká kožená bota na pomezí pohorky a horolezecké boty. Výrobce ji určuje pro alpskou turistiku, technické nástupy a tradiční horolezectví s poloautomatickými mačkami, podle něj ji používají i horské služby a horští vůdci. Je to bota na via ferraty, skalnaté hřebeny, jarní sněhová pole a letní výstupy, kde ještě není potřeba zateplená zimní bota.
 
-Díky nízké hmotnosti a propracovanému systému šněrování, které umožňuje individuální přizpůsobení boty, je Trango Tech velmi pohodlná i při celodenním nošení. Podrážka Vibram s technologií Cube a lezeckou zónou na špičce zajišťuje skvělou přilnavost na různých površích, od skalnatých stezek po mokré kameny. Membrána Gore-Tex Performance Comfort pak garantuje voděodolnost a zároveň dostatečnou prodyšnost, takže vaše nohy zůstanou v suchu a pohodlí i v nepříznivém počasí. To vše dělá z La Sportiva Trango Tech skvělého parťáka pro vaše horská dobrodružství.
+Na trhu je od roku 2020 a nástupce zatím nemá: v době psaní ji La Sportiva stále nabízí v aktuální řadě za 295 EUR. Vedle ní prodává textilní sestru Trango Tech GTX (285 EUR) a v řadě Trango i modely Trango Alpine GTX a Trango Pro GTX. Podle nás je to spíš dobrá zpráva: jde o vyladěný model, ne o doprodej.
 
 ![La Sportiva Trango Tech Leather GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.nakaoutdoors.com.ar/img/articulos/2021/04/la_sportiva_trango_trk_leather_gtx_imagen9.jpg)
 
-## **Klíčové parametry a technologie**
+## Klíčové parametry a technologie
 
-La Sportiva Trango Tech Leather GTX se pyšní řadou technologií, které přispívají k jejímu výkonu a pohodlí. Klíčovým prvkem je **membrána Gore-Tex Performance Comfort**, která je známá svou vysokou voděodolností a zároveň prodyšností. Díky ní zůstanou vaše nohy v suchu i při dešti, sněžení nebo při brodění potoků. Zároveň membrána umožňuje odvod vlhkosti od nohy, což je důležité pro udržení komfortu při náročné aktivitě.
+- **Hmotnost:** Live for the Outdoors uvádí 640 g na jednu botu (UK 8), Hudy 1 280 g za pár ve velikosti EU 42. Norský magazín Jeger zvážil 715 g na botu ve velikosti 45.
+- **Svršek:** jeden kus nubukové kůže s mikrovlákennými vložkami a minimem švů. Gumová obsázka chrání jen špičku a patu, střed boty a nárt kryté nejsou.
+- **Membrána:** GORE-TEX Performance Comfort, bota není zateplená.
+- **Mezipodešev a mačky:** nízkohustotní polyuretan, napínací deska z PPE se skelnými vlákny, podle Live for the Outdoors výztuha na tři čtvrtiny délky a vzadu TPU vložka pro patní třmen. Bota bere poloautomatické mačky (vpředu pásek, vzadu třmen), automatické ne.
+- **Podešev:** Vibram Cube s brzdnými výstupky Impact Brake System a hladkou lezeckou zónou pod špičkou. Výrobce botu navrhl k podrážení.
+- **3D Flex System:** pohyblivý kloub ve svršku nad kotníkem, který má dovolit pohyb kotníku dopředu a do stran bez ztráty opory. Jazyk je z pružné tkaniny a je všitý do svršku.
+- **Velikosti:** pánská EU 38–48, dámská EU 36–42.
 
-**Svršek boty je vyroben z kombinace kůže (Nubuck) a mikrovlákna**. Kůže Nubuck je odolná proti oděru a poskytuje botě robustnost, zatímco mikrovlákno snižuje hmotnost a zlepšuje prodyšnost. **Výška boty je kotníková**, což poskytuje dobrou oporu a ochranu kotníku při pohybu v nerovném terénu a na ferratách. Pro zvýšení odolnosti je bota opatřena **gumovou obsázkou** po celém obvodu, která chrání svršek před poškozením o ostré kameny a skály.
+## Výhody
 
-**Podrážka Vibram Cube** s technologií **Impact Brake System** je navržena pro maximální trakci a stabilitu. Speciální vzorek podrážky zajišťuje vynikající přilnavost na různých typech povrchu, včetně skal, suti a trávy. **Lezecká zóna na špičce** pak usnadňuje pohyb na skalnatých úsecích a ferratách. Mezipodešev z **vstřikovaného polyuretanu (PU)** poskytuje tlumení nárazů a zvyšuje pohodlí při chůzi. **Systém 3D Flex** umožňuje přirozený pohyb kotníku do stran a dopředu, a přitom jej chrání před vyvrtnutím.
+- **Hmotnost k tomu, co umí:** novozélandský alpský klub ji srovnává s dřívější Trango Evo S, která měla 1 417 g za pár. Trango Tech podle něj zvládne totéž ve výrazně lehčím balení. Za nás je to hlavní důvod ke koupi: bota do maček, která se dá nosit celý den.
+- **Přesnost a stabilita:** Live for the Outdoors ji chválí na skalních hřebenech ve Walesu, tuhost se podle něj vyplatí na suti i na malých stupech. Jeger oceňuje, že tuhá podrážka udrží špičku na výčnělku bez práce chodidla. Jeden majitel na Hudy ji hodnotí jako velmi stabilní.
+- **Přilnavost:** podešev drží podle Jegeru na suché i mokré skále a brzdí i ve vřesu. Na Bergfreunde označilo dobrý záběr 18 z 23 hodnotících.
+- **Nepromokavost:** tutéž výhodu tam uvedlo 15 hodnotících, opačnou zkušenost jeden. Jedna majitelka popisuje deset hodin vytrvalého deště, brodění potoků a bláto, a nohy měla podle svých slov pořád v suchu.
+- **Pohodlí bez dlouhého rozchození:** chorvatský majitel na blogu Gorštaci psal, že bota sedla od začátku a rozcházet ji nemusel. Pak ji nosil devět hodin v alpském terénu. Na Bergfreunde ji několik majitelů chválí i na obyčejné túry, jeden ji nosí půl roku i při práci na statku.
 
-## **Nevýhody**
+## Nevýhody
 
-*   **Užší střih:** Trango Tech mají, jako většina bot La Sportiva, spíše užší střih. To nemusí vyhovovat lidem s širšími chodidly nebo vysokým nártem. Před koupí je proto vhodné boty důkladně vyzkoušet, ideálně s ponožkami, které budete v botách nosit.
-*   **Vyšší cena:** Ve srovnání s některými konkurenčními modely je cena Trango Tech vyšší. To je dáno použitím kvalitních materiálů a pokročilých technologií.
-*   **Menší odolnost:** Vzhledem k nízké hmotnosti a zaměření na technický terén je Trango Tech méně odolná než robustnější, těžší modely určené pro zimní treking nebo náročné horolezectví.
-*    **Obtížnější nazouvání:** Díky úzkému střihu a šněrování až ke špičce se dají hůře nazouvat a vyzouvat.
-*    **Rychlejší opotřebení:** Podrážka se může specifických terénech rychleji opotřebovat.
+- **Úzký a menší střih:** úzké kopyto zmiňuje Live for the Outdoors i Jeger, jehož tester se širokou nohou by si vzal o číslo větší. Majitelé to potvrzují: na Bergfreunde radí jeden objednat o půl čísla víc než u jiných bot La Sportiva, majitelka vzala o 1,5–2 čísla víc než obvykle a dalšímu byla malá i čtyřiačtyřicítka. Jednomu majiteli nedržela pata a botu vrátil. Bez zkoušky v obchodě bychom ji nekupovali.
+- **Tvrdý došlap:** Live for the Outdoors i Jeger ji na běžné turistice považují za zbytečně tuhou. Na asfaltu na konci túry je podle Jegeru až nepohodlná a sesterské modely Trango TRK a Aequilibrium tlumí lépe.
+- **Puchýře na začátku:** Další majitel na Hudy měl po prvním použití puchýře na patách. Na Bergfreunde uvádějí puchýře dva hodnotící a další majitel v diskuzi píše, že se jich nezbavil ani po opakovaném rozchození.
+- **Odolnost svršku a podrážky:** tester Live for the Outdoors si všiml, že nubuk se odírá snáz než u jiných kožených bot a syntetické díly kloubu 3D Flex nepůsobí nejodolněji. Novozélandský recenzent nepovažuje podrážku Cube za zvlášť odolnou. Japonský majitel ji při častém chození sjel za jednu sezónu a výměna podrážky ho stála 18 000 jenů. Chorvatskému majiteli chyběla gumová ochrana středu boty, po dvou túrách už viděl drobné oděrky.
+- **Drobnosti:** kožená verze nemá poutko na patě, které má textilní Trango Tech GTX. Pružný límec podle novozélandského recenzenta nezastaví kamínky a sníh, takže návleky zůstávají potřeba. Jeden zákazník Bergfreunde vrátil pár kvůli zbytkům lepidla.
 
-## **Srovnání s konkurencí**
+## Srovnání s konkurencí
 
-| Model                     | La Sportiva Trango Tech Leather GTX | Scarpa Zodiac Plus GTX        | Salewa Mountain Trainer 2 Mid GTX | Garmont Pinnacle GTX       |
-| ------------------------- | ----------------------------------- | ------------------------------ | --------------------------------- | --------------------------- |
-| Hmotnost (g)             | 640                                | 545                           | 670                               | 780                        |
-| Materiál svršku          | Kůže Nubuck, mikrovlákno, Gore-Tex | Kůže Perwanger, Gore-Tex       | Kůže, Gore-Tex                   | Kůže Perwanger, Gore-Tex   |
-| Podrážka                 | Vibram Cube                         | Vibram Drumlin                  | Vibram MTN Trainer EVO             | Vibram Nepal               |
-| Mezipodešev             | Vstřikovaný PU                      | PU                              | PU                                | PU, FrameFlex Mid       |
-| Určení                    | Tech. terén, via ferrata, lehčí VHT | Tech. terén, via ferrata         | Trekking, via ferrata             | Zimní VHT, lezení v ledu |
-| Lezecká zóna na špičce | Ano                                 | Ano                             | Ano                               | Ne                          |
+**Trango Tech Leather GTX proti Scarpa Zodiac Tech GTX.** Live for the Outdoors je staví přímo proti sobě: obě kožené, tuhé pod chodidlem, kompatibilní s mačkami a s doporučenou cenou kolem 290 GBP. La Sportiva je podle něj o něco lehčí, Scarpa má o něco lepší tlumení a je širší. Scarpa udává 680 g na botu velikosti 42. Za nás rozhodne noha: na úzkou nohu Trango Tech, na širší Zodiac Tech.
 
-## **Pro koho jsou tyto boty ideální?**
+**Proti textilní Trango Tech GTX.** Textilní verze je lehčí a v e-shopu La Sportiva levnější (285 proti 295 EUR). Novozélandský recenzent uvádí rozdíl jen 60 g a píše, že řada recenzentů si stěžovala na rychle opotřebený textilní svršek. Live for the Outdoors považuje koženou verzi za výrazně odolnější a teplejší ve sněhu. My bychom si za těch 10 EUR připlatili za kůži.
 
-La Sportiva Trango Tech Leather GTX jsou ideální volbou pro zkušené turisty a horolezce, kteří hledají lehkou, obratnou a zároveň dostatečně robustní botu pro technický terén. Jsou skvělé pro:
+**Proti La Sportiva Nepal Evo GTX.** Nepal Evo je zateplená bota s membránou GORE-TEX Insulated Comfort, pro automatické mačky a o váze 2 080 g za pár. Kdo chodí zimní horolezectví nebo ledy, potřebuje ji. Na letní ferraty a skálu je to zbytečně moc boty.
 
-*   **Via ferraty:** Precizní střih, lezecká zóna a ochrana kotníku zajišťují jistotu při pohybu na zajištěných cestách.
-*   **Technické treky:** Díky nízké hmotnosti a vynikající trakci jsou vhodné i pro náročné treky v horském terénu s kamenitými úseky.
-*   **Lehčí horolezectví:** Zvládnou i lehčí alpské lezení ve smíšeném terénu (skály, sníh, led), kde oceníte jejich přesnost a citlivost.
-*   **Vícedélkové lezení:** Nástup pod skálu a samotné lezení zvládnete v jedné botě.
+**Proti Trango TRK Leather GTX.** Podle Jegeru je TRK výrazně měkčí a univerzálnější a lépe tlumí. Prodejce Bergfreunde ji doporučil zákaznici, která se ptala na letní túry v Dolomitech. Na turistiku bez ledu a maček bychom zvolili raději ji.
 
-## **Kdo by měl zvážit jinou variantu boty?**
+## Pro koho je ideální?
 
-Trango Tech nejsou ideální pro:
+- Pro via ferraty, skalnaté hřebeny a nástupy, kde chcete přesný došlap a tuhou špičku.
+- Pro letní a jarní výstupy přes sněhová pole a ledovce s poloautomatickými mačkami.
+- Pro ty, kdo mají užší nohu a chtějí jednu lehkou botu na hory od jara do podzimu.
 
-*   **Začátečníky:** Pro ty, kteří se s náročným horským terénem teprve seznamují, jsou vhodnější robustnější a stabilnější boty s lepší ochranou.
-*   **Lidi s širokým chodidlem:** Užší střih Trango Tech by mohl být nepohodlný a způsobovat otlaky.
-*   **Zimní treking a náročné horolezectví:** Pro tyto aktivity jsou potřeba teplejší a odolnější boty s možností upnutí maček (např. La Sportiva Nepal Cube GTX).
-*   **Každodenní nošení:** Nejsou to nejvhodnější boty pro každodenní chození do města nebo do práce.
+## Kdo by měl zvážit jinou variantu?
 
-## **Závěrečné zhodnocení**
+- Kdo má širokou nohu nebo vysoký nárt. Několik majitelů řeší velikost a tester Jegeru se širokou nohou cítil tlak, raději vyzkoušejte Scarpa Zodiac Tech GTX.
+- Kdo chodí hlavně po lesních cestách a značených stezkách bez skály. Tuhost tam bude spíš otravovat a lepší volbou je měkčí Trango TRK.
+- Kdo chystá zimní horolezectví, ledy nebo velké mrazy. Bota není zateplená a nebere automatické mačky, sáhněte po La Sportiva Nepal Evo GTX.
+- Kdo chodí často po suti a chce, aby podrážka vydržela roky. Japonský majitel ji sjel za sezónu a chorvatský by ji na sestupy po suti nedoporučil.
 
-La Sportiva Trango Tech Leather GTX jsou vynikající boty pro ty, kteří se nebojí technického terénu a hledají lehkou, přesnou a univerzální obuv. Kombinují vlastnosti lezečky a trekové boty, díky čemuž jsou skvělou volbou pro via ferraty, technické treky a lehčí horolezectví. Jejich slabinou je užší střih, vyšší cena a menší odolnost ve srovnání s robustnějšími modely.
+## Závěrečné zhodnocení
 
-Jsou to všestranné boty, které se mohou zdát drahé, ale zkušenost s nimi předčí jakékoli pochybnosti. Díky membráně Gore-Tex Performance Comfort jsou prodyšné a vodotěsné, takže se v nich nebudete cítit nepohodlně ani v letních, ani v zimních měsících.
+Za nás je La Sportiva Trango Tech Leather GTX jedna z nejlepších voleb pro ty, kdo potřebují jednu lehkou botu na ferraty, skálu a letní alpinismus s poloautomatickými mačkami. Testy chválí přesnost, stabilitu a spolehlivou membránu. Na Bergfreunde ji 83 % hodnotících doporučuje dál. Kompromisy jsou jasné: úzký a menší střih, tvrdý došlap mimo hory, jen částečná obsázka a podrážka, která při častém chození po kamení dlouho nevydrží. Náš verdikt: koupit, pokud vám sedne, a zkoušet v obchodě s ponožkami, které budete nosit. V době psaní stála na Hudy 7 199 Kč a na 8a.cz 6 499 Kč. Na turistiku bez maček vezměte raději měkčí botu, na zimu zateplenou.
 
-**Hodnocení:** 8/10 (Body strhávám za užší střih a vyšší cenu. Přidávám za univerzálnost a skvělý poměr hmotnosti a výkonu.)
+**Hodnocení:** 8/10 (Výborný poměr hmotnosti a schopností na ferratách i s mačkami, body strhává úzký střih, tvrdý došlap a slabší odolnost podrážky a nubuku.)

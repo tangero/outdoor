@@ -1,87 +1,91 @@
 ---
 layout: post
-title: Pajak Alpine – ultralehká a komfortní nafukovací karimatka pro náročné horské expedice
+title: "Pajak Alpine: lehká zimní karimatka s R 6,0 z Polska"
+description: "Recenze Pajak Alpine: mumiová nafukovací karimatka s R 6,0 podle ASTM a hmotností kolem 600 g. Pro koho dává smysl a kdy raději sáhnout po XTherm."
 categories: "karimatky"
 model: "Pajak Alpine"
 znacka: "Pajak"
 feature-img: 
 thumbnail: https://pajaksport.pl/img/cms/TECH/HOMEPAGE/Alpine-Sleeping-Mat-4-(1).jpg
-vaha: 420
-R-faktor: 4.0
-tloustka: 7
+vaha: 620
+R-faktor: 6.0
+tloustka: 6.5
 typ: nafukovací
-pro: Lehká, kompaktní, vysoká izolace, pohodlná i pro spaní na boku
-proti: Nutnost opatrného zacházení, vyšší cena oproti pěnovým variantám
-hodnoceni: 9
+pro: Vysoký R 6,0 podle ASTM, hmotnost kolem 600 g, široká ramena 65 cm, pumpovací vak a lepení v balení.
+proti: Mumiový tvar zúžený na 47 cm, tloušťka jen 6,5 cm, rozporné údaje o hmotnosti, zatím skoro žádné zkušenosti majitelů.
+hodnoceni: 8
+last_modified_at: 2026-11-27
+zdroje:
+- https://pajaksport.com/175-alpine.html
+- https://pajaksport.pl/175-alpine.html
+- https://pajaksport.pl/ekwipunek/maty/109-materace-turystyczne/
+- https://www.prohory.cz/karimatky/332-ultralehka-nafukovaci-karimatka-pajak-alpine.html
+- https://ultralightoutdoorgear.co.uk/alpine-insulated-sleeping-mat/
+- https://www.eddysadventure.de/en-eu/blogs/outdoor-produkttests-erfahrungen/isomatten-mieten-praxis-test
+- https://ultraleicht-trekking.de/forum/thread/630-pajak-macht-nun-auch-matten/
+- https://www.randonner-leger.org/forum/viewtopic.php?id=45046
 ---
 
-Karimatka Pajak Alpine představuje skvělou volbu pro všechny dobrodruhy, kteří hledají kombinaci nízké hmotnosti, vysoké izolace a pohodlí. Tato nafukovací karimatka míří mezi prémiové modely, nabízí dobře promyšlený design a vysoce kvalitní materiály, což ji činí atraktivní alternativou k zavedeným značkám, jako jsou Therm-a-Rest či Exped. Pojďme se na ni podívat blíže.
+Pajak Alpine je nafukovací karimatka polské značky Pajak, známé hlavně péřovými spacáky a bundami. Na webu výrobce se objevila na konci roku 2024 a v Evropě se prodává pod názvem Alpine Insulated. Jde o mumiovou karimatku do chladu: výrobce uvádí R-faktor 6,0 podle normy ASTM F3340-18, hmotnost 620 g bez obalu a tloušťku 6,5 cm. Teplo nezajišťuje výplň, ale reflexní vrstvy IRL uvnitř komor.
+
+Starší verze této recenze uváděla 420 g, R 4,0 a tloušťku 7 cm. Žádný z těchto údajů výrobce nepotvrzuje, proto jsme je opravili podle aktuální stránky Pajaku. Nástupce Alpine nemá, model je pořád aktuální. Vedle ní Pajak prodává silnější obdélníkovou Pajak Expedition s R 6,6.
 
 ![Pajak Alpine](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://pajaksport.pl/3581-medium_default/alpine.jpg)
 
-## Konstrukce a materiály
+## Klíčové parametry a technologie
 
-Pajak Alpine je nafukovací karimatka s komorovou strukturou, která poskytuje velmi dobrou izolaci a komfort při spaní. Vnější materiál je vyroben z odolného, ale stále lehkého ripstop nylonu s PU zátěrem, který chrání proti vlhkosti a případnému protržení. 
+- **Hmotnost:** v technických údajích výrobce 620 g bez obalu a 700 g s obalem. Přehledová stránka na polském webu Pajaku i český e-shop Prohory.cz ale uvádějí 585 g. Britský prodejce Ultralight Outdoor Gear uvádí 618 g bez obalu. Počítejte spíš s horní hodnotou.
+- **R-faktor:** 6,0 podle ASTM F3340-18, tedy srovnatelně s ostatními značkami, které měří podle stejné normy.
+- **Rozměry:** 195 × 65–47 × 6,5 cm. Karimatka je u ramen široká 65 cm a k nohám se zužuje na 47 cm.
+- **Materiál:** polyamid 6.6 s vláknem 70D.
+- **Izolace:** reflexní vrstvy IRL, bez syntetické výplně.
+- **Ventil:** jednocestný ventil z TPU s pojistkou, která zastaví proud vzduchu oběma směry.
+- **Balení:** 25 × 15 × 9 cm, v sadě pumpovací vak, který slouží i jako obal, a lepení.
+- **Cena:** na webu výrobce 189 EUR, v polském e-shopu Pajaku 849 zł, na Prohory.cz 4 700 Kč.
 
-Díky své nafukovací konstrukci dosahuje tloušťky 7 cm, což je více než u některých konkurenčních ultralehkých modelů a zajišťuje vysoký komfort i pro spaní na boku. Pajak v tomto modelu využívá vlastní systém komor, který pomáhá rovnoměrně rozložit tlak vzduchu, čímž snižuje riziko pocitu „houpání“ či nerovnoměrného podkladu.
+## Výhody
 
-## Izolace a tepelný komfort
+- **Hodně tepla na gram:** R 6,0 podle ASTM při 585–620 g je hodnota, kterou mají jen zimní karimatky. Za nás je to hlavní důvod, proč Alpine vůbec zvažovat.
+- **Široká ramena:** 65 cm v ramenou je víc než u většiny turistických karimatek. Na německém fóru ultraleicht-trekking.de to jeden diskutující vítá, úzké karimatky kolem 50 cm podle něj nechávají ruku na zemi.
+- **Pumpovací vak v balení:** do karimatky nemusíte foukat ústy, takže se do ní nedostane vlhký dech. Britský prodejce Ultralight Outdoor Gear v hodnocení karimatky píše, že s vakem šlo nafukování snadno, jen ji pak dofoukl několika nádechy. Vyfouknutí a sbalení podle něj proběhlo bez potíží.
+- **Pohodlí:** podle blogu půjčovny Eddy's Adventure karimatka v boku a ramenou dobře rozkládá tlak. Stejný blog ji doporučuje jako levnější volbu do chladu.
+- **Tichý povrch:** Ultralight Outdoor Gear uvádí, že tkanina při otáčení nešustí. Jde ale o hodnocení obchodu, který karimatku prodává, ne nezávislý test.
 
-S hodnocením R-value 4.0 se Pajak Alpine umisťuje mezi modely, které jsou vhodné nejen do třísezónního prostředí, ale i pro mírnější zimní podmínky. Pro srovnání, model Therm-a-Rest NeoAir XTherm (R-value 7.3) je určený do extrémních podmínek, ale je také těžší a objemnější. Na druhé straně levnější a slabší varianty, jako například Therm-a-Rest NeoAir XLite (R-value 4.5), nabízí podobnou izolaci, avšak nižší komfort kvůli tenčí konstrukci.
+## Nevýhody
 
-Vnitřní struktura karimatky zajišťuje efektivní odvod chladu od země, což je důležité zejména při bivakování na sněhu nebo v chladných podmínkách vysokohorských túr.
-
-## Pohodlí a rozměry
-
-Jednou z hlavních předností této karimatky je komfort. Díky tloušťce 7 cm a promyšlené konstrukci nebudete cítit žádné nerovnosti terénu. Navíc šířka karimatky (standardní 51 cm) nabízí dostatek prostoru pro pohodlné převalování ve spánku.
-
-Ve sbaleném stavu má rozměry přibližně 20 × 9 cm, což je velmi příznivé i pro minimalistické cestování. S váhou pouhých 420 gramů patří mezi nejlehčí modely ve své kategorii.
-
-## Nafukování a sbalitelnost
-
-Součástí balení je i nafukovací vak, který usnadňuje plnění karimatky vzduchem a zároveň zamezuje vniknutí vlhkosti dovnitř (což bývá častý problém při nafukování ústy). Ventil je dobře navržený a umožňuje snadné vypuštění vzduchu při balení.
-
-Sbalení je intuitivní a poměrně rychlé – vypuštění vzduchu a zarolování trvá přibližně minutu, což je skvělé zejména na expedicích, kdy každá ztracená minuta ráno hraje roli.
+- **Málo zkušeností majitelů:** k Alpine jsme nenašli žádnou zákaznickou recenzi s textem, ani v Česku, ani v Polsku nebo Německu. Český e-shop Prohory.cz u ní uvádí jedinou recenzi. Nezávislé testy (OutdoorGearLab, Switchback Travel a podobně) jsme k ní nenašli. Kupujete tedy hlavně podle údajů výrobce.
+- **Nejednotné údaje:** 585 g, nebo 620 g? Výrobce uvádí obě čísla. Jeden majitel sesterské Pajak Expedition na fóru ultraleicht-trekking.de navíc naměřil kratší a užší karimatku, než slibuje výrobce. U Alpine to ověřené nemáme, ale tohle bychom před koupí chtěli vidět na vlastní váze.
+- **Mumiový tvar:** zúžení na 47 cm u nohou ušetří gramy, ale kdo spí roztažený nebo na boku s pokrčenými koleny, může nohama sjíždět mimo.
+- **Jen 6,5 cm:** na zimní karimatku je to slušná, ne výjimečná tloušťka. Těžší spáči na boku mohou v bocích cítit zem.
+- **Reflexní vrstvy:** na fóru ultraleicht-trekking.de diskutující před uvedením odhadovali, že fólie bude šustět, a blog Eddy's Adventure obecně píše, že lehké karimatky s reflexními vrstvami jsou o něco hlučnější. Obchod Ultralight Outdoor Gear uvádí opak. Skutečnou zkušenost majitele s hlukem jsme nenašli.
+- **Nafukovací karimatka do mrazu:** na francouzském fóru randonner-leger.org jeden diskutující připomíná, že do velkého mrazu je spolehlivější pěnová karimatka, protože nafukovací může prasknout. Za nás platí: na vícedenní zimní akci vezměte k Alpine i lepení a ideálně tenkou pěnu.
 
 ## Srovnání s konkurencí
 
-| Model                         | Váha (g) | R-faktor | Tloušťka (cm) | Typ             | Cena (orientačně) |
-|------------------------------|---------|---------|---------------|----------------|------------------|
-| **Pajak Alpine**            | **420** | **4.0** | **7**         | **Nafukovací** | **4 500 Kč**     |
-| Therm-a-Rest NeoAir XTherm  | 439     | 7.3     | 6.4           | Nafukovací     | 5 500 Kč         |
-| Therm-a-Rest NeoAir XLite   | 354     | 4.5     | 6.4           | Nafukovací     | 4 000 Kč         |
-| Exped SynMat UL 7           | 430     | 3.3     | 7             | Nafukovací     | 4 000 Kč         |
+**Therm-a-Rest NeoAir XTherm NXT** má podle naší recenze R 7,3, hmotnost 430 g a tloušťku 6,4 cm. Je tedy teplejší i lehčí při stejné tloušťce. Alpine proti ní nabízí širší ramena a pumpovací vak v balení. Kdo chce na zimní noci co nejvíc tepla na gram, za nás má sáhnout po XTherm.
 
-Jak je vidět, Pajak Alpine patří mezi velmi konkurenceschopné modely – nabízí skvělý poměr mezi váhou, komfortem a izolací, přičemž si stále drží rozumnou cenu.
+**Sea to Summit Ether Light XR Pro Insulated** (R 7,4, 560 g, 10 cm podle naší recenze) je výrazně silnější a pohodlnější pro spáče na boku. Podle naší recenze stojí zhruba 219–289 USD podle velikosti. Tu bychom zvolili, když chcete zimní teplo a k tomu tloušťku jako doma.
 
-## Výhody a nevýhody
+**Pajak Expedition** je obdélníková sestra s R 6,6, tloušťkou 11 cm a hmotností 685–720 g podle údajů výrobce. Je těžší, ale mnohem pohodlnější. Na rychlé zimní přechody bychom vzali Alpine, do zimního tábora nebo pro spaní na boku Expedition.
 
-### **Výhody:**
-✔ **Nízká hmotnost (420 g)** – ideální pro dlouhé treky a horská dobrodružství  
-✔ **Vysoká tloušťka (7 cm)** – zajišťuje pohodlný spánek i na nerovném povrchu  
-✔ **Dobrý izolační výkon (R-value 4.0)** – vhodná i do zimních podmínek  
-✔ **Kompaktní sbalení (20 × 9 cm)** – nezabírá zbytečně místo v batohu  
-✔ **Kvalitní materiály a odolný ventil** – dlouhá životnost  
+**Big Agnes Zoom UL Insulated** a **Therm-a-Rest NeoAir XLite NXT MAX** jsou lehčí třísezónní karimatky s R 4,3 a 4,5. Když nespíte na sněhu, za nás vám stačí ony a Alpine je zbytečně teplá.
 
-### **Nevýhody:**
-✖ **Vyšší cena oproti pěnovým alternativám** – připlatíte si za komfort a lehkost  
-✖ **Náchylnější na propíchnutí** – nutné opatrné zacházení a ideálně použití podložky  
-✖ **Nutnost nafukování** – oproti pěnové karimatce si vyžádá trochu více času na přípravu  
+## Pro koho je ideální?
 
-## Závěr
+- Pro zimní a jarní túry s přespáním na sněhu nebo zmrzlé zemi, kde chcete vysoké R a nechcete nést přes 700 g.
+- Pro skialpinisty a horolezce na krátké výstupy s jednou až dvěma nocemi venku.
+- Pro ty, komu na běžných karimatkách padají ruce z karimatky a ocení 65 cm v ramenou.
+- Pro zákazníky, kteří chtějí podpořit evropskou značku a nevadí jim kupovat bez dlouhé historie recenzí.
 
-Pajak Alpine je vynikající volbou pro ty, kteří hledají lehkou, kompaktní a dobře izolovanou nafukovací karimatku. Je ideální na treky, horské expedice i delší výpravy, kde hraje roli každý gram výbavy, ale zároveň chcete kvalitní spánek. V konkurenci s modely jako Therm-a-Rest NeoAir nebo Exped SynMat obstojí velmi dobře díky kombinaci pohodlí, rozumné tepelné izolace a nízké váhy. 
+## Kdo by měl zvážit jinou variantu?
 
-Pokud hledáte karimatku, která vás podrží ve většině podmínek, Pajak Alpine patří mezi top volby na trhu.
+- Kdo chce víc tepla při nižší hmotnosti a nechce čekat na první testy. Vezměte Therm-a-Rest NeoAir XTherm NXT.
+- Kdo spí na boku a chce pohodlí. Sáhněte po silnější Pajak Expedition nebo Sea to Summit Ether Light XR Pro Insulated.
+- Kdo spí v létě a na podzim v nížinách. R 6,0 nepotřebujete a lehčí třísezónní karimatka vyjde levněji.
+- Kdo se hodně převaluje. Mumiový tvar s 47 cm u nohou vám nemusí sednout.
 
----
+## Závěrečné zhodnocení
 
-### **Shrnutí v bodech:**
-- **Hmotnost:** 420 g  
-- **Tloušťka:** 7 cm  
-- **R-faktor:** 4.0 (dobrá izolace i do zimních podmínek)  
-- **Sbalitelnost:** 20 × 9 cm  
-- **Hlavní výhody:** pohodlí, nízká váha, dobrá izolace  
-- **Nevýhody:** vyšší cena, náchylnost na propíchnutí  
+Za nás je Pajak Alpine zajímavá zimní karimatka, kterou zatím kupujete hlavně na důvěru k výrobci. Na papíře nabízí R 6,0 podle ASTM, široká ramena a pumpovací vak za 4 700 Kč, což je solidní nabídka. Chybí ale nezávislé testy a skutečné zkušenosti majitelů a výrobce sám uvádí dvě různé hmotnosti. Hlavní kompromis je mumiový tvar a tloušťka 6,5 cm. Náš verdikt: koupit, pokud chcete evropskou zimní karimatku s širšími rameny a nevadí vám být mezi prvními majiteli. Pokud chcete víc tepla na gram, raději Therm-a-Rest NeoAir XTherm NXT.
 
-Hodnocení: **9/10** 🎒🔥
+**Hodnocení:** 8/10 (Výborný poměr izolace a hmotnosti podle údajů výrobce, body strhává mumiový tvar, rozporné údaje o hmotnosti a chybějící nezávislé testy.)

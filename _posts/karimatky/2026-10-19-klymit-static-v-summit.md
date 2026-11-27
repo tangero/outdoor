@@ -65,12 +65,12 @@ Nezávislé testy této konkrétní karimatky jsou omezené, proto vycházíme t
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
 | **Klymit Static V Summit** | **680** | **2.4** | **6.4** | Nafukovací | Dostupná cena, V-komory, boční valy | Nízký R-faktor, vyšší hmotnost |
-| Klymit Insulated Static V | 680 | 4.4 | 6.4 | Nafukovací | Skvělý poměr izolace a ceny, vysoký komfort, odolný materiál | Vyšší hmotnost oproti ultralehkým modelům, slabší izolace pro extrémní mrazy |
+| Klymit Insulated Static V | 680 | 1.9 | 6.4 | Nafukovací | Skvělý poměr izolace a ceny, vysoký komfort, odolný materiál | Vyšší hmotnost oproti ultralehkým modelům, slabší izolace pro extrémní mrazy |
 | Klymit Static V | 530 | 1.3 | 6.4 | Nafukovací | Pohodlný V-design, kompaktní po sbalení, dostupná cena | Nízký R-faktor pro chladnější podmínky, absence izolační vrstvy |
 | Therm-a-Rest Venture | 700 | 2.6 | 5 | Nafukovací | Dostupná cena, dobrá odolnost 75D materiálu, rychlé nafouknutí, kompaktní balení | Nižší R-faktor než prémiové modely, vyšší váha proti ultralehkým karimatkám |
 | Therm-a-Rest NeoAir XLite NXT MAX | 454 | 4.5 | 7.6 | Nafukovací | Vynikající poměr teplo/váha, kompaktní balení, tichý materiál | Vyšší cena, pomalejší nafukování, omezená odolnost v členitém terénu |
 
-Nejbližší srovnání je s modelem Klymit Insulated Static V, který má při stejné hmotnosti a tloušťce výrazně vyšší R-faktor 4.4. Proti Klymit Static V nabízí Summit vyšší izolační hodnotu, ale je o 150 g těžší. Therm-a-Rest Venture je podobně dostupná varianta se srovnatelnou hmotností a R-faktorem.
+Nejbližší srovnání je s modelem Klymit Insulated Static V, který má stejnou hmotnost i tloušťku, ale podle normy ASTM nižší R-faktor 1,9. Na chladnější noci je proto za nás lepší volbou Summit. Proti Klymit Static V nabízí Summit vyšší izolační hodnotu, ale je o 150 g těžší. Therm-a-Rest Venture je podobně dostupná varianta se srovnatelnou hmotností a R-faktorem.
 
 ## Pro koho je ideální?
 
