@@ -14,7 +14,7 @@ urceni: zimní a ledovcové túry, alpinismus do 5000 m, lezení v ledu a mixu, 
 pohlavi: mužské
 pro: Plná kompatibilita s automatickými mačkami (B3), zateplení PrimaLoft a GORE-TEX Insulated Comfort, odolný kožený svršek z jednoho kusu s gumovým lemem, pohodlí bez dlouhého rozchození podle ohlasu z fóra UKClimbing.
 proti: Hmotnost 990 g na botu, slabší tlumení při chůzi, mělčí vzorek podešve se rychleji sjíždí, v létě a na nízkých túrách hřeje, výrobce ji už nenabízí.
-hodnoceni: 9
+hodnoceni: 8
 last_modified_at: 2026-11-27
 zdroje:
 - https://weighmyrack.com/MountaineeringBoot/garmont-mountain-guide-pro-gtxr
@@ -86,4 +86,4 @@ Důležitá aktualizace: v kolekci horolezeckých bot na garmont.com už Mountai
 
 Za nás je Garmont Mountain Guide Pro GTX velmi dobrá zateplená bota B3 pro zimní alpinismus a led. Je teplá, nepromokavá, podle majitele z UKClimbing na svou tuhost překvapivě pohodlná hned od začátku a zvládne jakékoli mačky. Hlavními kompromisy jsou hmotnost, slabší tlumení a mělčí vzorek, který se podle zkušenosti jednoho majitele sjíždí rychleji než u konkurence. Nezávislý redakční test jsme pro tento model nenašli, opíráme se o údaje prodejců a ohlasy majitelů. Náš verdikt: v doprodeji a ve vaší velikosti koupit. Kdo ji nesežene, vezme La Sportiva Nepal Evo GTX, a kdo nepotřebuje automatické mačky, ušetří váhu s Tower 3.0 Extreme GTX.
 
-**Hodnocení:** 9/10 (teplá, nepromokavá a pohodlná bota pro automatické mačky, hodnocení snižuje hmotnost, slabší tlumení, rychleji opotřebená podešev a to, že ji výrobce už nenabízí)
+**Hodnocení:** 8/10 (teplá, nepromokavá a pohodlná bota pro automatické mačky, hodnocení snižuje hmotnost, slabší tlumení, rychleji opotřebená podešev a to, že ji výrobce už nenabízí)

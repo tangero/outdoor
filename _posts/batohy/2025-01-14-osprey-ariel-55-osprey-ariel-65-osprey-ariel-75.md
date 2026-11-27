@@ -13,7 +13,7 @@ material: nylon 420HD packcloth (tělo a dno), doplňky z nylonu 210D, bluesign,
 sex: ženy
 pro: Pohodlí i s 20 kg a víc, přesné nastavení pásu a popruhů, sedí i drobným ženám, odolná látka 420D, vstup zepředu a pláštěnka v ceně.
 proti: Hmotnost přes 2,2 kg, záda AirScape větrají hůř než síťovina, těsné boční kapsy, na lehkou výbavu zbytečně robustní.
-hodnoceni: 9
+hodnoceni: 8.5
 last_modified_at: 2026-11-27
 zdroje:
 - https://www.osprey.com/gb/osprey-ariel-65-2021
@@ -83,4 +83,4 @@ Za nás je Osprey Ariel 65 nejlepší dámská krosna Osprey pro opravdu těžk�
 
 Ariel vyniká přesným nastavením, které podle majitelek sedí i drobným postavám, odolnou látkou a vstupem zepředu. Daní je hmotnost přes 2,2 kg a záda, která v horku větrají hůř než starší síťová verze. Starší kus z výprodeje berte jen s vědomím, že může mít jiná, síťová záda Anti-Gravity.
 
-**Hodnocení:** 9/10 (výborné nesení těžkého nákladu, přesné nastavení a odolnost, ubírá hmotnost přes 2,2 kg a slabší větrání zad AirScape)
+**Hodnocení:** 8,5/10 (výborné nesení těžkého nákladu, přesné nastavení a odolnost, ubírá hmotnost přes 2,2 kg a slabší větrání zad AirScape)

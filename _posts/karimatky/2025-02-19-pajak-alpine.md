@@ -13,7 +13,7 @@ tloustka: 6.5
 typ: nafukovací
 pro: Vysoký R 6,0 podle ASTM, hmotnost kolem 600 g, široká ramena 65 cm, pumpovací vak a lepení v balení.
 proti: Mumiový tvar zúžený na 47 cm, tloušťka jen 6,5 cm, rozporné údaje o hmotnosti, zatím skoro žádné zkušenosti majitelů.
-hodnoceni: 9
+hodnoceni: 8
 last_modified_at: 2026-11-27
 zdroje:
 - https://pajaksport.com/175-alpine.html
@@ -88,4 +88,4 @@ Starší verze této recenze uváděla 420 g, R 4,0 a tloušťku 7 cm. Žádný 
 
 Za nás je Pajak Alpine zajímavá zimní karimatka, kterou zatím kupujete hlavně na důvěru k výrobci. Na papíře nabízí R 6,0 podle ASTM, široká ramena a pumpovací vak za 4 700 Kč, což je solidní nabídka. Chybí ale nezávislé testy a skutečné zkušenosti majitelů a výrobce sám uvádí dvě různé hmotnosti. Hlavní kompromis je mumiový tvar a tloušťka 6,5 cm. Náš verdikt: koupit, pokud chcete evropskou zimní karimatku s širšími rameny a nevadí vám být mezi prvními majiteli. Pokud chcete víc tepla na gram, raději Therm-a-Rest NeoAir XTherm NXT.
 
-**Hodnocení:** 9/10 (Výborný poměr izolace a hmotnosti podle údajů výrobce, body strhává mumiový tvar, rozporné údaje o hmotnosti a chybějící nezávislé testy.)
+**Hodnocení:** 8/10 (Výborný poměr izolace a hmotnosti podle údajů výrobce, body strhává mumiový tvar, rozporné údaje o hmotnosti a chybějící nezávislé testy.)

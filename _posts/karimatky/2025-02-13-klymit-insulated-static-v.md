@@ -13,7 +13,7 @@ tloustka: 6.4
 typ: nafukovací
 pro: Odolná tkanina 75D, široká plocha 58 cm s bočními valy, malé balení, rychlé nafouknutí, nízká cena.
 proti: R 1.9 podle ASTM místo propagovaných 4.4, studené drážky mezi komorami, hmotnost kolem 680 g, hlášení o netěsnostech u svarů.
-hodnoceni: 8
+hodnoceni: 7
 last_modified_at: 2026-11-27
 zdroje:
 - https://klymit.com/products/insulated-static-v-sleeping-pad
@@ -90,4 +90,4 @@ Na stejné adrese teď Klymit prodává nástupce **Insulated Static V Peak**. T
 
 Za nás je Klymit Insulated Static V dobrá a odolná karimatka, jen ne taková, jak napovídalo staré R 4,4. Silná tkanina 75D, široká plocha a malé balení z ní dělají spolehlivou třísezónní karimatku do kempu, na vandr i na kolo. Hlavní kompromis je izolace: podle ASTM má R 1,9 a v hlubokých svarech se ochlazuje. Na sníh ji bez pěny pod ní nedoporučujeme. Náš verdikt: v doprodeji kolem tří tisíc korun koupit jako třísezónní karimatku, na zimu raději nástupce Static V Peak s R 4,2 podle ASTM.
 
-**Hodnocení:** 8/10 (Odolnost, pohodlí a cena jsou výborné, body strhává hmotnost, studené svary a izolace R 1,9 podle ASTM.)
+**Hodnocení:** 7/10 (Odolnost, pohodlí a cena jsou výborné, body strhává hmotnost, studené svary a izolace R 1,9 podle ASTM.)

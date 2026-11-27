@@ -13,7 +13,7 @@ tloustka: 11
 typ: nafukovací
 pro: R 6,6 podle ASTM, tloušťka 11 cm pro spaní na boku, obdélníkový tvar, hmotnost kolem 700 g, pumpovací vak v balení.
 proti: Skutečné rozměry menší než udává výrobce, rozporné údaje o hmotnosti, objemný pumpovací vak, zatím jediná zkušenost majitele.
-hodnoceni: 9
+hodnoceni: 8
 last_modified_at: 2026-11-27
 zdroje:
 - https://pajaksport.com/174-expedition.html
@@ -88,4 +88,4 @@ Nástupce zatím nemá. Proti starší verzi této recenze jsme opravili hmotnos
 
 Za nás je Pajak Expedition jedna z mála karimatek, které spojují zimní izolaci, 11 cm tloušťky a obdélníkový tvar pod 800 g. To je silný argument pro spáče na boku, kteří jdou do mrazu. Hlavní kompromisy jsou v detailech: podle prvního majitele je kratší a užší, než uvádí výrobce, a výrobce sám udává dvě různé hmotnosti. Nezávislé testy zatím chybí. Náš verdikt: koupit, pokud chcete silnou zimní karimatku do batohu a stačí vám 195 × 64 cm. Kdo chce nižší hmotnost a nevadí mu užší karimatka, raději Sea to Summit Ether Light XR Pro Insulated.
 
-**Hodnocení:** 9/10 (Výjimečná kombinace izolace, tloušťky a hmotnosti, body strhávají menší rozměry, než slibuje výrobce, rozporné údaje a chybějící testy.)
+**Hodnocení:** 8/10 (Výjimečná kombinace izolace, tloušťky a hmotnosti, body strhávají menší rozměry, než slibuje výrobce, rozporné údaje a chybějící testy.)

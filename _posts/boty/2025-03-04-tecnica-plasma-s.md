@@ -14,7 +14,7 @@ urceni: jednodenní túry, kamenité stezky a lehké lezení, lehčí vícedenn�
 pohlavi: mužské, ženské (dle varianty)
 pro: Tepelně tvarovatelná pata, klenba a stélka, pohodlí bez rozchození, jisté držení paty, robustní ochrana svršku, šněrování, které se nepovoluje.
 proti: Nejednotné hodnocení přilnavosti a rychle se ojíždějící výstupky, na nízkou botu vyšší hmotnost, nižší prodyšnost, tvarování jen v některých prodejnách, model se už doprodává.
-hodnoceni: 8
+hodnoceni: 7.5
 last_modified_at: 2026-11-27
 zdroje:
 - https://blisterreview.com/gear-reviews/tecnica-plasma-s-shoe
@@ -88,4 +88,4 @@ Model přišel na jaře 2019. The Big Outside ho dnes vede jako ukončený a př
 
 Za nás je Tecnica Plasma S jedna z nejpohodlnějších nízkých turistických bot, pokud jí dopřejete tvarování C.A.S. Pata drží výborně, svršek je odolný, šněrování se nepovoluje a stélka nepotřebuje náhradu. Kompromisem je podešev, jejíž přilnavost a odolnost testy hodnotí rozporně, vyšší hmotnost než u lehkých konkurentů a nižší prodyšnost. Náš verdikt: koupit ve slevě pro jednodenní a kamenité túry, hlavně když vám jinde nesedí pata. Kdo chce lehkost a jistou podešev, zvolí raději Salomon X Ultra 4.
 
-**Hodnocení:** 8/10 (výjimečné padnutí díky tvarování, opora a odolný svršek, body strhává sporná přilnavost, opotřebení výstupků a vyšší hmotnost)
+**Hodnocení:** 7,5/10 (výjimečné padnutí díky tvarování, opora a odolný svršek, body strhává sporná přilnavost, opotřebení výstupků a vyšší hmotnost)

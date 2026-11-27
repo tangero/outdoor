@@ -14,7 +14,7 @@ material: nubuková kůže 1.6–1.8 mm a polyesterová síťovina, membrána GO
 urceni: vícedenní treky s batohem, horská turistika v náročnějším terénu, kamenité a mokré stezky
 pro: Pevná opora a ochrana nohy, odolný nubuk s gumovým lemem, membrána GORE-TEX bez PFC, podešev Vibram Antrona, hmotnost 655 g na botu.
 proti: Tuhost a slabší prodyšnost, na lehké túry zbytečně robustní, mačky jen poloautomatické a podle prodejce omezeně, zatím bez nezávislých testů nové generace.
-hodnoceni: 7.5
+hodnoceni: 8
 automat: true
 last_modified_at: 2026-11-27
 zdroje:
@@ -90,4 +90,4 @@ Nebraska 3 je novou generací oblíbené Nebrasky II GTX, která se v českých 
 
 Za nás je Garmont Nebraska 3 GTX solidní klasická treková bota pro vícedenní túry s batohem. Nabízí pevnou oporu, odolný nubuk s gumovým lemem, membránu bez PFC a podrážku Vibram, kterou by podle výrobce mělo jít vyměnit. Při 655 g na botu je na svou kategorii rozumně lehká. Hlavními kompromisy jsou tuhost, slabší prodyšnost a omezené možnosti s mačkami. K tomu nová generace zatím nemá nezávislé testy ani hodnocení majitelů, o předchůdci jsou ohlasy dobré. Náš verdikt: pro treky s batohem koupit po vyzkoušení v obchodě. Kdo sežene ve své velikosti Nebrasku II v doprodeji, nemusí na trojku čekat. Na lehké výlety bychom zvolili Hexagon GTX.
 
-**Hodnocení:** 7,5/10 (pevná treková bota s dobrými ohlasy na předchozí generaci, hodnocení snižuje tuhost, slabší prodyšnost, omezená kompatibilita s mačkami a chybějící testy nové generace)
+**Hodnocení:** 8/10 (pevná treková bota s dobrými ohlasy na předchozí generaci, hodnocení snižuje tuhost, slabší prodyšnost, omezená kompatibilita s mačkami a chybějící testy nové generace)

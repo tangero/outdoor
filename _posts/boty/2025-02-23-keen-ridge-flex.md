@@ -14,7 +14,7 @@ urceni: jednodenní túry a lehčí treky po značených stezkách, mokro a blá
 pohlavi: mužské i ženské
 pro: Pohodlí hned z krabice, prostorná špička pro širší nohu, spolehlivá membrána KEEN.DRY, snadný ohyb díky měchu, gumová ochrana prstů.
 proti: Průměrná přilnavost na mokré skále a v bahně, krátké tkaničky a tlak v nártu u některých nohou, otázky kolem odolnosti měchu, model se už jen doprodává.
-hodnoceni: 8
+hodnoceni: 7.5
 last_modified_at: 2026-11-27
 zdroje:
 - https://keenfootwear.com.au/products/ridge-flex-mid-wp-mens-black-magnet
@@ -93,4 +93,4 @@ Pozor na dostupnost: oficiální český e-shop Keen vede model jako dlouhodobě
 
 Za nás je Keen Ridge Flex Mid WP pohodlná a spolehlivě nepromokavá bota pro běžnou turistiku, ne pro technické trasy. Měch ohyb opravdu ulehčuje, prostorná špička potěší širší nohu a majitelé v Česku i jinde chválí pohodlí od prvního dne. Kompromisem je průměrná přilnavost na mokrém kameni a v bahně, krátké tkaničky, tvar nártu, který nesedí každému, a nejistá dlouhodobá odolnost měchu. Náš verdikt: koupit v doprodeji, pokud máte širší nohu a chodíte po stezkách. Na skály a s těžkým batohem raději Salomon X Ultra 4, a kdo měch nepotřebuje, ušetří s Keen Targhee III WP.
 
-**Hodnocení:** 8/10 (výborné pohodlí z krabice, prostorná špička a spolehlivá membrána, body ubírá průměrná přilnavost na mokru, nejistá odolnost měchu a doprodej modelu)
+**Hodnocení:** 7,5/10 (výborné pohodlí z krabice, prostorná špička a spolehlivá membrána, body ubírá průměrná přilnavost na mokru, nejistá odolnost měchu a doprodej modelu)

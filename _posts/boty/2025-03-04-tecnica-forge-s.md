@@ -14,7 +14,7 @@ urceni: horská turistika a vícedenní treky se středně těžkým batohem, ka
 pohlavi: mužské i ženské (verze WS)
 pro: Tvarování na míru v obchodě bez rozchozování, stabilní a nízká hmotnost kolem 585 g, přilnavá podešev Vibram Megagrip, spolehlivá membrána GORE-TEX, překrývaná manžeta místo jazyku.
 proti: Tvarování umí jen vybrané prodejny, tenké tkaničky povolují, v teple se noha potí, vyšší cena, model už výrobce nenabízí a jen se doprodává.
-hodnoceni: 9
+hodnoceni: 8.5
 last_modified_at: 2026-11-27
 zdroje:
 - https://www.activegearreview.com/footwear/tecnica-forge-hiking-boot/
@@ -89,4 +89,4 @@ Pozor na aktuálnost: Forge S v současné nabídce výrobce nenajdete, prodáva
 
 Za nás je Tecnica Forge S GTX jedna z nejzajímavějších trekových bot posledních let a dodnes funguje přesně tak, jak slibuje: tvarování na míru odstraní tlaky a rozchozování, bota je stabilní, poměrně lehká a podešev drží skoro všude. Kompromisem jsou tenké tkaničky, které povolují, svérázná manžeta, teplo v létě a hlavně závislost na prodejně s tvarovacím strojem. Protože se model už jen doprodává, platí náš verdikt takto: koupit, pokud ji seženete ve své velikosti, dobře padne a máte kde ji vytvarovat. Bez možnosti tvarování a na horká léta bychom raději zvolili Salomon X Ultra 4. Kdo chce aktuální model, ať vyzkouší koženou Forge 2.0 GTX, kde je ale tvarování jen u stélky.
 
-**Hodnocení:** 9/10 (tvarování na míru, stabilita při nízké hmotnosti a výborná přilnavost, body ubírají tenké tkaničky, teplo v létě a nutnost najít prodejnu s tvarováním)
+**Hodnocení:** 8,5/10 (tvarování na míru, stabilita při nízké hmotnosti a výborná přilnavost, body ubírají tenké tkaničky, teplo v létě a nutnost najít prodejnu s tvarováním)
