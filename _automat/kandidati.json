@@ -234,7 +234,7 @@
       "priorita": 4,
       "duvod": "Trailová běžecká bota La Sportiva Cyklon, nový model v rubrice boty.",
       "trideno_at": "2026-10-19T05:01:10.439580+00:00",
-      "pokus_at": "2026-11-06T06:06:37.590097+00:00"
+      "pokus_at": "2026-11-27T06:07:03.980169+00:00"
     },
     {
       "id": "0322c4dfb2bb2531",
@@ -637,7 +637,7 @@
       "priorita": 4,
       "duvod": "Stránka konkrétního trekkingového batohu, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512043+00:00",
-      "pokus_at": "2026-11-06T06:05:44.423919+00:00"
+      "pokus_at": "2026-11-27T06:07:40.104525+00:00"
     },
     {
       "id": "2b145296588c67bc",
@@ -1000,7 +1000,7 @@
       "priorita": 5,
       "duvod": "Nová generace trekových batohů AirContact, v databázi zatím není.",
       "trideno_at": "2026-10-19T05:01:23.512256+00:00",
-      "pokus_at": "2026-11-10T06:09:23.180664+00:00"
+      "pokus_at": "2026-11-27T06:03:48.193930+00:00"
     },
     {
       "id": "4fbc8e1f7338276a",
@@ -1343,7 +1343,7 @@
       "priorita": 3,
       "duvod": "Běžecký batoh na trail, nerecenzovaný model.",
       "trideno_at": "2026-10-19T05:01:38.126010+00:00",
-      "pokus_at": "2026-11-10T06:03:45.834971+00:00"
+      "pokus_at": "2026-11-27T06:08:34.062421+00:00"
     },
     {
       "id": "cbec56f85aeada64",
@@ -2621,13 +2621,25 @@
       "published_at": "",
       "detected_at": "2026-04-27T11:03:35.067831+00:00",
       "data": {},
-      "status": "vhodny",
+      "status": "neproslo_kontrolou",
       "model": "Gregory Wander 50",
       "rubrika": "batohy",
       "priorita": 3,
       "duvod": "Konkrétní turistický/cestovní batoh Gregory, nebyl dosud recenzován.",
       "trideno_at": "2026-10-19T16:02:27.581316+00:00",
-      "pokus_at": "2026-10-19T17:30:02.437514+00:00"
+      "pokus_at": "2026-11-27T06:09:55.132067+00:00",
+      "problemy": [
+        {
+          "tvrzeni": "Pro dítě kolem 8–10 let na víkendové túry bychom zvolili spíše Osprey Ace 38, protože 50 l bývá pro menší dítě zbytečně mnoho.",
+          "problem": "Věková hranice 8–10 let pro Ace 38 není v podkladech. SectionHiker uvádí Ace 38 pro menší děti podle délky torza 11–15 palců. Věk 8 let zmiňuje až u Deuter Fox 30. Zdroj navíc uvádí, že 40–50 l je pro mladého turistu dobrá volba.",
+          "zavaznost": "vysoka"
+        },
+        {
+          "tvrzeni": "Menší děti kolem 8 let: pro ně je 50 l zbytečně mnoho a hrozí přebalení, vhodnější je objem 30–40 l, například Osprey Ace 38.",
+          "problem": "Doporučení 30–40 l pro děti kolem 8 let neodpovídá zdroji SectionHiker, který označuje rozsah 40–50 l za dobrou volbu pro mladého batohára. Věk 8 let u Ace 38 nemá oporu.",
+          "zavaznost": "vysoka"
+        }
+      ]
     },
     {
       "id": "8db6f7946b2f2f46",
@@ -2761,7 +2773,7 @@
       "priorita": 4,
       "duvod": "Trailová běžecká bota Hoka, konkrétní produkt, zatím nerecenzováno.",
       "trideno_at": "2026-10-19T16:02:27.581500+00:00",
-      "pokus_at": "2026-11-10T06:03:20.758210+00:00"
+      "pokus_at": "2026-11-27T06:08:06.789951+00:00"
     },
     {
       "id": "972d630eaf0e98e2",
@@ -3104,7 +3116,7 @@
       "priorita": 4,
       "duvod": "Nová verze trekové boty Forge GTX, dosud nerecenzovaná generace.",
       "trideno_at": "2026-10-19T16:02:43.621404+00:00",
-      "pokus_at": "2026-11-10T06:03:59.343677+00:00"
+      "pokus_at": "2026-11-27T06:09:28.540617+00:00"
     },
     {
       "id": "3b5307bd3baaeb1c",
@@ -30154,7 +30166,7 @@
         ],
         "variants": 2
       },
-      "status": "vhodny",
+      "status": "napsano",
       "model": "Nemo Astro Insulated",
       "rubrika": "karimatky",
       "priorita": 4,
@@ -30163,7 +30175,9 @@
       "novinka": "neplatna",
       "novinka_problemy": [
         "zmiňuje vznik textu nebo podklady"
-      ]
+      ],
+      "pokus_at": "2026-11-27T06:04:17.505948+00:00",
+      "soubor": "_posts/karimatky/2026-11-27-nemo-astro-insulated.md"
     },
     {
       "id": "a884181efa9b7fcf",
