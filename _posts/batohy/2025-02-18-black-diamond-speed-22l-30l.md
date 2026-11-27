@@ -23,20 +23,20 @@ K dispozici jsou také dvě velikostní verze M/L a S/M.
 ![Black Diamond Speed 30L](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/2677/63580/4337d9dd5566c36b82d75408a660dc13bfe2fbad__92030.1726882640.386.513.jpg)
 
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 - **Zádový systém FlexGrid**: Páteřová lišta z hliníku a nastavitelné ramenní popruhy zajišťují stabilitu i při nerovnoměrném zatížení. Systém ale postrádá výraznější polstrování, což může vést k pocení.
 - **Materiál**: 210D nylon s PU úpravou odolává drobným oděrkám a lehkému dešti. Pro náročnější podmínky doporučujeme dokoupit pláštěnku.
 - **Doplňky**: Boční kompresní popruhy, úchyt na cepín, poutko na ledovcovou sondu a integrovaný úchyt pro hydratační vak (2,5L). Varianta 30L má navíc spodní zip pro přístup k obsahu bez otevírání hlavního úložného prostoru.
 
 ---
 
-### Výhody
+## Výhody
 - **Hmotnost**: Díky váze 940 g (30L) se batoh hodí pro aktivitu, kde každý gram hraje roli.
 - **Stabilita**: FlexGrid systém udržuje batoh přiléhavý k zádům i při skákání nebo běhu.
 - **Minimalistický design**: Žádné zbytečné kapsy nebo popruhy – batoh se snadno balí a neomezuje pohyb.
 - **Odolnost**: Materiál vydrží kontakt s ostrými skalami nebo větvemi.
 
-### Nevýhody
+## Nevýhody
 - **Ventilace**: Zadní panel je tenký a bez vzduchové mezery, což vede k rychlému propocení při vyšší zátěži.
 - **Organizace**: Pouze jedna hlavní kapsa a dvě boční kapsy na lahev. Chybí přední panel s přihrádkami, který nabízí konkurence (např. Osprey Talon 22).
 - **Úprava popruhů**: Ramenní popruhy nelze nastavit vertikálně, což může omezit pohodlí u některých postav.
@@ -53,11 +53,11 @@ K dispozici jsou také dvě velikostní verze M/L a S/M.
 
 ---
 
-### Pro koho je batoh ideální?
+## Pro koho je batoh ideální?
 - Pro lezce a turisty, kteří preferují lehkost a stabilitu před organizačním komfortem.
 - Pro jednodenní výpravy s minimálním vybavením (hydratace, vrstvy, lano do 8 mm).
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 - Ti, kteří potřebují více kapes (např. pro mapy nebo drobné vybavení), by měli sáhnout po Osprey Talon.
 - Pro delší túry s těžším nákladem (nad 10 kg) je vhodnější batoh s pevnějším rámem, jako Deuter Futura.
 

@@ -28,7 +28,7 @@ Karimatka **Sea to Summit Ultralight XR Insulated Air** je určená turistům, k
 
 Nejvíce ji chválí testeři za rozložení tlaku: konstrukce ze 151 vzduchových komůrek Air Sprung Cells se přizpůsobuje tělu a podle nezávislých testů je pohodlná na zádech, na boku i na břiše, i když je tenčí než mnoho konkurentů. Slabší stránkou je tepelná izolace a odolnost proti nerovnostem terénu.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** 415 g (Small 390 g, Large 530 g); s pytlem 464 g u velikosti Regular.
 - **R-faktor:** 3,6 podle ASTM F3340.
@@ -42,7 +42,7 @@ Nejvíce ji chválí testeři za rozložení tlaku: konstrukce ze 151 vzduchový
 
 Výrobce nabízí velikosti Small, Regular a Large. Podle délky těla se vyplatí vybírat pečlivě, doporučená výška uživatele je 168, 183 a 198 cm.
 
-### Výhody
+## Výhody
 
 - **Nízká hmotnost** – 415 g u velikosti Regular, tedy pod hranicí 16 uncí (454 g), kterou testeři považují za ultralehkou.
 - **Dobré rozložení tlaku** – dimplovaná konstrukce je podle testerů pohodlnější než mnohé tlustší modely, vhodná i pro spáče na boku.
@@ -52,7 +52,7 @@ Výrobce nabízí velikosti Small, Regular a Large. Podle délky těla se vyplat
 - **Cena** – nezávislé testy ji označují za nejlepší poměr ceny a výkonu mezi prémiovými ultralehkými karimatkami.
 - **Širší plocha** – Regular je asi o 4 cm širší než běžný standard 51 cm.
 
-### Nevýhody
+## Nevýhody
 
 - **Nižší R-faktor** – 3,6 je dnes spíše průměr. Podle testů na spoje mezi komůrkami vznikají studená místa. Při mrazu je proto lepší jiná karimatka nebo pěnová podložka navíc.
 - **Malá tloušťka** – na kamenitém či kořenitém podkladu je třeba pečlivěji vybrat místo; při klečení nebo otáčení se lze dotknout země, v klidném ležení se to podle testerů neděje.
@@ -60,7 +60,7 @@ Výrobce nabízí velikosti Small, Regular a Large. Podle délky těla se vyplat
 - **Hmotnost proti nejlehčím** – je o něco těžší než Therm-a-Rest NeoAir XLite NXT, jedna uživatelská zkušenost zmiňuje rozdíl 1,6 uncí.
 - **Skládání** – karimatku je třeba složit na třetiny, což vyžaduje trochu přesnosti.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -72,21 +72,21 @@ Výrobce nabízí velikosti Small, Regular a Large. Podle délky těla se vyplat
 
 NeoAir XLite NXT MAX nabízí vyšší izolaci a tloušťku, ale podle testů je dražší. Pajak Alpine je s 420 g podobně lehký, má lepší izolaci a stejně jako Ultralight XR vyžaduje opatrné zacházení. Sea to Summit Ether Light XT Insulated je s tloušťkou 10 cm výrazně tlustší, ale má nižší R-faktor 3,2. Klymit Insulated Static V je výrazně těžší.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **dálkové turisty a lehké trekaře**, kteří chtějí nízkou hmotnost a výdrž.
 - Pro **spáče na boku** a ty, kdo se v noci hodně otáčejí.
 - Pro **třísezónní použití** od jara do podzimu při rozumné ceně.
 - Pro ty, kdo **pečlivě vybírají místo pro stan** a rádi mají malé balení.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Ti, kdo **mrznou nebo spí při nule a pod ní** – testeři doporučují teplejší model nebo pěnovou podložku pod karimatku.
 - Ti, kdo často **spí na kamenitém a kořenitém terénu** – lepší bude tlustší model.
 - Ti, kdo chtějí **absolutně nejnižší hmotnost** a nevadí jim vyšší cena.
 - Citlivější na **šustění** – podle výrobce může laminovaný materiál vydávat zvuky.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Sea to Summit Ultralight XR Insulated Air je dobře vyvážená karimatka pro lehké třísezónní turistiky. Nabízí nízkou hmotnost, odolný materiál, malé balení a výjimečně dobré rozložení tlaku, k tomu rychlé nafukování a rozumnou cenu. Slabinou jsou skromnější izolace a malá tloušťka, které omezují použití v chladu a na nerovném podkladu. Pokud se těmto situacím vyhnete, jde o velmi dobrou volbu.
 

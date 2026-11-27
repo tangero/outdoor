@@ -31,7 +31,7 @@ Scarpa Ribelle Run 2 GTX je nepromokavá trailová bota určená pro horský bě
 
 Nejvýraznější předností je systém 3S Frame, který obepíná celou konstrukci boty a poskytuje oporu i ochranu. K tomu přidává membrána GORE-TEX ePE a samosvorné šněrování. Výrobce bota řadí spíše ke krátkým až středním vzdálenostem, což potvrzují i nezávislé testy.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 *   **Hmotnost:** výrobce uvádí 350 g pro jednu botu ve velikosti 42. Americká stránka výrobce uvádí u pánské verze 325 g (jedna bota, vel. 42), takže údaje se mírně liší. Dámská verze je lehčí.
 *   **Svršek:** prodyšná síťovina s ekologickým potiskem a systémem EXO, který tvoří vnější kostru a stabilizuje nohu do stran. Konstrukce Strobel je přišita přímo k mezipodešvi.
@@ -41,7 +41,7 @@ Nejvýraznější předností je systém 3S Frame, který obepíná celou konstr
 *   **Tlumení:** mezipodešev z EVA pěny, tlumení střední. Rozdíl mezi patou a špičkou je 4 mm (26,5 mm v oblasti paty, 22,5 mm vpředu).
 *   **Šněrování:** systém Fast Lacing, samosvorné s elastickým šněrováním pro rychlé a rovnoměrné utažení.
 
-### Výhody
+## Výhody
 
 *   **Trakce:** testeři shodně chválí záběr na skále, sněhu i v blátě.
 *   **Stabilita a ochrana:** systém 3S Frame dává pocit jistoty na nerovném terénu a chrání nohu před údery.
@@ -49,7 +49,7 @@ Nejvýraznější předností je systém 3S Frame, který obepíná celou konstr
 *   **Šněrování:** rychlé, drží utažené a netlačí na přednoží.
 *   **Dobrá opora paty:** patu stabilizuje pásek z EVA.
 
-### Nevýhody
+## Nevýhody
 
 *   **Užší střih:** testy popisují botu jako užší, hlavně ve středu nohy a v klenbě. Jeden tester musel kvůli bolesti klenby po několika kilometrech boty vyměnit.
 *   **Tužší konstrukce:** pevná mezipodešev a rám nejsou pro každého pohodlné, na hladké stezky ani dlouhé klidné dny se bota nehodí.
@@ -57,7 +57,7 @@ Nejvýraznější předností je systém 3S Frame, který obepíná celou konstr
 *   **Cena:** výrobce uvádí 199,95 €, což je vysoká částka.
 *   **Detaily zpracování:** jedna recenze uvádí po několika stech kilometrech vytržená očka kvůli úzkým tkaničkám a uživatelé zmiňují malý otvor pro nohu.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Hmotnost (g) | Tvar | Materiál | Určení |
 | --- | --- | --- | --- | --- |
@@ -68,15 +68,15 @@ Nejvýraznější předností je systém 3S Frame, který obepíná celou konstr
 
 Dynafit Speed MTN GTX je podobně zaměřen na rychlý pohyb v technickém terénu a je o něco těžší. Inov8 Roclite G 345 GTX má střední výšku a míří spíš na rychlou turistiku a dlouhé přechody hor. Hoka Speedgoat 5 je lehčí a nemá membránu, směřuje i k ultra trailům. Ribelle Run 2 GTX mezi nimi vyniká obvodovým rámem 3S Frame, který klade důraz na ochranu a oporu.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 Bota je ideální pro běžce a rychlé turisty, kteří se pohybují po skalnatých hřebenech, sněhových polích a mokrých technických stezkách na krátké a střední vzdálenosti. Ocení ji ti, kdo chtějí oporu a ochranu blízkou lehké horské obuvi, ale s pohodlím běžecké boty. Hodí se i pro středně úzkou nohu a běžce, kteří preferují pevný, kontaktní pocit.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 Pokud máte široké chodidlo nebo citlivou klenbu, měli byste boty pečlivě vyzkoušet, protože nejsou dostupné v širším provedení. Pro hladké stezky, ultra vzdálenosti nebo maximální lehkost je lepší hledat měkčí a lehčí model. Nezávislé testy navíc uvádějí, že nepromokavá membrána nemusí být výhodou v teplém počasí, kde je lepší verze bez membrány (Ribelle Run 2).
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Scarpa Ribelle Run 2 GTX je velmi dobrá bota pro technický horský terén. Silnými stránkami jsou trakce, stabilita a ochrana nohy, doplněné nepromokavou a prodyšnou membránou. Slabší stránkou je užší střih a tužší konstrukce, která nemusí vyhovovat každému, a také vyšší cena. Pokud vám střih sedí, jde o spolehlivý nástroj pro krátké a střední výběhy v horách.
 

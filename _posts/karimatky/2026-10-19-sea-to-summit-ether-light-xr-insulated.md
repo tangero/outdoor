@@ -29,7 +29,7 @@ Karimatka **Sea to Summit Ether Light XR Insulated** je určená pro turisty, kt
 
 Nejvíc vyniká pohodlím. Testeři srovnávají její povrch s pružinovou matrací: vzduchové buňky se přizpůsobují tělu a dobře rozkládají tlak na ramena a boky, což oceňují hlavně ti, kdo spí na boku nebo se v noci často přetáčejí. Cenou za komfort je hmotnost, která je vyšší než u nejlehčích prémiových karimatek.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Výrobce uvádí pro velikost Regular (mumie, 183 × 55 cm) hmotnost karimatky 470 g, včetně obalu s pumpovacím vakem 525 g. Sbalená má rozměry 20,5 × 11 × 11 cm. Nezávislé testy uvádějí hmotnost kolem 16,6 oz (zhruba 470 g) u samotné karimatky a 18,7 oz (zhruba 530 g) u testovaného kusu s obalem. Velikostí odpovídá přibližně lahvi o objemu 1 litr.
 
@@ -39,7 +39,7 @@ Karimatka je z nylonu 30D (vrch) a 40D (spodek) a výrobce zvýšil pevnost svar
 
 Ventil **XPRESS** má jednosměrný vstup pro nafukování, velký výpustný otvor pro rychlé vyfouknutí a tlačítko pro jemné dolaďování tvrdosti. Podle testerů karimatku naplní tři až čtyři vaky vzduchu, v jednom testu to trvalo průměrně asi 90 sekund.
 
-### Výhody
+## Výhody
 
 - **Vysoký komfort** – tloušťka 10 cm na okrajích (v hlavní ploše podle jednoho testu kolem 9 cm) a vzduchové buňky pomáhají hlavně při spaní na boku.
 - **Odolné materiály** – nylon 30D/40D je podle testerů pevnější než u mnoha ultralehkých modelů; test po desítkách nocí nenalezl problémy se švy ani ventilem.
@@ -50,7 +50,7 @@ Ventil **XPRESS** má jednosměrný vstup pro nafukování, velký výpustný ot
 - **Příslušenství** – opravná sada a úchyty na polštářek.
 - **Více velikostí a tvarů** – malá, běžná a velká mumie i obdélníkové varianty.
 
-### Nevýhody
+## Nevýhody
 
 - **Vyšší hmotnost** než u ultralehkých karimatek se srovnatelným R-faktorem.
 - **Povrch může být na holé kůži lepivý**, zejména v teplých nocích.
@@ -59,7 +59,7 @@ Ventil **XPRESS** má jednosměrný vstup pro nafukování, velký výpustný ot
 - **Dvojitý ventil** může při neopatrném zacházení vypustit všechen vzduch.
 - Těžší uživatel v diskuzi uváděl, že se při přetáčení dotkl země.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -71,7 +71,7 @@ Ventil **XPRESS** má jednosměrný vstup pro nafukování, velký výpustný ot
 
 Oproti předchůdci Ether Light XT Insulated nabízí XR vyšší R-faktor, a podle testů je i menší po sbalení a tišší. Oproti Therm-a-Rest NeoAir XLite NXT MAX je XR podle testů pohodlnější, ale těžší a o něco méně hřejivá. Nezávislé testy ji také srovnávají s karimatkou NEMO Tensor All-Season, která je lehčí a výrazně hřejivější, zatímco XR je o něco pohodlnější a širší.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **turisty, kteří spí na boku** nebo se hodně přetáčejí.
 - Pro **třísezónní turistiku** a chladnější noci na přechodu sezón.
@@ -79,14 +79,14 @@ Oproti předchůdci Ether Light XT Insulated nabízí XR vyšší R-faktor, a po
 - Pro **bikepacking** a pro ty, kdo hledají komfort bez objemného balení.
 - Pro uživatele **polštářků Sea to Summit**, kterým PillowLock zabrání sklouznutí.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo počítá každý gram a hledá **nejlehčí karimatku** – lehčí jsou například NeoAir XLite NXT MAX či Pajak Alpine.
 - Kdo potřebuje **zimní karimatku** – R-faktor 4.1 je pro trvalé mrazy a kempování na sněhu málo; výrobce uvádí, že vyhovuje do podmínek, kdy se může objevit silný mráz na zemi, a vhodnější je například NeoAir XTherm NXT.
 - Kdo **spí hodně nastudena** a plánuje použití pod prostěradlo nebo quilt kolem bodu mrazu.
 - Kdo nesnáší **hladký, mírně lepivý povrch**.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Sea to Summit Ether Light XR Insulated je velmi pohodlná a odolná nafukovací karimatka pro třísezónní turistiku. Za komfort platíte vyšší hmotností než u ultralehkých modelů a hřejivostí, která stačí na jaro až podzim, ne na zimu. Pro boční spáče a každého, kdo na treku upřednostňuje kvalitní spánek před nejnižší hmotností, je to velmi dobrá volba.
 

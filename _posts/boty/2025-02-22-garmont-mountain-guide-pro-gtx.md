@@ -22,20 +22,20 @@ Tyto boty si získaly uznání mezi profesionálními horskými vůdci a zkušen
 
 ![Garmont Mountain Guide Pro GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.polarsport.pl/media/catalog/product/cache/d6e45dfc1b25b95a4e8303b8876267e8/m/o/mountain_guide_pro_gtx_jeans_1000_1_.jpg)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Garmont Mountain Guide Pro GTX se pyšní řadou pokročilých technologií a materiálů. Svršek boty je vyroben z odolné semišové kůže Perwanger o tloušťce 3 mm, která je známá svou výjimečnou odolností proti oděru a povětrnostním vlivům. Kůže je navíc ošetřena vodoodpudivou úpravou. Voděodolnost a prodyšnost zajišťuje membrána Gore-Tex® Insulated Comfort, která udržuje nohy v suchu a teple i v extrémních mrazech a vlhkém prostředí. Tato membrána je speciálně navržena pro zimní aktivity a poskytuje vysoký stupeň izolace.
 
 Podrážka Vibram® Titus s hrubým dezénem zaručuje vynikající přilnavost na různých površích, včetně ledu, sněhu a skalnatého terénu. Mezipodešev z PU s dvojí hustotou poskytuje optimální tlumení nárazů a stabilitu. Konstrukce boty je extra tuhá, což je klíčové pro použití s automatickými mačkami (tzv. "fast" upínání). Precizní šněrování až do špičky umožňuje individuální nastavení a pevné uchycení nohy v botě. Okolo celé boty je bytelna gumová obsázka jako ochrana proti okopání. Výška boty poskytuje excelentní oporu kotníku a ochranu před sněhem a vlhkostí.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší hmotnost:** Kvůli robustní konstrukci a použitým materiálům je hmotnost boty vyšší (990 g jedna bota), což se může projevit při delších túrách.
 *   **Tuhost:** Tuhá konstrukce, která je výhodou pro použití s mačkami, může být zpočátku nepohodlná a vyžaduje delší dobu na rozchození.
 *   **Vyšší cena:** Garmont Mountain Guide Pro GTX patří do vyšší cenové kategorie, což odráží kvalitu materiálů a technologií.
 * **Prodyšnost:** I přes použití Gore-Tex membrány, která se u zimní varianty více soustředí na tepelný komfort může být za teplejšího počasí prodyšnost limitujícím faktorem.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model                         | Garmont Mountain Guide Pro GTX | La Sportiva Nepal Cube GTX | Scarpa Mont Blanc Pro GTX |
 | ----------------------------- | ------------------------------ | -------------------------- | ------------------------- |
@@ -46,15 +46,15 @@ Podrážka Vibram® Titus s hrubým dezénem zaručuje vynikající přilnavost 
 | Kompatibilita s mačkami | Automatické                    | Automatické                | Automatické                |
 | Cena (orientační)          | Vyšší                          | Vyšší                      | Vyšší                      |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Garmont Mountain Guide Pro GTX jsou ideální volbou pro zkušené horaly a alpinisty, kteří podnikají náročné zimní výstupy, lezení v ledu a mixové lezení. Jsou vhodné pro profesionální horské vůdce a všechny, kteří vyžadují maximální spolehlivost, odolnost a tepelný komfort v extrémních podmínkách. Ocení je ti, kteří tráví delší čas v horách a potřebují boty, na které se mohou plně spolehnout.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Pokud hledáte lehčí botu pro méně náročné zimní túry nebo preferujete měkčí a poddajnější obuv, Garmont Mountain Guide Pro GTX pro vás nemusí být ideální volbou. Začátečníci nebo ti, kteří se pohybují převážně v lehčím terénu, by měli zvážit méně technické a lehčí modely. Stejně tak, pokud máte omezený rozpočet, existují i levnější alternativy, i když s kompromisy v oblasti výkonu a odolnosti.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Garmont Mountain Guide Pro GTX jsou špičkové boty, které splňují nejvyšší nároky na funkčnost, odolnost a komfort v náročných horských podmínkách. Jejich robustní konstrukce, kvalitní materiály a pokročilé technologie je činí spolehlivým partnerem pro zimní horolezectví a náročné treky. I přes vyšší hmotnost a cenu představují investici, která se vyplatí těm, kteří hledají nekompromisní výkon a ochranu.
 

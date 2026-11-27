@@ -87,7 +87,7 @@ Pravidla:
   (g, l, cm, °C). Můžeš být ostrý a koupi nedoporučit, ale nehledej kontroverzi za každou cenu.
   Místo obecného „je drahý“ vysvětli, co za příplatek čtenář dostane a co naopak ne.
 - Rozsah těla recenze 600–900 slov. Struktura jako na webu:
-  úvodní 1–2 odstavce (pro koho produkt je a v čem vyniká), potom nadpisy úrovně ###:
+  úvodní 1–2 odstavce (pro koho produkt je a v čem vyniká), potom nadpisy úrovně ## (H2):
   „Klíčové parametry a technologie“, „Výhody“, „Nevýhody“, „Srovnání s konkurencí“,
   „Pro koho je ideální?“, „Kdo by měl zvážit jinou variantu?“, „Závěrečné zhodnocení“.
   Obrázek do textu nevkládej.
@@ -125,7 +125,7 @@ testů, ceny a srovnání) a ověř, že má oporu v podkladech nebo v tabulce u
 Redakční hodnocení doložených vlastností („za nás je příplatek zbytečný“) není vymyšlený fakt
 ani vlastní zkušenost; kontroluj ale, zda z uvedených faktů rozumně vychází.
 
-Povinné jsou nadpisy úrovně ### „Klíčové parametry a technologie“, „Výhody“, „Nevýhody“,
+Povinné jsou nadpisy úrovně ## „Klíčové parametry a technologie“, „Výhody“, „Nevýhody“,
 „Srovnání s konkurencí“, „Pro koho je ideální?“, „Kdo by měl zvážit jinou variantu?“
 a „Závěrečné zhodnocení“. Srovnání má pojmenovat 2–3 relevantní alternativy, pokud jsou
 v podkladech nebo tabulce, a říct, pro koho který produkt zvolit. První věta závěru musí
@@ -563,9 +563,9 @@ def validate(c: dict, draft: dict) -> list[str]:
         "Pro koho je ideální?", "Kdo by měl zvážit jinou variantu?", "Závěrečné zhodnocení",
     )
     for heading in headings:
-        if not re.search(rf"^###\s+{re.escape(heading)}\s*$", body, flags=re.M):
+        if not re.search(rf"^#{{2,3}}\s+{re.escape(heading)}\s*$", body, flags=re.M):
             errors.append(f"chybí oddíl {heading}")
-    conclusion = re.search(r"^###\s+Závěrečné zhodnocení\s*$", body, flags=re.M)
+    conclusion = re.search(r"^#{2,3}\s+Závěrečné zhodnocení\s*$", body, flags=re.M)
     if conclusion and not re.search(r"\b(?:za nás|podle nás|my bychom|doporučujeme|nedoporučujeme)\b",
                                     body[conclusion.end():], flags=re.I):
         errors.append("v závěru chybí explicitní redakční verdikt")

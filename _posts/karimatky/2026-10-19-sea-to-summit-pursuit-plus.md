@@ -30,7 +30,7 @@ Základ její konstrukce tvoří technologie Horizontal Delta Coring: z pěnové
 
 Výrobce nabízí čtyři varianty: Regular Contour, Regular Rectangular Wide, Large Contour a Large Rectangular Wide. Parametry v této recenzi odpovídají velikosti Regular Contour. Před nákupem proto porovnejte rozměry a hmotnost jednotlivých verzí.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** Regular Contour váží 805 g, včetně obalu 835 g. Verze Regular Rectangular Wide má 1040 g (s obalem 1075 g), Large Contour 1000 g a Large Rectangular Wide 1410 g.
 - **Rozměry:** Regular Contour měří 183 × 56 × 7,5 cm, doporučená výška uživatele je 183 cm. Large Contour je dlouhá 198 cm a široká 64 cm.
@@ -40,7 +40,7 @@ Výrobce nabízí čtyři varianty: Regular Contour, Regular Rectangular Wide, L
 - **Ventil XPEL:** jeden ventil s jednosměrným nafukováním, vyfukováním a jemným dolaďováním. Při vyfukování se ventil otočí, aby se karimatka při balení znovu nenasávala. Pasuje na pumpu Airstream, která se prodává zvlášť.
 - **Příslušenství:** boční vak na sbalení a záplatovací sada.
 
-### Výhody
+## Výhody
 
 - **Pohodlí:** testeři oceňují měkkost, kterou přinášejí vzduchové kanály s pěnou. Po několika nocích v řadě nebyli tak ztuhlí jako na jiných karimatkách.
 - **Ticho:** materiál je velmi tichý, nešustí jako některé nafukovací modely. Totéž potvrzují i uživatelské ohlasy.
@@ -50,7 +50,7 @@ Výrobce nabízí čtyři varianty: Regular Contour, Regular Rectangular Wide, L
 - **Ekologičtější výroba:** recyklovaný materiál, barvení v hmotě a certifikace bluesign.
 - **Cena:** jeden test uvádí, že stojí zhruba poloviční oproti oblíbeným nafukovacím karimatkám.
 
-### Nevýhody
+## Nevýhody
 
 - **Hmotnost a objem:** s 835 g jde o těžší model a v batohu zabere zhruba tolik místa jako větší fotbalový míč. Uživatelé někdy uvádějí, že ji raději připínají zvenčí.
 - **Samonafukování není úplné:** testeři shodně uvádějí, že se karimatka sama nafoukne přibližně na 65–75 %, a zbytek je nutné dofouknout ústy. Jeden uživatel dokonce popisuje čekání zhruba půl hodiny.
@@ -58,7 +58,7 @@ Výrobce nabízí čtyři varianty: Regular Contour, Regular Rectangular Wide, L
 - **Ventil:** při vyfukování je nutné ventil otočit a po vyfouknutí znovu otevřít a vrátit zpět. Jeden uživatel po týdnu na trase uvádí, že se ventil při převalování otevřel. Jde o ojedinělý ohlas.
 - **Špinění:** podle jednoho testera se materiál snadno špiní, což ale nemá vliv na funkci.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -70,7 +70,7 @@ Výrobce nabízí čtyři varianty: Regular Contour, Regular Rectangular Wide, L
 
 Pursuit Plus je ze srovnávaných karimatek tlustší než Therm-a-Rest Trail Pro i ProLite Apex. Na druhé straně nabízejí nafukovací modely výrazně nižší hmotnost a menší balení.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro turisty a **trekaře na třísezónní výpravy**, kteří dávají přednost pohodlí před nízkou hmotností.
 - Pro **spáče na boku a neklidné spáče**, kterým tvar Contour nabízí více místa pro ramena a lokty.
@@ -78,14 +78,14 @@ Pursuit Plus je ze srovnávaných karimatek tlustší než Therm-a-Rest Trail Pr
 - Pro **autokempování i pěší výlety**, kde objem balení tolik nevadí.
 - Pro ty, kdo oceňují **odolnost** a pěnové jádro.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo počítá **každý gram**: lehčí jsou nafukovací modely.
 - Kdo potřebuje **malé balení**.
 - Kdo plánuje **zimní kempování**: R 4.2 na mrazy nestačí.
 - Kdo očekává **plné samonafukování** bez dofukování.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Sea to Summit Pursuit Plus je dobrá samonafukovací karimatka pro třísezónní turistiku. Její hlavní předností je pohodlí, ticho a odolnost, k čemuž přispívá pěnové jádro s vzduchovými kanály a tvar Contour. Hmotnost 835 g, větší balení a neúplné samonafukování ji ale řadí spíše mezi komfortní než ultralehké modely. Hodnocení proto snižuje hlavně hmotnost, objem a ojediněle hlášené potíže s ventilem.
 

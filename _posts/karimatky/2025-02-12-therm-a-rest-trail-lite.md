@@ -22,13 +22,13 @@ Therm-a-Rest Trail Lite je karimatka pro ty, kteří hledají spolehlivý kompro
 
 Klíčovou výhodou Trail Lite je její **samonafukovací technologie kombinující pěnové jádro s vzduchovou komorou**. Nafukování trvá 5–10 minut, přičemž finální dotlak lze doladit ústy. Polyesterový potah s mikrovláknovou úpravou zvyšuje odolnost proti protržení a zároveň minimalizuje skluz spacáku. Karimatka je dostupná ve třech velikostech (Regular, Large, XLarge) a všechny varianty mají integrovaný řemínek pro snadné sbalení.
 
-### Výhody
+## Výhody
 1. **Dostatečná izolace**: R-faktor 4.0 zvládne teploty až k 0 °C, což z ní činí univerzální volbu pro tři sezóny.
 2. **Odolnost**: Dvouvrstvá konstrukce s 75D polyesterem odolává kamínkům i ostrým větvím lépe než tenké nafukovací modely.
 3. **Pohodlí**: 3,8 cm tloustky a pěnové jádro poskytují měkké polehání bez „pocitu balancování“ typického pro čistě nafukovací karimatky.
 4. **Údržba**: Samosvorný ventil Twistlock minimalizuje únik vzduchu a čištění je možné mýdlovou vodou.
 
-### Nevýhody
+## Nevýhody
 1. **Hmotnost**: S 960 g (Regular) není ideální pro ultralehkou turistiku – konkurence jako Sea to Summit UltraLight (480 g) je výrazně lehčí.
 2. **Skladnost**: Sbalená do 28 × 13 cm zabere v batohu více místa než kompaktní nafukovací modely.
 3. **Rychlost přípravy**: Bez pumpy trvá nafouknutí déle než u konkurence s duálními ventily (např. Exped Synmat).
@@ -40,13 +40,13 @@ Klíčovou výhodou Trail Lite je její **samonafukovací technologie kombinují
 | Sea to Summit Comfort Plus | 4.3    | 1 100    | 5.0           | Nafukovací      | 3 400    |
 | Exped MegaMat 10     | 8.1      | 2 300    | 10.0          | Nafukovací      | 5 200    |
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 Karimatka Trail Lite je stvořena pro **rekreační turisty a kempování s autem**, kde není prioritní minimalizace váhy. Ocení ji také lidé, kteří preferují „bezpracné“ samonafukování a chtějí mít karimatku připravenou do 10 minut.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 Ultra-lehcí backpackeři směřující na dlouhé treky (např. Pacific Crest Trail) sáhnou raději po modelu NeoAir XLite (R 4.5, 440 g). Pro zimní expedice s teplotami pod -10 °C doporučuji karimatky s R-faktorem nad 6, jako je Exped DownMat.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 Therm-a-Rest Trail Lite je jako důvěryhodný parťák: neoslní výkony, ale vždy funguje. Její odolnost a komfort ospravedlní vyšší váhu u všech, kdo neřeší každý centimetr v batohu. Chybí jí sice inovace jako u modelů NXT řady, ale za cenu kolem 3 000 Kč je to výborná volba pro nenáročné dobrodruhy.
 
 **Hodnocení:** 8/10  

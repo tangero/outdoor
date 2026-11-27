@@ -22,7 +22,7 @@ Díky kotníkové konstrukci poskytují boty zvýšenou oporu a ochranu kotníku
 
 ![La Sportiva Boulder X Mid](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.ferrino.cz/files/zbozi/23888/3.jpg)
 
-### Klíčové parametry a jejich zhodnocení
+## Klíčové parametry a jejich zhodnocení
 
 La Sportiva Boulder X Mid vyniká několika klíčovými parametry:
 
@@ -32,14 +32,14 @@ La Sportiva Boulder X Mid vyniká několika klíčovými parametry:
 *   **Střih a pohodlí:**  Boulder X Mid má spíše užší střih, který dobře fixuje nohu a poskytuje stabilitu.  Je ale potřeba počítat s tím, že boty vyžadují určité rozšlápnutí a nemusí sedět lidem s širšími chodidly.  Střední výška boty poskytuje dobrou oporu kotníku, aniž by omezovala pohyb.
 *   **Patentovaný systém šněrování Mythos:** Tento systém šněrování, který se táhne až ke špičce, umožňuje precizní utažení boty a individuální přizpůsobení tvaru nohy.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší tuhost:**  Díky robustní konstrukci a lezeckým prvkům jsou boty poměrně tuhé, což může být pro někoho nevýhoda, zejména při chůzi po rovném terénu.
 *   **Užší střih:**  Jak již bylo zmíněno, boty mají užší střih, který nemusí vyhovovat každému. Před koupí je doporučeno boty vyzkoušet.
 *   **Vyžadují rozšlápnutí:**  Kůže a tužší konstrukce vyžadují, aby se boty před delší túrou pořádně rozšláply. Není vhodné je hned nasadit na náročný vícedenní trek.
 *   **Vyšší cena:** V porovnání s některými konkurenčními modely se Boulder X Mid pohybují ve vyšší cenové kategorii.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model                 | Materiál svršku                        | Podešev         | Voděodolnost          | Střih        | Určení                                  | Pro                                                                        | Proti                                                                       |
 | :-------------------- | :------------------------------------- | :-------------- | :-------------------- | :----------- | :---------------------------------------- | :------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ La Sportiva Boulder X Mid vyniká několika klíčovými parametry:
 | **Scarpa Zodiac Plus GTX** | Kůže, Gore-Tex Performance Comfort | Vibram Drumlin  | Gore-Tex Performance Comfort  | Standardní | Turistika, via ferraty, lehčí treking     | Odolné, stabilní, pohodlné, voděodolné.                                 | Vyšší hmotnost, méně vhodné pro lezecké pasáže.                             |
 | **Garmont Dragontail MNT GTX**              | Kůže a syntetika, Gore-tex Extended Comfort                       |  Vibram Q811  | Gore-tex Extended Comfort             | Střední     | Technicky náročné trasy, via ferraty, dlouhé výlety                      | Výborná trakce, odolnost, pohodlné a s moderním střihem.                           |Vyšší cena a specifický design nemusí sedět každému              |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 La Sportiva Boulder X Mid jsou ideální volbou pro turisty a lezce, kteří hledají:
 
@@ -57,14 +57,14 @@ La Sportiva Boulder X Mid jsou ideální volbou pro turisty a lezce, kteří hle
 *   **Botu s ochranou a odolností:** Gumová obsázka a kožený svršek chrání nohu před poškozením.
 *   **Botu s lezeckými prvky:** Hladká špička a přilnavá podešev umožňují bezpečný pohyb i na skalnatých úsecích.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 *   **Lidé s širšími chodidly:** Užší střih Boulder X Mid nemusí být pro každého pohodlný.
 *  **Turisté, kteří preferují měkčí a poddajnější boty:**  Boulder X Mid jsou poměrně tuhé, což může být nevýhoda při chůzi po rovném terénu.
 *   **Začátečníci v turistice:** Pro nenáročné túry po zpevněných cestách existují i pohodlnější a levnější varianty.
 * **Ti, co hledají čistě lezeckou botu:** Přestože nabízejí lezecké prvky, nejde o plnohodnotnou lezeckou obuv, pro dané aktivity jsou na trhu lepší varianty od stejného výrobce, jako např. TX4, TX2, TX Guide atd.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 La Sportiva Boulder X Mid jsou vynikající boty pro náročný terén, které kombinují vlastnosti lezecké a turistické obuvi.  Nabízejí výbornou trakci, stabilitu, ochranu a odolnost.  I když mají i své nevýhody, jako je vyšší tuhost a užší střih, pro cílovou skupinu uživatelů představují skvělou volbu.
 

@@ -25,7 +25,7 @@ Obliba Speedgoat 5 pramení z kombinace několika klíčových vlastností.  Př
 
 Pozor, boty mají mužskou a ženskou verzi, liší se mírně střihem a samozřejmě barvami. 
 
-### Klíčové Vlastnosti a Technologie
+## Klíčové Vlastnosti a Technologie
 
 Hoka Speedgoat 5 se pyšní řadou technologií, které ji řadí na špičku mezi trailovými botami. Pojďme se podívat na ty nejdůležitější:
 
@@ -36,14 +36,14 @@ Hoka Speedgoat 5 se pyšní řadou technologií, které ji řadí na špičku me
 *   **Zesílená špička a pata:**  Tyto prvky chrání chodidlo před nárazy a oděrem v náročném terénu.
 *   **Širší střih:**  Speedgoat 5 má oproti některým jiným modelům Hoka (např. Torrent) širší střih, který poskytuje více prostoru pro prsty a přední část chodidla. To ocení běžci s širšími chodidly, nebo ti, kteří preferují více prostoru v botě.
 
-### Nevýhody
+## Nevýhody
 
 *   **Menší citlivost pro terén:**  Díky vysoké vrstvě tlumení můžete mít pocit, že ztrácíte kontakt s terénem a nemáte takovou kontrolu nad došlapem. To může být nevýhoda pro zkušené běžce, kteří preferují precizní vnímání povrchu.
 *   **Vyšší cena:**  Speedgoat 5 patří k dražším modelům na trhu. Investice se však vyplatí, pokud hledáte špičkovou kvalitu, pohodlí a výkon.
 *   **Širší střih:** Co je pro někoho výhoda, může být pro jiného nevýhoda. Běžcům s úzkými chodidly nemusí Speedgoat 5 perfektně sedět a mohou v botě "plavat".
 * **Méně stabilní v extrémně technickém terénu:** V porovnání s úzce zaměřenými modely pro technický terén (např. La Sportiva Mutant) se Speedgoat 5 může zdát ve velmi náročném kamennitém nebo sutinovitém terénu méně stabilní.
 
-### Srovnání s Konkurencí
+## Srovnání s Konkurencí
 
 | Model               | Hoka Speedgoat 5 | Salomon Speedcross 5 | Inov-8 Trailroc G 280 | Brooks Cascadia 16 |
 | ------------------- | ---------------- | --------------------- | ------------------------ | ------------------- |
@@ -54,7 +54,7 @@ Hoka Speedgoat 5 se pyšní řadou technologií, které ji řadí na špičku me
 | Určení             | Univerzální, Ultra| Bahno, měkký terén    | Tvrdý, skalnatý terén  | Univerzální     |
 | Cena (orientační)   | 4500 Kč         | 3500 Kč               | 4000 Kč                 | 3800 Kč          |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Hoka Speedgoat 5 jsou ideální volbou pro běžce a turisty, kteří hledají maximálně pohodlnou a univerzální botu pro trailové běhy a túry v různorodém terénu. Ocení je především:
 
@@ -63,7 +63,7 @@ Hoka Speedgoat 5 jsou ideální volbou pro běžce a turisty, kteří hledají m
 *   **Turisté hledající pohodlí:**  I pro turistiku v náročném terénu nabízí Speedgoat 5 dostatečnou ochranu, pohodlí a stabilitu.
 *   **Běžci a turisté s širšími chodidly:**  Širší střih boty poskytuje dostatek prostoru pro prsty a přední část chodidla.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Speedgoat 5 nemusí být ideální volbou pro:
 
@@ -72,10 +72,10 @@ Speedgoat 5 nemusí být ideální volbou pro:
 *   **Běžce s úzkými chodidly:** Širší střih Speedgoat 5 nemusí perfektně sedět běžcům s úzkými chodidly.
 * **Ty, kteří hledají boty do extrémně technického terénu:** Na velmi náročné úseky a lezení je vhodnější obuv s větší stabilitou a přesnějším střihem.
 
-### Závěrečné Zhodnocení
+## Závěrečné Zhodnocení
 
 Hoka Speedgoat 5 jsou bezpochyby jedny z nejlepších trailových bot na trhu. Nabízí vynikající kombinaci pohodlí, trakce, ochrany a stability, a to i v tom nejnáročném terénu.  Jsou skvělou volbou pro ultra běžce, turisty a všechny, kteří hledají univerzální a spolehlivou botu pro své outdoorové aktivity.  I přes vyšší cenu a několik drobných nevýhod si Speedgoat 5 zaslouží vysoké hodnocení a doporučení.
 
-### **Hodnocení:** 9/10
+## **Hodnocení:** 9/10
 
 Body strhávám za méně citlivý kontakt s terénem. Jinak se jedná o špičkové boty plné moderních technologií a precizního provedení.

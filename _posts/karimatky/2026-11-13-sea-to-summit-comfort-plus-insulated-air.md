@@ -28,7 +28,7 @@ Sea to Summit Comfort Plus Insulated Air je nafukovací karimatka pro ty, kdo up
 
 Hodí se na delší pobyty na jednom místě, k vodě nebo při cestách, kde karimatku neneseme celý den. Pro dlouhé treky s každým gramem v batohu je podle nás méně vhodná.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** Regular (183 × 55 × 6,3 cm) váží 845 g, v obalu 907 g. Large (201 × 64 cm) váží 1045 g. Tvar je zúžený (mumie).
 - **Izolace:** R-faktor 4.1 (výrobce dlouhodobě uvádí hodnoty podle ASTM F3340). Kombinuje reflexní vrstvu Exkin Platinum a výplň THERMOLITE uvnitř komor.
@@ -37,7 +37,7 @@ Hodí se na delší pobyty na jednom místě, k vodě nebo při cestách, kde ka
 - **Nafukování:** pumpovací vak Airstream je součástí obalu, na naplnění stačí podle výrobce dva až tři cykly. Univerzální ventil umožňuje rychle nafouknout, vypustit i jemně dolaďovat tvrdost.
 - **Rozměr po sbalení:** přibližně 24 × 12 × 16 cm.
 
-### Výhody
+## Výhody
 
 - **Záložní komora.** Testeři to považují za hlavní přednost: při průrazu zůstává funkční druhá vrstva.
 - **Nastavitelný komfort.** Spodní vrstvu necháte pevnou a horní si upravíte podle potřeby. Testeři oceňují i to, že karimatka působí širší než běžné modely.
@@ -45,7 +45,7 @@ Hodí se na delší pobyty na jednom místě, k vodě nebo při cestách, kde ka
 - **Dlouhodobé používání.** Jeden uživatel na Redditu uvádí zhruba 250 nocí za čtyři léta, popisuje ji jako velmi odolnou a chystal se ji vzít i na trasu CDT. Z příspěvku ale nevyplývá, o jakou verzi karimatky jde, a jde o jediný ohlas, takže ho bereme jen jako orientační.
 - **Pumpovací vak.** Zrychlí nafukování a omezí vlhkost z dechu uvnitř.
 
-### Nevýhody
+## Nevýhody
 
 - **Hmotnost.** Jde o hlavní slabinu, zmiňují ji nezávislé testy i uživatelé. Někteří uživatelé ji proto berou jen na zimní výpravy nebo kempování s kánoí, ne na letní pěší túry.
 - **Nafukování dvou vrstev.** Bez vaku je ústy zdlouhavější.
@@ -53,7 +53,7 @@ Hodí se na delší pobyty na jednom místě, k vodě nebo při cestách, kde ka
 - **Nejednotné údaje.** Starší testy uvádějí R 5 a nižší hmotnost (785 g u tvaru mumie); výrobce má aktuálně 4.1 a 845 g. Vycházíme z údajů výrobce, protože jsou novější.
 - **Cena.** Testy uvádějí vyšší ceny v dolarech, výrobcův obchod uvádí 149,4 a 161,4 bez zřetelné měny, proto cenu nepřepočítáváme.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 Ceny konkurence nemáme ověřené, proto srovnáváme jen použití a parametry, ne cenovou výhodnost.
 
@@ -63,21 +63,21 @@ Ceny konkurence nemáme ověřené, proto srovnáváme jen použití a parametry
 
 **Klymit Insulated Static V** (680 g, R 4.4, 6,4 cm) je lehčí a má podobnou tloušťku i izolaci. Comfort Plus by dostal přednost jen kvůli oddělené záloze a nastavitelnému povrchu.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro základní tábory, kajak, kánoi a krátké zimní výpravy, kde karimatku nenesete celý den.
 - Pro ty, kdo se bojí proděravění a chtějí, aby se po průrazu dalo ještě spát, například na kamenitém terénu.
 - Pro boční spáče, kteří upřednostňují komfort před hmotností.
 - Pro tři sezóny s nižšími nároky na teplo; v mrazu doplnit pěnovou podložku.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo jde na vícedenní treky a počítá gramy: Ether Light XR Insulated nebo NeoAir XLite NXT MAX.
 - Kdo spí v mrazu: R 4.1 je málo, výrobce sám radí přidat izolační vrstvu.
 - Kdo nechce řešit dvě nafukované vrstvy při každém rozbalení.
 - Kdo hledá nejnižší cenu: tady platí pozor na rozdílné údaje v testech.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás Comfort Plus Insulated Air stojí za koupi jen pro základní tábory, vodu a krátké výpravy, kde nevadí 845 g; na dlouhé treky bychom raději zvolili Ether Light XR Insulated. Silná stránka je záložní vrstva a nastavitelná tvrdost, kterou testeři opakovaně chválí. Hlavní kompromis je hmotnost a jen průměrná izolace R 4.1 vzhledem k tomu, kolik karimatka váží. Starší údaje o R 5 a 785 g nelze brát jako aktuální.
 

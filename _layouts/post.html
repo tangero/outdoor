@@ -28,7 +28,7 @@ kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovn
 
     <h1 class="cl-titul">{{ page.title }}</h1>
     <p class="cl-meta">
-        {% include datum.html d=page.date %} · čtení na {{ minut }} {% if minut < 5 %}minuty{% else %}minut{% endif %}
+        {% include datum.html d=page.date %}{% if page.last_modified_at %} · aktualizováno {% include datum.html d=page.last_modified_at %}{% endif %} · čtení na {{ minut }} {% if minut < 5 %}minuty{% else %}minut{% endif %}
         {% if page.zdroje.size > 0 %} · vychází z {{ page.zdroje.size }} {% if page.zdroje.size == 1 %}zdroje{% else %}zdrojů{% endif %}{% endif %}
     </p>
 
@@ -87,14 +87,15 @@ kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovn
         </div>
     </section>
 
-    {%- capture skok -%}{% include toc.html html=content h_min=2 h_max=3 class="cl-skok__seznam" %}{%- endcapture -%}
+    {%- capture skok -%}{% include toc.html html=content h_min=2 h_max=2 class="cl-skok__seznam" %}{%- endcapture -%}
     {% if skok contains "<li" %}<nav class="cl-skok" aria-label="Obsah recenze">{{ skok }}</nav>{% endif %}
     {% endif %}
 
     <div class="cl-telo">
         <article class="article-post cl-text">
-            {% if page.image %}
-            <img class="featured-image img-fluid" src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            {%- comment -%}image_auto: obrázek jen pro og:image z _plugins/seo_recenze.rb, v textu ho neukazujeme{%- endcomment -%}
+            {% if page.image and page.image_auto != true %}
+            <img class="featured-image img-fluid" src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}" alt="{{ page.title }}">
             {% endif %}
 
             {{ content }}
@@ -156,9 +157,9 @@ kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovn
                 <span class="cl-alt__obr">
                     {% if a.thumbnail != "" %}
                     {% if a.thumbnail contains "://" %}
-                    <img src="{% include cld.html u=a.thumbnail t=obr_alt %}" alt="" loading="lazy">
+                    <img src="{% include cld.html u=a.thumbnail t=obr_alt %}" alt="{{ a.model | escape }}" loading="lazy">
                     {% else %}
-                    <img src="{{ site.baseurl }}{{ a.thumbnail }}" alt="" loading="lazy">
+                    <img src="{{ site.baseurl }}{{ a.thumbnail }}" alt="{{ a.model | escape }}" loading="lazy">
                     {% endif %}
                     {% endif %}
                 </span>
@@ -173,5 +174,9 @@ kategorie a alternativy; data karty počítá _plugins/srovnani.rb do page.srovn
     </section>
     {% endif %}
 </div>
+
+{%- if page.recenze_ld %}
+<script type="application/ld+json">{{ page.recenze_ld | jsonify }}</script>
+{%- endif %}
 
 <script src="{{ site.baseurl }}/assets/js/promo.js?v={{ site.time | date: '%s' }}" defer></script>

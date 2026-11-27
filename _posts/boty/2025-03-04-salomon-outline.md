@@ -25,7 +25,7 @@ Pozor, Salomon Outline GTX má nízkou verzi bez označení a verzi Mid s vyšš
 
 ![Salomon Outline GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://d.scdn.gr/images/sku_main_images/015555/15555506/20180803105042_salomon_outline_gtx_404771.jpeg)
 
-### Klíčové Parametry a Technologie
+## Klíčové Parametry a Technologie
 
 Salomon Outline se pyšní několika klíčovými technologiemi a parametry, které z ní dělají skvělou volbu pro lehčí turistiku.
 
@@ -37,14 +37,14 @@ Salomon Outline se pyšní několika klíčovými technologiemi a parametry, kte
 *    **Výška boty:** Nízký profil boty poskytuje volnost pohybu a je ideální pro rychlou chůzi a běh v terénu.
 *   **Střih:** OrthoLite® stélka se přizpůsobuje tvaru nohy a zajišťuje pohodlí a podporu.
 
-### Nevýhody
+## Nevýhody
 
 *   **Nižší podpora kotníku:** Nízký profil boty nenabízí takovou oporu kotníku jako vyšší turistické boty, což může být problém v náročnějším terénu a pro osoby s nestabilními kotníky.
 *   **Menší odolnost:** I přes ochranné prvky není Outline tak odolná jako robustnější turistické boty určené pro náročný terén a těžký náklad.
 *   **Užší střih:** Někteří uživatelé s širšími chodidly mohou pociťovat, že bota je příliš úzká, a to i po výběru správné velikosti. Doporučuje se boty vyzkoušet.
 *   **Omezená životnost v náročném terénu:** Při častém používání v náročném skalnatém terénu se může podešev rychleji opotřebovat.
 
-### Srovnání s Konkurencí
+## Srovnání s Konkurencí
 
 | Model               | Salomon Outline GTX | La Sportiva TX4 | Merrell Moab 3 GTX  | Hoka Speedgoat 5 |
 | :------------------ | :------------------ | :--------------- | :----------------- | :--------------- |
@@ -56,7 +56,7 @@ Salomon Outline se pyšní několika klíčovými technologiemi a parametry, kte
 | **Tlumení**         | EnergyCell          | EVA              | EVA                | CMEVA            |
 | **Cena (orientační)**       | Střední | Vyšší              | Střední            | Vyšší        |
 
-### Pro Koho Jsou Tyto Boty Ideální?
+## Pro Koho Jsou Tyto Boty Ideální?
 
 Salomon Outline jsou ideální pro turisty a outdoorové nadšence, kteří hledají lehkou, pohodlnou a univerzální obuv pro:
 
@@ -66,14 +66,14 @@ Salomon Outline jsou ideální pro turisty a outdoorové nadšence, kteří hled
 *   **Turisty, kteří preferují lehčí obuv:** Ideální volba pro ty, kteří nechtějí těžké a robustní pohorky.
 * **Cestování:** I díky skladnosti ideální volba na cesty, kde se počítá každý gram.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 *   **Turisté, kteří potřebují maximální oporu kotníku:** Pro náročný terén a nestabilní kotníky jsou vhodnější vyšší turistické boty.
 *   **Turisté, kteří nosí těžký batoh:** Pro túry s těžkým nákladem jsou vhodnější robustnější boty s pevnější konstrukcí.
 *   **Turisté, kteří chodí v extrémně náročném terénu (sutě, skály):** Outline nejsou určeny pro náročné skalnaté terény a lezení.
 *   **Osoby s velmi širokými chodidly:** Doporučuje se vyzkoušet jiné modely s širším střihem.
 
-### Závěrečné Zhodnocení
+## Závěrečné Zhodnocení
 
 Salomon Outline GTX jsou skvělou volbou pro široké spektrum outdoorových aktivit. Nabízejí výborný poměr mezi cenou, výkonem, pohodlím a hmotností. Jsou to všestranné boty, které oceníte jak na jednodenních výletech, tak i při rychlejším pohybu v horách a každodenním nošení. Nicméně, nejsou ideální pro náročný terén a pro ty, kteří potřebují maximální oporu kotníku nebo nosí těžký batoh.
 

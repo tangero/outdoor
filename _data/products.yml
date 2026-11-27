@@ -101,7 +101,7 @@
   variants:
   - Gregory Deva
 - name: Gregory Facet 45
-  url: "/batohy/gregory-facet-45/"
+  url: "/batohy/gregory-facet-45-gregory-facet-55/"
   variants:
   - Gregory Facet
 - name: Gregory Facet 55
@@ -162,8 +162,7 @@
   variants: []
 - name: Klymit Static V2
   url: "/karimatky/klymit-static-v2/"
-  variants:
-  - Klymit Static V
+  variants: []
 - name: Lowe Alpine Aeon 27, Aeon 35
   url: "/batohy/lowe-alpine-aeon-27-aeon-35/"
   variants:
@@ -416,6 +415,147 @@
 - name: Garmont 9.81 Etere Max GTX
   url: "/boty/garmont-9-81-etere-max-gtx/"
   variants:
-  - Garmont
+  - Garmont 9.81 Etere Max
 - name: Nemo Astro Insulated
   url: "/karimatky/nemo-astro-insulated/"
+
+# Recenze bot, které v linkeru chyběly (doplněno 27. 11. 2026)
+- name: Garmont Dragontail LT
+  url: "/boty/garmont-dragontail-lt/"
+  variants: []
+- name: Garmont Mountain Guide Pro GTX
+  url: "/boty/garmont-mountain-guide-pro-gtx/"
+  variants:
+  - Garmont Mountain Guide Pro
+- name: Hoka Anacapa Mid GTX
+  url: "/boty/hoka-anacapa-mid-gtx/"
+  variants:
+  - Hoka Anacapa Mid
+- name: Hoka Sky Arkali
+  url: "/boty/hoka-sky-arkali/"
+  variants: []
+- name: Hoka Sky Kaha GTX
+  url: "/boty/hoka-sky-kaha-gtx/"
+  variants:
+  - Hoka Sky Kaha
+- name: Hoka Speedgoat 5
+  url: "/boty/hoka-speedgoat-5/"
+  variants: []
+- name: Inov-8 Roclite G 275
+  url: "/boty/inov8-roclite-g-275/"
+  variants:
+  - Inov8 Roclite G 275
+- name: Inov8 Roclite G 345 GTX
+  url: "/boty/inov8-roclite-g-345-gtx/"
+  variants:
+  - Inov-8 Roclite G 345 GTX
+  - Inov-8 Roclite G 345
+- name: Inov8 Roclite G 400 GTX
+  url: "/boty/inov8-roclite-g-400-gtx/"
+  variants:
+  - Inov-8 Roclite G 400 GTX
+  - Inov-8 Roclite G 400
+- name: Keen Targhee III WP
+  url: "/boty/keen-targhee-iii/"
+  variants:
+  - Keen Targhee III
+- name: Keen Voyageur
+  url: "/boty/keen-voyageur/"
+  variants: []
+- name: Keen Circadia Mid
+  url: "/boty/keen-circadia-mid/"
+  variants: []
+- name: Keen Ridge Flex Mid
+  url: "/boty/keen-ridge-flex/"
+  variants:
+  - Keen Ridge Flex
+- name: La Sportiva TX2
+  url: "/boty/la-sportiva-tx2/"
+  variants: []
+- name: La Sportiva Boulder X Mid
+  url: "/boty/la-sportiva-boulder-x-mid/"
+  variants: []
+- name: La Sportiva Nepal Evo GTX
+  url: "/boty/la-sportiva-nepal-evo/"
+  variants:
+  - La Sportiva Nepal Evo
+- name: La Sportiva Trango Tech Leather GTX
+  url: "/boty/la-sportiva-trango-tech/"
+  variants:
+  - La Sportiva Trango Tech Leather
+  - La Sportiva Trango Tech
+- name: Lowa Camino GTX
+  url: "/boty/lowa-camino-gtx/"
+  variants:
+  - Lowa Camino Evo GTX
+- name: Lowa Innox Pro GTX Lo
+  url: "/boty/lowa-innox-pro/"
+  variants:
+  - Lowa Innox Pro
+- name: Lowa Renegade GTX Mid
+  url: "/boty/lowa-renegade/"
+  variants:
+  - Lowa Renegade GTX
+  - Lowa Renegade
+- name: Lowa Tibet GTX
+  url: "/boty/lowa-tibet-gtx/"
+  variants: []
+- name: Mammut Alnasca Knit Low
+  url: "/boty/mammut-alnasca-knit-low/"
+  variants: []
+- name: Mammut Ducan Mid GTX
+  url: "/boty/mammut-ducan-mid-gtx/"
+  variants: []
+- name: Mammut Kento Guide High GTX
+  url: "/boty/mammut-kento-guide-high-gtx/"
+  variants: []
+- name: Merrell Chameleon 8 Stretch
+  url: "/boty/merrell-chameleon-8/"
+  variants:
+  - Merrell Chameleon 8
+- name: Merrell Moab 3
+  url: "/boty/merrell-moab-3/"
+  variants: []
+- name: Merrell Thermo Rogue 3 Mid GTX
+  url: "/boty/merrell-thermo-rogue/"
+  variants:
+  - Merrell Thermo Rogue 3
+  - Merrell Thermo Rogue
+- name: Salomon Alphacross 4
+  url: "/boty/salomon-alphacross/"
+  variants: []
+- name: Salomon Outline GTX
+  url: "/boty/salomon-outline/"
+  variants: []
+- name: Salomon Quest 4D 3 GTX
+  url: "/boty/salomon-quest/"
+  variants:
+  - Salomon Quest 4D 3
+  - Salomon Quest 4D
+- name: Salomon X Ultra 4
+  url: "/boty/salomon-x-ultra/"
+  variants:
+  - Salomon X Ultra 4 GTX
+- name: Scarpa Phantom 6000
+  url: "/boty/scarpa-phantom/"
+  variants: []
+- name: Scarpa Zodiac Plus GTX
+  url: "/boty/scarpa-quest/"
+  variants: []
+- name: Scarpa Zodiac Tech GTX
+  url: "/boty/scarpa-zodiac/"
+  variants: []
+- name: Tecnica FORGE GTX
+  url: "/boty/tecnica-forge-gtx/"
+  variants:
+  - Tecnica Forge GTX
+- name: Tecnica Forge S
+  url: "/boty/tecnica-forge-s/"
+  variants: []
+- name: Tecnica FORGE Winter GTX
+  url: "/boty/tecnica-forge-winter-gtx/"
+  variants:
+  - Tecnica Forge Winter GTX
+- name: Tecnica Plasma S
+  url: "/boty/tecnica-plasma-s/"
+  variants: []

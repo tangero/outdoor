@@ -37,28 +37,19 @@ module Jekyll
         text = original_text.dup
         ancestor_hrefs = nil
 
-        # Procházení produktů a jejich variant
-        compiled.each do |product|
-          # Levný předfiltr: vzor se shoduje jen tehdy, když text obsahuje název nebo variantu
-          next unless text.include?(product[:name]) || product[:variants].any? { |v| text.include?(v[:text]) }
+        # Jeden průchod: názvy i varianty v jednom regexu, nejdelší shoda vyhrává, takže kratší
+        # název se nechytí uvnitř delšího („Klymit Static V“ uvnitř „Klymit Static V2“)
+        # a do vytvořeného odkazu se už nic nevnoří. Levný předfiltr: jen text s nějakým názvem.
+        next unless compiled[:texts].any? { |t| text.include?(t) }
 
-          # Pokud je aktuální stránka stejná jako cílová stránka produktu (bez ohledu na koncové lomítko), přeskoč produkt
-          next if normalized_current.chomp('/') == product[:normalized_url]
-
-          # Pokud některý z předků již obsahuje odkaz s touto URL, přeskoč produkt
-          ancestor_hrefs ||= node.ancestors.select { |ancestor| ancestor.name == 'a' }.map { |ancestor| ancestor['href'] }
-          next if ancestor_hrefs.include?(product[:url])
-
-          # Nejprve celé jméno produktu s různými typy uvozovek, pak nejdelší shodná varianta
-          if text.match(product[:pattern])
-            text.gsub!(product[:pattern], product[:replacement])
+        text = text.gsub(compiled[:pattern]) do |match|
+          product = compiled[:by_text][Regexp.last_match[:nazev]]
+          # Odkaz na stránku samotnou ani do odkazu se stejnou URL nevkládáme
+          if normalized_current.chomp('/') == product[:normalized_url]
+            match
           else
-            product[:variants].each do |variant|
-              if text.match(variant[:pattern])
-                text.gsub!(variant[:pattern], product[:replacement])
-                break
-              end
-            end
+            ancestor_hrefs ||= node.ancestors.select { |ancestor| ancestor.name == 'a' }.map { |ancestor| ancestor['href'] }
+            ancestor_hrefs.include?(product[:url]) ? match : "<a href=\"#{product[:url]}\">#{match}</a>"
           end
         end
 
@@ -74,22 +65,25 @@ module Jekyll
   end
   
   class ProductLinker
-    # Pattern pro hledání textu s různými typy uvozovek nebo bez nich
-    def self.quoted_pattern(text)
-      /\b(?:"|"|„)?#{Regexp.escape(text)}(?:"|")?/
-    end
-
+    # Celý název: ne uprostřed slova ani jako začátek delšího slova/čísla, volitelně v uvozovkách
     def self.compiled_products(products)
       @compiled = nil unless @compiled_for.equal?(products)
       @compiled_for = products
-      @compiled ||= products.select { |p| p['name'] && p['url'] }.map do |product|
+      @compiled ||= begin
+        by_text = {}
+        list = products.select { |p| p['name'] && p['url'] }.map do |product|
+          { url: product['url'], normalized_url: product['url'].sub(/index\.html$/, '').chomp('/'),
+            name: product['name'], variants: product['variants'] || [] }
+        end
+        # Nejdřív plné názvy, pak varianty; stejný text patří prvnímu produktu
+        list.each { |p| by_text[p[:name]] ||= p }
+        list.each { |p| p[:variants].each { |v| by_text[v] ||= p } }
+        texts = by_text.keys.sort_by { |t| -t.length }
+        alternace = texts.map { |t| Regexp.escape(t) }.join('|')
         {
-          name: product['name'],
-          url: product['url'],
-          normalized_url: product['url'].sub(/index\.html$/, '').chomp('/'),
-          pattern: quoted_pattern(product['name']),
-          replacement: "<a href=\"#{product['url']}\">\\0</a>",
-          variants: (product['variants'] || []).sort_by { |n| -n.length }.map { |v| { text: v, pattern: quoted_pattern(v) } }
+          by_text: by_text,
+          texts: texts,
+          pattern: /(?:"|“|„)?(?<![\p{L}\p{N}])(?<nazev>#{alternace})(?![\p{L}\p{N}])(?:"|“|”)?/
         }
       end
     end

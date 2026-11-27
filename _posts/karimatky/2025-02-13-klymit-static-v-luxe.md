@@ -24,7 +24,7 @@ Klymit Insulated Static V Luxe je těžší variantou, která má R-faktor 5 a t
 
 ![Klymit Static V Luxe](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://klymit.com/cdn/shop/products/Klymit_StaticVLuxe_06VLST01D_AngleBag_NoValve_2000x2000_de1d4e78-fe21-4cb2-9ce4-43f053229bfc.jpg)
 
-### Klíčové parametry a jejich zhodnocení
+## Klíčové parametry a jejich zhodnocení
 
 Klymit Static V Luxe přichází s několika funkcemi, které ocení zejména ti, kdo dávají přednost pohodlí před extrémně nízkou hmotností. Hlavními benefity této karimatky jsou:
 
@@ -35,7 +35,7 @@ Klymit Static V Luxe přichází s několika funkcemi, které ocení zejména ti
 - **Izolační vlastnosti:** S R-faktorem 2 je vhodná pro teplejší sezóny. Na zimní výpravy je potřeba kombinace s dodatečnou izolací.
 - **Hmotnost 765 g:** Není nejlehčí, ale stále přijatelná pro delší trek. 
 
-### Výhody Klymit Static V Luxe
+## Výhody Klymit Static V Luxe
 
 - **Velká šířka**: 76 cm je mnohem více než standardních 51-55 cm u ultralehkých modelů. To znamená více prostoru a pohodlí.
 - **Vysoká tloušťka**: Tloušťka 7.6 cm znamená dobré odpružení od nerovností terénu a komfortní spaní i pro těžší uživatele.
@@ -43,13 +43,13 @@ Klymit Static V Luxe přichází s několika funkcemi, které ocení zejména ti
 - **Přijatelná cena**: Ve srovnání s podobně komfortními karimatkami je cenově dostupnější než modely od značek Therm-a-Rest nebo Exped.
 - **Odolný materiál**: Nylon 75D poskytuje solidní odolnost vůči prodření a poškození.
 
-### Nevýhody Klymit Static V Luxe
+## Nevýhody Klymit Static V Luxe
 
 - **Nižší tepelná izolace**: R-faktor 2 znamená, že na chladné noci a zimní podmínky je tato karimatka nedostatečná.
 - **Větší rozměry po sbalení**: Oproti ultralehkým modelům se sbalí do většího objemu (cca 20 × 10 cm), což může být nevýhodou pro minimalisty.
 - **Delší nafukování**: Oproti konkurenci, jako jsou karimatky s menším objemem vzduchu, je potřeba více vdechů.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Hmotnost (g) | R-faktor | Tloušťka (cm) | Rozměry sbalené (cm) | Cena |
 |---|---|---|---|---|---|
@@ -58,20 +58,20 @@ Klymit Static V Luxe přichází s několika funkcemi, které ocení zejména ti
 | Exped SynMat UL M | 475 | 3.3 | 7.0 | 25 × 12 | Vyšší |
 | Sea to Summit Comfort Light Insulated | 595 | 4.2 | 6.3 | 23 × 11 | Střední |
 
-### Pro koho je karimatka ideální?
+## Pro koho je karimatka ideální?
 
 - Pro ty, kdo upřednostňují **komfort a velkou šířku** před ultranízkou hmotností.
 - Pro **třísezónní použití**,  zejména na letní a podzimní výpravy.
 - Hodí se pro uživatele, kterým nevadí mírně větší sbalený objem.
 - Ideální pro ty, kteří hledají **příznivou cenu** ve spojení s kvalitou.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Pokud **cestujete v zimě** a v chladnějších podmínkách, je lepší zvolit model s vyšším R-faktorem (např. Exped SynMat UL M nebo Therm-a-Rest NeoAir XTherm).
 - Pokud **cestujete nalehko**, existují lehčí a kompaktnější varianty, jako je Therm-a-Rest NeoAir XLite NXT.
 - Pokud dáváte přednost **rychlejšímu nafukování**, pak některé modely s ventilky s vyšším průtokem mohou být lepší volbou.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Klymit Static V Luxe je perfektním kompromisem mezi pohodlím a cenovou dostupností. Je skvělou volbou pro turisty, kteří se prioritně zaměřují na komfort a nevadí jim větší objem po sbalení. Na letní a podzimní výpravy nabízí skvělé parametry a dostatek prostoru pro pohodlný spánek. Pokud ale hledáte ultralehkou nebo zimní variantu, existují vhodnější modely.
 

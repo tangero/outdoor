@@ -21,23 +21,23 @@ Deuter Trail 30 je středně velký batoh navržený pro celodenní výlety nebo
 
 ![Deuter Trail 26, Deuter Trail 30, Deuter Trail 32](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.outside.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/e/deuter-trail-30-3440521-7403-black-graphite-d0-1-s21_1.jpg)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 - **Zádový systém Aircomfort**: Síťovina s 3D strukturou zajišťuje odvětrávání zad, ale zachovává stabilitu při plném zatížení (do 12 kg). Ramenní popruhy a bederní pás jsou nastavitelné v rozsahu 10 cm, což umožňuje přesné doladění podle postavy.
 - **Materiálová odolnost**: Hlavní komora je z polyesteru s PU vrstvou (420D), odolná proti drobným oděrkám a příležitostnému dešti. Dno batohu má zesílení na 600D.
 - **Organizace**: Horní víko s kapsou na drobnosti, přední meshová kapsa pro mokré oblečení, dvě boční kapsy s kompresními popruhy. Hydratační systém lze vést v samostatném úložném prostoru.
 - **Doplňky**: Integrovaný plášť proti dešti (neprodeštný, ale odolný proti přeháňkám), úchytky pro připevnění turistických holí nebo ledovcových cepínů.
 
-### Výhody
+## Výhody
 - **Ventilace zad**: Síťovina Aircomfort minimalizuje pocení i při vyšších teplotách. Oproti batohům s pevnými zády (např. Osprey Stratos) je zde větší prostor pro cirkulaci vzduchu.
 - **Variabilní nastavení**: Systém Vari-Quick umožňuje posunout bederní pás vertikálně o 10 cm, což ocení lidé s nestandardními proporcemi trupu.
 - **Logické členění prostoru**: Samostatný přístup k hlavní komoře přes spodní zip usnadňuje balení bez nutnosti rozepínat horní víko.
 
-### Nevýhody
+## Nevýhody
 - **Boční kapsy**: Jsou mělké a neobsáhnou širší lahve. Problém řeší až model Trail 32, který má kapsy s elastickými vložkami.
 - **Váha**: 1200 g je o 200–300 g více než u ultralehkých modelů (např. Osprey Talon 22). Rozdíl je patrný při dlouhých výstupech.
 - **Bederní pás**: Chybí integrovaná kapsa na drobnosti, která je standardem u konkurenčních batohů Gregory Maya.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Parametr           | Deuter Trail 30 | Osprey Talon 22 | Gregory Maya 28 |
 |--------------------|-----------------|-----------------|------------------|
@@ -48,17 +48,17 @@ Deuter Trail 30 je středně velký batoh navržený pro celodenní výlety nebo
 | **Ventilace**      | 3D síťovina     | Vzduchový kanál | Částečná síťovina |
 | **Cena (Kč)**      | 2 800           | 3 200           | 3 000            |
 
-### Pro koho je batoh ideální?
+## Pro koho je batoh ideální?
 - Pro turisty hledající univerzální batoh na 6–8 hodinové túry s nutností nést vrstvy oblečení, vařič a menší stan.
 - Pro lidi s citlivými zády, kteří potřebují maximální ventilaci.
 - Pro cestovatele kombinující městské a přírodní aktivity – design není výrazně outdoorový.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 - **Ultralehká turistika**: Trail 30 je těžší než specializované modely (např. Hyperlite Mountain Gear).
 - **Vícedenní expedice**: Pro nosnost nad 15 kg je vhodnější model s pevnějším rámem (Deuter Futura Pro 34).
 - **Potřeba rychlého přístupu k lahvím**: Trail 32 nabízí praktičtější boční kapsy.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 Deuter Trail 30 je spolehlivý batoh pro pravidelné uživatele, kteří preferují odvětrávání zad a systémovou organizaci. Oproti Trail 26 má dostatečný objem pro vícedenní výlety, ale zůstává kompaktní. Konkurence nabízí lehčí řešení, ale často za cenu snížené odolnosti nebo komfortu. 
 
 **Hodnocení:** 8.5/10  

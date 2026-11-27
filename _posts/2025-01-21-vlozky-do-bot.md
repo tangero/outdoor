@@ -4,7 +4,7 @@ title: "Vložky do bot - aby bylo v botě pohodlně"
 categories: "boty"
 feature-img: "/assets/img/feature-img/vlozky.png"
 thumbnail: https://cdn.mos.cms.futurecdn.net/hC3Cv6LfQj2Uwu6GXPthif.jpg
-image: assets/img/feature-img/vlozky.png
+image: /assets/img/feature-img/vlozky.png
 featured: true
 ---
 

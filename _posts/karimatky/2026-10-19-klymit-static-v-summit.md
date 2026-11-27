@@ -28,7 +28,7 @@ Karimatka **Klymit Static V Summit** je nafukovací model z řady Summit, který
 
 Výrobce uvádí hmotnost velikosti Regular 680 g, rozměry 183 × 58 cm a tloušťku 6,4 cm. Komory jsou vyplněné syntetickou izolací Klymalite a podél okrajů jsou zvýšené boční valy, které pomáhají zůstat uprostřed. Podle ASTM je R-faktor 2.4, takže jde spíše o třísezónní až letní karimatku než o zimní řešení, jak by mohl naznačovat popis výrobce.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** 680 g (Regular), Extra Large 1 kg, Double 1,5 kg.
 - **Rozměry Regular:** 183 × 58 × 6,4 cm; Extra Large 188 × 76 × 8 cm; Double 188 × 119 × 8 cm.
@@ -41,7 +41,7 @@ Výrobce uvádí hmotnost velikosti Regular 680 g, rozměry 183 × 58 cm a tlou�
 
 Nezávislé testy této konkrétní karimatky jsou omezené, proto vycházíme také z poznatků o příbuzných modelech Static V a z uživatelských ohlasů. Výrobce v nabídce uvádí i velikosti Extra Large a Double, jde tedy o unisex model.
 
-### Výhody
+## Výhody
 
 - **Příznivá cena** – řada Static V je dlouhodobě chválena jako dostupná volba pro začátečníky a rozpočtově orientované turisty.
 - **Stabilita na podložce** – V-komory a boční valy podle testerů příbuzných modelů drží tělo uprostřed a dobře fungují hlavně při spaní na zádech a na břiše.
@@ -51,7 +51,7 @@ Nezávislé testy této konkrétní karimatky jsou omezené, proto vycházíme t
 - **Záplatovací sada a záruka** – opravy v terénu jsou předem vyřešené.
 - **Široké spaní** – 58 cm je více než u běžných karimatek, a velikosti XL a Double nabízejí ještě větší plochu.
 
-### Nevýhody
+## Nevýhody
 
 - **Nízký R-faktor 2.4** – na zimu nebo chladné noci nestačí a bez další izolace je vhodnější jen pro teplejší období.
 - **Hmotnost 680 g** – oproti ultralehkým modelům je těžší.
@@ -60,7 +60,7 @@ Nezávislé testy této konkrétní karimatky jsou omezené, proto vycházíme t
 - **Vyfukování** – u příbuzných modelů testeři popisují, že se z V-kanálků vzduch vytlačuje obtížněji a zpětné vložení do pouzdra bývá zdlouhavé.
 - **Odolnost** – názory se liší. Většina dlouhodobých uživatelů je spokojená, ale najdou se i zkušenosti s proděravěním.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -72,21 +72,21 @@ Nezávislé testy této konkrétní karimatky jsou omezené, proto vycházíme t
 
 Nejbližší srovnání je s modelem Klymit Insulated Static V, který má při stejné hmotnosti a tloušťce výrazně vyšší R-faktor 4.4. Proti Klymit Static V nabízí Summit vyšší izolační hodnotu, ale je o 150 g těžší. Therm-a-Rest Venture je podobně dostupná varianta se srovnatelnou hmotností a R-faktorem.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **začátečníky a víkendové turisty**, kteří chtějí nafukovací karimatku za rozumnou cenu.
 - Pro **spaní na zádech a na břiše**, kde V-komory fungují nejlépe.
 - Pro **teplejší období a mírné noci**, případně v kombinaci s další izolační podložkou.
 - Pro ty, kdo potřebují **širší nebo dvoulůžkovou variantu** (XL a Double).
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo plánuje **zimní kempování** – R-faktor 2.4 je nízký a vhodnější je izolovanější model, například Klymit Insulated Static V.
 - Kdo hledá **ultralehkou výbavu** – existují lehčí a izolovanější karimatky.
 - **Bokospáči** s vyššími nároky na rovnoměrný povrch.
 - Kdo chce **maximální odolnost proti proděravění** při častém kontaktu se psy nebo ostrým terénem.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Klymit Static V Summit je praktická a dostupná nafukovací karimatka s kompaktním balením, rychlým nafukováním a promyšlenou výbavou včetně záplatovací sady. Její hlavní slabinou je izolace: R-faktor 2.4 odpovídá spíše teplejším nocím než zimním podmínkám, jak by naznačoval marketingový popis. Komfort je navíc subjektivní a testy příbuzných modelů ukazují rozdíly mezi spáči na zádech a na boku. Pokud ji budete používat v teplém počasí a nehledáte nejnižší hmotnost, nabízí dobrou hodnotu za peníze.
 

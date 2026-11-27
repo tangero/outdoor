@@ -22,7 +22,7 @@ Hlavní silnou stránkou těchto bot je jejich schopnost zvládat náročný ter
 
 ![Mammut Kento Guide High GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.altitude-sports.com/cdn/shop/products/MAM-3010-00960_7ETin_20-_20Spicy.jpg)
 
-### Klíčové parametry a jejich zhodnocení
+## Klíčové parametry a jejich zhodnocení
 
 Mammut Kento Guide High GTX se pyšní řadou technických parametrů, které z nich dělají špičkové boty do náročných podmínek:
 
@@ -33,14 +33,14 @@ Mammut Kento Guide High GTX se pyšní řadou technických parametrů, které z 
 *   **Tvarování:** Boty jsou v provedené vysokého kotníku, což poskytuje vynikající oporu a stabilitu. Tvarování 3D Memo Foam je prémiové a adaptivně tlumí pro maximální komfort.
 *  **Kompatibilita s mačkami:** Jak již bylo avizováno, boty jsou kompatibilní s poloautomatickými mačkami.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší tuhost:** Pro někoho může být vyšší tuhost boty, zejména v oblasti podrážky, zpočátku nepohodlná, a vyžaduje si zvyk.
 *   **Vyšší cena:** Kento Guide High GTX se řadí do vyšší cenové kategorie, což odráží jejich kvalitu a technické parametry.
 *   **Teplota:** V teplejších letních měsících a v nižších nadmořských výškách mohou být boty příliš teplé a nohy se v nich mohou potit.
 *   **Hmotnost:** V porovnání s některými lehčími turistickými botami mají Kento Guide High GTX vyšší hmotnost, což může být znát při delších túrách.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model                          | Materiál                               | Podešev    | Hmotnost (g) | Určení                               | Kompatibilita s mačkami | Cena (orientační) |
 | ------------------------------ | ---------------------------------------- | ---------- | ------------- | ------------------------------------ | ----------------------- | ------------------ |
@@ -49,7 +49,7 @@ Mammut Kento Guide High GTX se pyšní řadou technických parametrů, které z 
 | Scarpa Ribelle HD              | Kůže, syntetika, HDry®                    | Vibram     | 690          | VHT, lezení                         | Poloautomatické           | 8500 Kč           |
 | Salewa MTN Trainer Mid GTX           | Kůže, Gore-Tex                       | Vibram          |  670   | Technické túry, via ferrata, turistika |  Ne            |      5500 Kč      |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Mammut Kento Guide High GTX jsou ideální volbou pro zkušené turisty a horaly, kteří vyhledávají náročný a technický terén. Jsou vhodné pro:
 
@@ -59,7 +59,7 @@ Mammut Kento Guide High GTX jsou ideální volbou pro zkušené turisty a horaly
 *   Zimní trekking a pohyb v zasněženém terénu
 *   Lehčí ledovcové túry (s použitím poloautomatických maček)
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Pokud hledáte boty pro:
 
@@ -68,7 +68,7 @@ Pokud hledáte boty pro:
 *   **Běh v horách:** Pro běh jsou Kento Guide High GTX příliš těžké a tuhé. Vyberte si specializované běžecké boty do terénu.
 *   **Máte omezený rozpočet**: Zvolte model z nižší cenové kategorie.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Mammut Kento Guide High GTX jsou vynikající pohorky, které nabízejí skvělou kombinaci odolnosti, ochrany, stability a pohodlí v náročném horském terénu. Jsou to boty, na které se můžete spolehnout i v těch nejnáročnějších podmínkách. Jejich všestrannost a technické parametry z nich dělají ideální volbu pro zkušené turisty a horaly, kteří se nebojí výzev. Jsou investicí do kvality. Přestože jejich cena je vyšší, je to investice, které nebudete litovat.
 

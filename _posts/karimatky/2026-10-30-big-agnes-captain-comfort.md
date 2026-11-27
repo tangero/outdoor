@@ -27,7 +27,7 @@ Big Agnes Captain Comfort je samonafukovací matrace s pěnovým jádrem pro ty,
 
 Nejvíc vyniká tloušťkou 13 cm, měkkým strečovým povrchem a svislými boky, které zvětšují využitelnou spací plochu. Nezávislé testy se shodují, že je mimořádně pohodlná, a to i pro bokospáče. Má to ale svou cenu v hmotnosti a při balení.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Výrobce uvádí pro aktuální verzi R-faktor 5,6, tloušťku 13 cm (5 palců) a hmotnost podle e-shopu 3221 g u menší a 5398 g u největší varianty. Cena v e-shopu výrobce je od 249,95 do 349,95 USD podle velikosti.
 
@@ -35,7 +35,7 @@ Jádro tvoří pěna s vysokou hustotou a vodorovným vyříznutím dutin, kter�
 
 Pozor na rozpor v údajích o izolaci: výrobce uvádí R 5,6, zatímco testy starší verze Deluxe uvádějí R 8,3 až 9,9 podle velikosti. Testy tedy pravděpodobně popisují jinou nebo dřívější generaci a čísla bychom nepřenášeli. My se držíme údaje výrobce, tedy 5,6. Rozměry a hmotnosti z testů (3,4 kg u šířky 104 cm, 2,9 kg u 76 cm a 5 kg u 132 cm) se také liší od údajů výrobce, proto ověřte konkrétní velikost.
 
-### Výhody
+## Výhody
 
 - **Pohodlí:** testeři popisují pocit blízký domácí matraci bez nafukovacího houpání, pěna ho tlumí.
 - **Tloušťka 13 cm:** vyhovuje bokospáčům a těm, kdo se u tenčích matrací propadají k zemi.
@@ -44,7 +44,7 @@ Pozor na rozpor v údajích o izolaci: výrobce uvádí R 5,6, zatímco testy st
 - **Balení:** vak se otevírá bokem a po stlačení se do něj matrace snadno vejde.
 - **Odolnost:** v testu CleverHiker vydržela prach, kameny i trny.
 
-### Nevýhody
+## Nevýhody
 
 - **Hmotnost:** přes 3 kg u nejmenší velikosti; testeři uvádějí, že je na svou velikost těžší než podobné matrace jiných značek.
 - **Balení:** poslední vzduch z pěny se vytlačuje obtížně, testeři ji často rolovali dvakrát.
@@ -52,7 +52,7 @@ Pozor na rozpor v údajích o izolaci: výrobce uvádí R 5,6, zatímco testy st
 - **Nejednotné údaje:** R-faktor i hmotnost se podle zdroje liší.
 - **Cena:** od 249,95 USD.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 Ceny alternativ z recenzovaných modelů v našich údajích nemáme ověřené, proto srovnáváme jen použití a parametry, ne cenu.
 
@@ -62,7 +62,7 @@ Ceny alternativ z recenzovaných modelů v našich údajích nemáme ověřené,
 
 **Exped MegaMat** je podle jednoho testu o něco lehčí, ale po sbalení výrazně delší, zatímco Captain Comfort se sbalí na přibližně 28 × 43 cm. Je tedy lepší pro malý kufr a spaní na boku, MegaMat pro ty, kdo hlídají každou libru.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro kempování autem, v dodávce nebo na korbě pick-upu, kde hmotnost 3 až 5 kg nehraje roli.
 - Pro bokospáče, kteří se na tenčích matracích propadají k zemi.
@@ -70,14 +70,14 @@ Ceny alternativ z recenzovaných modelů v našich údajích nemáme ověřené,
 - Pro ty, kdo mají spacáky Big Agnes s kapsou Pad Cinch Sleeve.
 - Pro ty, kteří mají v autě čas a místo na pomalejší balení.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Pro pěší túry s batohem. Hmotnost přes 3 kg je pro ně nepřijatelná, vyberte nafukovací model do 500 g.
 - Pokud potřebujete mít jistotu v izolaci pro chladné noci. Údaje o R-faktoru se u Captain Comfort rozcházejí (výrobce 5,6, testy 8,3 a víc), a pokud chcete jít do mrazu, vyberte matraci s jasně uvedeným R-faktorem u konkrétní velikosti a počítejte s teplým spacákem. Za zvážení stojí MondoKing 3D (R 7 podle tabulky) nebo Sea to Summit Comfort Deluxe (R 7,7 podle údajů výrobce), u obou si ale číslo ověřte před koupí.
 - Pokud nechcete matraci při každém sbalení dvakrát rolovat a mačkat; tenčí matrace se balí rychleji.
 - Pokud potřebujete něco lehčího; zvažte Sea to Summit Comfort Deluxe.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás je Captain Comfort dobrá koupě jen pro autokemping a spaní na boku, kde chcete co nejtlustší a měkkou matraci a nevadí vám hmotnost přes 3 kg. Pohodlí dokládají všechny testy a tři velikosti včetně dvojité jsou praktické. Hlavním kompromisem je ale hmotnost, obtížné vytlačení vzduchu při balení a nejasné údaje o izolaci, protože výrobce uvádí R 5,6, zatímco testy starší verze mnohem víc. Pokud vám stačí 10 cm a chcete méně váhy, my bychom zvolili Sea to Summit Comfort Deluxe Self-Inflating; její R 7,7 je údaj výrobce, takže ho před koupí zkontrolujte, ale i tak jde o lehčí a podle výrobce lépe izolující matraci.
 

@@ -1,73 +1,92 @@
 ---
 layout: post
-title: Scarpa Zodiac Tech GTX - Spolehlivý parťák do náročného terénu
+title: 'Scarpa Zodiac Tech GTX: bota na ferraty a lehké mačky'
+description: 'Scarpa Zodiac Tech GTX: hybridní bota pro ferraty, skalní terén a lehký alpinismus s poloautomatickými mačkami. Srovnání se Zodiac Plus GTX.'
 categories: boty
-model: Scarpa Zodiac Tech GTX
-znacka: "Scarpa"
-feature-img: 
+feature-img: ''
 thumbnail: https://mountainreview.com/wp-content/uploads/2024/07/Scarpa-Zodiac-Tech-Gtx-01-1024x577.jpg
-vaha: 1220
+model: Scarpa Zodiac Tech GTX
+znacka: Scarpa
+vaha: 680
 tvar: vysoké
-material: Kůže Perwanger s membránou GORE-TEX Performance Comfort
-urceni: Technicky náročné trasy, via ferraty, vysokohorská turistika, lehčí lezení
-pohlavi: mužské
-pro: Vynikající stabilita, odolnost, precizní šněrování, voděodolnost a prodyšnost díky Gore-Tex membráně, kompatibilita s poloautomatickými mačkami.
-proti: Vyšší tuhost může být pro někoho nepohodlná na lehčích túrách, vyšší cena, delší doba "rozchození".
+pohlavi: mužské, ženské
+material: semiš Perwanger Nepal 1,8 mm, gumová obšívka, membrána GORE-TEX (Performance Comfort, u aktualizované verze ePE), mezipodešev z PU se systémem BAS, podešev Vibram Mont
+urceni: via ferraty, skalní a suťový terén, lehký alpinismus s poloautomatickými mačkami, vysokohorská turistika
+pro: Přesnost a stabilita ve skalním terénu, kompatibilita s poloautomatickými mačkami, šněrování až ke špičce, odolný kožený svršek s gumovou obšívkou, spolehlivá membrána.
+proti: Tuhá a málo tlumená mezipodešev, zbytečná na běžnou turistiku, slabší záběr na mokrých kořenech, v teple hřeje, na podpatku se může držet bláto a sníh.
 hodnoceni: 8
+last_modified_at: 2026-11-27
+zdroje:
+- https://scarpa.com/en-se/products/zodiac-tech-gtx-alpinism-boot-chosen-by-mountain-guides-71101-200-5
+- https://us.scarpa.com/products/zodiac-tech-gtx
+- https://us.scarpa.com/products/zodiac-tech-gtx-mens-f25
+- https://ca.scarpa.com/fr/products/zodiac-tech-gtx
+- https://us.scarpa.com/products/zodiac-plus-gtx-f24
+- https://us.scarpa.com/products/zodiac-tech-lt-gtx-mens
+- https://www.switchbacktravel.com/climbing/scarpa-zodiac-review
+- https://www.livefortheoutdoors.com/hiking/walking-boots/scarpa-zodiac-tech-gtx-review/
+- https://mountainreview.com/en/review/boots-scarpa-zodiac-tech-gtx/
+- https://www.lasportiva.com/en/boots-mountaineering-trango-tech-leather-gtx-man-zfms116
+- https://www.livefortheoutdoors.com/hiking/walking-boots/la-sportiva-trango-tech-leather-gtx-review/
 ---
 
-Scarpa Zodiac Tech GTX jsou robustní a spolehlivé pohorky, které si získaly oblibu mezi zkušenými turisty a lezci pro svou všestrannost a výkon v náročném terénu. Jsou navrženy tak, aby poskytovaly maximální oporu, stabilitu a ochranu nohy při pohybu na skalách, suti, sněhu a ledu. Díky své konstrukci a použitým materiálům jsou ideální volbou pro technicky náročné túry, via ferraty, vysokohorskou turistiku a lehčí lezecké výstupy, kde oceníte jejich precizní ovladatelnost a odolnost.
-
-Obliba modelu Zodiac Tech GTX pramení z kombinace kvalitních materiálů, promyšlené konstrukce a osvědčených technologií. Bota nabízí vysokou míru ochrany a stability, zároveň si však zachovává dostatečnou citlivost a flexibilitu pro pohyb v technickém terénu. To z ní dělá univerzálního společníka pro širokou škálu horských aktivit, od jednodenních výletů po náročné vícedenní přechody.
+Scarpa Zodiac Tech GTX je hybrid mezi turistickou a horolezeckou botou. Scarpa ji vyvinula pro horské vůdce a záchranáře, kteří potřebují botu na celý den v technickém terénu, do které jde nacvaknout poloautomatické mačky. Hodí se na ferraty, skalní hřebeny, suť a jarní sníh, s plným batohem i bez něj. Na běžné túry po lesních cestách je ale zbytečně tuhá.
 
 ![Scarpa Zodiac Tech GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.shoplightspeed.com/shops/602362/files/4622746/scarpa-zodiac-tech-gtx-boot-unisex.jpg)
 
-### Klíčové Parametry a Technologie
+Lidé často hledají i Zodiac Plus GTX a Zodiac GTX obecně. Plus je podle Scarpy měkčí a ohebnější verze Techu na mírnější horský terén. V roce 2025 přibyla Zodiac Tech LT GTX s textilním svrškem. Rozdíly vysvětlujeme níže.
 
-**Voděodolnost a prodyšnost:** Scarpa Zodiac Tech GTX využívá membránu GORE-TEX Performance Comfort, která zaručuje naprostou voděodolnost a zároveň umožňuje odvod potu a vlhkosti od nohy. To je klíčové pro udržení komfortu i při dlouhodobém nošení v náročných podmínkách.
+## Klíčové parametry a technologie
 
-**Odolnost a ochrana:** Svršek boty je vyroben z odolné kůže Perwanger o tloušťce 1,8 mm, která je vysoce odolná proti oděru a mechanickému poškození. Gumová obsázka po celém obvodu boty chrání svršek před ostrými kameny a zvyšuje celkovou životnost boty.
+- **Svršek:** semiš Perwanger Nepal o tloušťce 1,8 mm s vodoodpudivou úpravou, konstrukce Sock-Fit XT, která obepíná nohu jako ponožka, a gumová obšívka po celém obvodu. Na komínu je krátký elastický návlek proti kamínkům a sněhu.
+- **Pata:** systém Heel Control s vnější tvarovanou patní výztuhou má bránit kroucení paty v nerovném terénu.
+- **Šněrování:** vede kovovými očky až ke špičce jako u lezeckých bot, takže jde přesně dotáhnout přední část nohy.
+- **Podešev a mezipodešev:** systém BAS (Bascula Adaptive System) kombinuje tužší a měkčí hrbolky, mezipodešev je z polyuretanu ve dvou hustotách. Pryž Vibram Mont, pod špičkou je plocha pro stání na malých stupech. Na patě je výstupek pro poloautomatické mačky. Live for the Outdoors uvádí tuhost B1 a vyzkoušela dvanáctihroté mačky C2.
+- **Membrána:** evropský e-shop Scarpy uvádí GORE-TEX Performance Comfort, aktualizovaná verze v americkém a kanadském e-shopu má GORE-TEX ePE, který Scarpa označuje za vyhovující normám pro PFAS, a podešev Vibram BAS Precision. Starší kusy testované Switchback v roce 2022 měly podešev Vibram Pentax Precision XT II.
+- **Hmotnost:** Scarpa uvádí 680 g na botu velikosti 42, starší americký list 700 g. Switchback uvádí 1 400 g za pánský pár. Vyrábí se v Itálii, pánská verze ve velikostech 39–48, dámská 37–42.
 
-**Stabilita a opora:** Technologie ACTIVimpact Technology, použitá v mezipodešvi, účinně tlumí nárazy a vibrace, čímž snižuje únavu nohou a zvyšuje stabilitu při chůzi v nerovném terénu. Podešev Vibram Drumlin/Mont s výrazným vzorkem poskytuje vynikající trakci na různých typech povrchů, včetně mokrých skal a suti. Pata boty je kompatibilní s poloautomatickými mačkami, což rozšiřuje možnosti použití boty v zimních podmínkách.
+**Zodiac Plus GTX** váží podle Scarpy 545 g na botu, má mezipodešev z PU a EVA ve třech hustotách a podešev Vibram Drumlin. Kompatibilitu s mačkami Scarpa u ní neuvádí. **Zodiac Tech LT GTX** má minimalistický textilní svršek a stejnou mezipodešev BAS. Americká Scarpa ji řadí mezi své nejlehčí horolezecké boty a vede ji za 399 USD, tedy za stejnou cenu jako koženou verzi.
 
-**Výška boty a šněrování:** Vysoký komín boty poskytuje vynikající oporu kotníku, což je důležité zejména při pohybu v náročném terénu a při nošení těžkého batohu. Systém šněrování až do špičky umožňuje precizní utažení boty a individuální přizpůsobení tvaru nohy, což zvyšuje komfort a kontrolu při lezení a pohybu v technickém terénu.
+## Výhody
 
-### Nevýhody
+- Přesnost ve skále. Mountain Review oceňuje úzkou podešev a nízkou hmotnost, které dávají přesné a přirozené kroky na hřebenech, a výraznou patní brzdu v sestupu.
+- Stabilita s těžkým batohem. Switchback ji nosil 16 dní v oblasti Everestu včetně ledových sedel a nezaznamenal žádné podvrtnutí ani otlaky.
+- Odolnost. Po čtyřech měsících v Kanadě a Nepálu byla podle Switchback podešev bez prasklin a kožený svršek jen lehce poznamenaný.
+- Spolehlivá membrána. Ve Switchback i Mountain Review zůstaly nohy suché v potocích i ve sněhu.
+- Mačky. Live for the Outdoors s ní bez problémů nasadila mačky C2.
 
-*   **Vyšší tuhost:** Díky své robustní konstrukci a zaměření na stabilitu mohou být Zodiac Tech GTX pro někoho příliš tuhé, zejména na lehčích túrách a nenáročných chodnících.
-*   **Vyšší cena:** Kvalitní materiály a technologie se promítají do vyšší pořizovací ceny, která může být pro některé turisty limitující.
-*   **Delší doba "rozchození":** Kvůli tuhosti a robustnosti boty je potřeba počítat s delší dobou, než se bota plně přizpůsobí tvaru nohy.
+## Nevýhody
 
-### Srovnání s Konkurencí
+- Tuhá a málo tlumená mezipodešev. Switchback ji přirovnává spíš k horolezecké botě a na kratší a méně technické túry bral raději běžecké boty.
+- Slabší záběr na mokrých kořenech a slizkých kamenech v nižších polohách (Switchback).
+- Pod patou se na mokrém terénu a ve sněhu hromadí bláto a sníh (Mountain Review).
+- Kotník. Live for the Outdoors považuje měkký komín za méně opěrný než u klasické horolezecké boty, ve skále je to ale výhoda.
+- Střih vychází v testech rozporuplně. Live for the Outdoors píše o širším střihu, který nesedne každému, Mountain Review o úzké podešvi a přesném obepnutí. Před koupí bychom ji rozhodně zkusili.
 
-| Model                          | Materiál svršku                                 | Voděodolnost/Prodyšnost | Podešev       | Hmotnost (pár) | Určení                                      |
-| :----------------------------- | :--------------------------------------------- | :--------------------- | :------------- | :------------- | :------------------------------------------ |
-| **Scarpa Zodiac Tech GTX**     | Kůže Perwanger, GORE-TEX Performance Comfort  | Ano/Ano               | Vibram Drumlin | 1220 g         | Technicky náročné trasy, via ferraty, VHT |
-| La Sportiva Trango Tech Leather GTX | Kůže, syntetika, GORE-TEX Performance Comfort   | Ano/Ano               | Vibram Cube    | 1280 g         | Technicky náročné trasy, via ferraty, VHT |
-| Salewa MTN Trainer Mid GTX     | Kůže, syntetika, GORE-TEX Extended Comfort     | Ano/Ano               | Vibram MTN     | 1400 g         | Turistika, VHT, lehké lezení               |
-| Lowa Tibet GTX                   |  Kůže, GORE-TEX Performance Comfort                        | Ano/Ano          | Vibram Masai      | 1800 g              | VHT, těžký treking                      |
+## Srovnání s konkurencí
 
-### Pro Koho Jsou Tyto Boty Ideální?
+[Scarpa Zodiac Plus GTX](/boty/scarpa-quest/) je měkčí a lehčí sestra (545 g proti 680 g na botu). Americký e-shop Scarpy ji vede za běžnou cenu 349 USD, Zodiac Tech GTX za 399 USD. Za příplatek dostanete mačkovatelnou patu a tužší podešev se systémem BAS. Kdo mačky nepotřebuje a chodí hlavně turistické stezky s občasnou skalou, ten bude se Zodiac Plus spokojenější. Na ferraty, sněhová pole a lehký alpinismus bychom brali Tech. Plus je v americkém e-shopu Scarpy v době psaní ve slevě s omezenými zásobami, dostupnost si proto ověřte.
 
-Scarpa Zodiac Tech GTX jsou ideální volbou pro zkušené turisty, lezce a alpinisty, kteří hledají spolehlivou a odolnou obuv pro náročné horské aktivity. Jsou vhodné pro:
+[La Sportiva Trango Tech Leather GTX](/boty/la-sportiva-trango-tech/) míří na stejné použití. Podle Live for the Outdoors váží 640 g na botu, La Sportiva uvádí nubukový svršek, podešev Vibram Cube a vložku pro mačky v patě. Naše recenze u ní zmiňuje užší střih. Kdo má užší nohu a chce o pár desítek gramů lehčí botu, měl by zkusit Trango. Kdo chce kožený svršek se šněrováním ke špičce a gumovou obšívkou dokola, zvolí Zodiac. Ceny obou bot ve srovnatelné podobě ověřené nemáme.
 
-*   Technicky náročné túry a treky v kamenitém a skalnatém terénu.
-*   Via ferraty a zajištěné cesty.
-*   Vysokohorskou turistiku s prvky lezení.
-*   Lehčí lezecké výstupy v letních podmínkách.
-*   Zimní přechody s použitím poloautomatických maček.
+[Mammut Kento Guide High GTX](/boty/mammut-kento-guide-high-gtx/) je podle naší recenze také kompatibilní s poloautomatickými mačkami a míří i na zimní treking. Je to rozumná alternativa pro ty, komu Scarpa nesedne tvarem.
 
-### Kdo by Měl Zvážit Jinou Variantu Boty?
+## Pro koho je ideální?
 
-Zodiac Tech GTX nemusí být ideální volbou pro:
+- Pro ferraty a skalní hřebeny, kde oceníte přesné došlápnutí špičkou a tuhou podešev.
+- Pro letní alpinismus na lehčích ledovcích a sněhových polích s poloautomatickými mačkami.
+- Pro dlouhé nástupy pod stěnu, kde nechcete nést zvlášť nástupové a horolezecké boty.
+- Pro vysokohorské treky v chladu, například v Himálaji, kde membrána a kůže pomáhají udržet teplo.
 
-*   Začátečníky v horách, kteří hledají pohodlnou a lehkou obuv pro nenáročné túry.
-*   Turisty, kteří preferují měkkou a poddajnou obuv pro chůzi po lesních cestách a zpevněných chodnících.
-*   Ty, kteří hledají botu primárně pro zimní lezení a pohyb v ledu (v tomto případě je lepší zvolit specializované lezecké boty).
-*   Osoby s citlivějšíma nohama nebo s problémy s otlaky.
+## Kdo by měl zvážit jinou variantu?
 
-### Závěrečné Zhodnocení
+- Kdo chodí hlavně turistické stezky bez skal a sněhu, vezme měkčí Zodiac Plus GTX nebo jinou turistickou botu.
+- Kdo chodí v létě v teple a nižších polohách. Mountain Review hodnotí tepelný komfort 3 z 5 a Switchback čeká, že v létě bude hřát.
+- Kdo potřebuje botu na zimní lezení nebo do velkého chladu. Mountain Review výslovně píše, že nejde o zimní botu, a Live for the Outdoors ji doporučuje jen na snadné zimní túry.
+- Kdo chce prodyšnější svršek na rychlé přesuny, může zkusit textilní Zodiac Tech LT GTX nebo nízkou nástupovou botu.
 
-Scarpa Zodiac Tech GTX jsou vysoce kvalitní a výkonné pohorky, které splní očekávání i těch nejnáročnějších uživatelů. Jejich robustnost, stabilita, precizní ovladatelnost a voděodolnost je předurčují pro náročné horské aktivity, kde poskytují maximální oporu a ochranu. I přes vyšší tuhost a cenu se jedná o vynikající investici pro ty, kteří hledají spolehlivého partnera do náročného terénu.
+## Závěrečné zhodnocení
 
-**Hodnocení:** 8/10 (Body strhávám za vyšší tuhost, která může být pro někoho limitující, a za vyšší cenu. Přidávám body za výbornou odolnost, stabilitu, kvalitní materiály a precizní zpracování.)
+Za nás je Scarpa Zodiac Tech GTX výborná koupě pro ferraty, skalní terén a lehký letní alpinismus s mačkami, ale na běžnou turistiku ji nekupujte. Tam je pohodlnější a levnější Zodiac Plus GTX. Testeři shodně chválí přesnost, stabilitu, odolnost a membránu, které z ní dělají jednu botu od údolí až na vrchol. Hlavním kompromisem je tuhá a málo tlumená mezipodešev, která na dlouhých stezkách unavuje, a slabší záběr na mokrých kořenech. Kvůli rozporným ohlasům na šířku ji před koupí určitě vyzkoušejte.
+
+**Hodnocení:** 8/10 (přesná, odolná a mačkovatelná bota pro technický terén, hodnocení snižuje tuhost a malé tlumení na běžných stezkách a slabší záběr na mokrých kořenech)

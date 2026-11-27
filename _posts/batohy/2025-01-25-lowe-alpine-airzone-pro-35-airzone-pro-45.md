@@ -20,23 +20,23 @@ Lowe Alpine AirZone Pro 35 a 45 jsou batohy navržené pro náročné outdoorov�
 
 ![Lowe Alpine AirZone Pro 35, AirZone Pro 45](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bfgcdn.com/1500_1500_90/505-0625-0211/lowe-alpine-airzone-pro-35-10-sac-a-dos-de-trekking.jpg)
 
-### Klíčové parametry a jejich zhodnocení
+## Klíčové parametry a jejich zhodnocení
 
 Batohy Lowe Alpine AirZone Pro 35 a 45 jsou vyrobeny z odolného nylonu 600D s Ripstop technologií, která zvyšuje odolnost proti trhání. Zádový systém AirZone Pro zajišťuje optimální ventilaci a snižuje pocení během fyzické aktivity. Batohy jsou vybaveny nastavitelným ramenním a bederním popruhem, který umožňuje přesné přizpůsobení tělu. Doplňky zahrnují boční kompresní popruhy, kryt proti dešti a několik úložných kapes.
 
-### Výhody
+## Výhody
 
 - **Vynikající ventilace zad:** Systém AirZone Pro zajišťuje maximální proudění vzduchu, což je klíčové pro dlouhé túry.
 - **Odolný materiál:** Nylon 600D s Ripstop technologií zaručuje vysokou odolnost proti opotřebení.
 - **Ergonomický design:** Nastavitelné popruhy a bederní pás zajišťují pohodlné nošení i při plném zatížení.
 - **Variabilní úložný prostor:** Batoh nabízí dostatek prostoru pro vícedenní výpravy, včetně bočních kapes na lahve a spodního přístupu k hlavnímu úložnému prostoru.
 
-### Nevýhody 
+## Nevýhody 
 - **Vyšší hmotnost:** Batohy jsou o něco těžší než konkurenční modely, což může být nevýhodou pro ty, kteří preferují lehčí vybavení.
 - **Vyšší cena:** Cena těchto batohů je vyšší než u některých konkurenčních modelů, což může odradit některé kupující.
 - **Méně kapes na drobnosti:** Batohy mají méně kapes na drobnosti, což může být nevýhodou pro ty, kteří potřebují rychlý přístup k menším předmětům.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Parametr               | Lowe Alpine AirZone Pro 35 | Osprey Atmos AG 50 | Deuter Aircontact Lite 40+10 |
 |------------------------|----------------------------|--------------------|------------------------------|
@@ -46,11 +46,11 @@ Batohy Lowe Alpine AirZone Pro 35 a 45 jsou vyrobeny z odolného nylonu 600D s R
 | Materiál               | Nylon 600D, Ripstop        | Nylon 100D         | Polyester 600D               |
 | Cena (přibližně)       | 150 EUR                    | 200 EUR            | 180 EUR                      |
 
-### Pro koho je tento batoh ideální?
+## Pro koho je tento batoh ideální?
 
 Lowe Alpine AirZone Pro 35 a 45 jsou ideální pro outdoorové nadšence, kteří hledají spolehlivý a odolný batoh s výbornou ventilací zad. Jsou vhodné pro vícedenní túry a expedice, kde je důležitý komfort a dostatečný úložný prostor.
 
-### Kdo by měl zvážit jinou variantu batohu?
+## Kdo by měl zvážit jinou variantu batohu?
 
 Ti, kteří preferují lehčí batohy nebo potřebují více kapes na drobnosti, by měli zvážit jiné modely. Také ti, kteří hledají batoh s nižší cenou, mohou najít vhodnější alternativy.
 

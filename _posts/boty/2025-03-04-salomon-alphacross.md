@@ -22,20 +22,20 @@ Jejich silnými stránkami jsou zejména vynikající trakce, kterou zajišťuje
 
 ![Salomon Alphacross 4](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.comunelloshop.it/media/catalog/product/S/A/SALOMON_ALPHACROSS_4_GTX_W_EBONY_TRELLIS_YUCCA_470668_23_V0_02_87983_.jpg)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Základem boty Alphacross je odolná a přilnavá podešev **Contagrip® TD**.  Tato specifická směs pryže a hluboký, agresivní vzorek s šípovitými výstupky zajišťují vynikající záběr na měkkém, blátivém i sypkém povrchu.  Mezipodešev **EnergyCell** z EVA pěny poskytuje dostatečné tlumení nárazů a pohodlí i při delších bězích nebo túrách.
 
 Svršek boty je vyroben z odolné, ale zároveň poměrně prodyšné textilie, která je zesílena syntetickými překryvy v namáhaných oblastech.  To zvyšuje odolnost boty proti oděru a poškození.  Klasické šněrování umožňuje individuální přizpůsobení a pevné uchycení nohy v botě. Co se týče voděodolnosti, základní model Alphacross není vybaven membránou, a proto je vhodný spíše do suchého nebo mírně vlhkého počasí.  Pro deštivé podmínky existuje varianta s membránou Gore-Tex (Alphacross GTX). Výška boty je nízká, což umožňuje přirozený pohyb a flexibilitu kotníku.
 
-### Nevýhody
+## Nevýhody
 
 *   **Nižší stabilita v náročném terénu:** Vzhledem ke své konstrukci a absenci výraznější opory kotníku mohou být Alphacross méně stabilní v technicky náročném terénu s kameny, kořeny nebo prudkými svahy.
 *   **Užší střih:** Střih boty je spíše užší, a proto nemusí vyhovovat běžcům nebo turistům s širším chodidlem nebo vysokým nártem.
 *   **Menší prodyšnost v teplém počasí:**  I když je svršek boty relativně prodyšný, v horkých letních dnech se může noha v botě více potit, zejména u varianty bez membrány.
 * **Méně vhodné do zimních a chladných měsíců:** Kvůli absenci zateplení a snížené odolnosti vůči vodě v základním modelu, nejsou vhodné na dlouhé aktivity v zimních a sychravých měsících, kde hrozí promoknutí, prochladnutí.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model               | Výhody                                                                        | Nevýhody                                                                   | Cena (orientační) |
 | :------------------ | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :----------------: |
@@ -45,15 +45,15 @@ Svršek boty je vyroben z odolné, ale zároveň poměrně prodyšné textilie, 
 | La Sportiva Akasha II| Odolnost, ochrana, pohodlí na dlouhé vzdálenosti                                | Vyšší hmotnost, méně prodyšné v teplém počasí                                |        3800Kč         |
 |Salomon Speedcross 5 | Agresivní vzorek, skvělé do bláta, odolnost | Užší střih, ne tak univerzální jako Alphacross| 3000Kč|
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Salomon Alphacross jsou ideální volbou pro běžce a turisty, kteří hledají univerzální, pohodlnou a odolnou obuv do různorodého terénu, avšak s převahou měkčích povrchů.  Jsou skvělou volbou pro ty, kteří preferují lehkou a flexibilní botu s dobrou trakcí a dostatečným tlumením.  Ocení je také ti, kteří hledají cenově dostupnou obuv, která zvládne jak běh v terénu, tak i lehčí turistiku nebo každodenní nošení.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Pokud se pohybujete převážně v technicky náročném terénu s kameny a kořeny, nebo potřebujete maximální oporu kotníku, je lepší zvážit robustnější modely, jako je například Salomon Speedcross nebo Hoka Speedgoat.  Běžci s širším chodidlem nebo vysokým nártem by měli vyzkoušet modely s širším střihem, například od značky Altra nebo Topo Athletic. V případě, že hledáte boty na zimní aktivity, zvažte modely se zateplením a membránou.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Salomon Alphacross jsou vynikající volbou pro ty, kteří hledají univerzální a cenově dostupné trailové boty.  Nabízejí skvělou kombinaci trakce, pohodlí a odolnosti, díky čemuž se hodí jak pro běh v terénu, tak i pro lehčí turistiku nebo každodenní nošení.  Je však důležité mít na paměti jejich limity, zejména nižší stabilitu v náročném terénu a užší střih.
 

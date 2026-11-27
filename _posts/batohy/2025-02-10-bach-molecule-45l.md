@@ -21,18 +21,18 @@ Bach Molecule 45L je určen pro turisty, kteří hledají univerzální batoh pr
 ![Bach Molecule 45L](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.krusche-outdoor.de/out/pictures/master/product/1/Bach_Molecule_45L_Long_Rucksack_(midnight-blue)_D-420990-0096024_Bild_1.jpg) 
 
 
-### Klíčové parametry a technologie  
+## Klíčové parametry a technologie  
 - **Zádový systém AirFlow**: Prodyšná 3D síťovina s nastavitelným hliníkovým výztužným rámem. Umožňuje nastavit výšku zádové části v rozsahu 10 cm.  
 - **Materiál**: Hlavní látka (210D nylon s PU coatingem) odolává náhodnému zachycení o větve, spodní část batohu je zesílena 600D polyesterem.  
 - **Hipbelt**: Anatomicky tvarovaný bederní pás s měkkým vycpávkováním a dvěma kapsami na drobnosti. Stabilizační popruhy zamezují posunu nákladu.  
 - **Organizace**: Horní a přední panelový přístup, boční kompresní popruhy, 4 externí úchyty pro připevnění holek nebo karimatky. Hydratační vak (3L) je kompatibilní, chybí však samostatné vedení hadice.  
 
-### Výhody  
+## Výhody  
 - **Ventilace**: Síťovina na zádech vytváří vzduchovou mezeru, což oceníte při teplotách nad 20 °C.  
 - **Nastavitelnost**: Výztužný rám lze seřídit podle délky zad, bederní pás se přizpůsobuje obvodu pasu (až 130 cm).  
 - **Odolnost**: Zesílené dno a robustní zipy YKK zvládají i častý kontakt s vlhkým podložím.  
 
-### Nevýhody  
+## Nevýhody  
 - **Příslušenství**: Plášť proti dešti se prodává zvlášť (cena ~500 Kč), zatímco konkurenční Deuter Aircontact Lite jej nabízí v základní výbavě.  
 - **Boční kapsy**: Láhve o objemu nad 0,75 l se do nich vejdou jen obtížně, při plném naložení batohu je přístup k nim omezený.  
 - **Váha**: Oproti ultralehým batohům (např. Hyperlite Mountain Gear) je rozdíl 200–300 g, což může vadit minimalistickým turistům.  
@@ -43,14 +43,14 @@ Bach Molecule 45L je určen pro turisty, kteří hledají univerzální batoh pr
 | Osprey Atmos AG 50   | 1900         | 50        | Anti-Gravity       | Ano               | 5 500     |  
 | Deuter Aircontact Lite 40+10 | 2100 | 40–50     | VariFlex           | Ano               | 4 800     |  
 
-### Pro koho je batoh ideální?  
+## Pro koho je batoh ideální?  
 Pro turisty, kteří preferují **vícedenní túry s proměnlivým počasím** a potřebují univerzální batoh s možností přizpůsobení nákladu. Hodí se pro uživatele s vyšší postavou (nastavitelný zádový systém) a pro ty, kteří nesnášejí přilnavé zadní panely.  
 
-### Kdo by měl zvážit jinou variantu?  
+## Kdo by měl zvážit jinou variantu?  
 - **Minimalisté**: Varianta 35L postrádá boční přístupové zipy a má méně externích úchytů.  
 - **Extrémní podmínky**: Pro vysokohorskou turistiku je vhodnější model 55L s integrovanou krytkou proti sněhu.  
 
-### Závěrečné zhodnocení  
+## Závěrečné zhodnocení  
 Bach Molecule 45L nabízí solidní kompromis mezi nosností, pohodlím a odolností. Oproti Osprey Atmos AG 50 je lehčí a lépe větraný, ale za cenu absence integrovaného dešťového pláště. Konstrukce bederního pásu a variabilita úložného prostoru z něj dělají dobrou volbu pro turisty, kteří nechtějí investovat do prémiových modelů, ale požadují systémovou řešení.  
 
 **Hodnocení:** 8,5/10  

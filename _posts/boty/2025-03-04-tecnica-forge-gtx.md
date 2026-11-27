@@ -22,7 +22,7 @@ Tyto boty excelují na technicky náročných stezkách, v suťoviskách, na ska
 
 ![Tecnica FORGE GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://faeturtoga.is/wp-content/uploads/2021/08/21243000019-forge-gtx-ws-1-1.png)
 
-### Klíčové Parametry a Jejich Zhodnocení
+## Klíčové Parametry a Jejich Zhodnocení
 
 Tecnica u modelu Forge GTX vsadila na kombinaci osvědčených materiálů a inovativních technologií.  Svršek boty je vyroben z vysoce kvalitní nubukové kůže o tloušťce 1,8 mm, která je sama o sobě velmi odolná a voděodpudivá. Tato kůže je doplněna o membránu **Gore-Tex Extended Comfort**, která zajišťuje kompletní voděodolnost a zároveň vysokou prodyšnost. To znamená, že vaše nohy zůstanou v suchu jak při dešti, tak při přechodech potoků, a zároveň se nebudou nadměrně potit.
 
@@ -30,14 +30,14 @@ Tecnica u modelu Forge GTX vsadila na kombinaci osvědčených materiálů a ino
 
 Podešev **Vibram Forge** s technologií Megagrip  zajišťuje vynikající přilnavost na různých typech povrchů, ať už jde o suchou skálu, mokrou trávu nebo bláto.  Mezipodešev z EVA pěny s dvojí hustotou tlumí nárazy a poskytuje pohodlí i při dlouhých túrách.  Ochranu špičky a paty zajišťuje robustní gumová obsázka.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší cena:**  Forge GTX patří do vyšší cenové kategorie, což je dáno použitými materiály a technologiemi.
 *   **Delší doba roztáhnutí:**  Kůže a robustní konstrukce vyžadují delší dobu, než se bota plně přizpůsobí noze.
 *   **Šířka boty:**  Bota je navržena spíše pro středně široká a širší chodidla. Lidé s úzkými chodidly mohou mít problém s optimálním usazením nohy.
 *   **Vyšší hmotnost:** V porovnání s lehčími trekovými botami je Forge GTX těžší, což je daň za robustnost a ochranu.
 
-### Srovnání s Konkurencí
+## Srovnání s Konkurencí
 
 | Model             | Materiál svršku               | Membrána       | Podešev         | Přibližná cena | Hlavní výhody                                  | Hlavní nevýhody                               |
 | ----------------- | ---------------------------- | ------------- | --------------- | -------------- | ---------------------------------------------- | --------------------------------------------- |
@@ -46,7 +46,7 @@ Podešev **Vibram Forge** s technologií Megagrip  zajišťuje vynikající při
 | Lowa Tibet GTX  | Nubuková kůže   |       Gore-Tex | Vibram Apptrail |      6900 Kč |    Vysoká odolnost, opora a stabilita | Vyšší tuhost a váha. Méně prodyšné.        |
 | Scarpa Zodiac Plus GTX | Kůže Perwanger                    | Gore-Tex       | Vibram Drumlin | 5800 Kč        | Precizní střih,  výborná na lezení          | Méně univerzální,  užší střih                 |
 
-### Pro Koho Jsou Tyto Boty Ideální?
+## Pro Koho Jsou Tyto Boty Ideální?
 
 Tecnica Forge GTX jsou ideální volbou pro náročné turisty a trekaře, kteří se pohybují v obtížném terénu a hledají maximální oporu, ochranu a stabilitu. Jsou vhodné pro:
 
@@ -56,7 +56,7 @@ Tecnica Forge GTX jsou ideální volbou pro náročné turisty a trekaře, kteř
 *   Turisty, kteří preferují vysoký střih boty a maximální oporu kotníku.
 *   Ty, kteří hledají možnost individuálního přizpůsobení boty.
 
-### Kdo by Měl Zvážit Jinou Variantu Boty?
+## Kdo by Měl Zvážit Jinou Variantu Boty?
 
 Forge GTX nemusí být ideální volbou pro:
 
@@ -66,7 +66,7 @@ Forge GTX nemusí být ideální volbou pro:
 *   Turisty s velmi úzkými chodidly.
 *   Ty, kteří hledají boty s nižší cenou.
 
-### Závěrečné Zhodnocení
+## Závěrečné Zhodnocení
 
 Tecnica Forge GTX jsou vynikající trekové boty, které nabízejí špičkovou kombinaci opory, ochrany, komfortu a odolnosti. Díky inovativním technologiím, jako je tepelné tvarování C.A.S., a kvalitním materiálům, poskytují maximální pohodlí i v náročných podmínkách. Ačkoliv je jejich cena vyšší a vyžadují delší dobu roztáhnutí, investice do těchto bot se vyplatí každému, kdo hledá spolehlivého partnera pro náročné horské túry.
 

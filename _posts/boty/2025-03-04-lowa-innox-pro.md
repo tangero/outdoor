@@ -24,7 +24,7 @@ Pozor, boty mají svou nízkou verzi označovanou jako "Lo" a pak vyšší kotn�
 
 ![Lowa Innox Pro GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.idealo.com/folder/Product/200249/0/200249053/s1_produktbild_max/lowa-innox-pro-gtx-lo-310709-olive.jpg)
 
-### **Klíčové parametry a jejich zhodnocení**
+## **Klíčové parametry a jejich zhodnocení**
 
 Lowa Innox Pro GTX vyniká několika klíčovými parametry, které z ní dělají špičku ve své kategorii.  Základem je **syntetický svršek**, který je lehký, prodyšný a rychle schne.  Díky tomu je bota vhodná i do teplejších podmínek, kde noha lépe dýchá a méně se potí.  Svršek je doplněn o **membránu Gore-Tex**, která zaručuje 100% voděodolnost a zároveň prodyšnost.  To znamená, že se nemusíte bát deště, mokré trávy ani sněhu, a přitom se vaše noha nebude zbytečně pařit.
 
@@ -32,7 +32,7 @@ Dalším důležitým prvkem je **podešev Lowa Multi Trac**. Ta je vyrobena ze 
 
 **Mezipodešev DynaPU** zaručuje tlumení nárazů a zvyšuje pohodlí při chůzi, i při delších túrách. Díky ní jsou boty vhodné i na tvrdší povrchy a snižuje se únava nohou.
 
-### **Nevýhody**
+## **Nevýhody**
 
 *   **Nižší podpora kotníku:** Nízký střih boty poskytuje menší oporu kotníku, což může být problém na nerovném a technicky náročném terénu, obzvlášť pro osoby s náchylností k podvrtnutí.
 *   **Menší odolnost v náročném terénu:** Lehká konstrukce a materiály jsou méně odolné proti prodření a poškození ostrými kameny a větvemi.
@@ -40,7 +40,7 @@ Dalším důležitým prvkem je **podešev Lowa Multi Trac**. Ta je vyrobena ze 
 *   **Méně vhodné pro těžké batohy:** Při nošení těžkého batohu se zvyšuje zátěž na kotníky a chodidla, a nízký střih boty nemusí poskytovat dostatečnou oporu.
 *   **Výdrž membrány:** U jakékoliv membránové boty se nachází určité riziko protrhnutí/poškození membrány a ztráty voděodolnosti.
 
-### **Srovnání s konkurencí**
+## **Srovnání s konkurencí**
 
 | Model                 | Materiál                | Váha (g) | Určení                               | Výhody                                                        | Nevýhody                                                      |
 | :-------------------- | :---------------------- | :------- | :----------------------------------- | :------------------------------------------------------------ | :------------------------------------------------------------ |
@@ -49,20 +49,20 @@ Dalším důležitým prvkem je **podešev Lowa Multi Trac**. Ta je vyrobena ze 
 | La Sportiva TX4       | Kůže, bez membrány       | 800      | Technické lezení, via ferrata, turistika | Odolnost, přesnost, lezecká podešev, výborný grip na skále     | Nižší komfort na delší vzdálenosti, nejsou voděodolné            |
 | Scarpa Mojito         | Kůže, bez membrány/GTX   | 700       | Lehká turistika, volný čas            | Pohodlí, stylový design, univerzálnost                         | Méně technické, omezená voděodolnost (u verze bez GTX)          |
 
-### **Pro koho jsou tyto boty ideální?**
+## **Pro koho jsou tyto boty ideální?**
 
 Lowa Innox Pro GTX Lo jsou ideální volbou pro dynamické turisty, kteří preferují rychlý pohyb v lehčím terénu. Ocení je milovníci jednodenních výletů, speed hikingu a trailového běhu, kteří hledají lehkou, pohodlnou a spolehlivou obuv. Jsou vhodné i pro běžné nošení ve městě v proměnlivém počasí. Vyhledávají je cestovatelé, kteří hledají flexibilní a univerzální boty, které nezaberou v batohu mnoho místa.
 
-### **Kdo by měl zvážit jinou variantu boty?**
+## **Kdo by měl zvážit jinou variantu boty?**
 
 Ti, kdo plánují náročné túry v horském terénu s těžkým batohem, by měli zvolit boty s vyšším střihem a robustnější konstrukcí, které poskytnou lepší oporu kotníku a ochranu nohy. Stejně tak lidé s problémy s kotníky nebo ti, kteří preferují maximální stabilitu, by měli sáhnout po botách s pevnější konstrukcí. Pro technické lezení a via ferraty jsou vhodnější specializované boty s lezeckou podešví.
 
-### **Závěrečné zhodnocení boty**
+## **Závěrečné zhodnocení boty**
 
 Lowa Innox Pro GTX Lo jsou vynikající volbou pro širokou škálu outdoorových aktivit, kde je klíčová lehkost, rychlost a pohodlí. Jejich univerzálnost, spolehlivá voděodolnost a výborná přilnavost je činí skvělým společníkem na lehčí túry, rychlé výšlapy i běžné nošení.
 
 I přes některé nevýhody, jako je nižší podpora kotníku, se jedná o velmi povedený model, který si získal oblibu u mnoha turistů a trekařů. Pokud hledáte lehkou, prodyšnou a voděodolnou botu pro aktivní pohyb v přírodě, Lowa Innox Pro GTX Lo by rozhodně neměly uniknout vaší pozornosti.
 
-### **Hodnocení:** 8/10
+## **Hodnocení:** 8/10
 
 Body strhávám především za nižší podporu kotníku a menší odolnost v opravdu náročném a kamenitém terénu. Naopak bod přidávám za univerzálnost, lehkost a výborný poměr cena/výkon.

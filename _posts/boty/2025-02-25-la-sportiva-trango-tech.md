@@ -22,7 +22,7 @@ Díky nízké hmotnosti a propracovanému systému šněrování, které umožň
 
 ![La Sportiva Trango Tech Leather GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.nakaoutdoors.com.ar/img/articulos/2021/04/la_sportiva_trango_trk_leather_gtx_imagen9.jpg)
 
-### **Klíčové parametry a technologie**
+## **Klíčové parametry a technologie**
 
 La Sportiva Trango Tech Leather GTX se pyšní řadou technologií, které přispívají k jejímu výkonu a pohodlí. Klíčovým prvkem je **membrána Gore-Tex Performance Comfort**, která je známá svou vysokou voděodolností a zároveň prodyšností. Díky ní zůstanou vaše nohy v suchu i při dešti, sněžení nebo při brodění potoků. Zároveň membrána umožňuje odvod vlhkosti od nohy, což je důležité pro udržení komfortu při náročné aktivitě.
 
@@ -30,7 +30,7 @@ La Sportiva Trango Tech Leather GTX se pyšní řadou technologií, které přis
 
 **Podrážka Vibram Cube** s technologií **Impact Brake System** je navržena pro maximální trakci a stabilitu. Speciální vzorek podrážky zajišťuje vynikající přilnavost na různých typech povrchu, včetně skal, suti a trávy. **Lezecká zóna na špičce** pak usnadňuje pohyb na skalnatých úsecích a ferratách. Mezipodešev z **vstřikovaného polyuretanu (PU)** poskytuje tlumení nárazů a zvyšuje pohodlí při chůzi. **Systém 3D Flex** umožňuje přirozený pohyb kotníku do stran a dopředu, a přitom jej chrání před vyvrtnutím.
 
-### **Nevýhody**
+## **Nevýhody**
 
 *   **Užší střih:** Trango Tech mají, jako většina bot La Sportiva, spíše užší střih. To nemusí vyhovovat lidem s širšími chodidly nebo vysokým nártem. Před koupí je proto vhodné boty důkladně vyzkoušet, ideálně s ponožkami, které budete v botách nosit.
 *   **Vyšší cena:** Ve srovnání s některými konkurenčními modely je cena Trango Tech vyšší. To je dáno použitím kvalitních materiálů a pokročilých technologií.
@@ -38,7 +38,7 @@ La Sportiva Trango Tech Leather GTX se pyšní řadou technologií, které přis
 *    **Obtížnější nazouvání:** Díky úzkému střihu a šněrování až ke špičce se dají hůře nazouvat a vyzouvat.
 *    **Rychlejší opotřebení:** Podrážka se může specifických terénech rychleji opotřebovat.
 
-### **Srovnání s konkurencí**
+## **Srovnání s konkurencí**
 
 | Model                     | La Sportiva Trango Tech Leather GTX | Scarpa Zodiac Plus GTX        | Salewa Mountain Trainer 2 Mid GTX | Garmont Pinnacle GTX       |
 | ------------------------- | ----------------------------------- | ------------------------------ | --------------------------------- | --------------------------- |
@@ -49,7 +49,7 @@ La Sportiva Trango Tech Leather GTX se pyšní řadou technologií, které přis
 | Určení                    | Tech. terén, via ferrata, lehčí VHT | Tech. terén, via ferrata         | Trekking, via ferrata             | Zimní VHT, lezení v ledu |
 | Lezecká zóna na špičce | Ano                                 | Ano                             | Ano                               | Ne                          |
 
-### **Pro koho jsou tyto boty ideální?**
+## **Pro koho jsou tyto boty ideální?**
 
 La Sportiva Trango Tech Leather GTX jsou ideální volbou pro zkušené turisty a horolezce, kteří hledají lehkou, obratnou a zároveň dostatečně robustní botu pro technický terén. Jsou skvělé pro:
 
@@ -58,7 +58,7 @@ La Sportiva Trango Tech Leather GTX jsou ideální volbou pro zkušené turisty 
 *   **Lehčí horolezectví:** Zvládnou i lehčí alpské lezení ve smíšeném terénu (skály, sníh, led), kde oceníte jejich přesnost a citlivost.
 *   **Vícedélkové lezení:** Nástup pod skálu a samotné lezení zvládnete v jedné botě.
 
-### **Kdo by měl zvážit jinou variantu boty?**
+## **Kdo by měl zvážit jinou variantu boty?**
 
 Trango Tech nejsou ideální pro:
 
@@ -67,7 +67,7 @@ Trango Tech nejsou ideální pro:
 *   **Zimní treking a náročné horolezectví:** Pro tyto aktivity jsou potřeba teplejší a odolnější boty s možností upnutí maček (např. La Sportiva Nepal Cube GTX).
 *   **Každodenní nošení:** Nejsou to nejvhodnější boty pro každodenní chození do města nebo do práce.
 
-### **Závěrečné zhodnocení**
+## **Závěrečné zhodnocení**
 
 La Sportiva Trango Tech Leather GTX jsou vynikající boty pro ty, kteří se nebojí technického terénu a hledají lehkou, přesnou a univerzální obuv. Kombinují vlastnosti lezečky a trekové boty, díky čemuž jsou skvělou volbou pro via ferraty, technické treky a lehčí horolezectví. Jejich slabinou je užší střih, vyšší cena a menší odolnost ve srovnání s robustnějšími modely.
 

@@ -23,7 +23,7 @@ Tento model je postavený na pevných základech. Vysoký střih a tuhá podeše
 
 ![Lowa Tibet GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdna.lystit.com/photos/zappos/a3d6eb5f/lowa-Black-Tibet-Gtxr.jpeg)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Lowa Tibet GTX se pyšní řadou technologií a materiálů, které z nich dělají špičku ve své kategorii:
 
@@ -35,14 +35,14 @@ Lowa Tibet GTX se pyšní řadou technologií a materiálů, které z nich děla
 *   **Šněrování:** Lowa FlexFit systém umožňuje individuální nastavení utažení boty v oblasti nártu a kotníku. Dvouzónové šněrování s háčky a očky umožňuje precizní fixaci nohy.
 *   **Ochrana:** Gumová obsázka po celém obvodu boty chrání svršek před poškozením o kameny a ostré hrany.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší hmotnost:** Robustní konstrukce a použité materiály se projevují na vyšší hmotnosti bot. To může být limitující pro ty, kteří preferují lehčí obuv.
 *   **Delší doba rozchození:** Kvůli tuhosti a pevnosti materiálů je potřeba počítat s delší dobou, než se boty plně přizpůsobí noze. Doporučuje se boty postupně rozcházet na kratších túrách.
 *   **Vyšší pořizovací cena:** Lowa Tibet GTX patří mezi dražší modely na trhu. Investice se ale vyplatí, pokud hledáte boty s dlouhou životností a maximální spolehlivostí.
 *   **Tužší podešev:** Pro někoho může být tužší podešev Vibram® Masai méně komfortní na zpevněných cestách a při delších přesunech po rovině.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model                  | Lowa Tibet GTX            | Hanwag Alaska GTX        | Scarpa SL Active          | Salomon Quest 4D 3 GTX |
 | :--------------------- | :------------------------ | :----------------------- | :------------------------- | :------------------------- |
@@ -55,7 +55,7 @@ Lowa Tibet GTX se pyšní řadou technologií a materiálů, které z nich děla
 | Ochrana                | Velmi vysoká              | Velmi vysoká             | Velmi vysoká               | Vysoká                    |
 | Cena (orientační)      | Vyšší                     | Vyšší                    | Vyšší                      | Střední                   |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Lowa Tibet GTX jsou ideální volbou pro zkušené turisty a horaly, kteří se pohybují v náročném terénu a potřebují maximální oporu, stabilitu a ochranu. Jsou vhodné pro:
 
@@ -65,7 +65,7 @@ Lowa Tibet GTX jsou ideální volbou pro zkušené turisty a horaly, kteří se 
 *   Expedice v náročných klimatických podmínkách
 *   Vysokohorskou turistiku (VHT)
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Tento model není ideální pro:
 
@@ -76,7 +76,7 @@ Tento model není ideální pro:
 
 V těchto případech je vhodné zvážit lehčí a flexibilnější modely, například z řady Lowa Renegade nebo od jiných výrobců (Salomon, Scarpa, La Sportiva).
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Lowa Tibet GTX jsou bezesporu špičkové boty, které splní očekávání i těch nejnáročnějších uživatelů. Kombinace odolných materiálů, propracovaných technologií a léty prověřené konstrukce z nich dělá spolehlivého partnera pro dlouhé a náročné treky v horách. I přes vyšší hmotnost a delší dobu rozchození se jedná o investici, která se vyplatí díky dlouhé životnosti a maximální ochraně a stabilitě v terénu.
 

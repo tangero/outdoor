@@ -29,7 +29,7 @@ Karimatka **Sea to Summit Ether Light XR Pro Insulated** je nejteplejší nafuko
 
 Vyniká kombinací vysoké izolace, pohodlného povrchu z vzduchových komor Air Sprung Cells a jednoduché obsluhy. Pumpovací vak je zabudovaný do obalu a ventil umožňuje rychlé nafouknutí, doladění tlaku i vypuštění vzduchu. Cenou za vysokou izolaci je vyšší hmotnost a objem, než nabízejí nejlehčí zimní konkurentky.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Karimatka se vyrábí v pěti provedeních: Small (168 × 55 cm), Regular (183 × 55 cm), Regular Rectangular Wide (183 × 64 cm), Large (198 × 64 cm) a Large Rectangular (198 × 64 cm). Uvedené parametry se týkají velikosti Regular. Hmotnost se liší podle velikosti: od 525 g (Small) do 790 g (Large Rectangular). Hmotnost včetně obalu je u Regular 620 g a u největší verze 850 g. Zabalená karimatka Regular má rozměr 21 × 12 × 12 cm.
 
@@ -41,7 +41,7 @@ Karimatka se vyrábí v pěti provedeních: Small (168 × 55 cm), Regular (183 �
 - **Pillow Lock:** samolepicí suché zipy, které drží nafukovací polštářek Sea to Summit na místě.
 - **Svary:** podle výrobce dvojnásobně pevné oproti starším modelům. Karimatka je o 25 % lehčí a má poloviční objem oproti předchozí generaci.
 
-### Výhody
+## Výhody
 
 - **Extrémní izolace** – R-faktor 7,4 pokryje i zimní kempování. Testeři ji řadí k nejteplejším karimatkám, které zkoušeli.
 - **Pohodlí v každé poloze** – tloušťka 10 cm a komory Air Sprung Cells vyhovují i bokospáčům.
@@ -51,7 +51,7 @@ Karimatka se vyrábí v pěti provedeních: Small (168 × 55 cm), Regular (183 �
 - **Pillow Lock** – polštářek se v noci neposouvá.
 - **Široká nabídka velikostí a tvarů** – k dispozici jsou verze úzké, širší i obdélníkové.
 
-### Nevýhody
+## Nevýhody
 
 - **Vyšší hmotnost a objem** – karimatka je těžší a méně sbalitelná než jiné zimní karimatky s podobnou izolací; v testu vážila Regular 19,8 oz (zhruba 560 g) a zabalená měřila 2,6 l.
 - **Hlučnost** – testeři popisují šustění připomínající balónek nebo sáček od chipsů; výrobce uvádí, že je tišší než dřívější modely. Ostatní testeři mluví o velmi tichém materiálu, hlučnost je tedy subjektivní.
@@ -60,7 +60,7 @@ Karimatka se vyrábí v pěti provedeních: Small (168 × 55 cm), Regular (183 �
 - **Cena** – pohybuje se zhruba od 219 do 289 USD podle velikosti.
 - **Dlouhodobá odolnost** – testeři by u hmotnější karimatky očekávali odolnější materiál. Nové svary zatím nemají dlouhodobé zkušenosti; u staršího modelu se netěsnosti u svarů objevily po zhruba třech letech.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -70,21 +70,21 @@ Karimatka se vyrábí v pěti provedeních: Small (168 × 55 cm), Regular (183 �
 
 NeoAir XTherm NXT nabízí podobnou izolaci při nižší hmotnosti a tloušťce 6,4 cm, ale nemá integrovaný pumpovací vak. Pajak Expedition je tlustší (11 cm) a těžší (685 g), s nižším R-faktorem 6,6. Oproti modelu Sea to Summit Ether Light XR Insulated nabízí Pro verze výrazně vyšší izolaci (R 7,4 oproti 4,1) při stejné tloušťce 10 cm, za cenu vyšší hmotnosti.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **zimní kempování a horolezecké základní tábory**, kde je tepelná izolace prioritou.
 - Pro **bokospáče**, kteří chtějí tlustou a stabilní podložku.
 - Pro **ty, kdo trpí zimou při spaní** a chtějí mít spolehlivou izolaci od země.
 - Pro **uživatele, kteří chtějí jednu karimatku na celý rok** a hmotnost pro ně není rozhodující.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Ti, kdo hledají **nejnižší hmotnost a malé balení** – lehčí zimní karimatky jsou skladnější.
 - Ti, kdo jsou **citliví na hluk** – povrch při pohybu šustí.
 - Ti, kdo spí převážně **v létě** – pro teplé sezóny je zbytečně těžká a drahá, vhodnější je model s nižším R-faktorem.
 - Ti, kdo kladou důraz na **nejnižší cenu**.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Sea to Summit Ether Light XR Pro Insulated je pohodlná a velmi teplá karimatka pro zimní a studené podmínky. Silnou stránkou je kombinace R-faktoru 7,4, tloušťky 10 cm a jednoduché obsluhy s integrovaným pumpovacím vakem. Slabinou je hmotnost, objem po sbalení, šustivý povrch, cena a ojedinělé zmínky o studených místech. Pokud potřebujete spolehlivou izolaci a pohodlí a nevadí vám vyšší hmotnost, je to velmi dobrá volba.
 

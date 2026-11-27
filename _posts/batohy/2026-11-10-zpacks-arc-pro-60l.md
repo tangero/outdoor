@@ -30,7 +30,7 @@ Zpacks Arc Pro 60L je rámový batoh pro ultralehké vícedenní túry a dlouhé
 
 Oproti dřívějšímu modelu Arc Haul Ultra přináší elastické kapsy z Venom Stretch Mesh a zadní panel s kapsou na sedák. Je to ale batoh pro nenáročný náklad: výrobce uvádí pohodlnou nosnost 14–16 kg, maximum 18 kg, a testeři se shodují, že nad zhruba 14 kg (30 lb) pohodlí klesá.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 - **Hmotnost a objem:** 628 g ve velikosti uvedené výrobcem, 60 l (47 l hlavní prostor, 2,5 l každá boční kapsa, 8 l střední kapsa).
 - **Tkanina:** Ultra 100X na zádech a dně, lehčí Ultra TenX vpředu. Jde o tkaninu z polyetylenových vláken (UHMWPE) s vodotěsnou laminací, bez DWR a bez PFAS.
 - **Rám:** zakřivený uhlíkový Arc Frame, který vytváří vzduchovou mezeru mezi zády a batohem. Panel zad lze nahradit variantami z lycry nebo klasické síťoviny.
@@ -39,14 +39,14 @@ Oproti dřívějšímu modelu Arc Haul Ultra přináší elastické kapsy z Veno
 - **Bear canister:** výrobce uvádí, že všechny standardní bear canistery se vejdou do horní poloviny batohu postaveného na výšku; nezávislý test u příbuzného modelu Arc Haul Ultra 60L potvrzuje svislé uložení BearVault BV500.
 - **Cena:** 449 USD u výrobce, nezávislý test počítá se zhruba 509 USD včetně bederních kapes.
 
-### Výhody
+## Výhody
 - **Nízká hmotnost:** testeři ji řadí pod obvyklou hranici zhruba dvou liber (asi 900 g) pro plnohodnotný rámový batoh; s kapsami a sedákem ji uvádějí na 25,5 oz (přibližně 720 g).
 - **Přenos váhy:** rám a stahovací popruhy odlehčují ramena a přenášejí zátěž na boky.
 - **Odolnost proti vodě:** všechny švy jsou přelepené, takže je batoh velmi odolný proti dešti, i když není ponorný. Důležité věci doporučujeme i tak dát do vaku.
 - **Kapsy:** elastická síťovina Venom Stretch Mesh je podle testu pružná a zároveň odolná.
 - **Opravitelnost:** popruhy, pás i uhlíkové pruty jsou vyměnitelné.
 
-### Nevýhody
+## Nevýhody
 - **Cena:** bederní kapsy se prodávají zvlášť a bez nich batoh postrádá praktické úložné místo.
 - **Uhlíkové pruty:** mohou prasknout. Výrobce podle testu uvádí jen asi 0,1 % reklamací, diskuze ale obsahují i zkušenosti s ohnutým nebo prasklým rámem, většinou u starších verzí.
 - **Nosnost:** pohodlný je jen do zhruba 14 kg, i když výrobce připouští 18 kg.
@@ -54,7 +54,7 @@ Oproti dřívějšímu modelu Arc Haul Ultra přináší elastické kapsy z Veno
 - **Posun výšky zad:** tester uvádí, že se nastavení postupně posouvá a je třeba ho vracet.
 - **Terén:** není vhodný pro náročné akce mimo stezky, například horolezectví nebo skialpinismus.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 Srovnání ceny nemáme ověřené, proto porovnáváme jen použití a parametry.
 
 **Osprey Exos 48** (1040 g, 48 l) je podle naší tabulky téměř o 400 g těžší a objemově menší. Nabízí vynikající odvětrání zad a ergonomický zádový systém, ale tabulka u něj uvádí menší odolnost v porovnání s těžšími modely a tenčí popruhy při plném zatížení. Zvolili bychom ho, pokud preferujete klasičtější odvětrávaný zádový systém a nevadí vám vyšší hmotnost; robustnější než Arc Pro ho nepovažujeme.
@@ -65,21 +65,21 @@ Srovnání ceny nemáme ověřené, proto porovnáváme jen použití a parametr
 
 V nezávislých podkladech se objevují i HMG Southwest a Durston Kakwa 55 jako levnější nebo odolnější alternativy, ale u těch nemáme ověřené podrobnosti.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 - Pro turisty s ultralehkou výbavou, jejichž náklad včetně vody zůstává pod zhruba 14 kg.
 - Pro vícedenní treky na 4–6 dní bez většího množství těžkého vybavení.
 - Pro trasy s nutností nést bear canister při ultralehké výbavě: ten se podle výrobce vejde na výšku do horní poloviny batohu.
 - Pro ty, kdo chtějí rámový batoh pod 700 g a nevadí jim připlatit za doplňky.
 - Pro hikery, kteří ocení vyměnitelné díly a nastavitelnou délku zad při sdílení batohu.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 - Pokud často nesete nad 14–16 kg, například při dlouhých zásobách vody nebo jídla, hledejte batoh s lepším polstrováním bederního pásu a vyšší pohodlnou nosností. Ze srovnávaných modelů ho nemůžeme pojmenovat: Exos 48 má podle tabulky tenčí popruhy při plném zatížení a u Eja 58 nosnost nemáme doloženou.
 - Pokud plánujete horolezectví, lyžování nebo náročný terén mimo stezky, zvolte odolnější konstrukci.
 - Pokud máte omezený rozpočet, počítejte s celkovou cenou kolem 500 USD, ne jen se základní.
 - Pokud často používáte rukavice nebo máte problémy s jemnou motorikou, hledejte batoh s většími sponami.
 - Pokud chcete batoh k zimnímu použití, volte větší a pohodlnější spony.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 Za nás je Arc Pro 60L dobrá volba pro zkušené ultralehké turisty, kteří nosí do zhruba 14 kg a chtějí co nejlehčí rámový batoh. Tento batoh nás přesvědčuje kombinací hmotnosti 628 g, rámu s dobrým přenosem váhy a odolné tkaniny s přelepenými švy. Hlavním kompromisem zůstává vysoká cena, doplňky navíc a omezená pohodlná nosnost. Pokud pravidelně nesete výrazně víc, než batoh pohodlně unese, nemůžeme z recenzovaných modelů doporučit konkrétní náhradu a je lepší zvolit batoh s výrazněji polstrovaným nosným systémem.
 
 **Hodnocení:** 8,5/10  

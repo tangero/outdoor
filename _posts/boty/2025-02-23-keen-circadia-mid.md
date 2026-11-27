@@ -21,7 +21,7 @@ Keen Circadia Mid jsou skvělou volbou pro turisty a outdoorové nadšence, kte�
 Boty Keen Circadia Mid WP vynikají především svou všestranností. Díky voděodolné membráně a robustní konstrukci zvládnou různorodé podmínky, od lehkých dešťových přeháněk po blátivé stezky.  Typický Keen střih s prostornou špičkou zaručuje pohodlí i po celodenním nošení, a to i pro osoby se širšími chodidly.  To, spolu s kvalitní podrážkou s dobrou trakcí, dělá z Circadia Mid ideálního společníka pro nenáročné až středně náročné túry v rozmanitém terénu.
 ![Keen Circadia Mid](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.nencinisport.it/images/format-def/background-def/end/articoli_varianti_foto/keen_circadia_mid_wp_w_525560_zoom_20221122160344.png)
 
-### Klíčové parametry a jejich zhodnocení
+## Klíčové parametry a jejich zhodnocení
 
 Keen Circadia Mid WP se vyznačují několika klíčovými parametry, které ovlivňují jejich výkon a užitné vlastnosti. Pojďme se na ně podívat detailněji:
 
@@ -37,13 +37,13 @@ Keen Circadia Mid WP se vyznačují několika klíčovými parametry, které ovl
 
 * **Podrážka:** Podrážka KEEN.ALL-TERRAIN s vícesměrným vzorkem poskytuje dobrou trakci na různých površích, včetně mokrého kamene, bláta a štěrku. Není však tak agresivní jako u specializovaných trekových bot určených pro náročný terén.
 
-### Nevýhody
+## Nevýhody
 
 *   **Prodyšnost v horku:** V teplém a vlhkém počasí může být prodyšnost KEEN.DRY membrány limitující, což může vést k většímu pocení nohou.
 *   **Nejsou pro náročný terén:** Circadia Mid nejsou ideální pro velmi náročný terén s ostrými kameny a sutí, ani pro nošení těžkých batohů nad 20 kg. Pro takové aktivity je vhodnější zvolit robustnější boty s tužší podrážkou a vyšší oporou kotníku.
 *   **Širší střih:** I když je široká špička pro mnohé výhodou, pro osoby s úzkým chodidlem může být střih boty příliš volný, což může vést k menší stabilitě nohy v botě.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model             | Materiál                      | Voděodolnost            | Určení                                     | Hlavní výhody                                                               | Hlavní nevýhody                                                                                                                         |
 | ---------------- | ------------------------------ | ------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ Keen Circadia Mid WP se vyznačují několika klíčovými parametry, které ovl
 | Lowa Renegade GTX Mid      | Kůže Nubuk, Gore-Tex       | Gore-Tex                 | Všestranná turistika, středně náročný terén | Odolnost, pohodlí, kvalitní zpracování, široká nabídka velikostí a šířek. | Vyšší cena, mohou být těžší než syntetické modely. Delší doba rozchození.                                                              |
 | Merrell Moab 3 Mid GTX | Kůže, syntetika, Gore-Tex    | Gore-Tex                | Všestranná turistika                          |Pohodlí a skvělý poměr cena a výkon | Méně vhodné do náročného terénu|
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Keen Circadia Mid WP jsou ideální volbou pro turisty a outdoorové nadšence, kteří:
 
@@ -62,7 +62,7 @@ Keen Circadia Mid WP jsou ideální volbou pro turisty a outdoorové nadšence, 
 *   Hledají boty s dobrým poměrem cena/výkon.
 *   Chtějí boty pro nenáročné až středně náročné túry v rozmanitém, ale ne extrémním terénu.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Keen Circadia Mid WP nemusí být tou nejlepší volbou pro:
 
@@ -71,7 +71,7 @@ Keen Circadia Mid WP nemusí být tou nejlepší volbou pro:
 *   Ty, kteří hledají boty s maximální prodyšností pro horké a suché klima.
 *   Lezce, nebo vyznavače via ferrat, kteří potřebují specializovanou obuv s lezeckou špičkou a pevnější konstrukcí.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Keen Circadia Mid WP představují solidní a univerzální trekové boty, které osloví široké spektrum outdoorových nadšenců.  Jejich silnou stránkou je pohodlí, voděodolnost a univerzálnost, díky čemuž se hodí pro různorodé aktivity a terény.  I když nejsou určené pro extrémní podmínky a náročný terén, pro většinu běžných turistických výletů poskytují dostatečnou oporu, ochranu a komfort.
 

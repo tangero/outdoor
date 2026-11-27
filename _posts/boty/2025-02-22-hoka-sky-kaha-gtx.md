@@ -23,7 +23,7 @@ Hoka Sky Kaha GTX jsou boty, které na první pohled překvapí svou mohutností
 
 Díky svému designu a technologiím si Hoka Sky Kaha GTX získaly pověst spolehlivého partnera pro dlouhé treky. Ať už se chystáte na zdolávání horských štítů, nebo plánujete pohodový víkend v přírodě, tyto boty vám poskytnou potřebnou jistotu. Jejich robustnost a pohodlí umožňují překonávat velké vzdálenosti s minimální únavou nohou, což ocení jak zkušení turisté, tak i ti, kteří s dlouhými treky teprve začínají.
 
-### **Klíčové parametry a jejich zhodnocení**
+## **Klíčové parametry a jejich zhodnocení**
 
 Hoka Sky Kaha GTX se pyšní celou řadou špičkových technologií a materiálů, které ji řadí mezi špičku ve své kategorii. Pojďme se podívat na ty nejdůležitější:
 
@@ -33,14 +33,14 @@ Hoka Sky Kaha GTX se pyšní celou řadou špičkových technologií a materiál
 *   **Podešev:** Podešev Vibram® Megagrip s 5mm hlubokými výstupky poskytuje vynikající trakci na různých typech povrchů, od mokrých kamenů po sypkou suť. Díky tomu se můžete spolehnout na stabilitu i v náročném terénu.
 *    **Materiál:** Kombinace prémiové kůže a textilu zaručují odolnost a životnost, ačkoliv kůže potřebuje delší dobu na vysušení a péči oproti syntetickým botám.
 
-### **Nevýhody**
+## **Nevýhody**
 
 *   **Vyšší cena:** Kvalitní materiály a technologie se promítají do vyšší ceny, která může být pro někoho limitující.
 *   **Robustní design:** Mohutný vzhled boty nemusí vyhovovat každému. Někteří uživatelé mohou preferovat subtilnější a lehčí boty.
 * Delší doba schnutí: Kombinace kůže a membrány GORE-TEX zaručuje nepromokavost, nicméně kůže schne déle než syntetické materiály.
 * **Méně vhodné do velkého tepla**: Díky svému provedení a izolaci nemusí být Kaha Sky ideální volbou na chození za vysokých letních teplot. Zde bych dal přednost odlehčenějším modelům.
 
-### **Srovnání s konkurencí**
+## **Srovnání s konkurencí**
 
 | Model               | Hoka Sky Kaha GTX | Salomon Quest 4D 3 GTX | Lowa Renegade GTX Mid |
 | :------------------ | :--------------: | :--------------------: | :--------------------: |
@@ -51,7 +51,7 @@ Hoka Sky Kaha GTX se pyšní celou řadou špičkových technologií a materiál
 | Podešev             |  Vibram Megagrip   |      Contagrip TD       |      Vibram Evo       |
 | Cena                |         Vyšší        |         Střední         |         Střední         |
 
-### **Pro koho jsou tyto boty ideální?**
+## **Pro koho jsou tyto boty ideální?**
 
 Hoka Sky Kaha GTX jsou ideální volbou pro turisty, kteří:
 
@@ -61,7 +61,7 @@ Hoka Sky Kaha GTX jsou ideální volbou pro turisty, kteří:
 *   Potřebují spolehlivou voděodolnou obuv do proměnlivého počasí.
 *   Upřednostňují robustní a odolné boty.
 
-### **Kdo by měl zvážit jinou variantu boty?**
+## **Kdo by měl zvážit jinou variantu boty?**
 
 Hoka Sky Kaha GTX nemusí být nejlepší volbou pro:
 
@@ -70,7 +70,7 @@ Hoka Sky Kaha GTX nemusí být nejlepší volbou pro:
 *    Uživatele kteří plánují pohybovat se výhradně v horkém a suchém počasí.
 *   Turisty s omezeným rozpočtem, kteří hledají levnější alternativu.
 
-### **Závěrečné zhodnocení**
+## **Závěrečné zhodnocení**
 Hoka Sky Kaha GTX je skutečně špičková turistická obuv, která nabízí nekompromisní kombinaci pohodlí, stability a ochrany.  Je to investice do zdraví vašich nohou a kloubů, která se vám vrátí v podobě bezstarostného a komfortního pohybu v náročném terénu.  I přes vyšší cenu a robustnější design si tyto boty získaly zaslouženou popularitu mezi náročnými turisty.
 
 **Hodnocení:** 9/10 (Body strhávám za vyšší cenu a delší dobu schnutí, kterou přináší kožené prvky. Naopak bod přidávám za nadstadartní pohodlí a tlumení.)

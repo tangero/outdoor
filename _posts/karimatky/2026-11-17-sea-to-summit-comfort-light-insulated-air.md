@@ -29,7 +29,7 @@ Comfort Light Insulated Air je nafukovací karimatka pro pěší túry, která s
 
 Nejvíc vyniká tím, jak se tělu přizpůsobuje. Testeři chválí, že se při spaní na boku boky a ramena nedotýkají země, a oceňují rychlé nafukování i vypouštění. Je ale třeba říct rovnou: výrobce model označuje jako „Past Season“, takže jde o vyprodávaný kus. Hodnoty z různých zdrojů se navíc rozcházejí, proto se před koupí vyplatí ověřit konkrétní kus.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Výrobce uvádí pro velikost Regular hmotnost 640 g (se sáčkem 700 g), rozměry 185 × 55 × 6,3 cm a R-faktor 3,7. Velikost Large váží 755 g, měří 201 × 64 cm a je určena pro uživatele do 198 cm. Balení Regular má 24 × 13,5 × 11 cm.
 
@@ -37,7 +37,7 @@ R-faktor se v testech liší. Výrobce dnes uvádí 3,7 podle ASTM F3340, starš
 
 Materiálem je nylon s TPU laminací, který testeři popisují jako 30D na horní straně a 40D na spodní. Izolaci tvoří polyesterová výplň Thermolite uvnitř komor a metalizovaná vrstva Exkin Platinum, která odráží teplo zpět k tělu. Vak na sbalení slouží zároveň jako pumpa Airstream. Ventil umožňuje rychlé nafukování, vypouštění i jemné dolaďování tvrdosti. V balení je opravná sada.
 
-### Výhody
+## Výhody
 
 - Dvouvrstvé komory v trupu poskytují stabilní a podporující povrch; testeři uvádějí pohodlné spaní na boku.
 - Rychlé nafukování i vypouštění, ventil si testeři pochvalují, karimatka držela vzduch celé týdny.
@@ -45,7 +45,7 @@ Materiálem je nylon s TPU laminací, který testeři popisují jako 30D na horn
 - Spodní strana z 40D nylonu snese hrubší podklad, i když skupina testerů doporučuje podložku pod ostrými kameny.
 - Opravná sada je součástí balení a výrobce uvádí doživotní záruku (podle jednoho testera).
 
-### Nevýhody
+## Nevýhody
 
 - Hmotnost 640 g je při R-faktoru 3,7 málo výhodná. Lehčí a teplejší karimatky existují.
 - Tloušťka 6,3 cm je spíš nižší. Jeden test uvádí, že se při izolované verzi neleží úplně rovně, jiný tester by ocenil víc polstrování.
@@ -53,7 +53,7 @@ Materiálem je nylon s TPU laminací, který testeři popisují jako 30D na horn
 - Zkušenosti s hlučností se liší: jedni tvrdí, že je tichá, jiní označují šustění za nevýhodu.
 - Údaje o hmotnosti a R-faktoru se mezi zdroji liší.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 Ceny konkurence v našich údajích nemáme ověřené srovnatelným způsobem, proto porovnáváme jen použití a parametry, ne cenovou výhodnost.
 
@@ -63,21 +63,21 @@ Ceny konkurence v našich údajích nemáme ověřené srovnatelným způsobem, 
 
 **Sea to Summit Ether Light XR Insulated** váží 525 g, má R-faktor 4,1 a tloušťku 10 cm. Je tedy teplejší, silnější a lehčí než Comfort Light. Zvolili bychom ji pro ty, kdo spí na boku nebo chtějí víc izolace.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro turisty na víkendové i týdenní túry od jara do podzimu, kteří počítají s nocemi kolem nuly a mají kvalitní spacák.
 - Pro ty, kdo spí na zádech nebo boku a chtějí stabilní povrch, ale nepotřebují 10 cm.
 - Pro ty, kdo chtějí rychlé balení a nafukování, třeba při častém stěhování tábora.
 - Pro ty, kdo model seženou se slevou jako dovyprodaný kus.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo počítá gramy na dlouhých túrách, měl by sáhnout po Sea to Summit Ultralight XR Insulated Air (415 g).
 - Kdo spí na boku a chce silnější polštář, zvolí Ether Light XR Insulated s tloušťkou 10 cm.
 - Kdo míří do zimy nebo do alpinských nocí, potřebuje vyšší R-faktor než 3,7.
 - Kdo je těžší nebo širší, měl by zvážit velikost Large (64 cm) nebo širší model.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás je Comfort Light Insulated Air karimatka, kterou bychom koupili jen se slevou jako dovyprodaný kus. Jinak raději zvolit novější Ultralight XR Insulated Air. Komfort a zonová konstrukce jsou dobré, ventil a pumpovací vak fungují, ale hmotnost 640 g, R-faktor 3,7 a tloušťka 6,3 cm patří spíš ke středu pole. Hlavní kompromis je tedy váha a izolace za pohodlí; kdo ji chce, dostane solidní karimatku, ale ne nejlepší poměr váhy a tepla.
 

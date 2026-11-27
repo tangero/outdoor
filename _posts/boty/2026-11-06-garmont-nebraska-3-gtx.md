@@ -29,7 +29,7 @@ Garmont Nebraska 3 GTX je klasická vysoká trekingová bota pro turisty, kteř�
 
 Bota stojí na nubukové kůži, vodotěsné membráně GORE-TEX bez PFC a podešvi Vibram. Nejde o lehkou rychlou botu, ale o tradiční konstrukci s důrazem na ochranu a stabilitu. Výrobce hodnotí podporu a ochranu 5 z 6, prodyšnost i lehkost jen 3 z 6.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Svršek:** nubuková kůže tlustá 1,6–1,8 mm doplněná polyesterovou síťovinou. Kolem boty vede ochranný rant.
 - **Membrána:** GORE-TEX Performance Comfort ePE bez PFC. Výrobce ji uvádí jako vodotěsnou a prodyšnou.
@@ -40,7 +40,7 @@ Bota stojí na nubukové kůži, vodotěsné membráně GORE-TEX bez PFC a pode�
 - **Hmotnost:** výrobce uvádí v e-shopu 1090–1210 g podle velikosti, obchod Bergfreunde 1310 g za pár, Snowleader 860 g a Inwild 720 g (UK 11). Údaje se výrazně liší. Pro nás je nejvěrohodnější údaj výrobce, proto uvádíme 1150 g.
 - **Cena:** 239,95 € u výrobce.
 
-### Výhody
+## Výhody
 
 - Odolný nubukový svršek s ochranným rantem.
 - Vodotěsná membrána GORE-TEX bez PFC.
@@ -48,14 +48,14 @@ Bota stojí na nubukové kůži, vodotěsné membráně GORE-TEX bez PFC a pode�
 - Anatomický střih a možnost volby šíře.
 - Vyměnitelná podešev Vibram prodlužuje životnost.
 
-### Nevýhody
+## Nevýhody
 
 - Slabší prodyšnost (3 z 6), v teple se noha bude potit.
 - Hmotnost nad kilogram na kus podle údajů výrobce.
 - Omezená kompatibilita s mačkami, vhodná nanejvýš pro poloautomatické.
 - Rozporuplné údaje o hmotnosti a chybějící nezávislé dlouhodobé testy. Jediné uživatelské zmínky se týkají předchozí generace Nebraska II, kterou jeden uživatel popisuje jako pohodlnou „jako pantofle“, což na třetí generaci nemůžeme přenášet.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 U konkurence nemáme ověřené srovnatelné ceny, proto porovnáváme jen použití a parametry, ne cenovou výhodnost.
 
@@ -65,21 +65,21 @@ U konkurence nemáme ověřené srovnatelné ceny, proto porovnáváme jen použ
 
 **Salomon Quest 4D 3 GTX** (640 g) nabízí výjimečnou stabilitu a ochranu kotníku při nižší hmotnosti. Vybrali bychom ji pro náročnější terén a těžší batoh.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro turisty, kteří plánují vícedenní túry s batohem na značených horských trasách, kde ocení oporu a ochranu nohy.
 - Pro ty, kdo chodí v dešti a blátě a chtějí kožený svršek s vodotěsnou membránou.
 - Pro uživatele s užší nebo širší nohou, kteří využijí různé šíře střihu.
 - Pro ty, kdo preferují opravitelnou botu s výměnou podrážky.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Pokud chodíte rychlé jednodenní túry a hmotnost je pro vás prioritou, zvolte lehčí botu typu Hexagon GTX.
 - Pro zimní túry s mačkami potřebujete botu s prokázanou kompatibilitou, tuto bychom nevolili.
 - Pokud chodíte v horku, prodyšnost 3 z 6 vás může omezovat.
 - Pokud chcete jistotu prověřenou nezávislými testy, u této novinky ji zatím nemáte.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás je Nebraska 3 GTX dobrá volba, pokud chcete tradiční vícedenní trekingovou botu a nevadí vám vyšší hmotnost a slabší prodyšnost. Hodí se pro delší túry v hornatém terénu a v mokrém počasí, protože kombinuje odolný nubuk, vodotěsnou membránu a podešev Vibram, kterou lze vyměnit. Hlavním kompromisem je hmotnost a nízká prodyšnost, k tomu přidáváme výhradu, že o nové generaci zatím chybějí nezávislé testy a údaje o hmotnosti se různí. Přes cenu 239,95 € tak doporučujeme botu zkusit v obchodě a ověřit si střih, který je u Garmontu klíčový.
 

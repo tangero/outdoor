@@ -29,7 +29,7 @@ Samonafukovací karimatka **Sea to Summit Comfort Deluxe** je určená těm, kdo
 
 Nejvíc zaujme kombinace pohodlí a rychlého samonafukování. Nezávislé testy chválí měkký povrch bez lepivého pocitu a vysoké boční stěny, které se nepropadají, když se přisunete k okraji. Za cenu hmotnosti i objemu dostanete skoro postel, ne ultralehkou karimatku na túru.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** velikost Regular Wide (183 × 64 × 10 cm) váží podle výrobce 1895 g, s obalem 1970 g. Large Wide (198 × 76 cm) má 2390 g a Double 4060 g.
 - **Tloušťka:** 10 cm, pěnové jádro z polyuretanu.
@@ -38,7 +38,7 @@ Nejvíc zaujme kombinace pohodlí a rychlého samonafukování. Nezávislé test
 - **Materiál:** horní strana je 30D úplet z polyesteru, spodní 75D polyester, zpracování je z recyklovaných materiálů s barvením v hmotě.
 - **Ventil:** aktuální verze má ventil XPEL, který se pro vyfukování obrací, aby se karimatka při balení znovu nenasála. Stejný princip používají i starší verze s ventilem na otočení.
 
-### Výhody
+## Výhody
 
 - Velmi měkký povrch, který se dle testerů nelepí na kůži.
 - Tloušťka 10 cm a vysoké boční stěny vhodné i pro neklidné spáče.
@@ -46,7 +46,7 @@ Nejvíc zaujme kombinace pohodlí a rychlého samonafukování. Nezávislé test
 - Rychlé samonafukování, ventil umožňuje doladit tuhost.
 - Dlouhodobá odolnost: po více než 80 nocích a roce používání podle jednoho testu držela tvar i oporu.
 
-### Nevýhody
+## Nevýhody
 
 - Hmotnost přes 1,9 kg a objem kolem 70 × 18 × 18 cm pro Regular. Na batoh je to nevhodné.
 - Ventil se nezavděčil každému: jeden test popisuje ucpávky vyskakující při manipulaci a nechtěné vypuštění vzduchu, jiný by raději samostatný vypouštěcí ventil.
@@ -55,7 +55,7 @@ Nejvíc zaujme kombinace pohodlí a rychlého samonafukování. Nezávislé test
 - V chladné noci po teplém dni matrace trochu změkla, což test přisoudil ochlazení vzduchu uvnitř a ne úniku.
 - Pro širší postavy je Regular Wide s šířkou 64 cm spíš těsnější.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 Cenu konkurence z ověřených údajů neznáme, kromě MondoKing 3D, takže u ostatních porovnáváme jen parametry a použití.
 
@@ -65,14 +65,14 @@ Cenu konkurence z ověřených údajů neznáme, kromě MondoKing 3D, takže u o
 
 **Sea to Summit Ether Light XR Pro Insulated** je nafukovací, váží 560 g, má R-faktor 7,4 a 10 cm tloušťky. Pro pěší túry do zimy je to rozumnější volba, protože ušetří přes 1,3 kg, i když se nafukuje ústy nebo vakem a nedává vám pěnové jádro, které izoluje i při proděravění.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro autokempaře a obyvatele dodávek, kteří nosí matraci jen pár metrů od auta.
 - Pro boční spáče, kteří chtějí 10 cm a stabilní hrany.
 - Pro zimní kempování v autě či stanu do cca −10 °C se vhodným spacákem.
 - Pro ty, kdo nechtějí nafukovat desítky minut a ocení samonafukovací pěnu.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Pěší turisté s batohem: 1,9 kg a objemné balení se nevyplatí, zvolte Ether Light XR Pro Insulated nebo lehčí nafukovací model.
 - Kdo balí často a nechce zápasit s jedním ventilem: zvažte MondoKing 3D s dvěma ventily, ale počítejte s tím, že je také objemný a sbalení do pytle nemusí být snadné. Pokud je hlavní prioritou malé balení, žádná z těchto dvou matrací není ideální.
@@ -80,7 +80,7 @@ Cenu konkurence z ověřených údajů neznáme, kromě MondoKing 3D, takže u o
 - Kdo má nízký rozpočet: cenu 319 USD nelze označit za nízkou a pro příležitostné kempování stačí levnější pěna.
 - Kdo potřebuje maximální šířku nebo spí ve dvou: sáhněte po Large Wide nebo Double.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás je Comfort Deluxe dobrá koupě pro autokemping a základní tábor, kde záleží na pohodlí a teple, ale na batoh ji nekupovat. Vydrží, hřeje a nafukuje se skoro sama. Hlavním kompromisem je hmotnost kolem 1,9 kg, objemné balení a ventil, který některé testery otravoval. MondoKing 3D je podobně těžký, objemný a o něco levnější, takže pokud vám vadí jediný ventil, může být rozumnou alternativou, ale na balení by se nespoléhal.
 

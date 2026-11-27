@@ -26,7 +26,7 @@ POZOR: Tento model má i vyšší verzi s označením Mid, která má vyšší p
 ![Tecnica Plasma S](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://media.s-bol.com/r9DQJqvrpXYw/1200x726.jpg)
 
 
-### **Klíčové Parametry a Technologie**
+## **Klíčové Parametry a Technologie**
 
 Tecnica Plasma S vyniká několika klíčovými parametry a technologiemi, které ji odlišují od konkurence:
 
@@ -38,13 +38,13 @@ Tecnica Plasma S vyniká několika klíčovými parametry a technologiemi, kter�
 *   **Stélka:** Anatomicky tvarovaná stélka poskytuje podporu klenby a přispívá k celkovému pohodlí. C.A.S. technologie umožňuje i její tvarování.
 * **Voděodolnost**: Bota má zvýšenou odolnost proti vodě díky svrchní vrstvě materiálu, avšak existuje i varianta s membránou Gore-Tex, která zaručuje úplnou ochranu proti vodě.
 
-### **Nevýhody**
+## **Nevýhody**
 
 *   **Vyšší cena:** Technologie C.A.S. a kvalitní materiály se promítají do vyšší ceny boty, což může být pro některé turisty limitujícím faktorem.
 *   **Užší střih:** Přestože je bota tepelně tvarovatelná, její základní střih je spíše užší. Lidé s velmi širokými chodidly nebo vysokým nártem by mohli mít problém s nalezením optimálního pohodlí.
 * **Omezená voděodolnost (bez GTX membrány):** Základní model Plasma S nemá membránu Gore-Tex, a proto jeho voděodolnost není stoprocentní. Pro časté použití v mokrém prostředí je vhodnější zvolit variantu s membránou (Plasma S GTX).
 
-### **Srovnání s Konkurencí**
+## **Srovnání s Konkurencí**
 
 | Model                       | Materiál svršku                        | Podrážka          | Technologie                                        | Cena (orientační) |
 | :-------------------------- | :------------------------------------- | :---------------- | :------------------------------------------------- | :----------------- |
@@ -54,7 +54,7 @@ Tecnica Plasma S vyniká několika klíčovými parametry a technologiemi, kter�
 | Scarpa Mescalito            | Kůže (semiš)                           | Vibram Dynamis LB | -                                                  | 4 500 Kč           |
 | Hoka one one Speedgoat 5 | Syntetická textílie, síťovina | Vibram Megagrip | -                                         | 4 500 Kč |
 
-### **Pro koho jsou tyto boty ideální?**
+## **Pro koho jsou tyto boty ideální?**
 
 Tecnica Plasma S jsou ideální volbou pro turisty, kteří:
 
@@ -64,13 +64,13 @@ Tecnica Plasma S jsou ideální volbou pro turisty, kteří:
 *   Jsou ochotni investovat do kvalitních bot s pokročilými technologiemi.
 *   Mají užší až normální tvar chodidla.
 
-### **Kdo by měl zvážit jinou variantu boty?**
+## **Kdo by měl zvážit jinou variantu boty?**
 
 *   Turisté s velmi širokými chodidly nebo vysokým nártem by měli vyzkoušet i jiné modely, případně se poradit s odborníkem v prodejně.
 *   Ti, kteří hledají boty s absolutní voděodolností, by měli zvážit variantu Plasma S GTX s membránou Gore-Tex.
 *   Turisté s omezeným rozpočtem mohou zvážit levnější alternativy, které však nemusí nabízet takové pohodlí a přizpůsobení jako Tecnica Plasma S.
 
-### **Závěrečné zhodnocení**
+## **Závěrečné zhodnocení**
 
 Tecnica Plasma S představují špičku v oblasti turistické obuvi díky inovativní technologii C.A.S., která umožňuje individuální přizpůsobení boty noze uživatele. Kombinace pohodlí, stability, nízké váhy a kvalitních materiálů z ní dělají skvělou volbu pro náročné turisty. Vyšší cena je vyvážena vysokou mírou komfortu a výkonu, který tyto boty nabízejí.
 

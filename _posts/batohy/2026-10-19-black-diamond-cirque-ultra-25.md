@@ -30,7 +30,7 @@ Black Diamond Cirque Ultra 25 je lehký skialpinistický batoh s ramenními popr
 
 Testery ho popisují jako kompromis mezi závodním skialpinistickým vestovým batohem a objemnějším turistickým batohem. Výrobce ho označuje za nejlehčí a nejpropracovanější skialpinistický batoh ve své nabídce. Hodí se na dlouhé denní túry s lehčí výbavou, nikoli na vícedenní výpravy ani na velké zatížení.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 - **Objem a velikosti**: 25 l, dvě velikosti S/M (délka zad 41–48 cm, obvod pasu 66–102 cm) a M/L (délka zad 47–55 cm, obvod pasu 71–114 cm). Obě verze jsou unisex.
 - **Materiál**: Tělo z tkaniny Challenge Sailcloth UltraWeave 200D (směs UHMWPE a polyesteru, příbuzná Dyneemě), dno a úchyty na cepíny z UltraWeave 400D, doplňky ze 100D nylonu ripstop. Tkanina je odolná proti povětrnosti.
 - **Přístup**: Rolovací vrch, boční zip téměř po celé délce pro přístup ke vnitřnímu prostoru, spodní oddíl na pásy a maèky s odnímatelnou přepážkou, venkovní kapsa na lavinové vybavení s vnitřními přihrádkami.
@@ -38,7 +38,7 @@ Testery ho popisují jako kompromis mezi závodním skialpinistickým vestovým 
 - **Nošení vybavení**: Odnímatelný diagonální systém pro nošení lyží, nosič přilby, který se schová do kapsy, úchyty na dva cepíny (PickPocket), horní popruh pro lano.
 - **Odlehčení**: Odnímatelný bederní pás a výztuha zad. Batoh je kompatibilní s hydratačním vakem a vysílačkou.
 
-### Výhody
+## Výhody
 1. **Nízká hmotnost a minimalismus**: Při 850 g jde o lehký batoh, který zbytečně nezatěžuje, a po odstranění pásu a výztuže je ještě lehčí.
 2. **Praktický přístup**: Boční zip a široký rolovací vrch umožňují vytáhnout vrstvu bez rozebírání obsahu. Přezky se podle testerů dobře ovládají v rukavicích.
 3. **Kapsy na popruzích**: Hodí se na rukavice, čepici, svačinu, softflask nebo telefon. Softflask kolem 500 ml se podle testerů do kapes vejde.
@@ -46,7 +46,7 @@ Testery ho popisují jako kompromis mezi závodním skialpinistickým vestovým 
 5. **Odolnost a počasí**: Tkanina je odolná proti povětrnosti. Po sezoně používání jeden z testerů nezaznamenal problémy se zipy ani švy.
 6. **Variabilní objem**: Rolovací vrch umožňuje objem upravit. Jeden tester uvádí, že skutečný objem je spíše blíže 30–35 l.
 
-### Nevýhody
+## Nevýhody
 1. **Omezená nosnost**: Testeři se shodují, že při větší zátěži (nad zhruba 5–7 kg) je batoh přetížený a bederní pás pomáhá jen málo. Chybí také stahovací popruhy nad rameny.
 2. **Popruhy a komfort pod zátěží**: Popruhy jsou úzké a při plném naložení se zařezávají do ramen. Podle jednoho testera by pomohl druhý hrudní popruh.
 3. **Otěr látky**: Jeden tester si při nošení lyží diagonálně prodřel látku o hranu lyže nebo vázání. Lyže je proto lepší nosit na boku.
@@ -54,7 +54,7 @@ Testery ho popisují jako kompromis mezi závodním skialpinistickým vestovým 
 5. **Cena**: Americká cena výrobce je 399,95 USD, což je podle testerů prémie za materiál. Konvenční verze z nylonu je citelně levnější, ale má jen jeden hrudní popruh.
 6. **Detaily**: Uživatel na fóru označil spodní uchycení popruhů za příliš složité a má pochybnosti o odolnosti.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Parametr | Black Diamond Cirque Ultra 25 | Black Diamond Speed 30 | Black Diamond Creek Transit 30L | Black Diamond Cirque 35L |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ Testery ho popisují jako kompromis mezi závodním skialpinistickým vestovým 
 
 Oproti **Black Diamond Speed 30** je Cirque Ultra 25 lehčí, má ale menší objem. **Black Diamond Creek Transit 30L** je podle tabulky ještě lehčí, ale není technický batoh s vestovými popruhy. Oproti **Black Diamond Cirque 35L** je výrazně lehčí a kompaktnější.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 - Pro **skialpinisty a freeridery**, kteří chodí rychlé denní túry s kompaktní výbavou.
 - Pro ty, kdo chtějí mít jídlo, pití a drobnosti po ruce na popruzích.
 - Pro uživatele, kteří chtějí odlehčit odnímatelnými díly a mít kapsu na lavinovou výbavu.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 - **Kdo nosí těžší náklad** (objemné bundy, termosky, těžké lyže): zvolit větší batoh s pořádnou nosnou konstrukcí, například **Black Diamond Cirque 35L**.
 - **Kdo jde na vícedenní túru**: 25 l prostě nestačí.
 - **Kdo hledá nižší cenu**: výrobce nabízí podobný batoh z konvenčního nylonu za zhruba 220 USD (jen s jedním hrudním popruhem).
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 Black Diamond Cirque Ultra 25 je dobře vybavený, lehký a funkční batoh pro rychlé skialpinistické túry. Vestové kapsy, boční zip a rolovací vrch dělají zásadní rozdíl při pohybu, odolná tkanina snese sezonu, ale je citlivá na hranu lyží. Při větší zátěži batoh narazí na hranici nosnosti a komfortu, cena je vysoká. Pro lehce vybavené turisty na lyžích je to velmi dobrá volba.
 
 **Hodnocení:** 8/10
