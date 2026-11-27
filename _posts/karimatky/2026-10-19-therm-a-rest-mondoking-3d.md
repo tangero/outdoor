@@ -30,7 +30,7 @@ Samonafukovací karimatka **Therm-a-Rest MondoKing 3D** je určená pro kempová
 
 Na rozdíl od ultralehkých turistických karimatek tu nejde o úsporu gramů, ale o maximální komfort. Výrobce ji nabízí ve dvou velikostech, Large a XXLarge. Parametry v recenzi se vztahují především k velikosti Large, před nákupem proto zkontrolujte rozměry podle své výšky.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Tloušťka:** výrobce uvádí 11 cm (4,25 palce) pěny.
 - **Tepelná izolace:** R-faktor 7 podle výrobce. Nezávislé testy ji označují za vhodnou pro většinu zimních výletů, zejména s teplým spacákem.
@@ -42,7 +42,7 @@ Na rozdíl od ultralehkých turistických karimatek tu nejde o úsporu gramů, a
 - **Ventily TwinLock:** dva jednosměrné ventily, jeden na nafukování a druhý na vypouštění. Výrobce uvádí třikrát rychlejší nafukování a pětkrát rychlejší vypouštění než u klasického ventilu.
 - **Příslušenství:** obal na karimatku slouží zároveň jako pumpovací vak.
 
-### Výhody
+## Výhody
 
 - **Mimořádné pohodlí** – testeři oceňují měkký povrch, oporu pro boky a ramena a to, že na kamenitém podkladu nic necítíte.
 - **Vhodná pro spaní na boku** – díky tloušťce a pěnovému jádru.
@@ -52,7 +52,7 @@ Na rozdíl od ultralehkých turistických karimatek tu nejde o úsporu gramů, a
 - **Odolné materiály** – uživatelé mluví o dlouhé životnosti, jeden tester ji používá téměř tři roky.
 - **Nižší hmotnost než konkurenční luxusní matrace** – u modelů srovnatelné velikosti ji testeři označují za lehčí.
 
-### Nevýhody
+## Nevýhody
 
 - **Vysoká cena** – okolo 250 až 290 dolarů podle velikosti, patří k nejdražším karimatkám pro jednoho spáče.
 - **Hmotnost a objem** – na batoh se nehodí.
@@ -62,7 +62,7 @@ Na rozdíl od ultralehkých turistických karimatek tu nejde o úsporu gramů, a
 - **Bez záplat** – v balení není opravná sada.
 - **Spojování karimatek** – výrobce sice uvádí, že se model dá spojit s jinými matracemi řady 3D, ale podle testu GearJunkie nelze dvě karimatky spojit do většího lůžka pro páry. Nabízená sada Universal Couple Kit je podle něj jen rudimentární řešení.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -73,14 +73,14 @@ Na rozdíl od ultralehkých turistických karimatek tu nejde o úsporu gramů, a
 
 MondoKing 3D má v tabulce nejvyšší R-faktor a patří k nejtlustším. BaseCamp je lehčí, ale má tloušťku 5 cm. Klymaloft je ještě tlustší, ale má výrazně nižší izolaci. Trail Pro je mnohem lehčí a skladnější, ale s menším komfortem a nižším R-faktorem. Mimo tabulku testeři uvádějí jako konkurenty Exped MegaMat s R 8,1 a HEST Foamy s R 8,8. Obě jsou teplejší, ale Foamy je výrazně těžší. MondoKing je oproti menší variantě MegaMatu téměř o půl stopy delší a má svislé boky.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **kempování u auta**, na chatu nebo do jurty, kde nevadí hmotnost.
 - Pro **spáče na boku**, kteří chtějí tlustou a oporu poskytující matraci.
 - Pro **vyšší lidi**, zvláště ve velikosti XXLarge.
 - Pro **zimní výlety s autem** v kombinaci s teplým spacákem.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo **nosí vybavení v batohu** – model je těžký a objemný.
 - Kdo hledá **nejnižší cenu** – jde o jednu z nejdražších karimatek na trhu.
@@ -88,7 +88,7 @@ MondoKing 3D má v tabulce nejvyšší R-faktor a patří k nejtlustším. BaseC
 - Kdo chce **rychlé a pohodlné balení** – stlačení často zabere dvě kola.
 - Kdo chce **spojit dvě karimatky do společného lůžka** pro páry – podle testů to tento model příliš nezvládá.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Therm-a-Rest MondoKing 3D je mimořádně pohodlná samonafukovací matrace pro kempování u auta. Nabízí tloušťku 11 cm, R-faktor 7, odolné materiály a širokou rovnou spací plochu. Nezávislé testy ji hodnotí velmi dobře a uživatelé oceňují komfort i teplo. Za komfort však zaplatíte vyšší cenou, hmotností kolem 2 kg a pracnějším balením. Pokud budete matraci vozit autem a komfort je pro vás prioritou, je to velmi dobrá volba.
 

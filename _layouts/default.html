@@ -7,9 +7,17 @@
 <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
 
 {%- comment -%}<title> generuje jekyll-seo-tag (dřív byl v hlavičce dvakrát).{%- endcomment -%}
+{%- comment -%}Recenze mají v <title> slovo „recenze“ (seo_titulek z _plugins/seo_recenze.rb), H1 a og:title zůstávají.{%- endcomment -%}
+{%- if page.seo_titulek %}
+<title>{{ page.seo_titulek | escape }}</title>
+{% seo title=false %}
+{%- else %}
 {% seo %}
-{%- if paginator and paginator.page > 1 %}
+{%- endif %}
+{%- if page.noindex or paginator and paginator.page > 1 %}
 <meta name="robots" content="noindex,follow">
+{%- else %}
+<meta name="robots" content="max-image-preview:large">
 {%- endif %}
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">

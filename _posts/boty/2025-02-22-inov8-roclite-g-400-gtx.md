@@ -22,7 +22,7 @@ Obliba Roclite G 400 GTX pramení z jejich schopnosti poskytnout spolehlivou opo
 
 ![Inov8 Roclite G 400 GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://startfitness.co.uk/cdn/shop/files/Inov8-Roclite-Pro-G-400-GTX-001073-OLBKYW.jpg)
 
-### **Klíčové parametry a technologie**
+## **Klíčové parametry a technologie**
 
 Inov8 Roclite G 400 GTX se pyšní řadou pokročilých technologií a materiálů, které přispívají k jejich výjimečnému výkonu.
 
@@ -33,13 +33,13 @@ Inov8 Roclite G 400 GTX se pyšní řadou pokročilých technologií a materiál
 *   **Powerflow+ mezipodešev:** Tato mezipodešev nabízí vynikající tlumení nárazů a návrat energie, což snižuje únavu nohou při dlouhých túrách. Nicméně, pro někoho může být méně robustní, pokud preferují extra tlumení.
 *   **Vyšší střih:** Kotníková konstrukce poskytuje oporu a stabilitu kotníku, což je klíčové v náročném terénu a při nošení těžkého batohu.
 
-### **Nevýhody**
+## **Nevýhody**
 
 *   **Vyšší cena:** Inov8 Roclite G 400 GTX se řadí do vyšší cenové kategorie, což může být pro některé turisty limitující faktor.
 *   **Úzký střih:** Boty mají relativně úzký střih, což nemusí vyhovovat všem turistům, zejména těm s širšími chodidly. Doporučuje se vyzkoušet boty před koupí, případně zvolit o půl čísla větší velikost.
 *   **Méně robustní mezipodešev (pro někoho):** Ačkoliv Powerflow+ mezipodešev nabízí dobré tlumení, někteří uživatelé by uvítali robustnější a silnější mezipodešev pro ještě větší pohodlí na extra dlouhých túrách s těžkým batohem.
 
-### **Srovnání s konkurencí**
+## **Srovnání s konkurencí**
 
 | Model                               | Materiál                  | Podešev                     | Hmotnost (g) | Určení                                           | Cena (orientační) |
 | :---------------------------------- | :------------------------ | :-------------------------- | :----------- | :----------------------------------------------- | :---------------- |
@@ -48,7 +48,7 @@ Inov8 Roclite G 400 GTX se pyšní řadou pokročilých technologií a materiál
 | La Sportiva TX5 GTX                 | GORE-TEX, kůže (Nubuck)   | Vibram® MegaGrip           | 525          | Technický terén, via ferrata, horolezectví      | 5000 Kč           |
 | Scarpa Zodiac Plus GTX              | GORE-TEX, kůže (Perwanger) | Vibram® Drumlin            | 545          | Technický terén, horolezectví, zimní turistika   | 6000 Kč           |
 
-### **Pro koho jsou tyto boty ideální?**
+## **Pro koho jsou tyto boty ideální?**
 
 Inov8 Roclite G 400 GTX jsou ideální volbou pro:
 
@@ -57,17 +57,17 @@ Inov8 Roclite G 400 GTX jsou ideální volbou pro:
 *   **Turisty hledající univerzální boty:** Zvládnou různorodý terén od blátivých stezek po kamenité horské cesty.
 * **Turisty hledající skvělou přilnavost:** Díky podešvi s grafénem Graphene Grip se výborně hodí do náročného terénu.
 
-### **Kdo by měl zvážit jinou variantu boty?**
+## **Kdo by měl zvážit jinou variantu boty?**
 
 *   **Turisté s širokými chodidly:** Úzký střih nemusí být pohodlný pro každého.
 *   **Turisté preferující extra robustní mezipodešev:** Pokud hledáte maximální tlumení a ochranu při dlouhých túrách s těžkým batohem, zvažte modely s robustnější mezipodešví.
 *   **Začátečníci:** Pro začátečníky, kteří plánují spíše lehčí túry v nenáročném terénu, mohou být vhodnější levnější a méně technické modely bot.
 * **Turisté s omezeným rozpočtem:** Je nutno počítat s vyšší pořizovací cenou.
 
-### **Závěrečné zhodnocení**
+## **Závěrečné zhodnocení**
 
 Inov8 Roclite G 400 GTX jsou špičkové turistické boty, které nabízejí vynikající kombinaci výkonu, ochrany a pohodlí. Jejich inovativní technologie a odolné materiály zajišťují spolehlivost v náročném terénu a v různých povětrnostních podmínkách. Ačkoliv mají vyšší cenu a úzký střih, jejich univerzálnost a schopnost zvládat dlouhé treky a technické trasy z nich dělají skvělou investici pro zkušené turisty a outdoorové nadšence.
 
-### **Hodnocení:** 9/10
+## **Hodnocení:** 9/10
 
 Body strhávám primárně za vyšší cenu a užší střih, který nemusí sedět každému. Naopak, oceňuji vynikající trakci, voděodolnost, odolnost a celkově vysoký komfort i při dlouhých túrách. Jedná se o jedny z nejlepších turistických bot na trhu v dané kategorii.

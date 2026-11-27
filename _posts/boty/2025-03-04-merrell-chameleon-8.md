@@ -1,73 +1,95 @@
 ---
 layout: post
-title: "Merrell Chameleon 8 - Univerzální turista pro každé dobrodružství"
+title: 'Merrell Chameleon 8 Stretch: nazouvací bota na lehké túry'
+description: 'Merrell Chameleon 8 Stretch: nízká nazouvací bota s podešví Vibram pro lehké túry, cestování a běžné nošení. Rozdíly oproti verzi Waterproof a Thermo.'
 categories: boty
-model: "Merrell Chameleon 8 Stretch"
-znacka: "Merrell"
-feature-img: 
+feature-img: ''
 thumbnail: https://m.media-amazon.com/images/I/71nl2fU4UtL._AC_SR920,736_.jpg
-vaha: 880
+model: Merrell Chameleon 8 Stretch
+znacka: Merrell
+vaha: 480
 tvar: nízké
-material: Kombinace semiše a prodyšné síťoviny
-urceni: Lehčí turistika, jednodenní výlety, cestování, každodenní nošení
 pohlavi: mužské
-pro: "Vynikající pohodlí a přizpůsobivost, dobrá trakce na různých površích, prodyšnost a rychlé šněrování."
-proti: "Nižší úroveň opory kotníku a ochrany v náročném terénu, menší odolnost než u robustnějších modelů."
+material: nubuková kůže a prodyšná síťovina, síťovaná podšívka, mezipodešev z EVA s Merrell Air Cushion v patě, podešev Vibram XS Trek Evo
+urceni: lehčí turistika, jednodenní výlety po stezkách, cestování, každodenní nošení
+pro: Rychlé nazouvání s elastickou šňůrou, podešev Vibram XS Trek Evo s hrbolky 5 mm, měch u jazyku proti kamínkům, pohodlí hned po vybalení.
+proti: Bez membrány, úzká podešev a slabá boční opora, tuhá pata ztěžuje nazouvání, příliš dlouhá šňůra, chybí nezávislé redakční testy.
 hodnoceni: 7
+last_modified_at: 2026-11-27
+zdroje:
+- https://www.merrell.com/UK/en_GB/chameleon-8-stretch/44442M.html
+- https://merrell.pt/produto/chameleon-8-stretch-sapatilhas-homem-j135435c/
+- https://www.merrell.com/US/en/chameleon-thermo-8-tall-waterproof/47075M.html
+- https://www.merrell.com/US/en/chameleon-thermo-8-tall-waterproof/47076W.html
+- https://outdoorsmagic.com/article/merrell-chameleon-8-walking-boot-review/
+- https://www.zappos.com/product/review/9334401
+- https://www.zappos.com/product/review/9339601
+- https://www.zappos.com/product/review/9334401/page/16
+- https://www.zappos.com/product/review/9334401/page/17/orderBy/best
+- https://www.walmart.com/reviews/product/482301083
 ---
 
-
-Merrell Chameleon 8 Stretch jsou oblíbenou volbou pro turisty a cestovatele, kteří hledají univerzální, pohodlnou a spolehlivou obuv pro lehčí outdoorové aktivity. Jejich síla spočívá v kombinaci pohodlí, prodyšnosti a adaptability, díky čemuž jsou ideálním společníkem na jednodenní výlety, procházky v přírodě, cestování a dokonce i každodenní nošení ve městě. Hlavním tahákem je jejich schopnost přizpůsobit se různým typům terénu a zároveň poskytovat dostatečnou podporu a pohodlí pro celodenní nošení.
-
-Chameleon 8 Stretch si získaly oblibu díky své všestrannosti a pohodlí, které vychází z dlouholeté tradice a neustálého vylepšování modelu Chameleon. Jsou lehké, snadno se obouvají a díky elastickému šněrování se perfektně přizpůsobí tvaru nohy. To oceníte nejen při rychlém přezouvání, ale i při delších túrách, kdy noha může mírně otékat. Navíc, tato bota je navržena tak, aby vyhovovala široké škále uživatelů, od příležitostných turistů po zkušenější dobrodruhy, kteří preferují lehčí a flexibilnější obuv.
+Merrell Chameleon 8 Stretch je nízká turistická bota, kterou nazujete bez zavazování. Místo tkaniček má elastickou šňůru se zámkem a kolem kotníku pružný límec. Za nás je to bota na jednodenní výlety po stezkách, cestování a každodenní nošení, kde oceníte rychlé obouvání a podešev Vibram s výrazným vzorkem. Na kamenité horské túry s batohem a do mokra bychom si ji nevzali.
 
 ![Merrell Chameleon 8 Stretch](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.mackspw.com/site/Images/Products%20-%20NEW/MELJ033091+Olive-01.jpg)
 
-## **Klíčové parametry a jejich zhodnocení**
+Řada Chameleon má za sebou osm generací a osmičku Merrell stále prodává, v britském e-shopu ale byla v době psaní vyprodaná. Vedle základní verze Stretch bez membrány existuje Chameleon 8 Stretch Waterproof s membránou, kotníková Chameleon 8 s Gore-Tex a zimní Chameleon Thermo 8 Tall Waterproof. Přímo verzi Stretch jsme v redakčních testech nenašli, proto vycházíme z údajů výrobce, z testu sesterské kotníkové verze a z recenzí zákazníků. Mnozí z nich nosí Chameleony roky a srovnávají osmičku s předchozími generacemi.
 
-Merrell Chameleon 8 Stretch se vyznačují několika klíčovými parametry, které ovlivňují jejich výkon a pohodlí. Svršek boty je vyroben z kombinace kvalitní semišové usně a prodyšné síťoviny. Kůže zajišťuje odolnost v namáhaných částech, zatímco síťovina umožňuje efektivní odvod vlhkosti a udržuje nohu v suchu i při vyšší aktivitě.
+## Klíčové parametry a technologie
 
-Podešev Vibram® XS Trek Evo poskytuje vynikající trakci na různých površích, od suchých a kamenitých cest po mokré a kluzké stezky. Tato směs je známá svou odolností a přilnavostí, což zaručuje jistý krok v různorodém terénu. Mezipodešev z EVA pěny s technologií Merrell Air Cushion v patní části tlumí nárazy a zvyšuje komfort při chůzi, zejména na tvrdém povrchu.
+- **Svršek:** nubuková kůže a prodyšná síťovina, síťovaná podšívka. Základní verze nemá membránu.
+- **Zapínání:** elastická šňůra se zámkem, měch u jazyku proti nečistotám a vnější poutko na patě, které podle Merrellu zamyká patu.
+- **Odpružení:** lehká mezipodešev z EVA a v patě Merrell Air Cushion, vyjímatelná tvarovaná stélka Kinetic Fit BASE.
+- **Podešev:** Vibram XS Trek Evo s hrbolky 5 mm, kterou Merrell ladil pro dobrý záběr a ohebnost na mokrém povrchu.
+- **Hmotnost:** britský web Merrellu uvádí 480 g na botu, portugalský 0,43 kg. Počítejte tedy zhruba se 430–480 g na botu podle velikosti.
+- **Cena:** britský e-shop Merrellu ji vede za 140 GBP, portugalský za 149,90 €.
 
-Výhodou je také anatomicky tvarovaná stélka Kinetic Fit™ BASE, která poskytuje oporu klenbě a přispívá k celkovému pohodlí. Stélka je vyjímatelná a lze ji snadno vyčistit nebo vyměnit. Merrell Chameleon 8 Stretch jsou nízké boty, což znamená, že poskytují větší volnost pohybu kotníku. Tato konstrukce je ideální pro lehčí turistiku a aktivity, kde je důležitá flexibilita a rychlost.
+**Chameleon 8 Stretch Waterproof** má stejný koncept s vodotěsnou membránou. Hodí se do rosy a kaluží, v teple ale bude víc hřát. **Chameleon Thermo 8 Tall Waterproof** je kotníková zimní bota s membránou, 400 g syntetického zateplení, fleecovou podšívkou, výstupkem pro pásky sněžnic a podešví Vibram TC5+. Merrell ji vede za 190 USD a uvádí 1 lb 5,5 oz (asi 610 g) na botu.
 
-## **Nevýhody**
+## Výhody
 
-*   **Nižší opora kotníku:** Nízký profil boty neposkytuje dostatečnou oporu kotníku v náročném, nerovném terénu. Pro technicky obtížné túry nebo vysokohorskou turistiku s těžkým batohem nejsou ideální.
-*   **Menší odolnost:** V porovnání s robustnějšími turistickými botami s celokoženým svrškem a pevnou konstrukcí je Chameleon 8 Stretch méně odolný vůči mechanickému poškození, například ostrým kamenům.
-*   **Méně vhodné do extrémních podmínek:** Ačkoli jsou boty prodyšné, v extrémně horkém a vlhkém počasí se mohou nohy více potit. Stejně tak nejsou ideální do velmi chladného a mokrého počasí, protože nemají voděodolnou membránu.
+- **Nazouvání bez tkaniček.** V recenzích na Zappos ji majitelé často uvádějí jako hlavní přednost. Jeden majitel ji nosí kvůli tomu, že jako cestovatel často zouvá boty na letištních kontrolách. Za nás je to jediný důvod, proč brát Chameleon místo klasické tkaničkové boty, ale je to důvod silný.
+- **Výrazný vzorek podešve.** Britský Outdoors Magic u kotníkové osmičky popisuje přechod z hrbolků 3 mm na 5 mm a výrazně lepší záběr než u sedmičky. U verze Stretch to potvrzují i majitelé: jeden po přechodu ze sedmičky píše o lepším záběru na kluzkém povrchu, jiný ji chválí po blátivé hřebenovce na Havaji.
+- **Pohodlí hned po vybalení.** Na Zappos dává pět hvězd 59 % z 512 hodnocení a pohodlí bez rozchozování je v recenzích opakovaný motiv. Jeden majitel na Zappos má v ní nachozeno asi 160 km po lesních stezkách v Michiganu a na šestnáctikilometrových túrách mu tlumení stačí.
+- **Měch u jazyku a pružný límec.** Podle majitelů drží venku sopečný škvár, kamínky a nečistoty i na travnatých pahorcích.
+- **Univerzálnost.** Botu lze nosit na stezky, na cesty, do práce i do města.
 
-## **Srovnání s konkurencí**
+## Nevýhody
 
-| Vlastnost             | Merrell Chameleon 8 Stretch | Salomon X Ultra 4          | La Sportiva TX4           |
-| ---------------------- | --------------------------- | --------------------------- | --------------------------- |
-| Určení                | Lehká turistika, cestování  | Lehká až střední turistika | Technické lezení, via ferrata |
-| Hmotnost              | 880 g                      | 780 g                      | 720 g                      |
-| Materiál svršku        | Semiš, síťovina            | Syntetika, textilie        | Kůže, syntetika           |
-| Podešev               | Vibram® XS Trek Evo         | Contagrip® MA              | Vibram® MegaGrip         |
-| Opora kotníku          | Nízká                      | Střední                    | Nízká                      |
-| Voděodolnost           | Ne                         | Ano (Gore-Tex varianta)   | Ne                         |
-| Cena (orientační)    | 2 999 Kč                   | 3 499 Kč                   | 3 799 Kč                   |
+- **Úzká podešev a slabá boční opora.** To je podle nás nejvážnější výtka. Více majitelů na Zappos píše, že osmička má užší podrážku než starší generace, a několik z nich popisuje, že se jim na nerovném terénu podvrací kotník, jeden si ho prý málem podvrtl nejméně třikrát. Jeden recenzent má tyto stížnosti za přehnané a v anketě Zapposu hodnotí šířku jako odpovídající 91 % dotázaných. Problém se tedy týká hlavně lidí zvyklých na starší, širší Chameleony a těch, kdo chodí po kamení.
+- **Tuhá pata a těsný vstup.** Nazouvání bez lžíce je podle několika majitelů obtížné, límec se při tahání za poutko ohýbá dovnitř. Dva majitelé osmičky na Zappos navíc popisují, že se jim prodřela nebo roztrhla podšívka uvnitř paty, jeden po méně než roce. Další, který za 20 let vystřídal asi pět párů, varuje, že násilné nazouvání časem roztrhne podšívku paty nebo zlomí její plastovou výztuhu. Za nás: s lžící na boty ji obouvejte od prvního dne.
+- **Dlouhá šňůra a malý zámek.** Na příliš dlouhou elastickou šňůru si stěžuje několik recenzentů, jeden popisuje, že se v podrostu zachytí a zůstane viset smyčka. Úchyt zámku je podle nich malý a neohrabaný.
+- **Vrzání.** V recenzích na Zappos je to jedna z nejčastějších stížností, více než deset majitelů popisuje vrzání či skřípění při každém kroku u nových bot, několik z nich ho lokalizuje do oblasti paty. Jeden píše, že ani po roce nepřestalo, jiný kvůli tomu vrátil dva páry. Na stezce to nevadí, v kanceláři ano.
+- **Bez membrány a s mírným tlumením.** Outdoors Magic u kotníkové verze s Gore-Tex popisuje pevnou přední část a jen mírné tlumení v patě. Jeden majitel, který boty nosí v africkém Sahelu, si na kamenech přivodil pohmožděniny chodidla, jiný upozorňuje, že promočené boty dlouho schnou.
 
-## **Pro koho jsou tyto boty ideální?**
+## Srovnání s konkurencí
 
-Merrell Chameleon 8 Stretch jsou ideální volbou pro:
+Ceny alternativ ve stejné měně ověřené nemáme, proto srovnáváme jen použití a vlastnosti.
 
-*   **Příležitostné turisty:** Pro ty, kteří vyrážejí na kratší výlety do přírody a hledají pohodlnou a univerzální obuv.
-*   **Cestovatele:** Díky svému pohodlí a všestrannosti jsou skvělé na cestování, kde se střídají různé aktivity a terény.
-*   **Městské dobrodruhy:** Jsou vhodné i pro každodenní nošení ve městě, kde oceníte jejich pohodlí a styl.
-*   Turisty s širší nohou.
+[Merrell Moab 3](/boty/merrell-moab-3/) je klasická tkaničková turistická bota od stejné značky, s podešví Vibram TC5+ a Air Cushion v patě. Naše recenze u ní vyzdvihuje pohodlí, prodyšnost a širokou nabídku velikostí a šířek, včetně dámských verzí. Na delší túry bychom bez váhání vzali Moab 3. Chameleon dává smysl, jen když je pro vás rychlé nazouvání priorita.
 
-## **Kdo by měl zvážit jinou variantu boty?**
+[Salomon X Ultra 4](/boty/salomon-x-ultra/) je nízká bota do náročnějšího terénu. Naše recenze ji chválí za stabilitu a přilnavost a nabízí se i ve verzích s GORE-TEX. Na kamenité horské stezky bychom brali ji, protože stabilita je přesně to, co majitelé u Chameleonu postrádají.
 
-*   **Nároční turisté:** Pro vysokohorskou turistiku, těžké treky s batohem nebo technicky náročné terény jsou vhodnější boty s vyšší oporou kotníku a robustnější konstrukcí, například Salomon X Ultra 4 nebo La Sportiva TX4.
-*   **Turisté hledající voděodolnost:** Pokud často chodíte v mokrém prostředí, zvažte boty s voděodolnou membránou, například Salomon X Ultra 4 GTX.
-*   **Turisté s úzkým chodidlem:** Střih boty je poměrně široký, proto vyzkoušejte boty předem nebo hledejte modely, určené na užší chodidlo.
+[Keen Voyageur](/boty/keen-voyageur/) je nízká prodyšná bota se širokým střihem a ochranou prstů. Kdo má širší nohu a stěžuje si na úzkou podešev osmičky, ať zkusí spíš Keen.
 
-## **Závěrečné zhodnocení**
+## Pro koho je ideální?
 
-Merrell Chameleon 8 Stretch představují skvělou volbu pro turisty a cestovatele, kteří hledají univerzální, pohodlnou a lehkou obuv pro různorodé aktivity. Jejich síla spočívá v pohodlí, prodyšnosti a adaptabilitě, což je činí ideálními pro lehčí turistiku, cestování a každodenní nošení. Avšak, je důležité mít na paměti jejich omezení, zejména v náročném terénu a extrémních podmínkách.
+- Pro jednodenní výlety po lesních a polních cestách a lehčích stezkách s malým batohem.
+- Pro cestování, kde boty často zouváte, třeba na letištích nebo v ubytování.
+- Pro každodenní nošení, kde chcete podešev Vibram a odolnější svršek než u běžné tenisky.
+- Pro majitele starších Chameleonů, kterým vyhovuje koncept. Ti by si osmičku měli nejdřív vyzkoušet, protože je podle řady z nich užší.
 
-Celkově jsou Merrell Chameleon 8 Stretch spolehlivou a osvědčenou volbou, která nabízí výborný poměr ceny a výkonu. Jsou to boty, které s vámi prožijí mnoho dobrodružství, ať už se vydáte kamkoliv.
+## Kdo by měl zvážit jinou variantu?
 
-**Hodnocení:** 7/10 (Body strhávám za nižší úroveň opory kotníku a menší odolnost v náročném terénu. Přidávám body, ale za vynikající pohodlí, přizpůsobivost a univerzální použití.)
+- Kdo chodí do kamenitého a horského terénu s batohem. Stížnosti na podvracení kotníku jsou pro nás dostatečný důvod vzít stabilnější Salomon X Ultra 4.
+- Kdo chodí často v mokru, potřebuje verzi Chameleon 8 Stretch Waterproof nebo jinou botu s membránou. Jeden majitel Waterproof na Zappos chválí, že mu límec v bahně udržel botu na noze, jiný na Walmartu varuje, že pot a déšť stékající po noze zůstanou uvnitř.
+- Kdo chodí v zimě po sněhu, vezme zateplenou Chameleon Thermo 8 Tall Waterproof.
+- Kdo má širší nohu, ať zkusí Keen Voyageur. Merrell u verze Stretch širší provedení nenabízí a v recenzích se po něm opakovaně ptají.
+- Kdo je citlivý na hluk. Kvůli vrzání bychom boty první dny nosili jen doma, aby šly případně vrátit.
+- Ženy. Verzi Stretch vede Merrell jako pánskou a jedna majitelka v recenzích verze Waterproof na Walmartu píše, že nazouvací provedení se v dámské řadě už nenabízí. Ověřte si nabídku u prodejce, zimní Thermo 8 Tall Waterproof má Merrell i v dámské verzi.
+
+## Závěrečné zhodnocení
+
+Za nás je Merrell Chameleon 8 Stretch dobrá koupě jen na lehké výlety, cestování a běžné nošení, kde oceníte nazouvání bez tkaniček. Na delší túry s pevným dotažením bychom zvolili Merrell Moab 3, do kamenitého horského terénu stabilnější Salomon X Ultra 4. Podešev Vibram s hrbolky 5 mm, odolný svršek z nubuku a pohodlí po vybalení jsou silné stránky, které potvrzují i dlouholetí majitelé. Hlavním kompromisem je úzká podešev se slabší boční oporou, tuhá pata při nazouvání a chybějící membrána u základní verze, k tomu časté stížnosti na vrzání. Hodnocení snižuje i to, že verzi Stretch zatím neprověřil žádný nezávislý redakční test.
+
+**Hodnocení:** 7/10 (pohodlná a rychle nazouvací bota pro lehčí terén, hodnocení snižuje slabší boční stabilita, tuhá pata, chybějící membrána a nedostatek nezávislých testů)

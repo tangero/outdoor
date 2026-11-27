@@ -20,26 +20,26 @@ Gregory Jade 53 a 63 jsou batohy navržené pro ženy, které plánují víceden
 
 ![Gregory Jade 63](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.sefiles.net/merchant/1482/images/zoom/GMP_S23_Jade63_MidnightNavy_Front341.jpg)
 
-### 2. Klíčové parametry a technologie
+## 2. Klíčové parametry a technologie
 
 - **Zádový systém:** Batohy jsou vybaveny systémem Response A3, který se přizpůsobuje pohybům těla a zajišťuje stabilitu i na nerovném terénu. Systém je navržen speciálně pro ženské postavy, což zajišťuje lepší rozložení váhy.
 - **Materiál:** Hlavní materiál je 210D High Tenacity Nylon, který je lehký a odolný proti oděru. Doplňkové části jsou vyrobeny z 630D Nylonu, což zvyšuje odolnost batohu.
 - **Organizace vnitřního prostoru:** Batoh má několik komor a kapes, které umožňují dobrou organizaci vybavení. Horní přístupová kapsa a spodní přístup k hlavnímu prostoru usnadňují manipulaci s obsahem.
 - **Ventilace:** Zádový systém nabízí omezenou ventilaci, což může být nevýhodou v horkém počasí.
 
-### 3. Výhody
+## 3. Výhody
 
 - **Ergonomický zádový systém:** Systém Response A3 zajišťuje vysoký komfort a stabilitu.
 - **Odolné materiály:** Kombinace 210D a 630D Nylonu zajišťuje dlouhou životnost batohu.
 - **Dobře organizovaný vnitřní prostor:** Více komor a kapes usnadňuje organizaci vybavení.
 - **Přizpůsobení pro ženy:** Batoh je navržen s ohledem na ženské proporce.
 
-### 4. Nevýhody
+## 4. Nevýhody
 
 - **Vyšší hmotnost:** Batoh je o něco těžší než některé konkurenční modely.
 - **Omezená ventilace zad:** Zádový systém neposkytuje dostatečnou ventilaci, což může být problém v horkém počasí.
 
-### 5. Srovnání s konkurencí
+## 5. Srovnání s konkurencí
 
 | Parametr          | Gregory Jade 53/63 | Osprey Ariel AG 55 | Deuter Aircontact Lite 50+10 |
 |-------------------|--------------------|--------------------|------------------------------|
@@ -49,18 +49,18 @@ Gregory Jade 53 a 63 jsou batohy navržené pro ženy, které plánují víceden
 | Ventilace zad     | Omezená            | Dobrá              | Výborná                      |
 | Cena (přibližně)  | 5000 Kč            | 5500 Kč            | 4800 Kč                      |
 
-### 6. Pro koho je tento batoh ideální?
+## 6. Pro koho je tento batoh ideální?
 
 Gregory Jade 53 a 63 jsou ideální pro ženy, které plánují vícedenní outdoorové výpravy a potřebují spolehlivý a pohodlný batoh. Jsou vhodné pro turistky, které oceňují dobrou organizaci vnitřního prostoru a odolné materiály.
 
-### 7. Kdo by měl zvážit jinou variantu batohu?
+## 7. Kdo by měl zvážit jinou variantu batohu?
 
 Ti, kteří preferují lehčí batohy nebo potřebují lepší ventilaci zad, by měli zvážit jiné modely, jako je Osprey Ariel AG 55 nebo Deuter Aircontact Lite 50+10.
 
-### 8. Závěrečné zhodnocení
+## 8. Závěrečné zhodnocení
 
 Gregory Jade 53 a 63 jsou kvalitní batohy, které nabízejí vysoký komfort a odolnost pro náročné outdoorové výpravy. Jejich ergonomický zádový systém a dobře organizovaný vnitřní prostor jsou hlavními přednostmi. Nicméně vyšší hmotnost a omezená ventilace zad mohou být pro některé uživatele nevýhodou.
 
-### 9. Hodnocení: 8/10
+## 9. Hodnocení: 8/10
 
 Body strhávám za vyšší hmotnost a omezenou ventilaci zad. Přidávám body za ergonomický zádový systém a odolné materiály.

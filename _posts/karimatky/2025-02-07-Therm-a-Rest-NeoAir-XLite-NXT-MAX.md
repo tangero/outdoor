@@ -21,13 +21,13 @@ Therm-a-Rest NeoAir XLite NXT MAX se etablovala jako vlajková loď mezi ultrale
 
 ![Model karimatky](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.webshopapp.com/shops/334138/files/425043899/therm-a-rest-neoair-xlite-nxt-max-sleeping-pad.jpg)
 
-### 2. Klíčové parametry a technologie
+## 2. Klíčové parametry a technologie
 - **WingLock Valve**: Revoluční ventil umožňující jednosměrný průtok vzduchu – nafouknete ji za 5-6 pumpnutí příslušným vakem (součástí balení). Deflace je intuitivní, ale pomalejší než u konkurence s dump ventily.
 - **ThermaCapture**: Reflektivní vrstva uvnitř karimatky odráží tělesné teplo zpět k uživateli. Kombinace s triangulačními komorami minimalizuje tepelné mosty
 - **30D ripstop nylon**: Odolný proti propíchnutí, ale stále ultralehký. Pro srovnání – Nemo Tensor Insulated používá tenčí 20D polyester
 - **Sbalitelnost**: Velikost srolované karimatky (23 x 10 cm) odpovídá 1L lahvi Nalgene, ideální pro úsporu místa v batohu
 
-### 3. Výhody
+## 3. Výhody
 - **Ticho jako nikdy předtím**  
 Díky nové struktuře ThermaCapture fólie a zesíleným švům už nebudete budit celý kemp při převalování. Testy v anechoické komoře potvrzují 83% redukci hluku oproti předchůdcům
 
@@ -37,7 +37,7 @@ R 4.5 stačí pro jarní/letní túry v Alpách i podzimní výpravy do Skandin�
 - **Ultrakompaktní design**  
 Karimatka se vejde i do malých batohů typu 30L, což ocení minimalisté a bikepackeři. Balení do vlastního vaku je snadné i bez tréninku
 
-### 4. Nevýhody
+## 4. Nevýhody
 - **Cena na hraně luxusu**  
 Za 240–270 $ (podle velikosti) pořídíte alternativy s lepší odolností (např. Nemo Tensor All-Season) nebo výrazně levnější základní modely.
 
@@ -47,7 +47,7 @@ Za 240–270 $ (podle velikosti) pořídíte alternativy s lepší odolností (n
 - **Pomalé nafukování**  
 Oproti konkurenčnímu systému Nemo „Laylow Valve“ trvá dosažení plné tuhosti o 30–40 % déle. Pumpovací vak není kompatibilní s elektrickými pumpami třetích stran.
 
-### 5. Srovnání s konkurencí
+## 5. Srovnání s konkurencí
 
 | Parametr           | NeoAir XLite NXT MAX | Nemo Tensor Insulated | Sea to Summit Ether Lite |
 |--------------------|----------------------|-----------------------|--------------------------|
@@ -58,16 +58,16 @@ Oproti konkurenčnímu systému Nemo „Laylow Valve“ trvá dosažení plné t
 | **Cena ($)**       | 240                  | 230                   | 200                      |
 | **Typ ventilu**    | WingLock             | Laylow                | Double Valve             |
 
-### 6. Pro koho je karimatka ideální?
+## 6. Pro koho je karimatka ideální?
 - **Ultra-lehcí turisté**: Pro ty, kteří počítají každý gram na vícedenních trecích typu PCT nebo CDT.
 - **Bikepackeři**: Díky kompaktnosti se vejde i do framebagu kol.
 - **Vyznavači minimalistického stylu**: Kdo preferuje 1 karimatku pro 90 % svých outdoorových aktivit.
 
-### 7. Kdo by měl zvážit jinou variantu?
+## 7. Kdo by měl zvážit jinou variantu?
 - **Zimní dobrodruzi**: Pro teploty pod -15 °C sáhněte po XTherm NXT s R 7.3.
 - **Rodiny s dětmi**: Levnější modely jako Therm-a-Rest Z-Lite Sol nabídnou větší odolnost pro hravé kempování:.
 
-### 8. Závěrečné zhodnocení
+## 8. Závěrečné zhodnocení
 NeoAir XLite NXT MAX není dokonalá, ale její **rovnováha mezi výkonem a váhou** z ní dělá nejuniverzálnější volbu pro 90 % outdoorových scénářů. Zatímco konkurence vyniká v dílčích parametrech (Nemo v pohodlí, Sea to Summit v tloušťce), Therm-a-Rest drží laťku v klíčové metrice: **kolik tepla získáte za každý gram v batohu**.
 
 **Hodnocení:** 8/10  

@@ -31,7 +31,7 @@ Garmont 9.81 Etere Max GTX je nízká membránová bota pro rychlou turistiku, t
 
 Nejvíc nás zaujala kombinace nízké hmotnosti, vodotěsné membrány a podešve Vibram Megagrip s hlubokým vzorkem. Je to bota pro svižné túry v horách, ne pro těžký batoh a dlouhé vícedenní přechody.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Svršek:** technický ripstop s navařenými mikrovlákennými výztuhami. Membrána GORE-TEX Extended Comfort (ePE) je bez PFC a podle výrobce i testerů zajišťuje vodotěsnost při zachování rozumného klimatu v botě.
 - **Podešev:** Vibram Megagrip s technologií Traction Lug, hlubokými hrbolky a zesílenými bloky vzorku. Mezipodešev je z jednodenzitní lehké EVA s ergonomickou vložkou ESS.
@@ -40,7 +40,7 @@ Nejvíc nás zaujala kombinace nízké hmotnosti, vodotěsné membrány a podeš
 - **Hodnocení výrobce (škála 0–6):** lehkost 4, prodyšnost 4, ochrana 4, podpora 3, tuhost 3. Rychlá turistika 6/6, klasická turistika 3/6. Tlumení výrobce samostatným číslem nehodnotí.
 - **Hmotnost:** zdroje uvádějí 399 g na jednu botu (UK 8), e-shop výrobce 720–800 g (zřejmě za pár, pro jednotlivé velikosti) a Bergfreunde 798 g (pár ve střední velikosti). Údaje spolu sedí, pokud jde o páry; jedna bota tedy váží zhruba 400 g.
 
-### Výhody
+## Výhody
 
 - Nízká hmotnost, která se hodí pro svižný pohyb po stezkách.
 - Vodotěsná membrána bez PFC a PFAS.
@@ -48,7 +48,7 @@ Nejvíc nás zaujala kombinace nízké hmotnosti, vodotěsné membrány a podeš
 - Heel Lock a přesné šněrování pro dobré držení paty při sestupech.
 - Pohodlná stélka Ortholite Float a přímý kontakt s terénem díky nižší tuhosti.
 
-### Nevýhody
+## Nevýhody
 
 - Nízký střih nabízí menší oporu kotníku. Sám výrobce hodnotí podporu jen 3 z 6 a tuhost 3 z 6.
 - Ochrana je podle výrobce střední (4 z 6) a tuhost nízká (3 z 6). Mezipodešev je z lehké jednodenzitní EVA, která podle testerů dává přímý kontakt s terénem. Za nás je to znamení, že bota je stavěná na rychlost, ne na nošení velké zátěže.
@@ -56,7 +56,7 @@ Nejvíc nás zaujala kombinace nízké hmotnosti, vodotěsné membrány a podeš
 - Testy, které jsme našli, jsou spíše představením nové boty než dlouhodobým testem. Chybí údaje o odolnosti svršku po delším používání.
 - Obchody uvádějí model jako mužský, ženskou verzi jsme v podkladech nenašli.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 Cena v e-shopu výrobce je 179,95 €. Obchod SportFits uvádí doporučenou cenu 179,90 € a zlevněnou cenu kolem 138–141 €. Slevu nesrovnáváme s běžnými cenami jiných bot. U ostatních bot z našich recenzí ověřené ceny nemáme, proto porovnáváme jen použití a parametry, ne cenovou výhodnost.
 
@@ -66,14 +66,14 @@ Cena v e-shopu výrobce je 179,95 €. Obchod SportFits uvádí doporučenou cen
 
 **Garmont Hexagon GTX** (545 g, vysoké, Gore-Tex) je vyšší a těžší bota od stejné značky pro technicky náročné vícedenní túry s těžším batohem. Má vyšší střih a větší oporu kotníku, ale podle tabulky je vyprodaná v katalogu výrobce a chybí nezávislé dlouhodobé testy. Na delší túry s těžším batohem bychom raději volili ji, Etere Max pro lehké a rychlé túry.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro turisty, kteří chodí rychlé jednodenní túry s lehkým batohem po technických stezkách a chtějí lehkou botu, která drží vodu venku.
 - Pro ty, kdo ocení nízký střih a přímý kontakt s terénem a nepotřebují vysokou oporu kotníku.
 - Pro zájemce o botu s membránou bez PFC, kteří chtějí podešev Vibram Megagrip.
 - Pro ty, kdo preferují běžecký střih a rychlé šněrování.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Pokud plánujete vícedenní treky nebo nosíte větší batoh s plným vybavením, vezměte vyšší a tužší botu, například Garmont Hexagon GTX. Výrobce u Etere Max uvádí tuhost jen 3 z 6 a klasickou turistiku také 3 z 6, takže ji nevybíráme pro delší túry s větší zátěží.
 - Pokud máte slabší kotníky nebo hledáte oporu na suťových svazích, vyšší střih bude bezpečnější.
@@ -81,7 +81,7 @@ Cena v e-shopu výrobce je 179,95 €. Obchod SportFits uvádí doporučenou cen
 - Pokud potřebujete ženskou verzi, ověřte si dostupnost u prodejce, protože obchody ji neuvádějí.
 - Pokud potřebujete botu i na běh v terénu, vyberte Inov8 Roclite G 345 GTX. Pokud hledáte botu hlavně na nenáročné jednodenní túry po upravených cestách, stačí vám spíš Salomon Outline GTX, protože rychlé technické stezky, na které je Etere Max stavěná, nevyužijete.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás je Garmont 9.81 Etere Max GTX dobrá volba, ale jen pro rychlé jednodenní túry s lehkým batohem v technickém terénu. Je lehká, vodotěsná, s přilnavou podešví a dobrou fixací paty. Cenu 179,95 € v e-shopu výrobce posuzujeme jen podle toho, co bota nabízí, protože ceny konkurence neznáme. Hlavním kompromisem je nízký střih a střední tuhost, tedy menší opora kotníku a omezená vhodnost pro větší zátěž. Pro delší túry s těžším batohem bychom zvolili vyšší botu. Hodnocení také snižuje to, že chybí nezávislé dlouhodobé testy.
 

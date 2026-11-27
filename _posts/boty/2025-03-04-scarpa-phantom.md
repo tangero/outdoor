@@ -23,7 +23,7 @@ Obliba modelu Phantom 6000 pramení z několika klíčových faktorů. Předevš
 
 ![Model bot](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.outside.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/c/scarpa-phantom-6000-hd-black-bright-orange-w22.jpg)
 
-### **Klíčové Parametry a Technologie**
+## **Klíčové Parametry a Technologie**
 
 Scarpa Phantom 6000 se pyšní řadou špičkových technologií a materiálů, které dohromady tvoří botu schopnou odolat i těm nejextrémnějším podmínkám. Pojďme se na ně podívat podrobněji:
 
@@ -34,14 +34,14 @@ Scarpa Phantom 6000 se pyšní řadou špičkových technologií a materiálů, 
 *  **Šněrování:** Vnější bota využívá systém rychlošněrování s lankem Dyneema, které je extrémně pevné a odolné. Tento systém umožňuje rychlé a precizní utažení boty i v rukavicích. Vnitřní botička má klasické tkaničkové šněrování.
 *   **Výška boty:** Vysoký střih boty poskytuje maximální oporu kotníku a ochranu před sněhem a chladem.
 
-### **Nevýhody Scarpa Phantom 6000**
+## **Nevýhody Scarpa Phantom 6000**
 
 *   **Vyšší cena:** Phantom 6000 patří mezi nejdražší modely na trhu. Investice do těchto bot se vyplatí především zkušeným horolezcům a alpinistům, kteří se pravidelně pohybují v extrémních podmínkách.
 *   **Užší střih:** Bota má relativně úzký střih, který nemusí vyhovovat každému. Před koupí je důležité botu vyzkoušet, ideálně s tlustými ponožkami.
 *   **Snížená prodyšnost:** Důraz na voděodolnost a tepelný komfort se projevuje sníženou prodyšností. V teplejších podmínkách, například při delších přístupech k ledovci, se může noha více potit.
 *  **Specifické určení:** Boty jsou navrženy pro specifické použití v extrémních podmínkách. Pro méně náročné aktivity, jako je klasická zimní turistika, jsou zbytečně robustní a teplé.
 
-### **Srovnání s Konkurencí**
+## **Srovnání s Konkurencí**
 
 | Model                      | Hmotnost (g, jedna bota) | Materiál                                | Izolace                  | Podrážka                 | Cena (orientační) |
 | -------------------------- | ------------------------ | --------------------------------------- | ------------------------ | ------------------------ | -------------------- |
@@ -50,18 +50,18 @@ Scarpa Phantom 6000 se pyšní řadou špičkových technologií a materiálů, 
 | Mammut Nordwand 6000 High  | 1050                     | Schoeller, Microfiber, Gore-Tex®        | Thinsulate™             | Vibram® Teton            | 16 500 Kč           |
 | Scarpa Phantom 8000        | 1320                     |  K-Tech, S-Tech Fabric, OutDry®       | Primaloft® / EVA      | Vibram® Zero Gravity     | 20 000 Kč           |
 
-### **Pro Koho Jsou Tyto Boty Ideální?**
+## **Pro Koho Jsou Tyto Boty Ideální?**
 
 Scarpa Phantom 6000 jsou ideální volbou pro zkušené horolezce, alpinisty a účastníky vysokohorských expedic, kteří se pohybují v extrémních zimních podmínkách. Jsou vhodné pro lezení v ledu, mixové lezení, pohyb po ledovcích a zdolávání nejvyšších hor světa. Boty ocení ti, kteří hledají maximální tepelný komfort, nekompromisní voděodolnost a spolehlivou oporu v náročném terénu.
 
-### **Kdo by Měl Zvážit Jinou Variantu Boty?**
+## **Kdo by Měl Zvážit Jinou Variantu Boty?**
 
 Pokud neplánujete expedice do extrémních nadmořských výšek a pohybujete se spíše v méně náročném terénu, například při zimní turistice nebo lehčím alpinismu, Phantom 6000 pro vás budou pravděpodobně zbytečně robustní a drahé. V takovém případě se podívejte po lehčích a prodyšnějších modelech, například z řady Scarpa Phantom Tech, Ribelle HD, nebo po botách určených pro zimní turistiku. Stejně tak, pokud máte širokou nohu, vyzkoušejte širší modely jiných značek.
 
-### **Závěrečné Zhodnocení**
+## **Závěrečné Zhodnocení**
 
 Scarpa Phantom 6000 jsou špičkové expediční boty, které poskytují vynikající tepelný komfort, nepromokavost a odolnost v těch nejnáročnějších podmínkách. Precizní zpracování, kvalitní materiály a osvědčené technologie z nich dělají spolehlivého partnera pro lezení v ledu, mixové lezení a vysokohorské expedice. Investice do těchto bot se vyplatí zkušeným horolezcům, kteří hledají maximální ochranu a výkon v extrémním prostředí.
 
-### **Hodnocení:** 9/10
+## **Hodnocení:** 9/10
 
 Body strhávám za vyšší cenu a úzký střih, který nemusí vyhovovat všem. Na druhou stranu, přidávám body za vynikající tepelný komfort, nepromokavost a odolnost, což jsou v extrémních podmínkách klíčové vlastnosti. Přidaný bod si jednoznačně boty obhájí díky skvělé kombinaci nízké hmotnosti, izolace a kompatibility s mačka pro daný typ boty.

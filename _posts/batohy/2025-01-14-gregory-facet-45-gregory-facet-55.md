@@ -9,7 +9,7 @@ znacka: "Gregory"
 vaha: 1550
 objem: 55
 material: "Nylon 100D, Nylon 210D"
-sex: unisex
+sex: ženy
 pro: "Ergonomický zádový systém, odolné materiály, variabilní úložný prostor"
 proti: "Vyšší hmotnost, menší počet externích kapes"
 hodnoceni: 8

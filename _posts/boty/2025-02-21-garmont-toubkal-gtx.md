@@ -23,7 +23,7 @@ Hlavní silou těchto bot je jejich odolnost a schopnost udržet nohy v suchu a 
 ![Garmont Toubkal GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://images.hardloop.fr/83558-large_default/garmont-toubkal-gtx-buty-turystyczne-meskie.jpg)
 
 
-### **Klíčové parametry a jejich zhodnocení**
+## **Klíčové parametry a jejich zhodnocení**
 
 Garmont Toubkal GTX se pyšní řadou technologií a materiálů, které přispívají k jejich výjimečným vlastnostem:
 
@@ -35,7 +35,7 @@ Garmont Toubkal GTX se pyšní řadou technologií a materiálů, které přisp�
 *   **Vložka:** Anatomicky tvarovaná vložka FrameFlex Mid s technologií G-BeneFIT zajišťuje pohodlí, podporu klenby a zlepšuje cirkulaci vzduchu.
 *   **Výška boty:** Vysoký střih boty poskytuje výbornou oporu kotníku, což je zásadní pro prevenci zranění v náročném terénu, zejména při nošení těžkého batohu.
 
-### **Nevýhody**
+## **Nevýhody**
 
 *   **Vyšší hmotnost:** Robustní konstrukce a použité materiály se projevují na vyšší hmotnosti boty, což může být znát při delších túrách.
 *   **Tužší podešev:** Tuhost podešve, která je výhodou v náročném terénu, může být méně komfortní na lehčích, upravených cestách.
@@ -44,7 +44,7 @@ Garmont Toubkal GTX se pyšní řadou technologií a materiálů, které přisp�
 *    **Prodyšnost:** Mohou se přehřívat v extrémně teplých klimatických podmínkách kvůli silné membráně.
 
     
-### **Srovnání s konkurencí**
+## **Srovnání s konkurencí**
 
 | Model                | Garmont Toubkal GTX  | La Sportiva Trango TRK Leather GTX | Salewa MTN Trainer Mid GTX | Scarpa Zodiac Plus GTX |
 | :-------------------- | :------------------ | :----------------------------- | :------------------------ | :-------------------- |
@@ -55,15 +55,15 @@ Garmont Toubkal GTX se pyšní řadou technologií a materiálů, které přisp�
 | Cena (orientační) | 5 500 Kč           | 6 500 Kč                      | 6 000 Kč                  | 6 800 Kč            |
 | Pro koho | Turisté, horalé | Všestranost, lezci | Turisté do různého terénu | Technicky zdatní turisté |
 
-### **Pro koho jsou tyto boty ideální?**
+## **Pro koho jsou tyto boty ideální?**
 
 Garmont Toubkal GTX jsou ideální volbou pro zkušené turisty a trekaře, kteří se pohybují v náročném horském terénu a hledají spolehlivou, odolnou a voděodolnou obuv. Jsou vhodné pro vícedenní přechody s těžkým batohem, kde je kladen důraz na stabilitu, ochranu nohy a komfort i v nepříznivých podmínkách. Ocení je i ti, kteří se pohybují v zimě a potřebují boty kompatibilní s poloautomatickými mačkami.
 
-### **Kdo by měl zvážit jinou variantu boty?**
+## **Kdo by měl zvážit jinou variantu boty?**
 
 Pokud hledáte lehčí a měkčí boty pro jednodenní výlety po zpevněných cestách, Toubkal GTX pro vás budou pravděpodobně příliš robustní a těžké. Stejně tak, pokud preferujete maximální prodyšnost a minimalistický design, existují na trhu vhodnější alternativy. Pro lezení v náročném skalním terénu jsou vhodnější specializované lezecké boty.
 
-### **Závěrečné zhodnocení**
+## **Závěrečné zhodnocení**
 
 Garmont Toubkal GTX jsou poctivé pohorky, které sice nepatří k nejlehčím, ale vynahrazují to svou odolností, spolehlivostí a pohodlím, a to i v těch nejdrsnějších podmínkách. Pokud hledáte boty, na které se můžete spolehnout při náročných trecích a vícedenních přechodech, Toubkal GTX jsou skvělou volbou, která vám bude sloužit dlouhá léta.
 

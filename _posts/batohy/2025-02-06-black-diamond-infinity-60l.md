@@ -21,16 +21,16 @@ Black Diamond Infinity 60L je určen pro vícedenní trekking a expedice v náro
 
 ![Black Diamond Infinity 60L](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.polarsport.pl/media/catalog/product/cache/ed1dd25b44ac74c9dca085c463c89987/6/8/681077_infinity60_rc_bk_web.jpg)
 
-### Klíčové parametry a technologie  
+## Klíčové parametry a technologie  
 Zádový systém **FlexFrame** umožňuje nastavení délky torsa (S-L) bez nutnosti demontáže. Rám z kombinace hliníku a plastu efektivně přenáší váhu na bederní pás s **dual-density foam**. Materiálová skladba (420D nylon ripstop + 630D ballistic nylon v kritických bodech) zajišťuje odolnost proti abrasi. Batoh nabízí **horní i přední přístup** k obsahu, boční kompresní popruhy a možnost upevnění cepínu. Chybí integrovaný plášť proti dešti, ale vývody pro hydrataci jsou přítomny.
 
-### Výhody  
+## Výhody  
 - **Nastavitelnost:** Systém FlexFrame umožňuje přesné doladění bez nutnosti výměny komponent.  
 - **Odolnost:** Materiálová kombinace zvládá kontakt s ostrými skalami nebo časté položení na zem.  
 - **Univerzální úložný prostor:** Široké hrdlo usnadňuje plnění, vnější kapsy na ledvinový pás slouží pro rychlý přístup k drobnostem.  
 - **Kompatibilita:** Boční kapsy pojme láhve o objemu 1L, batoh má úchyt pro externí připevnění karabiny.  
 
-### Nevýhody  
+## Nevýhody  
 - **Ventilace:** Zadní panel s minimálním odvětráním může vést k pocitu horka při vysoké zátěži v teplém počasí.  
 - **Organizace:** Chybí oddělené vnější kapsy na spodní vybavení (spací pytel, stan), což komplikuje rychlou organizaci.  
 - **Váha:** Oproti konkurenci (např. Osprey Atmos AG 65) je batoh o 150–200 g těžší.  
@@ -42,13 +42,13 @@ Zádový systém **FlexFrame** umožňuje nastavení délky torsa (S-L) bez nutn
 | Gregory Baltoro 65   | 2100         | 65        | Response A3            | 6 200     |  
 | Deuter Aircontact Lite | 1950       | 60        | Aircontact Lite        | 5 800     |  
 
-### Pro koho je batoh ideální?  
+## Pro koho je batoh ideální?  
 Infinity 60L je vhodný pro turisty, kteří vyžadují odolnost a univerzálnost v horském terénu. Ocení jej uživatelé s nestandardními tělesnými proporcemi díky snadné nastavitelnosti. Hodí se pro přenášení nákladu 15–25 kg.
 
-### Kdo by měl zvážit jinou variantu?  
+## Kdo by měl zvážit jinou variantu?  
 Ultra-light nadšenci nebo jedinci citliví na pocení by měli upřednostnit batohy s meshovým zádovým systémem (např. Osprey Atmos). Pro technické lezení s nutností častého přístupu k vybavení doporučujeme modely s více externými úchyty (např. Mammut Trion Spine 50).
 
-### Závěrečné zhodnocení  
+## Závěrečné zhodnocení  
 Black Diamond Infinity 60L splňuje očekávání jako spolehlivý batoh pro náročné expedice. Jeho silnou stránkou je kombinace odolnosti a ergonomického nastavení, které konkurence v této cenové kategorii často řeší kompromisy. Nevýhody v podobě vyšší váhy a jednoduššího členění kapes však mohou být limitující pro uživatele s specifickými požadavky.
 
 **Hodnocení:** 8/10  

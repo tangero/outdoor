@@ -30,7 +30,7 @@ Big Agnes **Zoom UL Insulated** je nafukovací karimatka pro turisty, kteří ch
 
 Vyniká obdélníkovým tvarem se zvýšenými bočními komorami, které pomáhají držet tělo uprostřed. Ohlasy testerů ale nejsou jednotné: zatímco někteří chválí poměr hmotnosti, pohodlí a ceny, jiní upozorňují na slabší hřejivost v chladu, nepohodlný ventil a otázky kolem odolnosti.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** 399 g u základní velikosti 20 × 72 palců. Širší verze 25 × 72 palců váží podle testerů zhruba 480–500 g, s pumpovacím vakem a obalem pak kolem 600 g.
 - **Tloušťka:** 8,2 cm uprostřed a 8,9 cm u bočních komor, které mají držet spáče uprostřed.
@@ -39,7 +39,7 @@ Vyniká obdélníkovým tvarem se zvýšenými bočními komorami, které pomáh
 - **Velikosti:** tři obdélníkové – 20 × 72 palců, 25 × 72 palců a 25 × 78 palců (zhruba 64 × 198 cm).
 - **Ventil a příslušenství:** jeden ventil pro nafukování i vypouštění s jemným dofukováním. V balení je pumpovací vak, obal, náhradní těsnění ventilu a záplaty.
 
-### Výhody
+## Výhody
 
 - **Nízká hmotnost** – 399 g ve standardní velikosti, srovnatelná s nejlehčími modely.
 - **Malé balení** – velikostí připomíná lahev a snadno se vejde do batohu, i vedle zásobníku na jídlo.
@@ -48,7 +48,7 @@ Vyniká obdélníkovým tvarem se zvýšenými bočními komorami, které pomáh
 - **Rozumná cena** – kolem 200 USD, podle testerů méně než srovnatelné konkurenční modely.
 - **Tři velikosti** – lze vybrat šířku i délku.
 
-### Nevýhody
+## Nevýhody
 
 - **Hřejivost** – pro chladné noci nemusí stačit. Jeden tester ji při mrazu přirovnává spíše k R 2,5, jiný ji ale používal bez potíží kolem bodu mrazu.
 - **Ventil** – chybí samostatné vypouštění, takže vzduch je nutné vytlačit stlačováním a rolováním; uživatelé hlásí i únik vzduchu u ventilu.
@@ -56,7 +56,7 @@ Vyniká obdélníkovým tvarem se zvýšenými bočními komorami, které pomáh
 - **Povrch** – kluzký nylon, ve kterém spacák klouže, a šustivá reflexní fólie.
 - **Odolnost** – materiál je tenký a vyžaduje opatrnost; jeden uživatel zaznamenal pomalý únik vzduchu po třech dnech na trase.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -67,7 +67,7 @@ Vyniká obdélníkovým tvarem se zvýšenými bočními komorami, které pomáh
 
 Zoom UL je z uvedených modelů nejlehčí a při R 4,3 se blíží NeoAir XLite NXT MAX s R 4,5. Je také tlustší než NeoAir XLite NXT MAX. Slabinou je ventil a spíše průměrné pohodlí při nafukování a balení.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **ultralehké turisty**, kteří chtějí obdélníkovou karimatku bez velkého nárůstu hmotnosti.
 - Pro **třísezónní turistiku** v mírných podmínkách.
@@ -75,14 +75,14 @@ Zoom UL je z uvedených modelů nejlehčí a při R 4,3 se blíží NeoAir XLite
 - Pro **dvojice**, které chtějí dvě karimatky vedle sebe.
 - Pro ty, kdo hledají **nižší cenu** než u prémiových konkurentů.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo potřebuje **zimní nebo jarní/podzimní chlad** – spolehlivěji hřejí modely s vyšším R-faktorem.
 - Kdo chce **rychlé a pohodlné balení** – samostatný ventil na vypouštění je u konkurence praktičtější.
 - Kdo spí na boku a chce **maximální měkkost** – někteří testeři cítili tlakové body mezi komorami.
 - Kdo často táboří na **drsném podkladu** – tenký materiál vyžaduje opatrnost.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Big Agnes Zoom UL Insulated nabízí neobvyklou kombinaci nízké hmotnosti, malého balení a prostorného obdélníkového tvaru za rozumnou cenu. Hodí se hlavně pro třísezónní trasy v mírných podmínkách. Nepřesvědčí ale ti, kdo počítají s plným deklarovaným teplem v chladných nocích nebo chtějí snadné balení. Pokud tyto kompromisy přijmete, je to dobrá lehká volba.
 

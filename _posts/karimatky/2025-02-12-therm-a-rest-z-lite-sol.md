@@ -21,14 +21,14 @@ Therm-a-Rest Z-Lite Sol je ikonická pěnová karimatka, která si za desítky l
 
 Klíčové parametry karimatky vycházejí z tradičního pěnového designu, který Therm-a-Rest inovoval skládacím vzorem „accordion“ s 24 panely. Tato struktura nejen zvyšuje izolační vlastnosti díky vzduchovým kapsám, ale také umožňuje kompaktnější skladování než konkurenční pěnové modely. R-faktor 2.0 ji řadí mezi lehké izolanty vhodné pro teploty nad bodem mrazu – pro srovnání, nafukovací sestra Therm-a-Rest NeoAir XLite NXT dosahuje R=4.5. Skládací tloušťka 2 cm poskytuje základní nárazovou izolaci od terénu, ale pro náročnější spáče může být limitní. Výhodou je standardizovaná velikost (51 x 183 cm), která odpovídá většině spacáků.
 
-### Výhody
+## Výhody
 - **Neprůstřelná odolnost**: Odolná proti trhlinám, propíchnutí i žvýkání hlodavci. Žádné noční probouzení kvůi úniku vzduchu.
 - **Okamžitá hotovost**: Žádné minuty strávené nafukováním. Rozložení zabere 5 vteřin – ideální pro přestávky nebo rychlé bivaky.
 - **Multifunkčnost**: Slouží jako izolační podložka pod nafukovací matraci, sedák na sněhu, nebo ochranná vrstva pro batoh.
 - **Kompatibilita s úvazky**: Díky skládacímu designu se snadno připevní na externí část batohu bez zabírání vnitřního prostoru.
 - **Cenová dostupnost**: Oproti high-end nafukovacím modelům je až 3x levnější.
 
-### Nevýhody
+## Nevýhody
 - **Izolační limity**: R-faktor 2.0 nestačí pro zimní podmínky nebo spánek na sněhu bez doplňkové izolace.
 - **Kompaktnost**: I přes vylepšené skládání zabírá více místa než srolované nafukovačky (rozměry 51 x 28 x 11 cm vs. např. 23 x 9 cm u sbalené NeoAir XLite).
 - **Komfort pro bokospáče**: 2 cm tlumení může být nedostatečné pro citlivé jedince, zejména na kamenitém podkladu.
@@ -43,12 +43,12 @@ Klíčové parametry karimatky vycházejí z tradičního pěnového designu, kt
 | **Cena (USD)**    | ~45                    | ~50                   | ~200                         |
 | **Výhoda**        | Nejodolnější           | Lepší skladnost       | Nejvyšší komfort a izolace   |
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 - **Ultralight thru-hikeři** na dlouhých trasách (Pacific Crest Trail, Camino de Santiago), kde každý gram a sekunda počítá.
 - **Alpinisté** potřebující spolehlivou izolaci v extrémních podmínkách, kde selhání nafukovačky znamená riziko podchlazení.
 - **Začátečníci** hledající první karimatku s dobrou cenou/výkon bez zbytečných technologií.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 - **Zimní táborníci** potřebující R-faktor nad 4 pro spánek na sněhu.
 - **Bokospáči** vyžadující měkčí podklad – doporučuji hybridní řešení jako Sea to Summit Comfort Plus.
 - **Cyklisté a packrafteri** s omezeným prostorem pro přepravu, kteří ocení kompaktnější nafukovací modely.

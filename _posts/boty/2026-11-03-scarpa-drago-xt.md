@@ -24,7 +24,7 @@ Scarpa Drago XT je měkká, výrazně prohnutá a asymetrická lezecká obuv ur�
 
 Nejvíc vyniká patou s plným pokrytím gumou, kterou testeři z UKClimbing označují za nejpřesnější a nejlepivější, jakou kdy používali. Další předností je druhá suchá páska, díky které se dá bota nastavit podle toho, kolik přesnosti nebo volnosti zrovna potřebujete.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 *   **Svršek:** sedmipanelové mikrosuede (syntetické mikrovlákno) bez švů přes palec. Podle výrobce se tvaruje podle nohy. Netáhne se jako kůže, takže se bota nezvětší o půl čísla, ale změkne a přizpůsobí se.
 *   **Podešev:** Vibram XS Grip 2 o tloušťce 3,5 mm, vedená zhruba třetinou délky boty, s mezipodešví Flexan 1,0 mm.
@@ -35,21 +35,21 @@ Nejvíc vyniká patou s plným pokrytím gumou, kterou testeři z UKClimbing ozn
 
 Cena se podle zdroje liší. Výrobce uvádí 259 CAD, americký prodejce 165,33 USD (v akci od 132,17 USD) a test Vertige Media uvádí doporučenou cenu kolem 150 € (v obchodech 145–180 €). Měny nepřepočítáváme, ale všude jde o špičkovou lezeckou obuv.
 
-### Výhody
+## Výhody
 
 *   **Pata:** podle testerů nejpřesnější a nejlepivější, s plným pokrytím gumou, dobře drží i na hácích. Uživatelé na stránce výrobce ji chválí také.
 *   **Dvě pásky:** utáhnete je pro maximální přesnost, nebo povolíte pro více místa. Uživatelé na Redditu popisují utažení jako citelně vyšší oporu na hranách, při povolení bota působí jako běžný Drago.
 *   **Univerzálnost v boulderu:** testeři uvádějí dobré chování na plotnách, převisech, malých hranách i na třeních.
 *   **Tvar na míru:** měkký svršek se po několika lezeních dobře tvaruje na nohu a podle testerů si drží tvar.
 
-### Nevýhody
+## Nevýhody
 
 *   **Opotřebení:** měkká guma se brousí rychleji. Vertige Media popisuje po zhruba čtyřiceti lezeních obrus u palce. V diskuzích se opakuje, že rychlé opotřebení hlavně způsobuje špatná práce nohou a tření o stěnu. Poznámky o životnosti na Redditu se částečně týkají původního Draga, ne verze XT.
 *   **Pohodlí a rozlezení:** zpočátku tlačí v přední části. Podle Vertige Media se to po dvou až třech lezeních zlepší, bota je však pořád náročná. Pro lezení na celý den není určená.
 *   **Střih:** podle UKClimbing je XT nejužší z řady Drago, ale s vyšším objemem. Podle Vertige Media pata nesedne každé noze a může zůstat prázdný prostor. Jeden uživatel na Redditu navíc popisuje, že se pata deformuje už na lehkých hácích, a jeho známí se vrátili k původnímu Dragu. Zkušenosti se tedy liší a rozhoduje tvar chodidla.
 *   **Cena:** UKClimbing uvádí, že XT stojí jen o 10 £ více než standardní Drago.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 Mezi dosud recenzovanými botami na webu není žádná lezecká obuv, srovnatelné jsou jen turistické boty. Přímé srovnání proto stavíme na informacích z nezávislých testů a diskuzí. Ceny alternativ nemáme ověřené, srovnáváme tedy jen použití a vlastnosti, ne cenovou výhodnost.
 
@@ -59,14 +59,14 @@ Mezi dosud recenzovanými botami na webu není žádná lezecká obuv, srovnatel
 
 Pokud k boulderům docházíte pěšky, pro přístup se hodí lehká nízká obuv, například La Sportiva TX2 (280 g, určená i pro nástupy pod skály).
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 *   Pro boulderisty a lezce těžkých sportovních cest, kteří už mají dobrou techniku nohou a chtějí přesnost na malých stupech.
 *   Pro lezce s užším chodidlem a úzkou patou, kterým tvar sedne.
 *   Pro ty, kdo bota používají na krátké a intenzivní pokusy a mezi lezeními ji sundávají.
 *   Pro ty, kdo mají druhý, levnější pár na rozlézání a docházejí si pro XT jen na těžké projekty, což radí i uživatelé z diskuzí.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 *   Začátečníci. Zkušenější lezci v diskuzích radí učit se na méně agresivní botě, protože XT je drahá, rychle se opotřebuje a tlačí.
 *   Ti, kdo lezou delší cesty nebo velké stěny. Vertige Media uvádí, že XT není určená pro velké stěny a dlouhé pohodlné lezení.
@@ -75,7 +75,7 @@ Pokud k boulderům docházíte pěšky, pro přístup se hodí lehká nízká ob
 
 Velikost je třeba zkusit. Testeři UKClimbing zmenšovali každý jinak, od jedné velikosti po dvě a půl proti běžné obuvi. Prodejce doporučuje začátečníkům stejnou velikost, pokročilým půl a expertům o jedno číslo menší.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás je Drago XT dobrá koupě pro zkušeného boulderistu, kterému sedí tvar chodidla, a nedoporučujeme ji začátečníkům ani lezcům hledajícím pohodlí na delší lezení. Výsledkem je mimořádně přesná pata a špička a nastavitelná těsnost, která podle testerů dává výrazný náskok před původním Dragem. Hlavním kompromisem je cena a rychlejší opotřebení měkké gumy. Pokud vám nesedí pata, nebo chcete delší životnost, zvažte spíše původní Drago nebo Theory. Rozhodující je vyzkoušet ji na noze.
 

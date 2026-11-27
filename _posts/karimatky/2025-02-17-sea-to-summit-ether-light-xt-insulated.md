@@ -24,7 +24,7 @@ Velkou výhodou této karimatky je její inovativní technologie **Air Sprung Ce
 
 Je potřeba zdůraznit, že Sea to Summit tradičně od všech karimatek vyrábí různé velikosti, takže parametry (hmotnost, rozměry) jsou u různých velikostí odlišné. V tomto případě jde o velikost **Regular**. Můžete najít větší i menší velikosti, takže před nákupem se raději podívejte na oficiální stránky a rozmyslete se, co vlastně potřebujete. 
 
-### Klíčové parametry a jejich zhodnocení
+## Klíčové parametry a jejich zhodnocení
 
 1. **Tloušťka a komfort:**  
    S tloušťkou **10 cm** je jednou z nejpohodlnějších nafukovacích karimatek na trhu. Díky velkým vzduchovým komorám se přizpůsobuje tělu a je vhodná i pro osoby, které spí na boku.
@@ -41,7 +41,7 @@ Je potřeba zdůraznit, že Sea to Summit tradičně od všech karimatek vyráb�
 5. **Nafukování a vyfukování:**  
    Velký **ventil s jednosměrným mechanismem** umožňuje snadné nafukování. Karimatka je dodávána s **pytlem Airstream Pump Sack**, který je součástí obalu. Díky tomu nemusíte nafukovat ústy, což prodlužuje životnost a hygienu.
 
-### Výhody
+## Výhody
 
 - **Maximální pohodlí na treku** – tloušťka 10 cm zaručuje pohodlný spánek i na kamenitém podkladu.
 - **Nízká hmotnost** – oproti jiným komfortním karimatkám je velmi lehká (480 g).
@@ -51,13 +51,13 @@ Je potřeba zdůraznit, že Sea to Summit tradičně od všech karimatek vyráb�
 - **Přirozenější pocit při spánku** – díky technologii Air Sprung Cells lépe rozkládá váhu těla.
 - **Odolný materiál s antibakteriální úpravou** – prodlužuje životnost karimatky.
 
-### Nevýhody
+## Nevýhody
 
 - **Vyšší cena** – patří mezi dražší modely, což nemusí vyhovovat začátečníkům.
 - **Nafukování zabere více času než u pěnových modelů** – není to sice problematické, ale proti pěnovým karimatkám jde o nevýhodu.
 - **Při velmi nízkých teplotách nemusí zcela stačit** – R-faktor 3.2 je na lehkou zimu OK, ale v extrémním chladu potřebujete další izolaci.
 
-### Srovnání s konkurencí 
+## Srovnání s konkurencí 
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -66,20 +66,20 @@ Je potřeba zdůraznit, že Sea to Summit tradičně od všech karimatek vyráb�
 | Exped SynMat UL | 450 | 2.9 | 7 | Nafukovací | Lehčí a levnější | Nižší izolační schopnost |
 | Klymit Static V Luxe | 700 | 4.4 | 9 | Nafukovací | Komfortní i širší | Vyšší váha |
 
-### Pro koho je tato karimatka ideální?
+## Pro koho je tato karimatka ideální?
 
 - Pro **trekaře a dálkové turisty**, kteří ocení kombinaci pohodlí a nízké váhy.
 - Pro **spaní na boku** – díky 10 cm tloušťce se nebudete propadat k zemi.
 - Pro **třísezónní cestování**, případně zimní použití v kombinaci s další izolací.
 - Pro **cestovatele, kteří chtějí maximální skladnost**.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Ti, kdo hledají **nejlepší poměr cena/výkon** – existují levnější alternativy s podobnou izolací.
 - Ti, kdo potřebují **ještě vyšší tepelný komfort** – v extrémním chladu je lepší NeoAir XTherm s vyšší izolací.
 - Ti, kdo preferují **rychlost rozbalení** – pěnové karimatky jsou okamžitě použitelné.
 
-### Závěrečné zhodnocení 
+## Závěrečné zhodnocení 
 
 Sea to Summit Ether Light XT Insulated patří mezi nejlepší nafukovací karimatky na trhu. Ocení ji ti, kdo hledají kombinaci **pohodlí, nízké váhy a dobré izolace**. Výborná pro třísezónní použití a nabízí unikátní komfort díky síti vzduchových komor. I když není nejlevnější a nafouknutí chvíli trvá, její výhody jednoznačně převyšují nevýhody. Pokud spíte na boku nebo chcete maximální pohodlí, tento model je ideální volbou.
 

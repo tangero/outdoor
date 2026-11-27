@@ -24,7 +24,7 @@ Pozor, bota má svou Mid variantu, která je vyšší a má větší podporu kot
 
 ![Keen Voyageur](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn11.bigcommerce.com/s-972n9uoi/images/stencil/1280x1280/products/5245/18552/Mens_KEEN_Voyageur_Mid_Hiking_Boot__33170.1661589201.png)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Keen Voyageur se vyznačují několika klíčovými parametry, které je dělají oblíbenou volbou pro outdoorové nadšence.
 
@@ -34,14 +34,14 @@ Keen Voyageur se vyznačují několika klíčovými parametry, které je dělaj�
 *    **Podrážka:** Podrážka z odolné pryže s vícesměrným vzorkem zajišťuje dobrou přilnavost na různých površích, včetně suchých i mokrých cest.
 *   **Tvar:** Nízký profil boty poskytuje volnost pohybu kotníku a přirozený pocit při chůzi. Je ideální pro lehčí terén a rychlejší tempo.
 
-### Nevýhody
+## Nevýhody
 
 *   **Voděodolnost:** Ačkoliv kůže je částečně voděodolná, Voyageury nejsou plně vodotěsné boty. Při silném dešti nebo brodění potoků mohou promoknout.
 *   **Doba schnutí:** Kombinace kůže a síťoviny sice dobře větrá, ale kůže schne déle než syntetické materiály.
 *	**Podpora kotníku:** Nízký profil boty neposkytuje takovou oporu kotníku jako vyšší turistické boty. To může být nevýhoda v náročném terénu nebo při nošení těžkého batohu.
 *   **Stabilita v náročném terénu:** I když podrážka poskytuje dobrou přilnavost, Voyageury nejsou primárně určené pro velmi náročný, kamenitý nebo suťový terén. V takových podmínkách by mohly postrádat potřebnou stabilitu.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model            | Keen Voyageur | Salomon X Ultra 4 | Merrell Moab 3     | Hoka SpeedGoat 5     |
 | ---------------- | -------------- | ----------------- | ------------------ | -------------------- |
@@ -53,7 +53,7 @@ Keen Voyageur se vyznačují několika klíčovými parametry, které je dělaj�
 | Hmotnost        | Střední            | Nízká              |Střední           | Velmi Nízká              |
 | Cena             | Střední | Střední | Střední           | Vyšší           |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Keen Voyageur jsou ideální volbou pro turisty a cestovatele, kteří hledají pohodlnou a univerzální obuv pro:
 
@@ -63,7 +63,7 @@ Keen Voyageur jsou ideální volbou pro turisty a cestovatele, kteří hledají 
 *   Ty, kteří preferují volnější střih a prostor pro prsty.
 *   Ty, kteří hledají boty s dobrou ochranou prstů.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Voyageury nejsou ideální volbou pro:
 
@@ -72,7 +72,7 @@ Voyageury nejsou ideální volbou pro:
 *   Ty, kteří potřebují maximální oporu kotníku.
 *   Turisty, kteří vyžadují plně vodotěsnou obuv. V tomto případě je lepší zvolit model s membránou, např. Keen Targhee III WP, nebo konkurenční modely jako Lowa Renegade GTX.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Keen Voyageur jsou skvělou volbou pro široké spektrum outdoorových aktivit, od jednodenních výletů po lehčí treky. Jejich hlavními přednostmi jsou pohodlí, prodyšnost a ochrana prstů. I když nejsou plně vodotěsné a neposkytují maximální oporu kotníku, jejich univerzálnost a pohodlí je činí oblíbenou volbou pro mnoho turistů. Pokud hledáte spolehlivou a pohodlnou obuv pro lehčí až středně náročné aktivity, Keen Voyageur rozhodně stojí za zvážení. Jsou to solidní, dobře odvětrané turistické boty, které poslouží dobře na většině výletů.
 

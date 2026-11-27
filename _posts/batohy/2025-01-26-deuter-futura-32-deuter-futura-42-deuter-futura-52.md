@@ -20,7 +20,7 @@ Deuter Futura 42 je určen pro turisty, kteří hledají kompromis mezi nosnost�
 
 ![Deuter Futura 32, Deuter Futura 42, Deuter Futura 52](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.bhphotovideo.com/images/images1000x1000/deuter_sport_34294_3370_futura_pro_42_backpack_1171759.jpg)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Zádový systém Aircomfort**: Prodyšná 3D síťovina s hliníkovým rámem udržuje batoh vzdálený od zad, což zlepšuje cirkulaci vzduchu.
 - **Materiál**: Hlavní část je z polyesteru s PU úpravou (odolnost proti vodě), kritické panely z nylonu 600D.
@@ -28,20 +28,20 @@ Deuter Futura 42 je určen pro turisty, kteří hledají kompromis mezi nosnost�
 - **Organizace nákladu**: 2 boční síťované kapsy, přední kapsa na drobnosti, spodní přístup k hlavnímu úložnému prostoru, integrovaný plášť proti dešti.
 - **Nosnost**: Doporučená zátěž do 15 kg díky polstrovaným ramenním popruhům a bedernímu pásu s gelovými vložkami.
 
-### Výhody
+## Výhody
 
 - **Ventilace zad**: Systém Aircomfort je účinnější než konkurenční řešení (např. Osprey AG), protože netlačí na celou plochu zad.
 - **Odolnost**: Materiály odolávají otěru o skály nebo vegetaci, zipy YKK bez problémů s zatuhnutím.
 - **Přístup k obsahu**: Spodní zip umožňuje rychle vytáhnout spacák nebo vrstvy oblečení bez rozbalování celého batohu.
 - **Detaily**: Elastické úchyty na cepín, boční stahovací pásky pro kompresi nákladu.
 
-### Nevýhody
+## Nevýhody
 
 - **Váha**: 1900 g je nad průměrem pro batohy této kategorie (např. Osprey Atmos AG 50 váží 1750 g).
 - **Bederní pás**: Chybí vertikální nastavení úhlu, což může omezit ergonomii pro uživatele s užšími boky.
 - **Bocní kapsy**: Při plném naložení batohu jsou hůře přístupné.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Parametr          | Deuter Futura 42 | Osprey Atmos AG 50 | Gregory Baltoro 45 |
 |-------------------|------------------|---------------------|---------------------|
@@ -51,7 +51,7 @@ Deuter Futura 42 je určen pro turisty, kteří hledají kompromis mezi nosnost�
 | **Cena (Kč)**     | 3 900            | 4 500               | 4 200              |
 | **\+/\-**         | \+ odolnost      | \+ lehčí            | \+ více kapes      |
 
-### Pro koho je batoh ideální?
+## Pro koho je batoh ideální?
 
 Deuter Futura 42 ocení turisté, kteří:
 
@@ -59,13 +59,13 @@ Deuter Futura 42 ocení turisté, kteří:
 - Preferují batoh s přehlednou organizací bez zbytečných kapes.
 - Nosí náklad do 15 kg (např. stan, vařič, potraviny na 4 dny).
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - **Vícedenní expedice (nad 5 dní)**: Zvolte Futura 52 s objemem 52 l a odolnějším rámem.
 - **Jednodenní výlety**: Futura 32 (1 600 g) postačí, ale chybí mu spodní přístup.
 - **Ultra lehká turistika**: Batohy jako Osprey Exos 48 (1 350 g) nabídnou nižší váhu, ale méně odolné materiály.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Deuter Futura 42 je spolehlivý batoh pro středně náročné túry, kde ventilace zad a odolnost hrají prim. Ačkoli nepatří k nejlehčím, kompenzuje to robustní konstrukcí a promyšlenými detaily. Pro uživatele s nároky na přesné doladění bederního pásu nebo extrémně lehkou výbavou bude lepší konkurence.
 

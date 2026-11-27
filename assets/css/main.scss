@@ -363,6 +363,9 @@ tr:hover {
 .cl-telo { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 3.5rem; align-items: start; }
 .cl-text { max-width: 68ch; min-width: 0; font-size: 1.05rem; }
 .cl-text h2, .cl-text h3 { scroll-margin-top: 90px; margin-top: 2.5rem; letter-spacing: -.01em; }
+/* Oddíly recenzí jsou H2 (dřív H3), velikost zůstává jako dřív */
+.cl-text h2 { font-size: 1.75rem; }
+.cl-text h3 { font-size: 1.35rem; }
 .cl-text img { max-width: 100%; height: auto; border-radius: 12px; }
 .cl-text table { display: block; overflow-x: auto; max-width: 100%; font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: .875rem; line-height: 1.45; }
 .cl-text th, .cl-text td { padding: .55rem .65rem; border-bottom: 1px solid var(--hp-linka); vertical-align: top; }

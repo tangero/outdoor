@@ -22,7 +22,7 @@ Jejich největší síla spočívá v kombinaci vynikající trakce, stability a
 
 ![Model bot](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://i.otto.de/i/otto/2039f40f-d022-54b2-84be-3bb3393b21e0)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Garmont Dragontail LT se pyšní řadou promyšlených technologií a kvalitních materiálů, které z nich dělají špičku ve své třídě.
 
@@ -34,13 +34,13 @@ Garmont Dragontail LT se pyšní řadou promyšlených technologií a kvalitníc
 *   **Eco-PU stélka:** Vložka z ekologického polyuretanu poskytuje dobré tlumení nárazů a přispívá k celkovému pohodlí boty.
 *   **Výška boty:** Jedná se o nízké boty.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší tuhost:** Kvůli své konstrukci a zaměření na technický terén jsou Dragontail LT poměrně tuhé boty. To může být pro někoho, kdo je zvyklý na měkčí turistickou obuv, zpočátku méně komfortní, zejména na jednoduchých a upravených cestách.
 *   **Užší střih:** Dragontail LT mají spíše užší střih, který nemusí sedět každému. Lidé se širšími chodidly nebo vysokým nártem by měli boty před koupí pečlivě vyzkoušet, ideálně s ponožkami, které plánují nosit.
 *   **Vyšší cena:** Vzhledem ke kvalitě materiálů, použitým technologiím a celkovému provedení se Dragontail LT řadí do vyšší cenové kategorie.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model                     | Materiál svršku     | Podrážka                  | Určení                                                          | Přibližná cena   |
 | :------------------------ | :------------------ | :------------------------ | :---------------------------------------------------------------- | :----------------- |
@@ -49,7 +49,7 @@ Garmont Dragontail LT se pyšní řadou promyšlených technologií a kvalitníc
 | Scarpa Mescalito         | Semišová kůže        | Vibram® Dynamis LBT        | Technický terén, via ferraty, nástupy, lehký trekking            | 4 800 Kč           |
 | Salewa Mountain Trainer Lite | Syntetická kůže, textil | Pomoca S-Path | Lehký trekking, turistika, via ferraty                             | 4000 Kč |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Garmont Dragontail LT jsou ideální volbou pro:
 
@@ -59,7 +59,7 @@ Garmont Dragontail LT jsou ideální volbou pro:
 *   **Lehká turistika v horách a na náročnějších stezkách.**
 *  **Nástupy pod skály a bouldering**
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Dragontail LT nemusí být tou nejlepší volbou pro:
 
@@ -68,7 +68,7 @@ Dragontail LT nemusí být tou nejlepší volbou pro:
 *   **Lidi s velmi širokými chodidly:** Užší střih Dragontail LT nemusí být pro ně komfortní.
 * **Pro zájemce o dlouhé, vícedenní přechody a treky s těžkým batohem.** V takovém případě je lepší upřednostnit vyšší botu, případně s membránou.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Garmont Dragontail LT jsou vynikající nízké trekové boty, které excelují v technicky náročném terénu. Nabízejí skvělou kombinaci trakce, stability, odolnosti a precizního šněrování. I přes vyšší tuhost a užší střih jsou překvapivě pohodlné i při delších túrách. Pokud hledáte spolehlivou botu na via ferraty, lehčí trekking s technickými pasážemi nebo nástupy pod skály, Dragontail LT vás určitě nezklamou.
 

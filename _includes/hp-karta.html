@@ -9,7 +9,7 @@ Karta článku na titulce. Parametry: p (článek nebo novinka), velikost (velka
     <a class="hp-karta__obr" href="{{ site.baseurl }}{{ p.url }}" tabindex="-1" aria-hidden="true">
         {% if p.thumbnail != "" and p.thumbnail %}
         {% assign transformace = rozmer | append: ",c_fill,g_auto,f_auto,q_auto" %}
-        <img src="{% include cld.html u=p.thumbnail t=transformace %}" alt="" loading="lazy">
+        <img src="{% include cld.html u=p.thumbnail t=transformace %}" alt="{{ p.model | default: p.title | escape }}" loading="lazy">
         {% endif %}
     </a>
     <div class="hp-karta__text">

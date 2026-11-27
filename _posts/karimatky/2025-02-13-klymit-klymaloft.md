@@ -24,7 +24,7 @@ Tato karimatka míří především na kempaře, dobrodruhy podnikající výpra
 
 ---
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Klymit Klymaloft má tloušťku 6,4 cm, což je výrazně pohodlnější varianta oproti standardním ultralehkým modelům. Izolační vlastnosti určují R-faktor 2,6, což znamená, že jde o model primárně určený pro teplejší měsíce nebo mírné podmínky. Díky své konstrukci však nabízí lepší stabilitu a rozložení tlaku než běžné nafukovací modely, které mohou být více „houpavé“. 
 
@@ -34,36 +34,36 @@ Co se týče nafukování, Klymaloft využívá osvědčený ventil Klymit, kter
 
 ---
 
-### Výhody
+## Výhody
 
-#### **1. Mimořádně pohodlná hybridní konstrukce**  
+### **1. Mimořádně pohodlná hybridní konstrukce**  
 Díky vrchní pěnové vrstvě poskytuje lepší oporu těla a hladší povrch než většina nafukovacích modelů. To ocení především lidé, kteří se v noci často převalují nebo preferují měkčí ležení.
 
-#### **2. Lepší rozložení tlaku než běžné nafukovací karimatky**  
+### **2. Lepší rozložení tlaku než běžné nafukovací karimatky**  
 Kombinace pěnové vrstvy a vzduchových komor zajišťuje rovnoměrný kontakt těla s podložkou, což minimalizuje tlakové body. Oproti tradičním modelům s podélnými či příčnými komorami eliminuje pocit „houpání“.
 
-#### **3. Povrchová úprava snižující skluz**  
+### **3. Povrchová úprava snižující skluz**  
 Textilní úprava svrchní vrstvy brání sklouzávání spacáku, což bývá častý problém u některých hladkých nafukovacích modelů.  
 
-#### **4. Solidní tepelná izolace pro třísezónní použití**  
+### **4. Solidní tepelná izolace pro třísezónní použití**  
 S R-faktorem 2,6 jde o karimatku vhodnou od jara do podzimu bez extrémních teplot. Pěnová vrstva pomáhá redukovat chlad od země lépe než většina tenkých nafukovacích karimatek.  
 
 ---
 
-### Nevýhody
+## Nevýhody
 
-#### **1. Vyšší hmotnost oproti ultralehkým modelům**  
+### **1. Vyšší hmotnost oproti ultralehkým modelům**  
 S hmotností kolem 900 gramů patří spíše k těžším nafukovacím modelům. Není to ideální volba pro gramové minimalisty nebo ultralehký trekking.
 
-#### **2. Větší rozměry po sbalení**  
+### **2. Větší rozměry po sbalení**  
 Kvůli své hybridní konstrukci není tak kompaktní jako ultra tenké nafukovací modely, což může být nevýhoda pro ty, kdo hledají dokonale sbalitelný spánek.
 
-#### **3. Vyšší cena oproti standardním modelům**  
+### **3. Vyšší cena oproti standardním modelům**  
 Kombinace vzduchu a pěny přináší komfort, ale také vyšší cenovku ve srovnání s běžnými karimatkami stejné třídy.
 
 ---
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Hmotnost (g) | R-faktor | Tloušťka (cm) | Typ | Výhody | Nevýhody |
 |---|---|---|---|---|---|---|
@@ -74,7 +74,7 @@ Kombinace vzduchu a pěny přináší komfort, ale také vyšší cenovku ve sro
 
 ---
 
-### Pro koho je tato karimatka ideální?
+## Pro koho je tato karimatka ideální?
 
 - Pro outdoorové nadšence, kteří hledají **maximální pohodlí bez úplného obětování sbalitelnosti**.  
 - Pro **kempování, delší treky nebo expediční tábory**, kde váha není extrémně kritická.  
@@ -82,7 +82,7 @@ Kombinace vzduchu a pěny přináší komfort, ale také vyšší cenovku ve sro
 
 ---
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - **Ultralehcí turisté**, kteří dbají na každý gram hmotnosti, by se měli podívat po lehčích modelech jako Therm-a-Rest NeoAir XLite.  
 - **Zimní cestovatelé**, kteří potřebují lepší tepelnou izolaci s R-faktorem nad 4 (pak lze sáhnout po izolované variantě Klymit Insulated Klymaloft).  
@@ -90,11 +90,11 @@ Kombinace vzduchu a pěny přináší komfort, ale také vyšší cenovku ve sro
 
 ---
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Klymit Klymaloft je skvělou volbou pro trekaře a outdoorové nadšence, kteří hledají pohodlné spaní i na delších cestách. Nabízí inovativní hybridní konstrukci kombinující pěnovou vrstvu s nafukovacími komorami, což poskytuje vyšší pohodlí než většina konkurence v této kategorii. Na druhou stranu si to vybírá svou daň v podobě vyšší hmotnosti a sbaleného objemu. Pokud je však vaším hlavním kritériem komfort, tato karimatka rozhodně stojí za zvážení.
 
 ---
 
-### **Hodnocení:** 8/10  
+## **Hodnocení:** 8/10  
 **Body strhávám za vyšší hmotnost a objem, přidávám za vynikající komfort a hybridní konstrukci.**

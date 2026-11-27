@@ -7,6 +7,11 @@ favicon: 'assets/images/favicon.ico'
 baseurl:
 url: "https://www.vybavenidoprirody.com"
 lang: cs_CZ
+# Autor pro jekyll-seo-tag (JSON-LD), redakce jako organizace
+author:
+  name: "Vybavení do přírody"
+  type: Organization
+  url: "https://www.vybavenidoprirody.com/about"
 google_analytics: G-JQBZM81GGK
 disqus: false
 mailchimp-list: false

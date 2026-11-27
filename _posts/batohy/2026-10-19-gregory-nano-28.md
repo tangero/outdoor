@@ -27,7 +27,7 @@ Gregory Nano 28 je lehký denní batoh o objemu 28 litrů, který se hodí na je
 
 Je to batoh pro ty, kdo nepotřebují nést těžké náklady. Výrobce doporučuje maximální zátěž 9,1 kg, což odpovídá lehkým denním túrám, nikoli vícedenním výpravám. Jedna velikost je určena pro délku zad 14–21 palců (zhruba 36–53 cm) a obvod pasu do 48 palců (asi 122 cm).
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 - **Objem a hmotnost**: 28 l, 630 g. Rozměry jsou 54 × 31 × 23 cm (výška × šířka × hloubka).
 - **Materiál**: Tělo je z kombinace 210D vysokohustotního nylonu (40 % recyklovaný) a 450D recyklovaného polyesteru s DWR úpravou bez záměrně přidaných PFAS. Podšívka je z recyklovaného 135D polyesteru, rovněž s DWR.
 - **Zádový systém**: Perforovaná pěna CLPE tvoří vystřižený prodyšný zádový panel, ramenní popruhy jsou vystlané síťovinou a mají hrudní pásek s jednoruční přezkou a vodítka pro hadičku hydrovaku. Bederní pás z 25mm popruhu je odnímatelný.
@@ -35,21 +35,21 @@ Je to batoh pro ty, kdo nepotřebují nést těžké náklady. Výrobce doporuč
 - **Doplňky**: Poutko a pojistka pro trekové hole nebo cepín, reflexní poutka, poutko na čelovku. Pláštěnka v balení není.
 - **Záruka**: Výrobce uvádí 50letou záruku.
 
-### Výhody
+## Výhody
 1. **Nízká hmotnost**: 630 g je na batoh s 28 litry a vystlanými popruhy málo. Uživatelé hodnotí, že se při nošení téměř necítí ani při plném naložení.
 2. **Větrání zad**: Uživatelé na diskuzním fóru popisují záda jako velmi dobře odvětraná.
 3. **Zpracování a materiály**: V ohlasech se opakuje, že je batoh dobře a pevně vyrobený. Jedna majitelka uvádí, že je překvapivě odolný proti vodě, a pochvaluje si kvalitu předchozích batohů značky.
 4. **Množství kapes**: Samostatná kapsa na hydrovak nebo tablet, přední kapsa a vnitřní kapsa na klíče usnadňují přístup k věcem.
 5. **Univerzálnost**: Uživatelé jej využívají na hory, na cesty i do práce.
 
-### Nevýhody
+## Nevýhody
 1. **Boční kapsy**: Dva uživatelé uvádějí, že jsou příliš malé, jeden z nich se do nich nevešla široká láhev.
 2. **Tvar batohu**: Dno je zaoblené a zadní panel sahá níže než hlavní komora, takže batoh podle recenzentů ani plný neustojí a při odložení se překlápí.
 3. **Vnitřní organizace**: V hlavní komoře nejsou vnitřní kapsy ani kapsa na hydrovak podél zad. Jeden uživatel zmiňuje, že se při lehkém naložení horní kapsa mačká na obsah.
 4. **Bederní pás**: Tenký odnímatelný pás při nižší délce zad podle jednoho uživatele fungoval spíš jako stabilizace.
 5. **Spodní okraj zádového panelu**: Podle jednoho recenzenta se tužší látka na spodku panelu po několika hodinách otírala o záda.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Parametr | Gregory Nano 28 | Deuter Giga 28 | Deuter Trail 30 | Black Diamond Speed 30 |
 |---|---|---|---|---|
@@ -61,18 +61,18 @@ Je to batoh pro ty, kdo nepotřebují nést těžké náklady. Výrobce doporuč
 
 Nano 28 je téměř o polovinu lehčí než Deuter Giga 28 a Deuter Trail 30, ale za nízkou hmotnost platí jednoduššími nastaveními. Black Diamond Speed 30 je také lehký, avšak těžší o 310 g.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 - Pro **turisty na jednodenní výlety**, kteří chtějí lehký batoh s vystlanými popruhy a větraným zády.
 - Pro ty, kdo batoh používají i **na cesty nebo každodenně**, včetně nošení tabletu.
 - Pro ty, kdo nosí **do 9 kg** vybavení.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 - **Nositelé těžších nákladů**: bederní pás je odnímatelný a z úzkého popruhu, takže nenahradí skutečný nosný pás.
 - **Uživatelé s dlouhými zády nebo potřebou přesného nastavení**: výrobce nabízí jednu velikost.
 - **Ti, kdo nosí široké láhve**: boční kapsy jsou malé.
 - **Ti, kdo potřebují batoh, který stojí**: tvar dna to neumožňuje.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 Gregory Nano 28 je lehký a dobře udělaný denní batoh s prodyšnými zády a množstvím kapes. Hodí se na jednodenní túry s lehčí zátěží i na cestování. Slabší stránky jsou malé boční kapsy, tvar dna a jednoduchý bederní pás. Cena na stránce výrobce je 95 liber, v americkém obchodě 109,95 dolaru.
 
 **Hodnocení:** 8/10  

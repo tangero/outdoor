@@ -23,7 +23,7 @@ Díky své konstrukci, inspirované trailovými běžeckými botami, nabízí Sk
 
 ![Hoka Sky Arkali](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.sportgardena.com/media/image/fe/99/57/Hoka-Arkali-Black-Cyan-Citrus-Lateral.jpg)
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Hoka Sky Arkali disponuje řadou inovativních technologií, které ji odlišují od konkurence. Svršek boty je vyroben z vysoce odolného materiálu **MATRYX®**, který kombinuje kevlarová vlákna pro extrémní pevnost a odolnost proti oděru s polyamidovými vlákny pro prodyšnost a pružnost. Tento materiál je zároveň lehký a vodoodpudivý, což přispívá k celkovému komfortu a ochraně nohy.
 
@@ -33,7 +33,7 @@ Podešev **Vibram® Megagrip** s 5mm hlubokými, vícesměrnými výstupky je z�
 
 Výška boty – **vysoký profil** – poskytuje excelentní oporu kotníku, což je klíčové pro stabilitu v náročném terénu a při nošení batohu. Zároveň ale neomezuje přirozený pohyb nohy díky flexibilní konstrukci.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší cena:** Hoka Sky Arkali se řadí mezi dražší modely na trhu, což může být pro některé limitujícím faktorem.
 *   **Specifický design:** Ne každému musí vyhovovat robustní vzhled a výrazné barevné kombinace, které jsou pro Hoka typické.
@@ -41,7 +41,7 @@ Výška boty – **vysoký profil** – poskytuje excelentní oporu kotníku, co
 *   **Šněrování:** Někteří uživatelé hlásí problémy s povolováním tkaniček, což vyžaduje častější utahování.
 * Kompresní vrstva meizpodešve se může poměrně rychle opotřebit.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model             | Hoka Sky Arkali | Salomon X Ultra 4 Mid GTX | La Sportiva TX4 Mid GTX | Scarpa Zodiac Plus GTX |
 | ----------------- | --------------- | ------------------------- | ------------------------ | ---------------------- |
@@ -52,7 +52,7 @@ Výška boty – **vysoký profil** – poskytuje excelentní oporu kotníku, co
 | Určení           | Všestranné      | Turistika, lehký trek  | Technické lezení, přístup | Trek, via ferrata      |
 | Cena             | Vyšší           | Střední                   | Střední                  | Vyšší                  |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Hoka Sky Arkali jsou ideální volbou pro turisty a outdoorové nadšence, kteří hledají univerzální botu pro široké spektrum aktivit. Jsou vhodné pro:
 
@@ -62,7 +62,7 @@ Hoka Sky Arkali jsou ideální volbou pro turisty a outdoorové nadšence, kteř
 *   **Přechody hor s proměnlivým počasím:** Vodoodpudivý svršek a spolehlivá podešev si poradí s různými podmínkami.
 *   **Pro uživatele, kteří chtějí omezit nošení různých typu bot a obout jednu na vícero aktivit.**
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Sky Arkali nemusí být ideální volbou pro:
 
@@ -70,11 +70,11 @@ Sky Arkali nemusí být ideální volbou pro:
 *   **Běžce, kteří hledají čistě běžeckou botu:** Pro běh v terénu existují specializované modely s nižší hmotností a větší flexibilitou.
 *   **Ty, kteří mají omezený rozpočet:** Sky Arkali jsou investicí, která se nemusí vyplatit každému.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Hoka Sky Arkali jsou bezesporu revoluční boty, které boří hranice mezi běžeckou a turistickou obuví. Nabízejí unikátní kombinaci lehkosti, komfortu, stability a ochrany, což z nich dělá skvělou volbu pro široké spektrum outdoorových aktivit. Je to povedený model na pomezí, který skvěle tlumí a zároveň skvěle drží nohu při zátěži i na nestabilním terénu. I přes vyšší cenu a specifický design se jedná o vynikající volbu pro ty, kteří hledají univerzální a výkonnou botu do hor.
 
-### **Hodnocení:** 8/10
+## **Hodnocení:** 8/10
 
 Body strhávám za vyšší cenu a potenciálně omezený teplotní komfort v horkém počasí.
 Plusové body za unikátní hybridní koncept, kvalitní materiály a technologie, i když mají některé své limity, a všestrannost použití.

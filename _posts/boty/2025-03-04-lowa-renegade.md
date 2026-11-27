@@ -23,7 +23,7 @@ Důvodů, proč jsou Lowa Renegade tak oblíbené, je hned několik. Předně, j
 
 ![Lowa Renegade GTX Mid](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://www.kampeerwereld.nl/custom/page/page_content_img/794810/85063_lowa-renegade-gtx-mid-wandelschoen-heren.jpg)
 
-### **Klíčové vlastnosti a jejich zhodnocení**
+## **Klíčové vlastnosti a jejich zhodnocení**
 
 Lowa Renegade GTX Mid se pyšní řadou klíčových vlastností, které přispívají k jejich výkonu a oblíbenosti. Pojďme se na ně podívat podrobněji:
 
@@ -35,14 +35,14 @@ Lowa Renegade GTX Mid se pyšní řadou klíčových vlastností, které přisp�
 *	**Výška boty:** Střední výška (Mid) poskytuje dostatečnou oporu kotníku pro většinu turistických aktivit, ale zároveň neomezuje pohyb.
 *	**Střih a tvar:** Střih a tvar boty vyhovuje velmi dobře většině uživatelů, ale spíše je určen pro uživatele s průměrným až mírně širšícm tvarem nohy.
 
-### **Nevýhody**
+## **Nevýhody**
 
 *   **Vyšší cena:** V porovnání s některými konkurenčními modely je cena Lowa Renegade vyšší. To je dáno kvalitou použitých materiálů a technologiemi.
 *   **Delší doba schnutí:** Kvůli kombinaci kůže a membrány může bota po namočení schnout déle než některé syntetické modely.
 *   **Nedostatečná tuhost pro náročný terén:** Pro velmi náročný terén s těžkým batohem (např. lezení s mačkami) nemusí být Renegade dostatečně tuhé. V takovém případě je lepší zvolit robustnější model, například Lowa Tibet.
 *   **Potenciální přehřívání:** V horkém počasí může být v botách s GORE-TEX membránou tepleji než v botách bez membrány. Model je ale dostupný i ve variantě s kůží uvnitř.
 
-### **Srovnání s konkurencí**
+## **Srovnání s konkurencí**
 
 | Model               | Materiál svršku       | Membrána           | Podešev         | Orientační cena | Hlavní výhody                                                     | Hlavní nevýhody                                                        |
 | ------------------- | --------------------- | ------------------ | --------------- | ---------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ Lowa Renegade GTX Mid se pyšní řadou klíčových vlastností, které přisp�
 | Scarpa Zodiac Plus GTX  | Perwanger kůže       | GORE-TEX           | Vibram® Drumlin | Vyšší            | Velmi odolné, výborná opora, vhodné i do náročnějšího terénu          | Vyšší tuhost, méně univerzální než Renegade, vyšší hmotnost             |
 | Meindl Vakuum GTX | Nubuková kůže        | GORE-TEX           | Meindl Multigrip® | Podobná s Lowa | Velmi pohodlné, kvalitní  MFS Vakuum, precizní obepnutí nohy | Vyšší hmotnost, delší doba potřebná k přizpůsobení se noze |
 
-### **Pro koho jsou tyto boty ideální?**
+## **Pro koho jsou tyto boty ideální?**
 
 Lowa Renegade GTX Mid jsou ideální volbou pro turisty, kteří hledají univerzální, pohodlné a spolehlivé boty pro širokou škálu aktivit. Jsou skvělé pro:
 
@@ -60,14 +60,14 @@ Lowa Renegade GTX Mid jsou ideální volbou pro turisty, kteří hledají univer
 *   **Cestování:** Jsou pohodlné i pro běžné nošení a díky svému univerzálnímu vzhledu se hodí i do města.
 *   **Uživatele s průměrným až širším chodidlem** Lowa vyrábí i variantu "Wide"
 
-### **Kdo by měl zvážit jinou variantu boty?**
+## **Kdo by měl zvážit jinou variantu boty?**
 
 *   **Horolezci a milovníci velmi náročného terénu:** Pro lezení v ledu, pohyb v suťoviscích a vysokohorskou turistiku s těžkým batohem jsou vhodnější pevnější a robustnější boty, například Lowa Tibet, Scarpa Zodiac Plus GTX, případně jiné pohorky.
 *   **Turisté s velmi úzkým chodidlem:** I když Renegade sedí většině lidí, pro velmi úzká chodidla mohou být vhodnější jiné modely, například od značky Salomon.
 *   **Běžci:** Na běhání v terénu je podstatně vhodnější trailová obuv.
 *   **Ti, co preferují nízký střih boty:** Renegade existuje ve variantě "Lo" s nízkým střihem
 
-### **Závěrečné zhodnocení**
+## **Závěrečné zhodnocení**
 
 Lowa Renegade GTX Mid jsou vynikající turistické boty, které si svou popularitu zaslouží. Jsou pohodlné, odolné, spolehlivě voděodolné a vhodné pro širokou škálu aktivit.  I když nepatří mezi nejlevnější, investice do nich se vyplatí, pokud hledáte kvalitní boty, které vám budou sloužit dlouhá léta. Jsou perfektním kompromisem mezi komfortem, stabilitou a universálností.
 

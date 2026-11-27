@@ -23,7 +23,7 @@ Hlavní síla Anacapa Mid GTX spočívá v jejich schopnosti absorbovat nárazy 
 
 ![Hoka Anacapa Mid GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_1110/v1648149684/catalog/images/transparent/1122018-RTOS_4.png?_s=RAABAB0)
 
-### Klíčové Parametry a Technologie
+## Klíčové Parametry a Technologie
 
 Hoka Anacapa Mid GTX se pyšní několika klíčovými technologiemi a parametry, které je odlišují od konkurence. Pojďme se na ně podívat blíže:
 
@@ -33,7 +33,7 @@ Hoka Anacapa Mid GTX se pyšní několika klíčovými technologiemi a parametry
 *   **Podrážka:** Podešev Vibram Megagrip s 5mm vícesměrnými výstupky zajišťuje solidní přilnavost na různých površích, od suchých skal po blátivé stezky. I když nejde o nejagresivnější vzorek, pro běžnou turistiku a lehčí treking je více než dostatečný.
 *   **Výška boty:** Střední výška (Mid) poskytuje dobrou oporu kotníku, což oceníte zejména na nerovném terénu a při nošení batohu. Zároveň není tak omezující jako vysoké pohorky.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší cena:** Hoka boty obecně patří k dražším, a Anacapa Mid GTX nejsou výjimkou.
 *   **Robustní vzhled:** Design je subjektivní záležitost, ale někteří uživatelé mohou považovat Anacapa za příliš mohutné a neohrabané.
@@ -41,7 +41,7 @@ Hoka Anacapa Mid GTX se pyšní několika klíčovými technologiemi a parametry
 *    Méně vhodné pro náročný terén, bota díky měkkému tlumení ztrácí na jistotě v kamenitém terénu.
 *   **Širší střih:** Někteří uživatelé s užšími chodidly mohou mít problém s tím, že jim bota nesedí tak pevně, jak by potřebovali.
 
-### Srovnání s Konkurencí
+## Srovnání s Konkurencí
 
 | Model                      | Hoka Anacapa Mid GTX | Salomon X Ultra 4 Mid GTX | La Sportiva Nucleo High II GTX | Scarpa Zodiac Plus GTX |
 | :------------------------- | :------------------ | :------------------------ | :------------------------------ | :---------------------- |
@@ -53,7 +53,7 @@ Hoka Anacapa Mid GTX se pyšní několika klíčovými technologiemi a parametry
 | **Stabilita**           | Střední              | Dobrá                     | Dobrá                          | Vysoká                  |
 | **Cena**                 | Vyšší               | Střední                  | Střední                       | Vyšší                  |
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Hoka Anacapa Mid GTX jsou ideální volbou pro turisty a cestovatele, kteří:
 
@@ -64,14 +64,14 @@ Hoka Anacapa Mid GTX jsou ideální volbou pro turisty a cestovatele, kteří:
 *   **Chtějí univerzální botu:** Anacapa zvládne jednodenní výlety i vícedenní túry s lehčím batohem.
 *   Rádi chodí delší treky bez ohledu na terén.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 *   **Nároční horalové:** Pokud se chystáte do skalnatého terénu, na via ferraty nebo do náročného vysokohorského prostředí, budete potřebovat boty s tužší podrážkou a lepší ochranou kotníku.
 *   **Běžci:** Anacapa nejsou běžecké boty. Pro trail running zvolte spíše modely určené přímo pro běh v terénu (např. Hoka Speedgoat).
 *   **Lidé s úzkými chodidly:** Pokud máte úzká chodidla, vyzkoušejte si boty pečlivě, případně zvolte model s užším střihem.
 * **Ti, kteří hledají boty do velkého tepla:** I když je obuv vybavena membránou, nehodí se do velkých veder.
 
-### Závěrečné Zhodnocení
+## Závěrečné Zhodnocení
 
 Hoka Anacapa Mid GTX jsou vynikající volbou pro turisty, kteří hledají kompromis mezi pohodlím, ochranou a výkonem. Jejich silnou stránkou je nadstandardní tlumení, které oceníte zejména na dlouhých túrách. I když nejsou ideální pro náročný technický terén, pro běžnou turistiku a lehčí treking poskytují skvělou oporu a spolehlivost. Jejich vyšší cena je vyvážena kvalitou materiálů a zpracování.
 

@@ -1,69 +1,105 @@
 ---
 layout: post
-title: Salomon Quest 4D 3 GTX - Legenda pro náročné treky
+title: 'Salomon Quest 4D 3 GTX: pevná bota na treky s batohem'
+description: 'Salomon Quest 4D 3 GTX a nástupci Quest 4 a Quest 5: vysoká membránová bota pro vícedenní treky s těžším batohem v kamenitém terénu.'
 categories: boty
-model: Salomon Quest 4D 3 GTX
-znacka: "Salomon"
-feature-img: 
+feature-img: ''
 thumbnail: https://www.switchbacktravel.com/sites/default/files/image_fields/field_imgs_inline/Salomon%204D%203%20GTX%20(upper).jpg
+model: Salomon Quest 4D 3 GTX
+znacka: Salomon
 vaha: 640
 tvar: vysoké
-material: Nubuková kůže, Textil, GORE-TEX
-urceni: Dlouhé přechody hor, technicky náročné trasy, dlouhé výlety
-pohlavi: mužské
-pro: Výjimečná stabilita a ochrana kotníku, komfort i při dlouhých túrách, voděodolnost a prodyšnost díky GORE-TEX membráně, odolnost.
-proti: Vyšší váha, delší doba rozšlápnutí, vyšší cena oproti méně technickým modelům, pro někoho mohou být příliš robustní.
+pohlavi: mužské, ženské
+material: nubuková kůže a textil, membrána GORE-TEX, plastový skelet 4D Advanced Chassis, podešev Contagrip, stélka OrthoLite
+urceni: vícedenní treky s těžším batohem, kamenitý a suťový terén, horská turistika v mokru a chladu
+pro: Výborná opora kotníku a stabilita s těžkým batohem, spolehlivá membrána GORE-TEX, přesné šněrování s háčky u kotníku, odolný svršek s gumovou špičkou.
+proti: Vysoká hmotnost, slabá prodyšnost v teple, pomalé schnutí, nejednotné ohlasy na přilnavost na mokré skále, dnes už jen ve zbytcích zásob.
 hodnoceni: 9
+last_modified_at: 2026-11-27
+zdroje:
+- https://www.switchbacktravel.com/reviews/salomon-quest-4d-3-gtx
+- https://backpackers.com/gear/reviews/salomon-quest-4d-3-gtx/
+- https://www.lamarmottegrimpante.fr/test-chaussures-salomon-quest-4d-3gtx/
+- https://www.thepackablelife.com/hiking/gear/reviews/salomon-quest-4d-3-gtx
+- https://www.4camping.cz/p/panska-obuv-salomon-quest-4d-3-gtx/
+- https://rokslide.com/forums/threads/salomon-boots-for-elk-hunting.157403/page-2
+- https://www.zappos.com/product/review/9472034
+- https://www.salomon.com/en-us/product/quest-4-gore-tex-lg4311
+- https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-men/salomon-quest-4-gore-tex
+- https://runrepeat.com/salomon-quest-4-gtx
+- https://www.livefortheoutdoors.com/hiking/walking-boots/salomon-quest-4-gtx-review/
+- https://www.salomon.com/en-us/product/quest-5-gore-tex-li8737
+- https://www.treelinereview.com/gearreviews/salomon-quest-5-gore-tex-hiking-boots-review
+- https://runrepeat.com/salomon-quest-5-gtx
+- https://hikingfeet.com/salomon-quest-5-review/
+- https://hikeheaven.com/salomon-quest-element-gtx-review
+- https://www.salomon.com/en-us/product/quest-4-gore-tex-lg5238
+- https://us.scarpa.com/products/zodiac-plus-gtx-f24
 ---
 
-
-Salomon Quest 4D 3 GTX jsou boty, které si získaly pověst spolehlivého parťáka pro náročné treky a dlouhé přechody hor. Jejich robustní konstrukce, výjimečná stabilita a ochrana nohy v kombinaci s membránou GORE-TEX z nich dělají ideální volbu pro turisty, kteří se nebojí vyrazit do náročného terénu a očekávají od své obuvi maximální výkon a spolehlivost za každého počasí. Dlouhodobá obliba tohoto modelu je dána právě kombinací odolnosti, komfortu a pokročilých technologií, které Salomon do těchto bot vložil.
-
-Obliba tohoto modelu pramení z perfektního vyvážení mezi tuhostí potřebnou pro technické pasáže a pohodlím, které oceníte po celodenním putování s těžkým batohem. Quest 4D 3 GTX nejsou boty pro jednodenní výlety po upravených cestách. Jsou to "pracanti" určení pro vícedenní treky, kde oceníte jejich stabilitu, ochranu a spolehlivost i v nepříznivém počasí. Jsou to boty pro ty, kteří chtějí v horách trávit více času a potřebují obuv, na kterou se mohou spolehnout.
+Salomon Quest 4D 3 GTX je vysoká membránová bota pro vícedenní treky, na kterých nesete plný batoh přes kamení, suť a potoky. Svou pověst si vysloužila oporou kotníku a stabilitou. Switchback Travel ji testoval na náročném okruhu Huemul v Patagonii a označil ji za ideální nástroj právě pro takový terén. Za nás je to specialista: na lehké výlety po upravených cestách bychom si ji nevzali, je na ně zbytečně těžká a tuhá.
 
 ![Salomon Quest 4D 3 GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://images-na.ssl-images-amazon.com/images/I/91HYYw8PNbL._UL1500_.jpg)
 
-### Klíčové Parametry a Technologie
+Kdo dnes hledá „Quest 4D 3“, narazí hlavně na doprodej. Český 4camping ji vede jako vyprodanou a nástupcem je Salomon Quest 4 GTX. V roce 2026 přišel ještě Quest 5 GTX. Proto níže popisujeme i rozdíly mezi generacemi, protože konstrukce je u všech tří velmi podobná.
 
-Salomon Quest 4D 3 GTX se pyšní řadou pokročilých technologií a parametrů, které přispívají k jejich výjimečnému výkonu:
+## Klíčové parametry a technologie
 
-*   **4D Advanced Chassis™:** Tato klíčová technologie je srdcem boty. Jedná se o pevnou, ale zároveň flexibilní platformu mezi podrážkou a mezipodešví, která poskytuje torzní tuhost, stabilitu a kontrolu i v náročném terénu. Chrání kotník a minimalizuje riziko podvrtnutí.
-*   **GORE-TEX Performance Comfort Footwear:** Membrána GORE-TEX zaručuje voděodolnost a zároveň prodyšnost. Vaše nohy zůstanou suché i v dešti nebo při brodění potoků, a zároveň se nebudou přehřívat díky odvodu potu.
-*   **Contagrip® TD:** Podrážka Contagrip® TD je navržena pro maximální trakci a odolnost na různorodém povrchu. Díky optimalizované geometrii a směsi pryže poskytuje skvělou přilnavost na suchém i mokrém terénu, včetně kamení, bláta a sněhu.
-*   **Svršek z Nubukové Kůže a Textilu:** Kombinace odolné nubukové kůže a strategicky umístěných textilních panelů zajišťuje odolnost, prodyšnost a pohodlí. Kůže chrání botu před oděrem a poškozením, zatímco textilní panely zlepšují ventilaci.
-*   **Ochranné Prvky:** Gumová špička a pata chrání botu a nohu před nárazy a oděrem. Zesílené oblasti kolem kotníku poskytují dodatečnou oporu a stabilitu.
-*   **Výška Boty:** Vysoký profil boty poskytuje maximální ochranu kotníku a stabilitu, což je klíčové v náročném terénu a při nošení těžkého batohu.
-*   **Ortholite® Stélka**: Vyjímatelná stélka Ortholite® zlepšuje komfort, odpružení a odvod vlhkosti.
+- **Svršek:** nubuková kůže s textilními panely, gumová obšívka kolem špičky a paty, membrána GORE-TEX.
+- **4D Advanced Chassis:** plastový skelet mezi podešví a mezipodešví, který má držet chodidlo stabilně a přitom nechat nohu přirozeně odvalovat.
+- **Podešev Contagrip:** oproti předchozí Quest 4D 2 je přepracovaná, s řidším vzorkem proti nalepování bláta a měkčí pryží. Francouzský test La Marmotte Grimpante uvádí hrbolky 5 mm.
+- **Šněrování:** háčky v ohybu kotníku umožňují zvlášť dotáhnout patu. Stélka OrthoLite je vyjímatelná.
+- **Hmotnost:** La Marmotte uvádí 1 280 g za pár, Switchback naměřil 1 298 g za pár (pánská velikost US 9) a Backpackers.com 638 g na jednu botu. Počítejte tedy zhruba se 640 g na botu.
 
-### Nevýhody
+**Quest 4 GTX** (2021) má stejnou cenu 230 USD a podle Switchback lehce modernější vzhled a nový skelet ADV-C 4D, který má víc podpírat citlivá místa nohy. Má pohyblivá křidélka Active Support, která přidržují nohu, a konstrukci svršku sensiFIT. Salomon uvádí 1 lb 7 oz (asi 650 g) na botu, Switchback naměřil 1 225 g za pár.
 
-*   **Vyšší Váha:** Robustní konstrukce a použití odolných materiálů se projevuje na vyšší váze boty (cca 640 g). To může být limitující pro někoho, kdo preferuje lehčí obuv.
-*   **Delší Doba Rozšlápnutí:** Kvůli tuhosti a robustnosti vyžadují boty delší dobu na rozšlápnutí, než se plně přizpůsobí noze.
-*   **Vyšší Cena:** Salomon Quest 4D 3 GTX patří do vyšší cenové kategorie, což odráží použití pokročilých technologií a kvalitních materiálů.
-*   **Robustnost:** Pro někoho může být robustnost boty nevýhodou, pokud preferuje lehčí a flexibilnější obuv pro méně náročné aktivity.
+**Quest 5 GTX** (2026) stojí 240 USD a Salomon uvádí 1 lb 5 oz (asi 595 g) na botu. Treeline Review zmiňuje upravený svršek a šněrování s textilními poutky a uvádí, že je jen v pánské verzi. Podle Hiking Feet má jednovrstvou podešev, která řeší problém s odolností starších Questů, a nemá už křidélka Active Support. RunRepeat k tomu dodává, že zásadní změny nepřinesla.
 
-### Srovnání s Konkurencí
+Lehčí a levnější sourozenec **Quest Element GTX** váží podle testu HikeHeaven 1 010 g za pár. Za nižší hmotnost platí menší tuhostí a ochranou.
 
-| Model                      | Váha (g) | Materiál Svršku                  | Membrána   | Podešev         | Zaměření                                  |
-| :-------------------------- | :------- | :----------------------------- | :-------- | :------------- | :---------------------------------------- |
-| **Salomon Quest 4D 3 GTX** | **640**  | **Nubuková kůže, Textil**     | **GORE-TEX** | **Contagrip® TD** | **Dlouhé treky, náročný terén, těžký batoh** |
-| La Sportiva Trango TRK GTX | 590      | Syntetika, 3D Flex System     | GORE-TEX   | Vibram         | Technické treky, Via Ferrata, lezení      |
-| Lowa Renegade GTX Mid       | 555      | Nubuková kůže                 | GORE-TEX   | Vibram         | Univerzální turistika, středně náročný terén |
-| Scarpa Zodiac Plus GTX     | 545      | Perwanger Kůže, S-Tech Fabric | GORE-TEX   | Vibram         | Technické treky, lezení, Via Ferrata      |
+## Výhody
 
-### Pro Koho Jsou Tyto Boty Ideální?
+- Opora kotníku a stabilita s těžkým batohem. Testeři Switchback i Backpackers.com shodně chválí jistotu na volné suti a v sestupech.
+- Spolehlivá membrána. Ve Switchback zůstaly nohy suché i při mnoha brodech, pokud voda nepřetekla přes okraj.
+- Odolnost. La Marmotte nachodila za pět let zhruba 4 000 km bez puchýřů, podešev se ohladila až kolem 3 000 km a botu lze podle testu podrazit podešví Vibram.
+- Pohodlí po krátkém rozchození a dostatek místa pro prsty v sestupech. Majitelé to potvrzují: jeden v recenzi na Zapposu píše, že mu Quest 4D 3 seděla hned po vybalení a byla to nejlepší bota, jakou kdy měl, jiný ji podle svých slov uchodil „na kost“. Na 4campingu má od dvou zákazníků 100 % a jeden ji chválí jako kvalitní a velmi pohodlnou.
 
-Salomon Quest 4D 3 GTX jsou ideální pro zkušené turisty a trekaře, kteří se pohybují v náročném horském terénu, podnikají vícedenní přechody s těžkým batohem a vyžadují od své obuvi maximální oporu, stabilitu a ochranu. Jsou vhodné i pro ty, kteří mají problémy s kotníky a potřebují extra zpevnění.
+## Nevýhody
 
-### Kdo By Měl Zvážit Jinou Variantu Boty?
+- Hmotnost kolem 640 g na botu. Switchback ji řadí k těžším v kategorii.
+- Prodyšnost. La Marmotte jí dala 2 z 5 a namočená bota podle ní během treku neuschne. Na letní treky v teple bychom si ji nevzali.
+- Přilnavost na mokru vychází v testech rozporuplně. Switchback popisuje lepší záběr na mokrém povrchu než u předchůdce, La Marmotte naopak píše o horší adhezi na mokré skále a dřevě a o uklouznutích při sestupu. Za nás: na mokré skále v sestupu s Questem raději zpomalte.
+- Životnost kolísá kus od kusu. Proti pěti letům u La Marmotte stojí hlasy majitelů, kterým boty vydržely krátce. Jeden na fóru Rokslide popisuje, že se mu po necelém roce začaly párat švy a kůže se oddělovala od gumové podešve; Salomon mu po zaslání fotek dal kredit na nový pár. Jiný majitel v recenzi na Zapposu píše, že mu ze tří párů Quest 4D 3 žádný nevydržel dlouho. Proto bychom je kupovali jen u prodejce, který reklamace vyřizuje bez potíží.
+- Drobné vady. The Packable Life popisuje očko u kotníku, které se ulomilo zřejmě po zachycení, La Marmotte upozorňuje na výrazně zúžený střed boty, který nesedne každému. Salomon nenabízí úzkou ani širokou verzi.
 
-*   **Začátečníci:** Pro začínající turisty, kteří se pohybují převážně po upravených cestách, mohou být Quest 4D 3 GTX zbytečně robustní a těžké. Vhodnější volbou by byly lehčí a flexibilnější modely.
-*   **Běžci:** Pro běh v terénu jsou tyto boty nevhodné. Běžci by měli sáhnout po specializované běžecké obuvi.
-*   **Jednodenní výlety:** Na lehké jednodenní výlety po nenáročných trasách jsou Quest 4D 3 GTX zbytečně "předimenzované". Existují lehčí a pohodlnější varianty pro tento typ aktivit.
-*   **Ti, kteří preferují minimalistickou obuv:** Pokud preferujete minimalistickou obuv s tenkou podrážkou a maximální flexibilitou, Quest 4D 3 GTX nebudou pro vás tou pravou volbou.
+## Srovnání s konkurencí
 
-### Závěrečné Zhodnocení
+[Lowa Renegade GTX Mid](/boty/lowa-renegade/) je podle Switchback výrazně lehčí (asi 1 105 g za pár) a Lowa ji nabízí i v úzkém a širokém provedení. Naše recenze ji ale hodnotí jako méně tuhou pro technický terén s těžkým batohem. Pro dlouhé túry s lehčím nákladem a obtížnou nohu bychom zvolili Renegade, pro plný batoh v suti Quest.
 
-Salomon Quest 4D 3 GTX jsou boty, které si zaslouží svůj status legendy. Nabízejí špičkovou kombinaci stability, ochrany, odolnosti a komfortu, která je předurčuje pro náročné treky v horském terénu. I přes vyšší váhu a delší dobu rozšlápnutí, jsou to boty, na které se můžete spolehnout i v těch nejnáročnějších podmínkách. Představují investici, která se milovníkům hor mnohonásobně vrátí.
+[Scarpa Zodiac Plus GTX](/boty/scarpa-quest/) váží podle Switchback asi 1 090 g za pár, podle Scarpy 545 g na botu. Je lehčí a podle naší recenze ji odlišuje šněrování až ke špičce, které dovolí přesně dotáhnout přední část boty. Pokud často chodíte zajištěné cesty a skalní pasáže, sáhli bychom po Zodiacu, na dlouhé treky s plným batohem po Questu.
 
-**Hodnocení:** 9/10 (Body strhávám za vyšší váhu a delší dobu rozšlápnutí, které jsou ale daní za vysokou odolnost a stabilitu.)
+[Tecnica Forge S](/boty/tecnica-forge-s/) je ve stejné třídě vysokých bot na vícedenní treky. Naše recenze u ní vyzdvihuje tepelné tvarování podle nohy, za cenu delšího přizpůsobení. Kdo s Questem nesedne do paty nebo středu chodidla, ať nohu nepřemlouvá a zkusí rovnou ji.
+
+[Salomon X Ultra 4](/boty/salomon-x-ultra/) je nízká a mnohem lehčí, s Gore-Tex ve verzi GTX. Pro snadnější túry bez těžkého batohu doporučuje RunRepeat místo Questu její kotníkovou verzi X Ultra 4 Mid GTX, která je lehčí, ohebnější a levnější.
+
+## Pro koho je ideální?
+
+- Pro vícedenní treky s plným batohem v kamenitém, suťovém nebo blátivém terénu.
+- Pro chladnější a deštivé podmínky, typicky na podzim nebo v horách s častými brody. Live for the Outdoors chválí nástupce Quest 4 právě pro mokré a chladné britské hory.
+- Pro turisty se slabšími kotníky, kteří chtějí vysoký komín a pevné dotažení paty.
+- Pro ty, kdo seženou Quest 4D 3 ve výprodeji ve své velikosti. Jinak bychom vzali Quest 4 GTX, který podle OutdoorGearLab nabízí stejné vlastnosti při nižší hmotnosti.
+
+## Kdo by měl zvážit jinou variantu?
+
+- Kdo chodí jednodenní túry s malým batohem, ušetří stovky gramů s nízkou botou typu Salomon X Ultra 4.
+- Kdo se v létě hodně potí nebo chodí v horku, bude v membránové kožené botě trpět. Testeři to zmiňují u všech generací Questu.
+- Kdo má úzkou nebo naopak širokou nohu, měl by zkusit Lowa Renegade GTX Mid s volbou šířky.
+- Kdo chce lehčí boty pro mírný terén, může zkusit Quest Element GTX, za cenu menší opory.
+- Kdo chodí ferraty a lehké lezení, ocení tužší a přesnější Scarpa Zodiac Plus GTX.
+- Kdo přechází z Quest 4D 3 na nástupce Quest 4, ať si ho nejdřív vyzkouší. Jeden majitel v recenzi na Zapposu píše, že je Quest 4 delší a znatelně užší, jiný, že má tužší podešev a menší háčky na šněrování. U Quest 4 se v recenzích na Zapposu opakuje i odlepování gumové obšívky u špičky od kůže, hlásí ho několik majitelů a jeden dodává, že mu pak boty v dešti začaly propouštět vodu.
+
+## Závěrečné zhodnocení
+
+Za nás je Salomon Quest 4D 3 GTX stále jedna z nejlepších bot na vícedenní treky s těžkým batohem, ale kupte ji jen ve výprodeji a za dobrou cenu. Jinak sáhněte po Quest 4 GTX nebo novém Quest 5 GTX, které mají stejnou koncepci. Doložená stabilita, opora kotníku a membrána, která v testech vydržela roky, převažují nad nevýhodami. Hlavním kompromisem zůstává hmotnost kolem 640 g na botu, slabá prodyšnost a pomalé schnutí. Na mokrou skálu se podle testů nespoléhejte bezvýhradně a kvůli hlasům majitelů o krátké životnosti kupujte tam, kde se dobře reklamuje. Náš verdikt: pro plný batoh v suti koupit, na lehké letní túry ne, tam bychom zvolili X Ultra 4.
+
+**Hodnocení:** 9/10 (výborná stabilita, opora a odolnost pro treky s batohem, hodnocení snižuje hmotnost, slabá prodyšnost a rozporné ohlasy na přilnavost na mokru)

@@ -21,22 +21,22 @@ Gregory Optic 48 a 58 jsou batohy navržené pro lehké a rychlé outdoorové v�
 ![Gregory Amber 44 ](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://attrezzaturatrekking.it/wp-content/uploads/2020/02/Zaino_Gregory_optic_48_5.jpg)
 
 
-### Klíčové parametry
+## Klíčové parametry
 
 Gregory Optic série využívá technologie jako Response A3 zádový systém, který poskytuje vynikající ventilaci a přizpůsobivost. Materiály 100D x 630D Nylon Dobby a Ripstop zajišťují dostatečnou odolnost pro většinu podmínek, i když nejsou ideální pro extrémně drsné prostředí. Batohy nabízejí variabilní uspořádání vnitřních prostorů a boční přístup k hlavnímu oddílu.
 
-### Výhody 
+## Výhody 
 
 - **Lehkost:** S váhou kolem 1160 a 1260 gramů jsou tyto batohy jedny z nejlehčích ve své kategorii.
 - **Ventilace:** Response A3 systém zajišťuje výbornou cirkulaci vzduchu, což je klíčové pro dlouhé treky.
 - **Variabilita:** Možnost přizpůsobení vnitřního uspořádání podle potřeby.
 
-### Nevýhody 
+## Nevýhody 
 
 - **Odolnost:** Materiály nejsou vhodné pro extrémně náročné podmínky.
 - **Kapacita:** Pro velmi těžké náklady může být kapacita nedostatečná.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Parametr          | Gregory Optic 48 | Osprey Exos 48 | Deuter Aircontact Lite 45+10 |
 |-------------------|------------------|----------------|------------------------------|
@@ -46,15 +46,15 @@ Gregory Optic série využívá technologie jako Response A3 zádový systém, k
 | Odolnost          | Střední          | Vysoká         | Vysoká                       |
 | Cena              | Střední          | Vysoká         | Střední                      |
 
-### Pro koho je tento batoh ideální?
+## Pro koho je tento batoh ideální?
 
 Gregory Optic 48 a 58 jsou ideální pro turisty, kteří preferují lehké batohy s dobrou ventilací a variabilitou. Jsou vhodné pro vícedenní treky v mírných až středně náročných podmínkách.
 
-### Kdo by měl zvážit jinou variantu batohu?
+## Kdo by měl zvážit jinou variantu batohu?
 
 Ti, kteří plánují extrémně náročné expedice nebo potřebují nosit velmi těžké náklady, by měli zvážit batohy s vyšší odolností a kapacitou.
 
-### Závěrečné zhodnocení batohu
+## Závěrečné zhodnocení batohu
 
 Gregory Optic 48 a 58 jsou výborné volby pro turisty, kteří hledají lehký a dobře větraný batoh pro středně náročné výpravy. I když nejsou nejodolnější, jejich lehkost a pohodlí z nich dělají oblíbenou volbu mezi outdoorovými nadšenci.
 

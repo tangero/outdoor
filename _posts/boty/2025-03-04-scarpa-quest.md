@@ -22,7 +22,7 @@ Obliba tohoto modelu pramení z kombinace kvalitních materiálů, promyšlené 
 
 ![Scarpa Zodiac Plus GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://assets.trailspace.com/assets/b/3/d/11553597/4809.jpg)
 
-### Klíčové parametry a jejich zhodnocení
+## Klíčové parametry a jejich zhodnocení
 
 Scarpa Zodiac Plus GTX se pyšní řadou klíčových parametrů, které přispívají k jejich výjimečným vlastnostem. Pojďme se na ně podívat detailněji:
 
@@ -36,7 +36,7 @@ Scarpa Zodiac Plus GTX se pyšní řadou klíčových parametrů, které přisp�
 
 *   **Precizní šněrování:** Šněrování až do špičky boty umožňuje precizní utažení a přizpůsobení boty tvaru nohy. Díky tomu bota perfektně sedí a minimalizuje se riziko vzniku puchýřů.
 
-### Nevýhody
+## Nevýhody
 
 *   **Vyšší tuhost:** Zodiac Plus GTX jsou relativně tuhé boty, což je výhodou v náročném terénu, ale nemusí to vyhovovat každému. Pokud preferujete měkčí a poddajnější boty, mohly by pro vás být nepohodlné.
 
@@ -44,7 +44,7 @@ Scarpa Zodiac Plus GTX se pyšní řadou klíčových parametrů, které přisp�
 
 *   **Delší doba rozšlápnutí:** Kvůli své tuhosti a pevnosti vyžadují tyto boty delší dobu na rozšlápnutí. Doporučuje se je před náročnější túrou postupně "rozhýbat" na kratších výletech.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model                             | Scarpa Zodiac Plus GTX | La Sportiva Trango Tech Leather GTX | Salewa MTN Trainer Mid GTX |
 | :-------------------------------- | :--------------------- | :--------------------------------- | :------------------------- |
@@ -56,15 +56,15 @@ Scarpa Zodiac Plus GTX se pyšní řadou klíčových parametrů, které přisp�
 
 Přestože je tabulka jen orientační porovnáním, je vždy dobré si boty osobně vyzkoušet na noze.
 
-### Pro koho jsou tyto boty ideální?
+## Pro koho jsou tyto boty ideální?
 
 Scarpa Zodiac Plus GTX jsou ideální volbou pro zkušené turisty a horaly, kteří se pohybují v náročném terénu, jako jsou kamenité stezky, via ferraty, ledovce nebo lehčí lezecké pasáže. Jsou vhodné pro ty, kteří hledají maximální stabilitu, ochranu a odolnost. Ocení je také ti, kteří podnikají dlouhé přechody s těžkým batohem.
 
-### Kdo by měl zvážit jinou variantu boty?
+## Kdo by měl zvážit jinou variantu boty?
 
 Pokud preferujete lehčí a měkčí boty pro méně náročnou turistiku, Zodiac Plus GTX pro vás nebudou tou nejlepší volbou. Stejně tak, pokud máte citlivější nohy nebo jste náchylní ke vzniku puchýřů, zvažte jiný model s měkčí a poddajnější konstrukcí. Pro začátečníky nebo občasné turisty mohou být tyto boty zbytečně robustní a tuhé.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Scarpa Zodiac Plus GTX jsou vynikající boty pro náročný terén, které poskytují vysokou míru stability, ochrany a odolnosti. Jsou to spolehliví parťáci, na které se můžete spolehnout i v těch nejdrsnějších podmínkách. Jejich vyšší tuhost a váha nemusí vyhovovat každému, ale pro zkušené turisty a horaly představují skvělou volbu.
 

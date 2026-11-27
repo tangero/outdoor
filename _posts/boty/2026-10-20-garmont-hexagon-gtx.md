@@ -28,7 +28,7 @@ Garmont Hexagon GTX je vysoká treková bota určená pro vícedenní túry v te
 
 Zajímavá je hlavně hmotnost. Výrobce uvádí 545 g pro polovinu páru (velikost 8 UK), obchod Inwild uvádí skutečnou hmotnost 573 g (UK 8,5) a Bergfreunde udává 1090 g pro pár střední velikosti. Na botu s vysokým střihem a membránou jde o nižší hodnotu, než u klasických těžších trekových bot.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 *   **Svršek:** Odolná síťovina s vysokou pevností v kombinaci s kůží (výrobce uvádí semiš, jiný obchod ražená kůže) a hydrofobní úpravou bez PFC. Cílem je rovnováha mezi lehkostí, odolností proti oděru a ochranou před počasím.
 *   **Membrána:** Podšívka GORE-TEX ePE bez PFC. Prodejci uvádějí, že obsahuje recyklované složky, je vodotěsná a prodyšná.
@@ -40,7 +40,7 @@ Zajímavá je hlavně hmotnost. Výrobce uvádí 545 g pro polovinu páru (velik
 
 Výrobce hodnotí botu takto (stupnice 1–6): prodyšnost 4, lehkost 5, ochrana 5, podpora 5, tuhost 4. Obtížnost terénu označuje jako EE.
 
-### Výhody
+## Výhody
 
 *   **Nízká hmotnost na svou kategorii:** Vysoká bota kolem 545 g na jednu botu je lehčí než řada klasických trekových modelů.
 *   **Vodotěsnost:** Membrána GORE-TEX ePE a hydrofobní úprava chrání nohu při mokrém počasí.
@@ -50,7 +50,7 @@ Výrobce hodnotí botu takto (stupnice 1–6): prodyšnost 4, lehkost 5, ochrana
 *   **Podpora:** Výrobce hodnotí podporu 5 z 6, tedy vysoko.
 *   **Šetrnější materiály:** Membrána i úprava svršku jsou bez PFC.
 
-### Nevýhody
+## Nevýhody
 
 *   **Cena:** Výrobce uvádí 259,95 €, prodejci nabízejí botu i s výraznou slevou (180,15 €).
 *   **Střední tuhost:** Výrobce hodnotí tuhost 4 z 6, jde tedy o střední úroveň, nikoli o nejtužší konstrukci.
@@ -58,7 +58,7 @@ Výrobce hodnotí botu takto (stupnice 1–6): prodyšnost 4, lehkost 5, ochrana
 *   **Dostupnost a ověření:** V e-shopu výrobce je bota aktuálně vyprodaná a nezávislé dlouhodobé testy nejsou k dispozici, takže o životnosti lze soudit jen z použitých materiálů.
 *   **Pouze pánská verze:** Prodejci ji uvádějí jako pánskou botu.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Hmotnost (g, jedna bota) | Tvar | Materiál | Určení |
 | --- | --- | --- | --- | --- |
@@ -70,15 +70,15 @@ Výrobce hodnotí botu takto (stupnice 1–6): prodyšnost 4, lehkost 5, ochrana
 
 Hexagon GTX je lehčí než Salomon Quest 4D 3 GTX, Tecnica Forge S i Mammut Kento Guide High GTX. Oproti klasickému Garmont Toubkal GTX je výrazně lehčí, ale nemá jeho tuhost a zaměření na zimní podmínky. Z hlediska určení stojí blízko Quest 4D 3 GTX a Forge S, které jsou také určené pro dlouhé přechody s batohem.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 Bota je vhodná pro turisty, kteří chodí vícedenní túry s batohem po technických stezkách a chtějí vysoký střih s vodotěsnou membránou, ale nechtějí nosit těžkou pohorku. Ocení ji ti, kdo hledají tlumení a ochranu špičky při chůzi po kamenitém terénu. Hodí se i pro střední obtížnost horské turistiky, kde záleží na univerzálnosti.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 Pokud plánujete zimní túry nebo náročnější zimní pohyb, hledejte tužší a izolované boty, například Garmont Mountain Guide Pro GTX. Kdo chodí hlavně krátké a rychlé túry v teple, ocení spíš nižší a vzdušnější model. Ženy musí hledat jinou variantu, protože prodejci uvádějí botu jako pánskou. Při hledání jistoty ohledně životnosti stojí za to počkat na dlouhodobé zkušenosti uživatelů.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Garmont Hexagon GTX je dobře vybavená treková bota, která kombinuje vysoký střih, membránu GORE-TEX, tlumení D3O a podešev Vibram Vertex při nižší hmotnosti, než jaká je u vysokých trekových bot běžná. Silnou stránkou je ochrana nohy a lehkost, slabší stránkou střední tuhost, vyšší cena a zatím málo ověřených zkušeností z dlouhodobého užívání. Pro vícedenní treky s batohem jde o velmi dobrou volbu.
 

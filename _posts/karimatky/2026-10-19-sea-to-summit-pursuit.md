@@ -28,7 +28,7 @@ Karimatka **Sea to Summit Pursuit** je první samonafukovací model značky urč
 
 Výrobce ji nabízí ve dvou tvarech: úspornější Contour (mumie) a pohodlnější obdélníkovou verzi, a to ve velikostech Regular a Large. Parametry v tomto textu vycházejí z velikosti **Regular Contour**. Před nákupem proto zkontrolujte, jaká velikost a tvar vám vyhovují, protože hmotnost i rozměry se liší.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** Regular Contour váží 605 g, včetně obalu 630 g. Regular Rectangular Wide má 775 g, Large Contour 730 g a Large Rectangular Wide 1045 g.
 - **Rozměry:** Regular Contour měří 183 × 56 × 5 cm. Doporučená výška uživatele je 183 cm. Large Contour má 198 × 64 × 5 cm.
@@ -38,7 +38,7 @@ Výrobce ji nabízí ve dvou tvarech: úspornější Contour (mumie) a pohodlně
 - **Materiál:** Recyklovaný 20denierový polyester, barvený v hmotě, s certifikací bluesign. Součástí balení je boční stahovací obal a záplatovací sada.
 - **Balení:** Regular Contour se sbalí na 29 × 14 × 14 cm.
 
-### Výhody
+## Výhody
 
 - **Tichý povrch:** Testeři opakovaně oceňují, že materiál nešustí, takže nebudí při otáčení.
 - **Pohodlí na tloušťku 5 cm:** Pěna s vzduchovými kanály působí podle recenzentů měkčeji, než by tloušťka naznačovala. Boční spáč z uživatelských ohlasů si pochvaloval, že ráno necítil bolest boků.
@@ -48,7 +48,7 @@ Výrobce ji nabízí ve dvou tvarech: úspornější Contour (mumie) a pohodlně
 - **Cena:** Jedna recenzentka ji označila za zhruba poloviční oproti oblíbeným nafukovacím modelům Therm-a-Rest NeoAir.
 - **Ohleduplnější výroba:** Recyklovaný materiál, barvení v hmotě a certifikace bluesign.
 
-### Nevýhody
+## Nevýhody
 
 - **Částečné samonafukování:** Dva nezávislé testy uvádějí naplnění na zhruba 65–75 %. Jeden tester musel i po hodině dofouknout pěti nádechy. Někteří kupující hlásí ještě slabší samonafukování a v jednom případě karimatka podle uživatele po 24 hodinách nenaplnila ani 50 %.
 - **Hmotnost:** Na ultralehkou turistiku je těžší, zejména vzhledem k R-faktoru 3.
@@ -57,7 +57,7 @@ Výrobce ji nabízí ve dvou tvarech: úspornější Contour (mumie) a pohodlně
 - **Obsluha ventilu:** Po vyfouknutí je nutné ventil znovu otevřít a vrátit do polohy pro nafukování, aby šel uzavřít. Karimatku je přitom třeba držet stlačenou.
 - **Ušpinění:** Po měsících používání se na povrchu objevily skvrny, které ale neovlivňují funkci.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -69,7 +69,7 @@ Výrobce ji nabízí ve dvou tvarech: úspornější Contour (mumie) a pohodlně
 
 Pursuit je lehčí a tenčí než sourozenec **Sea to Summit Pursuit Plus**, který podle nezávislého měření váží kolem 804 g. Podle výrobce volte Pursuit, pokud je hlavním kritériem hmotnost, a Plus, pokud vám jde víc o pohodlí a izolaci. Proti **Therm-a-Rest Trail Scout** nabízí o 2,5 cm větší tloušťku a při srovnatelném R-faktoru mírně nižší hmotnost. **Therm-a-Rest Trail Lite** je těžší, ale hřeje lépe. Nafukovací **Sea to Summit Ultralight XR Insulated Air** je výrazně lehčí, má vyšší R-faktor a je i silnější (6,5 cm oproti 5 cm), navíc se rychle nafukuje pumpovacím vakem. Pursuit se naproti tomu částečně nafoukne sám a má pěnové jádro, které izoluje i při proděravění.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **turisty a kempaře na tři sezóny**, kteří chtějí tichou a robustní karimatku.
 - Pro **citlivé spáče**, které ruší šustění materiálu.
@@ -77,14 +77,14 @@ Pursuit je lehčí a tenčí než sourozenec **Sea to Summit Pursuit Plus**, kte
 - Pro **auto-kempování** i lehčí treky, kde na pár stovkách gramů nezáleží.
 - Pro **ty, kdo uvažují o samonafukovací karimatce za rozumnou cenu**.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - **Ultralehcí turisté** – existují nafukovací modely s menší hmotností a vyšším R-faktorem.
 - **Zimní a chladnější použití** – R-faktor 3 nestačí, hledejte alespoň R 4.
 - **Ti, kdo chtějí plné samonafukování** – počítejte s dofukováním několika nádechy.
 - **Ti, kteří potřebují hodně tlumit nerovnosti** – někteří uživatelé by uvítali větší tloušťku, pro ně je tu Pursuit Plus.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Sea to Summit Pursuit je pohodlná, tichá a dobře zpracovaná samonafukovací karimatka pro tři sezóny. Silnou stránkou je odolnost, praktický ventil a pocit pohodlí, který překvapí při tloušťce pouhých 5 cm. Slabší stránkou je hmotnost vzhledem k R-faktoru 3, jen částečné samonafukování a objemnější balení. Pro kempování a nenáročné treky je dobrou volbou, pro ultralehkou nebo chladnější turistiku existují vhodnější modely.
 

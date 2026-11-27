@@ -31,7 +31,7 @@ Scarpa Moraine Mid Pro GTX je polovysoká turistická bota z olejovaného nubuku
 
 Nejzajímavější specialitou je zabudovaný reflektor RECCO, který umožňuje záchranářům s příslušným detektorem rychleji lokalizovat ztracenou nebo zraněnou osobu. K tomu přidává odolný svršek, spolehlivou ochranu proti vodě a pevnější podešev, která dává noze stabilitu i na kamenitém terénu. Cenou za to je vyšší tuhost a hmotnost, než jakou mají běžecky laděné boty.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 *   **Svršek:** Olejovaný nubuk Idro v kombinaci se síťovinou. Podle testu LFTO má tloušťku 1,6 až 1,8 mm, doplňují ho odolné textilní panely u jazyka, kolem kotníku a v místě ohybu. Gumová špičková a patní výztuž zvyšují ochranu a odolnost.
 *   **Membrána:** Gore-Tex Bluesign Approved bez úpravy DWR. Jazyk je našitý až k základně kotníku, což společně s membránou omezuje vnikání vody.
@@ -41,7 +41,7 @@ Nejzajímavější specialitou je zabudovaný reflektor RECCO, který umožňuje
 *   **Hmotnost:** Výrobce uvádí 580 g na jednu botu ve velikosti 42. Test LFTO naměřil 555 g.
 *   **Střih:** Střih Activ Fit je vyvíjen zvlášť pro muže a ženy. Podle testů má prostornější předonoží a širší špičku; podle výrobce se velikosti pohybují od 39 do 48.
 
-### Výhody
+## Výhody
 
 *   **Odolnost a ochrana:** Nubukový svršek s gumovou výztuží špičky a paty dobře chrání nohu. Testeři oceňují, že bota působí robustně a pevně.
 *   **Voděodolnost:** Voda z nubuku stéká a podle testerů nepronikla ani při chůzi ve sněhové břečce či brodění potoka.
@@ -50,7 +50,7 @@ Nejzajímavější specialitou je zabudovaný reflektor RECCO, který umožňuje
 *   **RECCO:** Vestavěný reflektor je užitečným doplňkem bezpečnosti, i když test LFTO připomíná, že v Británii zatím většina horských záchranných služeb detektory nemá. Užitečnější je tedy hlavně v Evropě a v zimních oblastech.
 *   **Cena:** Výrobce uvádí 199,95 €, což je přiměřená cena za koženou botu značky Scarpa.
 
-### Nevýhody
+## Nevýhody
 
 *   **Tuhost:** Bota je pevnější a pod nohou působí méně pružně než konkurenční modely. Jeden z testerů ji považoval za příliš nepoddajnou, zejména v hlubším sněhu.
 *   **Hmotnost:** Nejde o lehkou botu pro rychlý pohyb. Testeři ji označují za středně těžkou.
@@ -59,7 +59,7 @@ Nejzajímavější specialitou je zabudovaný reflektor RECCO, který umožňuje
 *   **Mezipodešev:** Podle testu GearJunkie se pěna EVA mezipodešve poměrně snadno poškrábe.
 *   **Střih:** Údaje o šířce se liší. Jedni testeři mluví o standardní šířce, jiní o prostornějším předonoží; boty podle jednoho testu vycházejí spíše menší, proto je vhodné je vyzkoušet.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Tvar | Materiál | Hodnocení |
 | --- | --- | --- | --- |
@@ -73,15 +73,15 @@ S **Hoka Anacapa Mid GTX** a **Lowa Renegade GTX Mid** sdílí Moraine kombinaci
 
 Test LFTO řadí Moraine cenově do blízkosti Salomon Quest 4, AKU Tribute II a Lowa Renegade Mid, takže nejde o nejlevnější volbu. Za cenu dostanete kvalitní zpracování a dvouletou záruku výrobce.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 Bota je určená pro turisty, kteří chtějí jednu botu na jednodenní túry, delší výlety i příležitostné přechody s lehčím batohem. Hodí se pro začátečníky, kteří oceňují oporu, i pro zkušenější chodce, kteří vyžadují pevnější konstrukci. Ocení ji ti, kteří často chodí po kamenitém terénu, v bahně nebo ve sněhu a chtějí ochranu a spolehlivou voděodolnost. Je také dobrou volbou pro ty, kdo se pohybují v oblastech s detektory RECCO.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 Pokud preferujete flexibilní a měkčí botu, nebo hledáte opravdu lehkou botu na rychlý pohyb, vyberte si jiný model. Test LFTO také nedoporučuje Moraine jako specializovanou botu na vícedenní batohování nebo na technicky náročný terén s lezeckými pasážemi. Kdo chce vysoké boty s opravdu pevnou oporou kotníku, bude mít lepší výběr u robustnějších trekových modelů.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Scarpa Moraine Mid Pro GTX je solidně provedená kožená polovysoká bota, která zvládne víc, než naznačuje označení pro začátečníky. Nabízí dobrou trakci, spolehlivou voděodolnost, stabilní podešev a dobré zpracování. Slabinou je vyšší tuhost a nižší flexibilita a také to, že nijak výrazně nevyčnívá. Přesto jde o dobrou volbu pro všestranné turisty za rozumnou cenu, s bonusem v podobě vestavěného reflektoru RECCO.
 

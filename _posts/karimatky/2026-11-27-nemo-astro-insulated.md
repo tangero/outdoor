@@ -29,13 +29,13 @@ Nemo Astro Insulated je nafukovací karimatka pro ty, kdo na túře dávají př
 
 Vyniká pohodlím a odolností. Zaplatíte za ně hmotností a objemem a také nízkým R-faktorem 2,6, takže to není karimatka do chladných nocí.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 Výrobce uvádí tloušťku 3,5 palce, potah ze 75D recyklovaného polyesteru s certifikací bluesign a izolaci Primaloft z recyklovaného materiálu. Syntetická izolace je tišší než fólie, která v jiných karimatkách šustí, ale zvětšuje objem po sbalení. Nafukuje se ventilem Laylow, který je zapuštěný v karimatce a umožňuje jemné dolaďování tvrdosti. Hmotnost výrobce neuvádí. Testeři z OutdoorGearLab karimatku zvážili na 718 g. R-faktor 2,6 uvádí výrobce podle testu a testeři jej v praxi potvrdili. Dostupné jsou velikosti Regular a Long Wide.
 
 U příslušenství se zdroje rozcházejí. Aktuální popis výrobce mluví o pumpovacím vaku Vortex, který má být součástí. V testu z roku 2020 ale vak chyběl a prodával se zvlášť za vysokou cenu. Před koupí proto ověřte, zda ho v dané nabídce dostanete.
 
-### Výhody
+## Výhody
 
 - **Pohodlí:** tloušťka 8,9 cm a vodorovné komory se podle testerů přizpůsobí i nerovnému kořenitému podkladu. Zkoušející uvádějí, že na ní lze bez bolesti podepřít lokty.
 - **Polštářová komora:** drží improvizovaný polštář na místě. Testeři byli zpočátku skeptičtí, pak ji ocenili.
@@ -44,14 +44,14 @@ U příslušenství se zdroje rozcházejí. Aktuální popis výrobce mluví o p
 - **Tichý chod:** izolace Primaloft nešustí tolik jako fólie. Jiný tester ale zmiňuje, že při velkém vrtění může karimatka být slyšet a je trochu pružná, když je podhuštěná.
 - **Záruka:** doživotní.
 
-### Nevýhody
+## Nevýhody
 
 - **Hmotnost a objem:** 718 g je v nafukovací třídě hodně a po sbalení je karimatka širší než láhev o objemu 0,9 l. Uživatel na Redditu popisuje rozdíl proti Sea to Summit Ether Light XR jako obrovský.
 - **Izolace:** R 2,6 stačí do okolí bodu mrazu. Pod ním testeři zaznamenali chlad.
 - **Nafukování:** bez pumpovacího vaku trvá několik minut a točí se z toho hlava. Jeden uživatel napsal, že ji nafoukl za 12 až 15 nádechů, ale šlo o starší, tenčí variantu Lite, takže jeho zkušenost nelze přímo přenést.
 - **Nejasná výbava:** viz výše, pumpovací vak.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 Ceny konkurenčních karimatek nemáme ověřené, proto porovnáváme jen parametry a použití, ne cenovou výhodnost. Astro stojí podle výrobce 112,50 USD (Regular), OutdoorGearLab uvádí doporučenou cenu 140 USD.
 
@@ -68,14 +68,14 @@ Ceny konkurenčních karimatek nemáme ověřené, proto porovnáváme jen param
 
 **Klymit Insulated Static V** je lehčí o asi 40 g a s R 4,4 výrazně teplejší, ale s 6,4 cm i méně měkká. Pro studenější noci bychom zvolili ji.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro turisty na víkendové túry od jara do podzimu, kde se nespí hluboko pod nulou a nezáleží na každém stu gramů.
 - Pro bokospáče, kteří potřebují přes 8 cm tloušťky, aby se nepropadli k zemi.
 - Pro ty, kdo spí na kamenitém či kořenitém podkladu a chtějí odolný 75D potah.
 - Pro autokemping a výlety lake-to-lake, kde objem v batohu tolik nevadí.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - Kdo jde na túru delší než několik dní a hlídá hmotnost: Ether Light XR Insulated je lehčí o asi 190 g.
 - Kdo spí v mrazu nebo na sněhu: R 2,6 nestačí, hledejte karimatku s R-faktorem aspoň kolem 4.
@@ -83,7 +83,7 @@ Ceny konkurenčních karimatek nemáme ověřené, proto porovnáváme jen param
 - Kdo chce minimální balení, protože Astro je objemná.
 - Kdo spí na zádech, nepotřebuje tloušťku přes 8 cm a hledá vyvážené řešení: Therm-a-Rest Venture s 5 cm je o 18 g lehčí, ale srovnatelně studená.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Za nás je Astro Insulated dobrá volba jen pro komfortní třísezónní túry a autokemping, kde nepotřebujete nízkou hmotnost ani teplo pod nulou. Vychází z tloušťky 8,9 cm, ventilu s jemným nastavením, polštářové komory a z dobrých výsledků odolnosti v testu. Hlavním kompromisem je hmotnost 718 g, objemné balení a R-faktor 2,6, takže na dlouhé túry bychom raději vzali Sea to Summit Ether Light XR Insulated. A chybějící či nejasný pumpovací vak je další důvod, proč si před nákupem ověřit obsah balení.
 

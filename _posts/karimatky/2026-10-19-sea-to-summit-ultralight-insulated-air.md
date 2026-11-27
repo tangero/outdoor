@@ -30,7 +30,7 @@ Nafukovací karimatka **Sea to Summit UltraLight Insulated Air** je určená tur
 
 Povrch tvoří buňky Air Sprung Cells, které rozkládají tlak těla, a součástí balení je pumpovací vak, který slouží i jako obal. Testeři oceňují stabilitu, odolnost a velmi povedený ventil. Největší omezení je malá tloušťka, která nejvíc vadí lidem spícím na boku.
 
-### Klíčové parametry a technologie
+## Klíčové parametry a technologie
 
 - **Hmotnost:** Regular 480 g, nabízí se i velikosti X-Small (349 g), Small (430 g) a Large (595 g). Pumpovací vak váží dalších 41 g.
 - **Rozměry:** Regular má 183 × 55 cm, Large 198 × 64 cm. Karimatka se ke chodidlům zužuje.
@@ -41,7 +41,7 @@ Povrch tvoří buňky Air Sprung Cells, které rozkládají tlak těla, a souč�
 - **Příslušenství:** pumpovací vak, sada na opravy a pro uchycení polštáře systém pillow lock.
 - **Ventil:** jednosměrný vícefunkční ventil umožňuje nafukování, rychlé vyfouknutí i jemné doladění tlaku při ležení.
 
-### Výhody
+## Výhody
 
 - **Nízká hmotnost** – 480 g u velikosti Regular a u větších velikostí stále přijatelná váha.
 - **Odolnost** – testeři popisují vyšší odolnost proti oděru a proražení než u mnoha podobných karimatek; jeden z nich ji záměrně položil na štěrkovitý podklad bez poškození.
@@ -51,7 +51,7 @@ Povrch tvoří buňky Air Sprung Cells, které rozkládají tlak těla, a souč�
 - **Kompaktní balení a integrovaný pumpovací vak** – šetří místo i hmotnost.
 - **Antimikrobiální úprava a sada na opravy** v balení.
 
-### Nevýhody
+## Nevýhody
 
 - **Malá tloušťka** – při pohybu nebo při spaní na boku se můžete dotknout země, zvlášť při nižším nafouknutí. Těžší bokospáči mohou pociťovat tlak na boku.
 - **Povrch a hluk** – povrch je mírně gumový a při pohybu může pískat nebo šustit. Tester z diskse uvádí, že pomůže podložení prostěradlem.
@@ -59,7 +59,7 @@ Povrch tvoří buňky Air Sprung Cells, které rozkládají tlak těla, a souč�
 - **Cena** – oficiálně se prodává za 179 USD. Nezávislý test ji považuje za přijatelnou a za dobrou cenu vzhledem k hmotnosti a snadnému ovládání, jeden uživatel ale doporučuje počkat na slevu.
 - **Tvar** – zužující se tvar omezuje rozvalování ve spánku.
 
-### Srovnání s konkurencí
+## Srovnání s konkurencí
 
 | Model | Váha (g) | R-faktor | Tloušťka (cm) | Typ | Hlavní výhody | Hlavní nevýhody |
 |---|---|---|---|---|---|---|
@@ -71,21 +71,21 @@ Povrch tvoří buňky Air Sprung Cells, které rozkládají tlak těla, a souč�
 
 Sea to Summit Ultralight XR Insulated Air je lehčí, tlustší a má vyšší R-faktor, takže je to přirozenější volba pro většinu zájemců. Ether Light XT Insulated váží stejně, ale nabízí dvojnásobnou tloušťku a pohodlí pro bokospáče. UltraLight Insulated Air má smysl hlavně tehdy, když jde o odolnost a dobrý ventil a cena je přijatelná.
 
-### Pro koho je ideální?
+## Pro koho je ideální?
 
 - Pro **turisty spící na zádech nebo na břiše**, kteří chtějí lehkou a pohodlnou karimatku.
 - Pro **třísezónní trekování** od pozdního jara do počátku podzimu.
 - Pro ty, kdo oceňují **odolnost a jednoduché ovládání** včetně pumpovacího vaku.
 - Pro **vyšší postavy** a širší ramena, protože velikost Large je dlouhá 198 cm a široká 64 cm.
 
-### Kdo by měl zvážit jinou variantu?
+## Kdo by měl zvážit jinou variantu?
 
 - **Bokospáči a neklidní spáči** – lepší bude tlustší model, například Sea to Summit Ether Light XT Insulated.
 - **Zmrzlíci a zimní kempování** – R-faktor 3.1 nestačí pro mráz.
 - **Ultralehcí minimalisté** – existují lehčí a teplejší karimatky.
 - **Citliví na hluk** – povrch může šustit a pískat.
 
-### Závěrečné zhodnocení
+## Závěrečné zhodnocení
 
 Sea to Summit UltraLight Insulated Air je odolná, lehká a snadno ovladatelná karimatka pro třísezónní pochody. Nejlépe vyhovuje lidem, kteří spí na zádech a nepotřebují extrémní izolaci. Naopak bokospáči a ti, kdo často spí v chladu, najdou lepší možnosti jinde. Hodnocení je kompromisem mezi výbornou odolností a ventilem a omezeními daným tloušťkou a izolací.
 

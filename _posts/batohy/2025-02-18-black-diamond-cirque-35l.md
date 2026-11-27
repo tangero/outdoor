@@ -21,24 +21,24 @@ Na trhu je ještě menší verze 25 litrů a větší 50 litrů. Obě stojí za 
 
 ![Black Diamond Cirque 35L](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_autohttps://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/2604/62888/bd919d8408370917a35d8eb9db12eb21b0664c64__03408.1721958206.386.513.jpg?c=1)
 
-### 2. Klíčové parametry a technologie  
+## 2. Klíčové parametry a technologie  
 - **Zádový systém VaporRidge:** Nastavitelná délka zadní části (S/M a M/L) pomocí posuvných popruhů, s mřížkovaným ventilačním panelem. Chybí však pevný rám, což omezuje nosnost při zátěži nad 15 kg.  
 - **Materiál:** 420D nylon s TPU laminací zajišťuje odolnost proti oděru a voděodolnost. Švy jsou částečně zatavené.  
 - **Uspořádání:** Horní a spodní přístup k hlavnímu úložnému prostoru, boční kompresní popruhy, přední kapsa na drobnosti s organizérem.  
 - **Technické doplňky:** Horizontální a vertikální úchyty pro cepíny, boční poutka pro hole, integrovaná sněhová pojistka.  
 
-### 3. Výhody  
+## 3. Výhody  
 - **Nízká hmotnost:** 1170 g je výrazně pod průměrem batohů této kategorie (např. Deuter Guide 34+ váží 1450 g).  
 - **Odolnost proti poškození:** TPU laminace chrání před vlhkostí a mechanickým stresem v křivolakém terénu.  
 - **Variabilní úložný prostor:** Odnímatelná hliníková lišta umožňuje přizpůsobit batoh pro přepravu lana nebo skládacích sond.  
 - **Nastavitelný zádový systém:** Vhodný pro široké rozpětí postav (doporučená výška uživatele 165–195 cm).  
 
-### 4. Nevýhody  
+## 4. Nevýhody  
 - **Omezená organizace:** Chybí boční kapsy na láhve nebo vestavěný organizér pro drobné předměty.  
 - **Základní bederní pás:** Tenčí polstrování než u specializovaných turistických batohů (např. Gregory Stout 35), což znepříjemňuje nošení při plném vytížení.  
 - **Absence hydratačního portu:** Hadici musíte vést přes horní část batohu.  
 
-### 5. Srovnání s konkurencí  
+## 5. Srovnání s konkurencí  
 
 | Model                | Hmotnost (g) | Objem (L) | Výhody                                  | Nevýhody                          |  
 |----------------------|--------------|-----------|-----------------------------------------|-----------------------------------|  
@@ -47,14 +47,14 @@ Na trhu je ještě menší verze 25 litrů a větší 50 litrů. Obě stojí za 
 | Deuter Guide 34+     | 1450         | 34        | Pevný rám, boční přístup                | Vyšší hmotnost                    |  
 | Arc'teryx Alpha FL 35| 940          | 35        | Ultra lehký, kompaktní                  | Nízká nosnost (do 12 kg)          |  
 
-### 6. Pro koho je batoh ideální?  
+## 6. Pro koho je batoh ideální?  
 Cirque 35L ocení především skialpinisté, horolezci a turisté vyžadující odolný batoh s možností přepravy technického vybavení. Hodí se pro uživatele, kteří preferují rychlost a jednoduchost před maximálním komfortem.
 
-### 7. Kdo by měl zvážit jinou variantu?  
+## 7. Kdo by měl zvážit jinou variantu?  
 Ti, kdo nosí pravidelně náklady nad 15 kg nebo vyžadují více organizačních kapes (např. pro fotografické vybavení), by měli sáhnout po modelech s pevným rámem – například Deuter Futura 36 nebo Gregory Baltoro 35.
 
-### 8. Závěrečné zhodnocení  
+## 8. Závěrečné zhodnocení  
 Black Diamond Cirque 35L je spolehlivý partner pro náročné horské podmínky. Kombinuje dostatečný objem pro vícedenní túry s technickými detaily, které usnadňují přepravu specializovaného vybavení. Omezení v podobě základního polstrování a absence hydratačního řešení jsou kompromisy za nízkou hmotnost a odolnost.  
 
-### 9. Hodnocení: 8/10  
+## 9. Hodnocení: 8/10  
 Body strhávám za nedostatečnou organizaci a omezený komfort při vysoké zátěži. Naopak oceňuji materiálovou odolnost a variabilitu úchytů, které z batohu dělají univerzálního pomocníka v alpínském terénu.
