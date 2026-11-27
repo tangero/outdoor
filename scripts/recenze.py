@@ -75,6 +75,16 @@ Pravidla:
   („Za nás…“, „Podle nás…“, „My bychom zvolili…“) a vždy ukaž, z jakých faktů vychází.
   Nepřebírej názor testerů bezmyslenkovitě: pokud se jejich zkušenosti navzájem liší
   nebo odporují tvrzením výrobce, řekni to.
+- Redakční hlas drž v celém textu, ne jen v závěru: u výhod i nevýhod řekni, jak moc na nich
+  podle nás záleží, a v oddílech pro koho / pro koho ne piš konkrétně („tohle bychom si nevzali
+  na…“, „na víkend v Krkonoších bychom zvolili…“). Verdikty formuluj jednoznačně, bez
+  „záleží na preferencích“.
+- Zkušenosti majitelů z podkladů (zákaznické recenze e-shopů, diskuse, fóra) převyprávěj
+  konkrétně a lidsky („Několik majitelů v recenzích na REI hlásí, že se po první sezóně
+  odlepuje podrážka.“) a vždy řekni, kde se to píše. Počet uváděj poctivě: jeden hlas je
+  „jeden majitel“, „několik“ až od tří nezávislých hlasů, „většina“ jen když to z podkladů
+  plyne. Zkušenost s jinou generací nebo modelem buď vynech, nebo ji tak výslovně označ.
+  Patří hlavně do oddílů Výhody, Nevýhody a Kdo by měl zvážit jinou variantu.
 - Nezmiňuj, že text vznikl automaticky nebo z rešerše, a neodkazuj na „podklady“.
 - Nezmiňuj interní věci webu: tabulku recenzovaných produktů, rubriku, hodnoticí
   rubriku ani kalibraci hodnocení. Čtenáři můžeš hodnocení v závěru krátce zdůvodnit
@@ -133,6 +143,8 @@ obsahovat redakční verdikt („Za nás…“) a jasně doporučit koupi, koupi
 použití, nebo pojmenovanou alternativu.
 
 Za závažný problém („vysoka“) považuj:
+- zkušenost majitelů bez opory v podkladech, nadsazený počet („několik majitelů“ u jednoho
+  hlasu, „většina“ bez podkladu) nebo zkušenost s jinou generací vydávaná za tento model,
 - tvrzení bez opory, číslo odlišné od zdroje, vymyšlenou osobní zkušenost autora, zmínku
   o automatickém vzniku textu nebo o interních věcech webu (tabulka recenzovaných produktů,
   hodnoticí rubrika, váhy kritérií),
@@ -334,7 +346,8 @@ def research(c: dict, variants: list[str] | None = None) -> tuple[list[dict], li
 
     result_sets = []
     seen = set()
-    for q in (f"{model} review", f"{model} test", f"{model} vs", f"{model} alternatives"):
+    for q in (f"{model} review", f"{model} test", f"{model} vs", f"{model} alternatives",
+              f"{model} owner reviews problems"):
         found = []
         for r in lib.tinyfish_search(q):
             u = r["url"]

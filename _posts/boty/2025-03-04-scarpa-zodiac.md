@@ -28,13 +28,16 @@ zdroje:
 - https://mountainreview.com/en/review/boots-scarpa-zodiac-tech-gtx/
 - https://www.lasportiva.com/en/boots-mountaineering-trango-tech-leather-gtx-man-zfms116
 - https://www.livefortheoutdoors.com/hiking/walking-boots/la-sportiva-trango-tech-leather-gtx-review/
+- https://www.bergfreunde.de/scarpa-zodiac-tech-gtx-bergschuhe-bf-bewertung/
+- https://www.bergfreunde.eu/scarpa-zodiac-tech-gtx-mountaineering-boots-review/
+- https://www.ukclimbing.com/forums/gear/scarpa_zodiac_comparison-789100
 ---
 
-Scarpa Zodiac Tech GTX je hybrid mezi turistickou a horolezeckou botou. Scarpa ji vyvinula pro horské vůdce a záchranáře, kteří potřebují botu na celý den v technickém terénu, do které jde nacvaknout poloautomatické mačky. Hodí se na ferraty, skalní hřebeny, suť a jarní sníh, s plným batohem i bez něj. Na běžné túry po lesních cestách je ale zbytečně tuhá.
+Scarpa Zodiac Tech GTX je hybrid mezi turistickou a horolezeckou botou. Scarpa ji vyvinula pro horské vůdce a záchranáře, kteří potřebují botu na celý den v technickém terénu, do které jde nacvaknout poloautomatické mačky. Za nás je to jedna z nejrozumnějších voleb pro ferraty, skalní hřebeny, suť a jarní sníh, s plným batohem i bez něj. Na běžné túry po lesních cestách bychom si ji ale nevzali, je na ně zbytečně tuhá.
 
 ![Scarpa Zodiac Tech GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://cdn.shoplightspeed.com/shops/602362/files/4622746/scarpa-zodiac-tech-gtx-boot-unisex.jpg)
 
-Lidé často hledají i Zodiac Plus GTX a Zodiac GTX obecně. Plus je podle Scarpy měkčí a ohebnější verze Techu na mírnější horský terén. V roce 2025 přibyla Zodiac Tech LT GTX s textilním svrškem. Rozdíly vysvětlujeme níže.
+Lidé často hledají i Zodiac Plus GTX a Zodiac GTX obecně. Podle Scarpy je Plus měkčí verze Techu na mírnější terén, v roce 2025 přibyla textilní Zodiac Tech LT GTX. Rozdíly a naši volbu vysvětlujeme níže.
 
 ## Klíčové parametry a technologie
 
@@ -49,27 +52,28 @@ Lidé často hledají i Zodiac Plus GTX a Zodiac GTX obecně. Plus je podle Scar
 
 ## Výhody
 
-- Přesnost ve skále. Mountain Review oceňuje úzkou podešev a nízkou hmotnost, které dávají přesné a přirozené kroky na hřebenech, a výraznou patní brzdu v sestupu.
-- Stabilita s těžkým batohem. Switchback ji nosil 16 dní v oblasti Everestu včetně ledových sedel a nezaznamenal žádné podvrtnutí ani otlaky.
-- Odolnost. Po čtyřech měsících v Kanadě a Nepálu byla podle Switchback podešev bez prasklin a kožený svršek jen lehce poznamenaný.
-- Spolehlivá membrána. Ve Switchback i Mountain Review zůstaly nohy suché v potocích i ve sněhu.
-- Mačky. Live for the Outdoors s ní bez problémů nasadila mačky C2.
+- **Přesnost ve skále.** Mountain Review oceňuje úzkou podešev a nízkou hmotnost, které dávají přesné kroky na hřebenech, a výraznou patní brzdu v sestupu. Podle nás je právě tohle hlavní důvod, proč Zodiac Tech kupovat.
+- **Stabilita s těžkým batohem.** Switchback ji nosil 16 dní v oblasti Everestu včetně ledových sedel bez podvrtnutí a otlaků. Jeden majitel na Bergfreunde v roce 2020 popisuje vícedenní horskou túru přes 75 km a 10 000 výškových metrů v nových, nerozchozených botách bez jediného puchýře.
+- **Odolnost.** Na Bergfreunde.de dává botě 23 z 25 hodnotitelů pět hvězd (hodnocení z let 2017–2024, tedy hlavně starší provedení) a nejčastěji ji označují za robustní a s dobrým záběrem. Jeden majitel tam píše, že jeho první Zodiac Tech má šest let, třikrát novou podrážku a dál slouží jako pracovní bota. Jde ale o starší provedení, sám ho odlišuje od nástupce. Možnost nové podrážky považujeme za velké plus.
+- **Spolehlivá membrána.** Ve Switchback i Mountain Review zůstaly nohy suché v potocích i ve sněhu, na Bergfreunde.de ji 18 hodnotitelů označilo za vodotěsnou.
+- **Mačky.** Live for the Outdoors s ní bez problémů nasadila mačky C2. Jeden majitel na Bergfreunde ji s mačkami považuje za použitelnou, na delší stání na předních hrotech by ale chtěl tužší podešev. To odpovídá naší představě: na lehké ledovce ano, na strmý led ne.
 
 ## Nevýhody
 
-- Tuhá a málo tlumená mezipodešev. Switchback ji přirovnává spíš k horolezecké botě a na kratší a méně technické túry bral raději běžecké boty.
-- Slabší záběr na mokrých kořenech a slizkých kamenech v nižších polohách (Switchback).
-- Pod patou se na mokrém terénu a ve sněhu hromadí bláto a sníh (Mountain Review).
-- Kotník. Live for the Outdoors považuje měkký komín za méně opěrný než u klasické horolezecké boty, ve skále je to ale výhoda.
-- Střih vychází v testech rozporuplně. Live for the Outdoors píše o širším střihu, který nesedne každému, Mountain Review o úzké podešvi a přesném obepnutí. Před koupí bychom ji rozhodně zkusili.
+- **Tuhá a málo tlumená mezipodešev.** Switchback ji přirovnává spíš k horolezecké botě a na kratší túry bral běžecké boty. Totéž píše několik majitelů na Bergfreunde v recenzích z let 2019–2021: nohy si na podešev musí zvyknout, na procházku lesem ani na silnici a asfalt se nehodí. U aktuální verze si jeden kupující v e-shopu Scarpy po prvním nošení stěžuje, že je „extrémně tvrdá na holeně“. Za nás jasný signál: na stezky platíte za tuhost, kterou nevyužijete.
+- **Slabší záběr na mokrých kořenech** a slizkých kamenech v nižších polohách (Switchback). Jeden majitel na Bergfreunde naopak chválí záběr i na mokrém povrchu.
+- **Bláto a sníh pod patou.** Na mokrém terénu a ve sněhu se tam hromadí (Mountain Review).
+- **Kotník.** Měkký komín je podle Live for the Outdoors méně opěrný než u horolezecké boty, ve skále je to ale výhoda.
+- **Střih vychází rozporuplně.** Live for the Outdoors píše o širším střihu, Mountain Review o úzké podešvi. Majitelé se neshodují také: na Bergfreunde.de ji jeden v roce 2022 popisuje jako typicky úzkou Scarpu, na Bergfreunde.eu jiný v roce 2026 jako o něco širší než obvyklé Scarpy a v e-shopu Scarpy jeden kupující jako „o chlup širší“. Na fóru UKClimbing jeden majitel přemýšlí, jestli neměl vzít o půl čísla menší. My bychom ji bez vyzkoušení nekupovali.
+- **Vložka.** Jedné majitelce na Bergfreunde přišla na dlouhých túrách tenká a vyměnila ji.
 
 ## Srovnání s konkurencí
 
-[Scarpa Zodiac Plus GTX](/boty/scarpa-quest/) je měkčí a lehčí sestra (545 g proti 680 g na botu). Americký e-shop Scarpy ji vede za běžnou cenu 349 USD, Zodiac Tech GTX za 399 USD. Za příplatek dostanete mačkovatelnou patu a tužší podešev se systémem BAS. Kdo mačky nepotřebuje a chodí hlavně turistické stezky s občasnou skalou, ten bude se Zodiac Plus spokojenější. Na ferraty, sněhová pole a lehký alpinismus bychom brali Tech. Plus je v americkém e-shopu Scarpy v době psaní ve slevě s omezenými zásobami, dostupnost si proto ověřte.
+[Scarpa Zodiac Plus GTX](/boty/scarpa-quest/) je měkčí a lehčí sestra (545 g proti 680 g na botu). Americký e-shop Scarpy ji vede za běžnou cenu 349 USD, Zodiac Tech GTX za 399 USD. Za příplatek dostanete mačkovatelnou patu a tužší podešev se systémem BAS. Naše volba je jednoduchá: kdo mačky nepotřebuje a chodí hlavně stezky s občasnou skalou, vezme Plus. Na ferraty, sněhová pole a lehký alpinismus bychom brali Tech. Plus je v americkém e-shopu Scarpy v době psaní ve slevě s omezenými zásobami, dostupnost si ověřte.
 
-[La Sportiva Trango Tech Leather GTX](/boty/la-sportiva-trango-tech/) míří na stejné použití. Podle Live for the Outdoors váží 640 g na botu, La Sportiva uvádí nubukový svršek, podešev Vibram Cube a vložku pro mačky v patě. Naše recenze u ní zmiňuje užší střih. Kdo má užší nohu a chce o pár desítek gramů lehčí botu, měl by zkusit Trango. Kdo chce kožený svršek se šněrováním ke špičce a gumovou obšívkou dokola, zvolí Zodiac. Ceny obou bot ve srovnatelné podobě ověřené nemáme.
+[La Sportiva Trango Tech Leather GTX](/boty/la-sportiva-trango-tech/) míří na stejné použití. Podle Live for the Outdoors váží 640 g na botu, La Sportiva uvádí nubukový svršek, podešev Vibram Cube a vložku pro mačky v patě. Naše recenze u ní zmiňuje užší střih. Kdo má užší nohu a chce o pár desítek gramů lehčí botu, ať zkusí Trango. Kdo chce kožený svršek se šněrováním ke špičce a obšívkou dokola, zvolí Zodiac. Ceny obou bot ve srovnatelné podobě ověřené nemáme.
 
-[Mammut Kento Guide High GTX](/boty/mammut-kento-guide-high-gtx/) je podle naší recenze také kompatibilní s poloautomatickými mačkami a míří i na zimní treking. Je to rozumná alternativa pro ty, komu Scarpa nesedne tvarem.
+[Mammut Kento Guide High GTX](/boty/mammut-kento-guide-high-gtx/) je podle naší recenze také kompatibilní s poloautomatickými mačkami a míří i na zimní treking. Je to rozumná záloha pro ty, komu Scarpa nesedne tvarem.
 
 ## Pro koho je ideální?
 
@@ -80,13 +84,13 @@ Lidé často hledají i Zodiac Plus GTX a Zodiac GTX obecně. Plus je podle Scar
 
 ## Kdo by měl zvážit jinou variantu?
 
-- Kdo chodí hlavně turistické stezky bez skal a sněhu, vezme měkčí Zodiac Plus GTX nebo jinou turistickou botu.
-- Kdo chodí v létě v teple a nižších polohách. Mountain Review hodnotí tepelný komfort 3 z 5 a Switchback čeká, že v létě bude hřát.
+- Kdo chodí hlavně turistické stezky bez skal a sněhu. Tuhost tu kritizují testeři i několik majitelů, my bychom zvolili měkčí Zodiac Plus GTX nebo jinou turistickou botu.
+- Kdo chodí v létě v teple a nižších polohách. Mountain Review hodnotí tepelný komfort 3 z 5, Switchback čeká, že v létě bude hřát, a podle zákaznického servisu Bergfreunde může být s membránou v létě teplo.
 - Kdo potřebuje botu na zimní lezení nebo do velkého chladu. Mountain Review výslovně píše, že nejde o zimní botu, a Live for the Outdoors ji doporučuje jen na snadné zimní túry.
-- Kdo chce prodyšnější svršek na rychlé přesuny, může zkusit textilní Zodiac Tech LT GTX nebo nízkou nástupovou botu.
+- Kdo chce prodyšnější svršek na rychlé přesuny, ať zkusí textilní Zodiac Tech LT GTX nebo nízkou nástupovou botu.
 
 ## Závěrečné zhodnocení
 
-Za nás je Scarpa Zodiac Tech GTX výborná koupě pro ferraty, skalní terén a lehký letní alpinismus s mačkami, ale na běžnou turistiku ji nekupujte. Tam je pohodlnější a levnější Zodiac Plus GTX. Testeři shodně chválí přesnost, stabilitu, odolnost a membránu, které z ní dělají jednu botu od údolí až na vrchol. Hlavním kompromisem je tuhá a málo tlumená mezipodešev, která na dlouhých stezkách unavuje, a slabší záběr na mokrých kořenech. Kvůli rozporným ohlasům na šířku ji před koupí určitě vyzkoušejte.
+Za nás je Scarpa Zodiac Tech GTX výborná koupě pro ferraty, skalní terén a lehký letní alpinismus s mačkami, ale na běžnou turistiku ji nekupujte. Tam je pohodlnější a levnější Zodiac Plus GTX. Testeři chválí přesnost, stabilitu, odolnost a membránu a majitelé na Bergfreunde ji hodnotí téměř jednohlasně kladně, s opakovanou výhradou k tuhosti mimo hory. Hlavním kompromisem je tuhá a málo tlumená mezipodešev, která na dlouhých stezkách unavuje, a slabší záběr na mokrých kořenech. Kvůli rozporným ohlasům na šířku ji před koupí určitě vyzkoušejte, a pokud vám sedne, je to bota na mnoho sezón.
 
 **Hodnocení:** 8/10 (přesná, odolná a mačkovatelná bota pro technický terén, hodnocení snižuje tuhost a malé tlumení na běžných stezkách a slabší záběr na mokrých kořenech)
