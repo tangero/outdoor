@@ -67,10 +67,10 @@ Výrobce nabízí velikosti Small, Regular a Large. Podle délky těla se vyplat
 | **Sea to Summit Ultralight XR Insulated Air** | **415** | **3.6** | **6.5** | Nafukovací | Nízká váha, rozložení tlaku, odolnost, cena | Nižší izolace, propadání na nerovnostech |
 | Therm-a-Rest NeoAir XLite NXT MAX | 454 | 4.5 | 7.6 | Nafukovací | Vynikající poměr teplo/váha, kompaktní balení, tichý materiál | Vyšší cena, pomalejší nafukování |
 | Sea to Summit Ether Light XT Insulated | 480 | 3.2 | 10 | Nafukovací | Vysoký komfort díky tloušťce 10 cm, nízká hmotnost | Vyšší cena, pomalejší nafukování než u pěnových modelů |
-| Pajak Alpine | 420 | 4.0 | 7 | Nafukovací | Lehká, kompaktní, vysoká izolace | Nutnost opatrného zacházení, vyšší cena |
+| Pajak Alpine | 620 | 6.0 | 6.5 | Nafukovací | Vysoká izolace, mumiový tvar | Nutnost opatrného zacházení, vyšší cena |
 | Klymit Insulated Static V | 680 | 4.4 | 6.4 | Nafukovací | Skvělý poměr izolace a ceny, odolný materiál | Vyšší hmotnost, slabší izolace pro mrazy |
 
-NeoAir XLite NXT MAX nabízí vyšší izolaci a tloušťku, ale podle testů je dražší. Pajak Alpine je s 420 g podobně lehký, má lepší izolaci a stejně jako Ultralight XR vyžaduje opatrné zacházení. Sea to Summit Ether Light XT Insulated je s tloušťkou 10 cm výrazně tlustší, ale má nižší R-faktor 3,2. Klymit Insulated Static V je výrazně těžší.
+NeoAir XLite NXT MAX nabízí vyšší izolaci a tloušťku, ale podle testů je dražší. Pajak Alpine má výrazně vyšší R-faktor 6,0, ale váží podle výrobce 620 g, tedy asi o 200 g víc. Sea to Summit Ether Light XT Insulated je s tloušťkou 10 cm výrazně tlustší, ale má nižší R-faktor 3,2. Klymit Insulated Static V je výrazně těžší.
 
 ## Pro koho je ideální?
 

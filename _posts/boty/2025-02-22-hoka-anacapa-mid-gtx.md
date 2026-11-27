@@ -1,78 +1,94 @@
 ---
 layout: post
-title: "Hoka Anacapa Mid GTX: Pohodlný turista s maximálním tlumením"
+title: "Hoka Anacapa Mid GTX: měkká kotníková bota na udržované stezky"
+description: "Recenze Hoka Anacapa Mid GTX: lehká kotníková bota s výrazným tlumením na denní túry. Co umí, kde slábne a v čem se liší nástupce Anacapa 2."
 categories: boty
 model: "Hoka Anacapa Mid GTX"
 znacka: "Hoka"
 feature-img: 
 thumbnail: https://www.switchbacktravel.com/sites/default/files/images/articles/Hoka%20One%20One%20Anacapa%20Mid%20GTX%20hiking%20boot%20(closeup%20of%20boots).jpg
-vaha: 850
+vaha: 453
 tvar: střední
-material: Nubuková kůže, GORE-TEX membrána
-urceni: Dlouhé výlety, lehčí treking, turistika
-pohlavi: unisex
-pro: "Extrémní pohodlí díky Hoka tlumení, voděodolnost s GORE-TEX, překvapivě lehká konstrukce, stabilní i v lehčím terénu."
-proti: "Vyšší cena, robustní vzhled nemusí vyhovovat všem, méně prodyšné v teplejším počasí, méně vhodné do náročného terénu."
+material: nubuková kůže s certifikací LWG, recyklovaný polyester, membrána GORE-TEX, mezipodešev CMEVA, podešev Vibram Megagrip
+urceni: jednodenní túry, rychlá turistika po udržovaných stezkách, kratší výlety s lehkým batohem
+pohlavi: mužské i ženské
+pro: Výrazné a měkké tlumení, pohodlí bez rozchození, spolehlivá membrána GORE-TEX, nízká hmotnost kolem 450 g na botu, jisté držení paty.
+proti: Velmi nízká prodyšnost, slabě odolný svršek a pěnové plošky podešve, vystupující pata se zachytává o kameny, úzký střih, model se už jen doprodává.
 hodnoceni: 8
+last_modified_at: 2026-11-27
+zdroje:
+- https://www.hoka.com/en/gb/anacapa.html
+- https://runrepeat.com/hoka-anacapa-mid-gtx
+- https://runrepeat.com/hoka-anacapa-2-mid-gtx
+- https://www.switchbacktravel.com/footwear/hoka-anacapa-review
+- https://www.cleverhiker.com/footwear/mens-hoka-anacapa-2-mid-gtx-review/
+- https://www.outdoorgearlab.com/reviews/shoes-and-boots/hiking-boots-womens/hoka-anacapa-2-mid-gtx-womens
+- https://hikingfeet.com/hoka-anacapa-review/
+- https://www.swissmountaineers.ch/news/hoka-one-one-anacapa-mid-gtx
+- https://www.bergfreunde.de/hoka-anacapa-mid-gtx-wanderschuhe-bewertung/
+- https://www.zappos.com/product/review/9874957
+- https://www.footshop.eu/en/mens-shoes/418843-hoka-m-anacapa-2-mid-gtx-sea-moss-oat-milk.html
 ---
 
+Hoka Anacapa Mid GTX je kotníková turistická bota od značky, která se proslavila běžeckými botami s vysokou vrstvou pěny. Na noze se proto chová spíš jako tlumená běžecká bota s límcem nad kotník: má nubukovou kůži, membránu GORE-TEX a podešev Vibram Megagrip. Je určená na jednodenní túry a rychlou turistiku po udržovaných stezkách, ne na skály a těžký batoh.
 
-Hoka Anacapa Mid GTX si rychle získaly popularitu mezi turisty a milovníky outdooru, kteří hledají maximální pohodlí a ochranu na svých cestách. Tyto boty kombinují ikonické Hoka tlumení s voděodolnou konstrukcí, což z nich dělá ideální volbu pro dlouhé výlety a lehčí treking v různorodém počasí. Jejich obliba pramení z nekompromisního zaměření na komfort, který oceníte zejména na dlouhých trasách s batohem, kdy každý krok může být rozdílem mezi příjemným zážitkem a únavou.
-
-Hlavní síla Anacapa Mid GTX spočívá v jejich schopnosti absorbovat nárazy a poskytovat oporu, aniž by byla obětována hmotnost boty. Díky tomu jsou vhodné pro široké spektrum uživatelů, od začínajících turistů po zkušené cestovatele, kteří preferují pohodlí před extrémní technickou výkonností. Je to bota, která vás podpoří na jednodenních výletech i vícedenních túrách, kde oceníte její univerzálnost a spolehlivost.
+Původní Anacapa přišla v roce 2021 a v roce 2023 ji nahradila Anacapa 2 Mid GTX. Ta má podle RunRepeat pevnější pěnu z 30 % z cukrové třtiny, odolnější podšívku v patě, větší gumovou špičku a je těžší: výrobce uvádí 510 g místo 454 g na botu. První generace se dnes prodává hlavně ve zbytcích zásob. Recenze popisuje ji a rozdíly k nástupci uvádí tam, kde jsou doložené.
 
 ![Hoka Anacapa Mid GTX](https://res.cloudinary.com/dvwv5cne3/image/fetch/w_auto,h_450,c_fill,g_auto,f_auto,q_auto/https://dms.deckers.com/hoka/image/upload/f_auto,q_auto,dpr_auto/b_rgb:f7f7f9/w_1110/v1648149684/catalog/images/transparent/1122018-RTOS_4.png?_s=RAABAB0)
 
-## Klíčové Parametry a Technologie
+## Klíčové parametry a technologie
 
-Hoka Anacapa Mid GTX se pyšní několika klíčovými technologiemi a parametry, které je odlišují od konkurence. Pojďme se na ně podívat blíže:
+- **Hmotnost:** výrobce uvádí 453 g na jednu pánskou botu a 384 g na dámskou, velikost neuvádí. RunRepeat naměřil 436 g na botu. Pár váží podle Switchback Travel 2 lb, tedy asi 907 g.
+- **Mezipodešev:** lisovaná EVA (CMEVA) s rozšířenou patou Hubble a houpavým tvarem Meta-Rocker. RunRepeat naměřil 36,7 mm pod patou a 26,1 mm pod špičkou, tedy drop 10,6 mm. Výrobce přitom uvádí 30 a 24 mm, tedy 6 mm.
+- **Měkkost:** pěna má v laboratoři RunRepeat 22,5 HA, je tedy měkčí než průměr turistických bot (28,7 HA). V mrazu ztvrdne o 31 %, víc než průměr.
+- **Podešev:** Vibram Megagrip s výstupky 5 mm (RunRepeat naměřil 4,7 mm). Pod klenbou jsou měkké pěnové plošky bez gumy.
+- **Svršek:** nubuková kůže s certifikací Leather Working Group, recyklovaný polyester v límci, síťovině a tkaničkách, membrána GORE-TEX.
+- **Tvar a tuhost:** RunRepeat ji řadí k užším botám (95,5 mm v nejširším místě proti průměru 101,9 mm) a naměřil o 30 % menší ohybovou tuhost, než je průměr. Široká verze první generace nebyla.
 
-*   **Voděodolnost a prodyšnost:** Membrána GORE-TEX zajišťuje, že vaše nohy zůstanou suché i v mokrých podmínkách, ať už jde o déšť, rosu nebo brodění potoků. Zároveň umožňuje určitou míru prodyšnosti, i když v teplejším počasí se může noha více potit.
-*   **Tlumení:** Zde Hoka exceluje. Mezipodešev z EVA pěny s charakteristickým Hoka tvarem a geometrií poskytuje nadstandardní tlumení nárazů. Technologie Meta-Rocker pomáhá plynulému přechodu z paty na špičku a zlepšuje efektivitu chůze.
-*   **Svršek:** Svršek boty je vyroben z kombinace odolné nubukové kůže s certifikací Leather Working Group a lehčích syntetických materiálů. Tato kombinace poskytuje dobrou rovnováhu mezi odolností, ochranou a hmotností.
-*   **Podrážka:** Podešev Vibram Megagrip s 5mm vícesměrnými výstupky zajišťuje solidní přilnavost na různých površích, od suchých skal po blátivé stezky. I když nejde o nejagresivnější vzorek, pro běžnou turistiku a lehčí treking je více než dostatečný.
-*   **Výška boty:** Střední výška (Mid) poskytuje dobrou oporu kotníku, což oceníte zejména na nerovném terénu a při nošení batohu. Zároveň není tak omezující jako vysoké pohorky.
+## Výhody
+
+- **Tlumení a pohodlí hned z krabice:** RunRepeat ji označuje za nejlepší volbu pro toho, kdo chce na denní túry botu s pocitem běžecké boty. Autor webu Hikingfeet v ní podle svých slov nachodil kolem 640 km a kotník si nevyvrtl. Na Bergfreunde hodnotí botu 44 zákazníků průměrem 4,3 z 5. Jako pohodlnou ji označilo 32 z nich a stejný počet jako lehkou. Jeden majitel tam po zhruba 180 km píše, že je lehká, pohodlná a dobře drží.
+- **Nepromokavost:** RunRepeat popisuje brody a kaluže jako „hračku“ a jako nepromokavou ji na Bergfreunde označilo 27 hodnotících. Opačnou zkušenost tam uvedl jeden.
+- **Přilnavost na stezce:** Swiss Mountaineers chválí Megagrip na kamenech, v blátě i na suchu. Hikingfeet ji zvládl na suti a mokrých balvanech. RunRepeat je opatrnější: na mokré žule mu bota trochu klouzala.
+- **Držení paty:** pevnost patního opěru hodnotí RunRepeat 4 z 5 a mluví o velmi jistém držení paty.
+- **Nízká hmotnost s membránou:** kotníková bota s GORE-TEXem kolem 450 g na kus patří k lehčím. Za nás je to hlavní důvod, proč ji brát místo klasické pohorky na dlouhé dny po lesních cestách.
 
 ## Nevýhody
 
-*   **Vyšší cena:** Hoka boty obecně patří k dražším, a Anacapa Mid GTX nejsou výjimkou.
-*   **Robustní vzhled:** Design je subjektivní záležitost, ale někteří uživatelé mohou považovat Anacapa za příliš mohutné a neohrabané.
-*   **Prodyšnost v teple:** Ačkoliv GORE-TEX membrána pomáhá s odvodem vlhkosti, v teplejším počasí se může noha v botě více potit.
-*    Méně vhodné pro náročný terén, bota díky měkkému tlumení ztrácí na jistotě v kamenitém terénu.
-*   **Širší střih:** Někteří uživatelé s užšími chodidly mohou mít problém s tím, že jim bota nesedí tak pevně, jak by potřebovali.
+- **Prodyšnost:** prodyšnosti dal RunRepeat 1 z 5 a o odvětrání píše, že prakticky neexistuje. Do letního horka bychom ji nebrali. Hoka pro teplo nabízí verzi Anacapa Breeze bez membrány.
+- **Odolnost svršku a podešve:** odolnost špičky dostala v testu RunRepeat 1 z 5, protože brusný kotouč do ní za 12 sekund udělal díru. Polstrování paty dostalo 2 z 5. Swiss Mountaineers si po několika měsících všiml opotřebení měkké šedé pěny uprostřed podešve. Na Bergfreunde označili botu za málo robustní tři hodnotící a jeden popisuje, že se mu po druhé túře vytrhlo očko a po deseti měsících se odlepila podrážka.
+- **Háčky a jazyk:** dva majitelé na Bergfreunde si stěžují, že kovová destička s háčky šněrování tlačí do kotníku, protože pod ní chybí polstrování, a jeden z nich botu vrátil. Swiss Mountaineers vadí velmi tenký jazyk při pevném utažení na sestupu. Puchýře uvádí jako nevýhodu pět hodnotících na Bergfreunde.
+- **Vystupující pata:** prodloužená pata se podle RunRepeat i Swiss Mountaineers zachytává o kameny a kořeny.
+- **Nízký límec vzadu:** membrána nejde do plné výšky límce, takže při hlubším brodu nateče voda dřív než u jiných bot.
+- **Stabilita s batohem:** RunRepeat ji nedoporučuje s batohem nad 30 lb (asi 14 kg). Jeden majitel na Bergfreunde ji na Alpy výslovně nedoporučuje, podle něj jí chybí stabilita.
 
-## Srovnání s Konkurencí
+## Srovnání s konkurencí
 
-| Model                      | Hoka Anacapa Mid GTX | Salomon X Ultra 4 Mid GTX | La Sportiva Nucleo High II GTX | Scarpa Zodiac Plus GTX |
-| :------------------------- | :------------------ | :------------------------ | :------------------------------ | :---------------------- |
-| **Hmotnost (pár)**        | 850g                | 840g                     | 990g                           | 1090g                   |
-| **Tlumení**               | Velmi vysoké         | Střední                  | Střední                       | Střední                 |
-| **Určení**                | Lehký trek, turistika  | Lehký trek, turistika     | Lehký trek, turistika          | Technický trek, via ferrata |
-| **Voděodolnost**         | GORE-TEX             | GORE-TEX                  | GORE-TEX                       | GORE-TEX                |
-| **Přilnavost**          | Dobrá                | Velmi dobrá              | Dobrá                          | Velmi dobrá             |
-| **Stabilita**           | Střední              | Dobrá                     | Dobrá                          | Vysoká                  |
-| **Cena**                 | Vyšší               | Střední                  | Střední                       | Vyšší                  |
+**Anacapa Mid GTX proti nástupci Anacapa 2 Mid GTX.** RunRepeat dává první generaci 81 bodů a druhé 87. Dvojka má podle Switchbacku větší gumovou špičku a méně pěnových plošek pod klenbou, podle RunRepeat odolnější podšívku paty a nově i širokou verzi. Platí za to hmotností (podle Switchbacku 2 lb 4 oz za pár proti 2 lb) a pevnější pěnou. RunRepeat uvádí v USA ceny 185 USD za jedničku a 195 USD za dvojku. Jeden majitel obou generací na Zapposu píše, že první měla víc tlumení a výraznější houpavý krok, zato mu byla úzká ve špičce. České majitelce na Footshopu přijde úzká i dvojka. Za nás: kdo chce co nejměkčí došlap, ať hledá jedničku ve slevě. Kdo chodí víc po kamení, vezme raději dvojku kvůli lepší ochraně špičky.
 
-## Pro koho jsou tyto boty ideální?
+**Salomon X Ultra 4** je nízká bota s pevnějším podvozkem a slabším tlumením. Na terén mimo stezky nebo na batoh nad 30 lb ji místo Anacapy doporučuje RunRepeat, u Anacapy 2 jmenuje kotníkovou X Ultra 4 Mid GTX. X Ultra 4 bychom zvolili na kamenité stezky, Anacapu na dlouhé kilometry po lesních a štěrkových cestách.
 
-Hoka Anacapa Mid GTX jsou ideální volbou pro turisty a cestovatele, kteří:
+**Salomon Quest 4D 3 GTX** a **Lowa Renegade GTX Mid** jsou klasičtější kotníkové boty s pevnější oporou. Switchback výslovně píše, že Anacapu nikdo nesplete s robustními botami typu Lowa Renegade nebo Salomon Quest. S těžkým batohem na vícedenní trek bychom zvolili Quest.
 
-*   **Hledají maximální pohodlí:** Pokud je pro vás prioritou komfort na dlouhých túrách, Anacapa vás nezklamou.
-*   **Preferují lehčí treking a turistiku:** Tyto boty se nejlépe hodí na upravené stezky a méně náročný terén.
-*   **Potřebují voděodolnou ochranu:** GORE-TEX membrána udrží vaše nohy v suchu i v nepříznivém počasí.
-*   **Mají širší chodidla:** Střih Hoka bot je obecně prostornější, což vyhovuje uživatelům s širšími chodidly.
-*   **Chtějí univerzální botu:** Anacapa zvládne jednodenní výlety i vícedenní túry s lehčím batohem.
-*   Rádi chodí delší treky bez ohledu na terén.
+**Hoka Sky Kaha GTX** je robustnější kožená bota stejné značky se stejnou filozofií tlumení. Za nás dává smysl tomu, komu Anacapa přijde málo pevná a nechce odejít od tlumení Hoka.
 
-## Kdo by měl zvážit jinou variantu boty?
+## Pro koho je ideální?
 
-*   **Nároční horalové:** Pokud se chystáte do skalnatého terénu, na via ferraty nebo do náročného vysokohorského prostředí, budete potřebovat boty s tužší podrážkou a lepší ochranou kotníku.
-*   **Běžci:** Anacapa nejsou běžecké boty. Pro trail running zvolte spíše modely určené přímo pro běh v terénu (např. Hoka Speedgoat).
-*   **Lidé s úzkými chodidly:** Pokud máte úzká chodidla, vyzkoušejte si boty pečlivě, případně zvolte model s užším střihem.
-* **Ti, kteří hledají boty do velkého tepla:** I když je obuv vybavena membránou, nehodí se do velkých veder.
+- Pro jednodenní túry po udržovaných stezkách, lesních a štěrkových cestách, kde oceníte měkký došlap.
+- Pro ty, kdo chodí rychle a chtějí botu s pocitem běžecké boty a límcem nad kotník.
+- Pro mokré jaro a podzim, kdy se hodí membrána GORE-TEX a nehrozí přehřátí.
+- Pro užší až normální nohu s potřebou pevně držené paty.
 
-## Závěrečné Zhodnocení
+## Kdo by měl zvážit jinou variantu?
 
-Hoka Anacapa Mid GTX jsou vynikající volbou pro turisty, kteří hledají kompromis mezi pohodlím, ochranou a výkonem. Jejich silnou stránkou je nadstandardní tlumení, které oceníte zejména na dlouhých túrách. I když nejsou ideální pro náročný technický terén, pro běžnou turistiku a lehčí treking poskytují skvělou oporu a spolehlivost. Jejich vyšší cena je vyvážena kvalitou materiálů a zpracování.
+- Kdo míří na skály, suť a do Alp s těžším batohem. Tady bychom zvolili Salomon Quest 4D 3 GTX nebo jinou tužší botu, což potvrzuje i majitel z Bergfreunde.
+- Kdo má širokou nohu. Původní Anacapa je podle měření RunRepeat užší a ve špičce úzká připadá majitelům na Zapposu i na Footshopu.
+- Kdo chodí hodně v létě: membrána s nubukem hřeje a bez membrány je jen verze Breeze.
+- Kdo chce botu na řadu sezón. Svršek a pěnové plošky podešve patří podle testů i majitelů k slabým místům.
+- Kdo má citlivý nárt nebo kotník, ať si botu před koupí vyzkouší kvůli háčkům šněrování.
 
-**Hodnocení:** 8/10 (Body strhávám za vyšší cenu, robustnější vzhled a menší prodyšnost v teplém počasí. Body přidávám za vynikající tlumení, voděodolnost, solidní přilnavost a univerzálnost pro lehčí treking a turistiku.)
+## Závěrečné zhodnocení
+
+Za nás je Hoka Anacapa Mid GTX velmi pohodlná a lehká bota pro jednodenní túry po udržovaných stezkách, kde její měkké tlumení šetří nohy i kolena. Membrána v testech i podle většiny hodnotících na Bergfreunde vodu nepouští a pata drží jistě. Hlavní kompromisy jsou nízká prodyšnost, slabě odolný svršek a pěnová část podešve, úzký střih a vystupující pata, která v kamení překáží. Náš verdikt: koupit ve slevě na denní túry a pohodlnou chůzi, ne na technický terén a těžký batoh. Kdo chce víc ochrany špičky, ať sáhne po Anacapa 2.
+
+**Hodnocení:** 8/10 (výborné tlumení, pohodlí a nepromokavost při nízké hmotnosti, body strhává nízká prodyšnost, slabší odolnost a omezená stabilita v technickém terénu)

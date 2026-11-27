@@ -66,8 +66,8 @@ Ventil **XPRESS** má jednosměrný vstup pro nafukování, velký výpustný ot
 | **Sea to Summit Ether Light XR Insulated** | **525** | **4.1** | **10** | Nafukovací | Velmi pohodlná, odolná, integrovaný pumpovací vak | Vyšší hmotnost než ultralehké modely |
 | Sea to Summit Ether Light XT Insulated | 480 | 3.2 | 10 | Nafukovací | Vysoký komfort díky tloušťce 10 cm, velmi nízká hmotnost a skladnost | Vyšší cena, pomalejší nafukování než u pěnových modelů |
 | Therm-a-Rest NeoAir XLite NXT MAX | 454 | 4.5 | 7.6 | Nafukovací | Vynikající poměr teplo/váha, kompaktní balení, tichý materiál | Vyšší cena, pomalejší nafukování, omezená odolnost na členitém terénu |
-| Pajak Alpine | 420 | 4.0 | 7 | Nafukovací | Lehká, kompaktní, vysoká izolace | Nutnost opatrného zacházení, vyšší cena |
-| Klymit Insulated Static V | 680 | 4.4 | 6.4 | Nafukovací | Skvělý poměr izolace a ceny, vysoký komfort | Vyšší hmotnost, slabší izolace pro extrémní mrazy |
+| Pajak Alpine | 620 | 6.0 | 6.5 | Nafukovací | Vysoká izolace, mumiový tvar | Nutnost opatrného zacházení, vyšší cena |
+| Klymit Insulated Static V | 680 | 1.9 | 6.4 | Nafukovací | Skvělý poměr izolace a ceny, vysoký komfort | Vyšší hmotnost, slabší izolace pro extrémní mrazy |
 
 Oproti předchůdci Ether Light XT Insulated nabízí XR vyšší R-faktor, a podle testů je i menší po sbalení a tišší. Oproti Therm-a-Rest NeoAir XLite NXT MAX je XR podle testů pohodlnější, ale těžší a o něco méně hřejivá. Nezávislé testy ji také srovnávají s karimatkou NEMO Tensor All-Season, která je lehčí a výrazně hřejivější, zatímco XR je o něco pohodlnější a širší.
 
@@ -81,7 +81,7 @@ Oproti předchůdci Ether Light XT Insulated nabízí XR vyšší R-faktor, a po
 
 ## Kdo by měl zvážit jinou variantu?
 
-- Kdo počítá každý gram a hledá **nejlehčí karimatku** – lehčí jsou například NeoAir XLite NXT MAX či Pajak Alpine.
+- Kdo počítá každý gram a hledá **nejlehčí karimatku** – lehčí je například NeoAir XLite NXT MAX.
 - Kdo potřebuje **zimní karimatku** – R-faktor 4.1 je pro trvalé mrazy a kempování na sněhu málo; výrobce uvádí, že vyhovuje do podmínek, kdy se může objevit silný mráz na zemi, a vhodnější je například NeoAir XTherm NXT.
 - Kdo **spí hodně nastudena** a plánuje použití pod prostěradlo nebo quilt kolem bodu mrazu.
 - Kdo nesnáší **hladký, mírně lepivý povrch**.
