@@ -56,13 +56,13 @@
       }
     },
     "2026-W48": {
-      "usd": 1.42403,
-      "volani": 32,
+      "usd": 1.42448,
+      "volani": 33,
       "polozky": {
         "recenze-psani": 0.3909,
         "recenze-kontrola": 0.09038,
         "recenze-oprava": 0.68955,
-        "trideni": 0.00311,
+        "trideni": 0.00356,
         "novinka": 0.2501
       }
     }
